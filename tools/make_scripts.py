@@ -86,16 +86,17 @@ def run_claude(prompt, allow_tools="Read,Write", turns=20, timeout=CLAUDE_TIMEOU
 
 
 def limit_hit(out):
-    return bool(re.search(r"(usage limit|rate.?limit|limit reached|5-hour|5 hour|try again later|overloaded)",
+    return bool(re.search(r"(session limit|usage limit|rate.?limit|limit reached|"
+                          r"resets?\s+\d{1,2}:\d{2}|5[- ]hour|try again later|overloaded)",
                           out, re.I))
 
 
 def wait_out_limit(out):
     """Sleep until Claude's limit resets; fall back to 45 minutes."""
-    m = re.search(r"reset[s]? at (\d{1,2})(?::(\d{2}))?\s*(am|pm)", out, re.I)
+    m = re.search(r"reset[s]?\s*(?:at)?\s*(\d{1,2})(?::(\d{2}))?\s*(am|pm)?", out, re.I)
     minutes = 45
-    if m:
-        h, mi, ap = int(m.group(1)), int(m.group(2) or 0), m.group(3).lower()
+    if m and (m.group(3) or m.group(2)):
+        h, mi, ap = int(m.group(1)), int(m.group(2) or 0), (m.group(3) or "").lower()
         if ap == "pm" and h != 12:
             h += 12
         if ap == "am" and h == 12:
@@ -179,19 +180,22 @@ def main():
 
         attempt = 0
         while True:
-            attempt += 1
-            log(f"Ep {n} ({meta['title']}): claude attempt {attempt} starting")
-            status(state="writing", episode=n, title=meta["title"], attempt=attempt)
+            log(f"Ep {n} ({meta['title']}): claude attempt {attempt + 1} starting")
+            status(state="writing", episode=n, title=meta["title"], attempt=attempt + 1)
             rc, out_txt, err = run_claude(prompt)
             if err == "timeout":
                 log(f"Ep {n}: claude timed out after {CLAUDE_TIMEOUT}s")
                 continue
-            if rc != 0 and limit_hit(out_txt):
+            # usage/session limit: wait it out without burning an attempt
+            if limit_hit(out_txt) and validate(out) is not None:
+                log(f"Ep {n}: claude blocked — {out_txt.strip().splitlines()[0][:160] if out_txt.strip() else 'no output'}")
                 wait_out_limit(out_txt)
                 continue
-            if limit_hit(out_txt) and not os.path.exists(out):
-                wait_out_limit(out_txt)
-                continue
+            attempt += 1
+            status(state="writing", episode=n, title=meta["title"], attempt=attempt)
+            if rc != 0:
+                snippet = out_txt.strip().splitlines()[0][:200] if out_txt.strip() else "(empty)"
+                log(f"Ep {n}: claude rc={rc} — {snippet}")
             reason = validate(out)
             if reason is None:
                 words = len(re.sub(r"[|#*]", " ",

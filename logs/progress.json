@@ -1,8 +1,16 @@
 {
-  "state": "script-ready",
-  "episode": 5,
-  "title": "Through the Ages",
-  "attempt": 1,
-  "updated": "2026-10-12 23:32:44",
-  "words": 7032
+  "state": "incomplete",
+  "episode": 10,
+  "title": "Ahmadnagar Fort Again",
+  "attempt": 3,
+  "updated": "2026-10-12 23:33:34",
+  "words": 7032,
+  "reason": "file was not written",
+  "remaining": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
 }

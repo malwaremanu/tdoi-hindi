@@ -1,0 +1,9 @@
+# audio artefacts — regenerated, not committed
+*.wav
+*.mp3
+*.flac
+_norm/
+*.log
+__pycache__/
+*.pyc
+nohup.out

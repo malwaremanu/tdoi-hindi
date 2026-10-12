@@ -1,10 +1,10 @@
 {
-  "state": "incomplete",
-  "episode": 10,
-  "title": "Ahmadnagar Fort Again",
-  "attempt": 3,
-  "updated": "2026-10-12 23:33:34",
-  "words": 7032,
+  "state": "script-ready",
+  "episode": 6,
+  "title": "New Problems",
+  "attempt": 1,
+  "updated": "2026-10-13 01:36:50",
+  "words": 4814,
   "reason": "file was not written",
   "remaining": [
     6,
@@ -12,5 +12,6 @@
     8,
     9,
     10
-  ]
+  ],
+  "minutes": 112
 }

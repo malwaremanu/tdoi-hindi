@@ -1,0 +1,68 @@
+{
+ "narration_rms": -17.0,
+ "narration_peak": -1.4,
+ "mixed_rms": -16.3,
+ "mixed_peak": -0.0,
+ "cues": [
+  {
+   "name": "c1",
+   "gain": -3.9
+  },
+  {
+   "name": "c2",
+   "gain": -3.9
+  },
+  {
+   "name": "c3",
+   "gain": -2.8
+  },
+  {
+   "name": "c4",
+   "gain": 10.0
+  },
+  {
+   "name": "c5",
+   "gain": 0.3
+  },
+  {
+   "name": "c6",
+   "gain": 10.0
+  },
+  {
+   "name": "c7",
+   "gain": 10.0
+  },
+  {
+   "name": "c8",
+   "gain": 10.0
+  },
+  {
+   "name": "c9",
+   "gain": -7.1
+  },
+  {
+   "name": "c10",
+   "gain": -3.8
+  },
+  {
+   "name": "c11",
+   "gain": -4.9
+  },
+  {
+   "name": "c12",
+   "gain": 0.0
+  },
+  {
+   "name": "c13",
+   "gain": -15.0
+  },
+  {
+   "name": "c14",
+   "gain": -0.1
+  },
+  {
+   "name": "c15",
+   "gain": -0.1
+  }
+ ]
+}

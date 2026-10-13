@@ -1,300 +1,583 @@
 # Ep 2: Badenweiler, Lausanne — Script
 
-Oct 12, 2026 · @Manupal Choudhary
+Oct 13, 2026 · @Manupal Choudhary
 
 ## Episode info
 
-Ye script Chapter 2, "Badenweiler: Lausanne", ke chhahon sub-sections ko apne shabdon mein cover karti hai. Lambai lagbhag 4,000 shabd hai, yaani kareeb 28-30 minute ka audio (andaaza, gina nahi hai).
+Ye script Chapter 2, "Badenweiler: Lausanne", ke chhahon sub-sections ko apne shabdon mein cover karti hai. Is baar kahani dheere kahi gayi hai: kam tathya, zyada drishya, aur beech mein Kamala. Lambai lagbhag 4,500 shabd hai, yaani kareeb 30-33 minute ka audio (andaaza, gina nahi hai).
 
-- Original ka koi sentence use nahi hua. Jahan Nehru kisi resolution ya kitaab ki dedication ka zikr karte hain, wahan sirf uska bhaav apne shabdon mein hai.
+- Original ka koi sentence use nahi hua. Nehru ki apni baat sirf reported speech mein hai, apne shabdon mein.
 - Kram apna hai: shuruaat Cairo ke baad registaan ke upar wali udaan se hoti hai, jo book mein chapter ke bilkul aakhir mein aati hai.
+- Kuch tathya jaan-boojhkar chhode gaye hain, taaki har pal ko poori jagah mile. Jahan mahaul ki kalpana ki gayi hai, wahan script khud "shayad" ya "sochiye" kehti hai.
 
 * [x] Narration: Asha. Podcast: "The Discovery of India, Hindi mein".
 
 | Book ka sub-section | Script mein kahan |
 | --- | --- |
-| Kamala | Part 1 |
-| Our Marriage and After | Part 2 |
-| The Problem of Human Relationships | Part 3 |
-| Christmas 1935 | Part 4 |
-| Death | Part 5 |
-| Mussolini: Return | Cold open + Part 6 |
+| Kamala | Part 1, Part 2 |
+| Our Marriage and After | Part 3 |
+| The Problem of Human Relationships | Part 4 |
+| Christmas 1935 | Part 5 |
+| Death | Part 6 |
+| Mussolini: Return | Cold open + Part 7 |
 
 ## Cold open
 
-Ek hawai jahaaz registaan ke upar ud raha hai. Neeche ret hi ret hai. Na gaon, na sadak, na ped. Ghante guzar jaate hain, aur khidki ke bahar ka nazara badalta nahi.
+Ek chhota sa hawai jahaaz. Uske pankhon ke neeche ret hai.
 
-Jahaaz mein ek musafir akela baitha hai. Uski seat ke paas ek tokri rakhi hai. Tokri mein ek chhota sa kalash hai. Aur us kalash mein raakh hai.
+Sirf ret.
 
-Ye raakh uski patni ki hai. Kuch hafte pehle tak wo zinda thi, muskurati thi, aage ke sapne dekhti thi.
+Koi gaon nahi. Koi sadak nahi. Koi ped nahi jis par aankh ruk sake.
 
-Saal 1936. Mahina March. Jahaaz Cairo se poorab ki taraf ja raha hai, Bharat ki taraf. Aur ye musafir hai Jawaharlal Nehru.
+Engine ki ek hi awaaz hai, lagataar. Ek ghanta beet-ta hai. Phir doosra. Khidki ke bahar kuch nahi badalta.
 
-Ab tak safar ki bhaag-daud ne unka dhyan bataye rakha tha. Ticket, intezaam, milne wale log. Par is khaali registaan ke upar wo sab chhoot jaata hai. Ek hi baat man mein ghoomti rehti hai, baar-baar, jaise koi mantra: wo nahi rahi. Kamala nahi rahi.
+Andar ek musafir baitha hai. Wo bahar dekh raha hai, par shayad kuch dekh nahi raha.
 
-Wo ghar laut rahe hain. Par wo ghar ab ghar nahi lagta.
+Uske paas ek tokri rakhi hai. Wo baar-baar us tokri ki taraf dekhta hai. Jaise koi bachcha so raha ho, aur use dar ho ki kahin jaag na jaye.
+
+Tokri mein ek chhota sa kalash hai.
+
+Aur kalash mein raakh.
+
+Kuch hi hafte pehle ye raakh ek aurat thi. Wo hansti thi. Uski aankhein chamakti thi. Wo poochti thi ki theek hone ke baad hum kahan chalenge.
+
+Saal hai 1936. Mahina March. Jahaaz Cairo se poorab ki taraf ud raha hai. Ghar ki taraf.
+
+Musafir ka naam hai Jawaharlal Nehru. Aur tokri mein jo hai, wo Kamala hain.
+
+Ghar paas aa raha hai. Par ab wahan koi unka intezaar nahi kar raha.
 
 Namaskar, main hoon Asha, aur ye hai "The Discovery of India, Hindi mein". Aaj Episode 2: Badenweiler aur Lausanne.
 
+Aaj ki kahani ek kamre ki kahani hai. Ek kamra, ek khidki, ek bistar. Aur us bistar par ek aurat, jo jeena chahti thi.
+
 ## Part 1: Paanch din ka safar
 
-Kahani shuru hoti hai chhe mahine pehle. Tareekh hai 4 September 1935. Nehru Almora ki jail mein band hain. Almora pahaadon mein hai, aur ye jail bhi pahaadi jail hai.
+Chaliye, chhe mahine peechhe chalte hain.
 
-Us din achanak unhe chhod diya jaata hai. Wajah ek khabar hai. Unki patni Kamala ki haalat bahut naazuk hai. Kamala Bharat mein nahi hain. Wo Germany mein hain, Black Forest ke ek chhote se qasbe Badenweiler mein, ek sanatorium mein. Unhe TB hai.
+Pahaad. Almora. Ek jail, jiski deewaron ke paar devdaar ke ped dikhte hain.
 
-Ab Nehru ka safar dekhiye. Ye 1935 hai, aaj ki tarah seedhi flight nahi hoti.
+Is jail mein ek qaidi hai jo roz ki tarah apne din gin raha hai. Wo Nehru hain.
 
-Pehle car aur train se Allahabad. Agle din wahan pahunchte hain. Usi dopahar hawai safar shuru. Jahaaz unhe Karachi le jaata hai, phir Baghdad, phir Cairo. Alexandria se ek seaplane, yaani paani par utarne wala jahaaz, unhe Italy ke Brindisi tak le jaata hai. Brindisi se train pakadkar Switzerland ka Basel. Aur wahan se Badenweiler.
+Tareekh hai 4 September 1935. Ek aam si subah. Aur phir, bina kisi taiyari ke, unse kaha jaata hai: aap ja sakte hain.
 
-9 September ki shaam wo pahunchte hain. Allahabad chhode chaar din hue hain. Almora ki jail se nikle paanch din.
+Rihai. Par ye khushi ki khabar nahi hai.
 
-Kamala unhe dekhti hain. Chehre par wahi purani muskaan hai, wahi himmat. Par wo itni kamzor hain, aur dard itna zyada hai, ki zyada bol nahi paati.
+Unhe isliye chhoda ja raha hai kyunki unki patni Kamala bahut beemar hain. Itni beemar ki ab der karna theek nahi.
 
-Agle din wo thoda behtar lagti hain. Aur uske baad bhi kuch din. Nehru sochte hain ki shayad unke aane se fark pada ho.
+Kamala hazaaron meel door, Germany mein hain. Black Forest naam ke ek ghane, hare ilaqe mein ek chhota sa qasba hai, Badenweiler. Wahan ek sanatorium hai. Ek aisa aspatal jahan saaf hawa aur aaraam se fefdon ki beemari ka ilaaj hota tha.
 
-Par sankat tala nahi hai. Wo dheere-dheere Kamala ki taaqat kha raha hai. Aur Nehru? Wo is khayal ko man mein jagah hi nahi dena chahte ki Kamala jaa sakti hain. Wo khud ko samjhaate rehte hain ki haalat sudhar rahi hai. Bas ye ek mushkil daur nikal jaye, phir sab theek ho jayega.
+Kamala ko TB hai.
 
-Doctor bhi umeed dilaate hain. Nehru halke se kehte hain ki doctor aksar aisa hi karte hain.
+Ab sochiye. Ek aadmi abhi-abhi jail ke darwaaze se nikla hai. Aur use itni lambi doori naapni hai.
 
-Ab roz ka ek niyam ban jaata hai. Nehru qasbe mein ek chhote guest house mein rehte hain. Subah paidal sanatorium jaate hain, kuch ghante Kamala ke paas baithte hain. Dopahar baad phir yahi.
+1935 mein koi seedhi flight nahi thi.
 
-Lambi baatein nahi ho paati. Kamala jaldi thak jaati hain. Jaise hi thakaan dikhti hai, Nehru chup ho jaate hain. Kehne ko bahut kuch hai, par wo khud ko rok lete hain.
+Pahaad se utarkar Allahabad. Phir ek chhota sa jahaaz, jo rukta-rukta chalta hai. Karachi. Baghdad. Cairo. Phir paani par utarne wala ek jahaaz, samundar paar Italy tak. Phir train. Aur aakhir mein, Badenweiler.
 
-Kabhi wo Kamala ko kitaab padhkar sunaate hain. Ek kitaab unhe yaad hai: Pearl Buck ki "The Good Earth", China ke ek kisaan parivaar ki kahani. Kamala ko ye achha lagta hai. Par kitaab bahut dheere aage badhti hai, kuch panne roz.
+Har padaav par shayad ek hi sawal: pahunch to jaunga na? Wo meri raah dekh rahi hogi na?
 
-Kabhi dono purane dino ki baat karte hain. Bharat ke saanjhe doston ki. Aur kabhi, thodi hasrat ke saath, aane wale kal ki. Ki theek hokar kya karenge.
+9 September ki shaam. Almora se nikle paanch din hue hain. Nehru sanatorium ke kamre mein daakhil hote hain.
 
-Kamala bhavishya ko kasकर pakde rehti hain. Unki aankhein chamakti hain, unme jaan hai. Chehra aksar khush rehta hai. Jo dost milne aate hain, wo hairaan hote hain ki ye to soche se kahin behtar lag rahi hain. Nehru kehte hain ki wo un chamakti aankhon aur muskurate chehre se dhokha kha jaate the.
+Bistar par Kamala hain.
 
-Phir aati hain patjhad ki lambi shaamein. Nehru apne kamre mein akele baithe rehte hain. Ya kheton aur jungle mein ghoomne nikal jaate hain.
+Wo unhe dekhti hain. Aur muskurati hain. Wahi muskaan jo Nehru barson se jaante hain. Usme himmat hai.
 
-Aur man mein Kamala ki tasveerein aati hain. Ek ke baad ek, saikdon. Unki shakhsiyat ke alag-alag rang.
+Par wo bahut kamzor hain. Dard itna hai ki do-teen baatein karke hi thak jaati hain.
 
-Shaadi ko lagbhag bees saal ho chuke hain. Phir bhi Kamala ne kitni baar unhe chauṅkaya hai, apni soch ya apne man ki kisi nayi parat se. Baad ke saalon mein Nehru ne unhe samajhne ki poori koshish ki. Aur kuch samajh mili bhi. Par wo aksar sochte hain: kya main sach mein unhe jaanta hoon?
+Nehru paas baith jaate hain. Zyada kuch kaha nahi jaata.
 
-Kamala mein kuch aisa tha jo haath nahi aata tha. Asli, par pakad se bahar. Kabhi unki aankhon mein dekhte to lagta ki andar se koi anjaan shakhs jhaank raha hai.
+Kabhi-kabhi milne ke pehle din shabdon ki zaroorat nahi hoti.
 
-## Part 2: Ek shaadi, jo der se samajh aayi
+Agle din kuch ajeeb hota hai. Kamala thodi behtar lagti hain. Uske agle din bhi. Aur uske baad bhi.
 
-Badenweiler ki un akeli shaamon mein Nehru apni shaadi ke shuruaati saalon ko yaad karte hain. Aur yahan wo khud par sakht hain.
+Nehru ke man mein ek chhoti si umeed jaagti hai. Shayad mere aane se fark pada hai. Shayad ab sab theek ho jayega.
 
-Wo maante hain ki Kamala unhe bahut pasand thi. Phir bhi un saalon mein wo unhe lagbhag bhool gaye. Jo saath aur dosti Kamala ka haq thi, wo unhe nahi di.
+## Part 2: Sanatorium ke kamre
 
-Wajah? Nehru us waqt ek junoon mein the. Azadi ki ladai ne unhe poori tarah nigal liya tha. Wo apni hi ek sapnon ki duniya mein jeete the. Aas-paas ke asli log unhe parchhaai jaise lagte the. Saari taaqat us ek kaam mein jaati thi. Ghar ke liye kuch bachta hi nahi tha.
+Ab dheere-dheere ek din ka roop ban jaata hai. Ek aisa din jo roz dohraaya jaata hai.
 
-Par wo ye bhi kehte hain ki Kamala ko bhoole bhi nahi the. Wo baar-baar unke paas laut-te the, jaise jahaaz bandargaah par lautta hai. Kuch din bahar rehte to Kamala ka khayal unke man ko thanda karta. Ghar lautne ka intezaar rehta. Wo khud se poochte hain: agar Kamala na hoti, to thake hue man aur sharir ki battery dobara kaun charge karta?
+Nehru sanatorium mein nahi rehte. Qasbe mein ek chhota sa guest house hai, wahan unka kamra hai.
 
-Phir aata hai 1930. Saal ke shuru mein Nehru ko mehsoos hota hai ki Kamala bhi kaam mein hissa lena chahti hain. Dono saath kaam karte hain. Nehru ke liye ye ek naya sukh hai.
+Subah wo paidal nikalte hain. Raaste mein jungle ke ped hain, aur September ki thandi hawa.
 
-Wo mahine ajeeb the. Desh mein toofan aane wala tha, aur dono jaise zindagi ke kinaare par khade the. Par ye mahine jaldi khatam ho gaye. April aate-aate poore desh mein civil disobedience shuru, sarkar ka dandaa shuru, aur Nehru phir jail mein.
+Sanatorium pahunchkar wo Kamala ke kamre mein jaate hain. Kuch ghante wahin baithte hain. Phir laut-te hain. Aur dopahar baad phir wahi raasta.
 
-Ab ek kamaal ki baat hui. Zyadatar mard jail mein the. To auraton ne ladai ki baagdor sambhal li.
+Sochiye us kamre ko. Ek bistar. Ek kursi, jis par Nehru baithte hain. Ek khidki. Aur ek aurat, jo shayad bahar ke pedon ko dekhkar sochti hai ki ek din wo phir bahar ghoomegi.
 
-Auratein pehle bhi aandolan mein thi. Par is baar wo sailaab ki tarah aayi. Angrez sarkar to hairaan hui hi, unke apne ghar ke mard bhi hairaan reh gaye. Ameer ghar ki auratein, jo kabhi ghar se bahar nahi nikli thi. Madhyam varg ki auratein. Kisaan auratein. Mazdoor auratein. Dasiyon hazaar ki taadaad mein, sarkari hukm aur police ki lathi ki parwah kiye bina, sadkon par.
+Lambi baatein nahi ho paati.
 
-Nehru ko sirf unki himmat ne hairaan nahi kiya. Usse bhi badi baat thi unka intezaam karne ka hunar.
+Kamala bolti hain, phir ruk jaati hain. Saans phool jaati hai. Aankhein band ho jaati hain.
 
-Ye khabar Naini jail pahunchi. Nehru likhte hain ki wo romanch kabhi nahi bhoolenge. Bharat ki auraton par itna garv hua ki qaidi aapas mein is baare mein baat bhi nahi kar paate the. Dil bhara hua tha, aankhein nam thi.
+Aur Nehru, jinke paas kehne ko itna kuch hai, jo saalon jail mein baithkar man hi man Kamala se baatein karte rahe, wo chup ho jaate hain. Apne shabd wapas andar rakh lete hain.
 
-Baad mein Nehru ke pita, Motilal Nehru, bhi Naini jail aa gaye. Bahar wo aandolan ki aguai kar rahe the. Unhone kuch aisi baatein bataayi jo andar walon ko pata nahi thi.
+Kyunki ab baatein zaroori nahi hain. Kamala ka aaraam zaroori hai.
 
-Motilal ji thode purane khayal ke the. Unhe achha nahi lagta tha ki jawaan ladkiyan aur boodhi auratein garmi ki tapti dhoop mein sadkon par ghoomein aur police se bhidein. Unhone is kaam ko badhawa nahi diya. Par logon ka mizaaj wo samajhte the, isliye kisi ko roka bhi nahi. Na apni patni ko, na betiyon ko, na bahu ko.
+Phir Nehru ko ek raasta milta hai. Wo Kamala ko kitaab padhkar sunaane lagte hain.
 
-Aur unhone Nehru ko bataya ki poore desh mein auraton ki taaqat, himmat aur kaabiliyat dekhkar wo khud khush aur hairaan hue. Apne ghar ki ladkiyon ki baat wo pyaar bhare garv se karte the.
+Ek kitaab unhe khaas taur par yaad hai. Pearl Buck ki "The Good Earth". China ke ek gareeb kisaan parivaar ki kahani. Zameen, fasal, bhookh.
 
-Ab ek aur kissa. Tareekh hai 26 January 1931. Us zamane mein ye din Purna Swaraj Diwas ke roop mein manaya jaata tha. Motilal ji ke kehne par us din poore Bharat mein hazaaron sabhaon mein ek "yaad ka prastaav" paas hua. Police ne sabhaon par rok lagayi thi. Kai sabhaein zabardasti tod di gayi.
+Ab us drishya ko dekhiye.
 
-Motilal ji tab beemar the, bistar par the. Wahin se unhone ye poora intezaam kiya. Na akhbaar istemaal ho sakte the, na daak, na telegraph, na telephone, na koi chhapakhana. Phir bhi ek tay din, ek tay waqt par, is vishaal desh ke door-daraz gaon tak, har sube ki apni bhasha mein ye prastaav padha gaya aur maana gaya.
+Kursi par ek aadmi, haath mein kitaab, dheemi awaaz. Bistar par ek aurat, sun rahi hai.
 
-Iske das din baad Motilal Nehru chal base.
+Kamala ko kahani achhi lagti hai. Par kitaab bahut dheere aage badhti hai. Roz bas kuch panne. Utna hi jitna Kamala sun sakein.
 
-Prastaav lamba tha. Uska ek hissa Bharat ki auraton ke naam tha. Uska bhaav ye tha ki jab desh mushkil mein tha, to auratein ghar ki chaardiwari chhodkar mardon ke kandhe se kandha milakar morche par khadi hui, aur qurbani aur jeet, dono mein barabar ki hissedaar bani.
+Kal phir yahin se.
 
-Is toofan mein Kamala ne bhi apna kirdaar nibhaya. Allahabad ka har jaana-pehchaana karyakarta jail mein tha. To shehar ka kaam sambhalne ki zimmedari Kamala ke kandhon par aayi. Tajurba nahi tha. Par josh aur lagan se unhone wo kami poori kar di. Kuch hi mahinon mein wo Allahabad ki shaan ban gayi.
+Kabhi dono kitaab chhod dete hain aur purani baatein karte hain. Bharat ke un doston ki baatein jinhe dono jaante hain. Kaun kya kar raha hoga.
 
-Dono phir mile, Motilal ji ki aakhri beemari aur maut ke saaye mein. Par is baar rishta naya tha. Dosti aur samajh ki nayi zameen par.
+Aur kabhi-kabhi, dheere se, aage ki baat.
 
-Kuch mahine baad dono beti ko lekar Ceylon gaye, aaj ka Sri Lanka. Ye unki pehli chhutti thi. Aur aakhri bhi. Wahan dono ko laga ki jaise unhone ek-doosre ko naye sire se khoja hai. Pichhle saare saal bas is gehre rishte ki taiyari the.
+Ki jab Kamala theek ho jayengi, tab kya karenge. Kaise rahenge.
 
-Par lautna jaldi pada. Phir kaam. Phir jail. Do-do saal ki do lambi sazaein, ek ke baad ek. Beech mein bas thoda sa waqt. Na koi chhutti, na saath kaam, na saath rehna. Aur doosri saza khatam hone se pehle hi Kamala maut ke kareeb pahunch gayi.
+Ye wo baatein hain jo Kamala ko sabse pyaari hain. Wo aane wale kal ko kas ke pakde rehti hain. Jaise koi kinaare ki rassi pakadta hai.
 
-Ek drishya Nehru ko yaad hai. February 1934. Calcutta ke ek warrant par unhe giraftaar kiya jaata hai. Kamala unke kapde lene upar kamre mein jaati hain. Nehru alvida kehne peechhe jaate hain. Achanak Kamala unse lipat jaati hain, aur behosh hokar gir padti hain.
+Unki aankhein chamakti hain. Unme jaan hai. Chehra aksar khush rehta hai.
 
-Ye Kamala ke swabhav ke khilaaf tha. Dono ne khud ko sikhaya tha ki jail jaane ko halke mein lena hai, hanste hue, bina tamaashe ke. Nehru poochte hain: kya Kamala ko koi aabhaas tha ki ye unki aakhri, kuch-kuch saadharan mulaqat hai?
+Jo dost milne aate hain, wo kamre se nikalkar hairaan hote hain. Kehte hain, arre, ye to humne socha tha usse kahin achhi lag rahi hain.
 
-Jail ke lambe dino mein Nehru yahi sochte rahe. Theek jab dono ko ek-doosre ki sabse zyada zaroorat thi, jab dono sabse kareeb aaye the, tab chaar saal ki jail beech mein aa gayi.
+Aur Nehru bhi yahi maan lete hain.
 
-Kamala par in saalon mein kya beeti? Nehru maante hain ki wo andaaza hi laga sakte hain. Jail ki mulaqaton mein kuch bhi saadharan nahi hota. Dono ko apna sabse achha chehra dikhana padta tha, taaki doosre ko apni pareshani se dukh na pahunche. Par itna saaf tha ki Kamala bahut si baaton se pareshaan thi, unke man mein shaanti nahi thi. Nehru shayad madad kar sakte the. Par jail se nahi.
+Baad mein wo maante hain ki wo un chamakti aankhon aur us muskurate chehre se dhokha kha gaye. Kyunki doosra raasta, ye maan lena ki Kamala ja sakti hain, us raaste par unka man qadam rakhne ko taiyar hi nahi tha.
 
-## Part 3: Aadarsh jodi
+Doctor bhi dilaasa dete hain. Nehru halki si muskaan ke saath kehte hain ki doctor aksar yahi karte hain.
 
-Ye saari yaadein Badenweiler ke akele ghanton mein aati rahi. Nehru kehte hain ki jail ka mahaul unse aasaani se nahi chhoota. Barson ki aadat thi. Nayi jagah se bhi zyada fark nahi pada.
+Phir September beet-ta hai. Patjhad aati hai.
 
-Ek aur baat dhyan dene layak hai. Ye 1935 ka Germany hai, Hitler ka Germany. Nazi raaj ki bahut si baatein Nehru ko sakht napasand thi. Par Black Forest ke us shaant kone mein nazism ke nishaan kam hi dikhte the, aur kisi ne unhe pareshaan nahi kiya.
+Shaamein lambi hone lagti hain. Andhera jaldi utarta hai.
 
-Phir Nehru ek dilchasp tasveer ki baat karte hain. Bharat ke bazaaron mein ek tasveer bikti thi. Usme Kamala aur Nehru ki do alag photo agal-bagal lagi thi. Upar likha tha: "Aadarsh Jodi". Log dono ko aisa hi maante the.
+Aur ye shaamein Nehru akele bitaate hain.
 
-Nehru is par muskuraate hain. Aadarsh ko pakadna, aur pakde rakhna, bahut mushkil hai.
+Kabhi apne chhote se kamre mein. Kabhi bahar, kheton aur jungle ke beech, bina kisi manzil ke chalte hue. Shayad neeche sookhe patton ki awaaz.
 
-Phir bhi Ceylon ki chhutti mein unhone Kamala se ek baat kahi thi. Ki hum kitne khushnaseeb hain. Mushkilon ke bawajood, matbhedon ke bawajood, zindagi ki saari chaalon ke bawajood. Shaadi ek ajeeb cheez hai, aur hazaaron saal ke tajurbe ke baad bhi ajeeb hi hai.
+Aur chalte-chalte unke man mein Kamala aati hain. Ek baar nahi. Saikdon baar. Saikdon roop mein.
 
-Aas-paas unhone kitni shaadiyan toot-te dekhi thi. Ya usse bhi bura, jahan jo kabhi sona tha, wo dheere-dheere kabaad ban gaya. Par Nehru aur Kamala kabhi-kabhi ladte the, ek-doosre par gussa bhi hote the, phir bhi wo andar ki chingaari bujhi nahi. Dono ke liye zindagi har baar koi naya safar kholti thi, ek-doosre ko dekhne ki nayi nazar deti thi. Kamala bhi is baat se sehmat thi.
+Shaadi ko lagbhag bees saal ho chuke hain. Bees saal.
 
-Yahan se Nehru ek bade sawal par aate hain. Insaani rishton ka sawal.
+Phir bhi Nehru ko lagta hai ki Kamala ne unhe kitni hi baar hairaan kiya. Kabhi kisi soch se, kabhi kisi bhaav se jo unhone pehle nahi dekha tha. Baad ke saalon mein unhone Kamala ko samajhne ki bahut koshish ki. Thoda samjhe bhi.
 
-Wo kehte hain ki ye kitna buniyaadi sawal hai. Aur hum rajneeti aur arthshastra ki garmagaram behson mein ise kitna nazarandaz kar dete hain.
+Par us andhere raaste par chalte hue wo khud se poochte hain: kya main sach mein unhe jaanta hoon?
 
-Bharat aur China ki purani sabhyataon ne ise nazarandaz nahi kiya tha. Unhone samaaj mein uthne-baithne ke aise tareeqe banaye jinme kamiyan thi, par jo insaan ko ek santulan dete the, ek thehraav.
+Unhe lagta hai ki Kamala mein kuch tha jo pakad mein nahi aata tha. Jaise paani mein chaand ki parchhaai. Saaf dikhti hai, par haath daalo to bikhar jaati hai.
 
-Aaj Bharat mein wo thehraav nahi dikhta. Par Nehru poochte hain ki pashchim ke un deshon mein kahan hai, jo baaki maamlon mein itne aage nikal gaye?
+Kabhi wo Kamala ki aankhon mein dekhte, aur unhe lagta ki andar se koi aur jhaank raha hai. Koi jisse wo bees saal mein bhi poori tarah nahi mil paaye.
 
-Aur phir ek gehra sawal. Kya thehraav ka matlab hi ruk jaana hai? Kya wo badlaav aur tarakki ka dushman hai? Kya humein ek ke liye doosra qurbaan karna padega?
+## Part 3: Ek shaadi, jo der se samajh aayi
 
-Nehru ka jawab hai: nahi, aisa nahi hona chahiye. Thehraav aur tarakki saath chal sakte hain. Andar ki tarakki bhi, bahar ki bhi. Purano ki samajh aur naye zamane ka vigyaan aur josh, dono ek saath.
+Patjhad ki un akeli shaamon mein Nehru ki yaadein peechhe ki taraf chalti hain. Shaadi ke shuruaati saalon tak.
 
-Aur wo ek chetavni jodte hain. Duniya ab us mod par hai jahan ye mel nahi hua, to shayad dono hi mit jayenge.
+Aur wahan pahunchkar wo khud ko maaf nahi karte.
 
-Yaad rakhiye, ye baat ek aadmi soch raha hai jo apni marti hui patni ke paas baitha hai, aur jiske aas-paas Europe ek nayi jung ki taraf badh raha hai.
+Wo maante hain ki Kamala unhe bahut pyaari thi. Phir bhi un saalon mein unhone Kamala ko lagbhag bhula diya. Jo saath, jo dosti ek patni ka haq hoti hai, wo unhone nahi di.
 
-## Part 4: Barf aur Christmas
+Kyun?
 
-Ab kahani phir aage badhti hai. Kamala ki haalat thodi sudharti hai. Zyada nahi. Par pichhle hafton ke tanaav ke baad ye bhi badi raahat hai. Sankat nikal gaya hai, haalat tik gayi hai.
+Kyunki Nehru tab ek bukhaar mein the. Azadi ki ladai ka bukhaar. Sabhaein, safar, jail, phir sabhaein.
 
-Ye silsila ek mahina aur chalta hai. Nehru is mauqe ka faayda uthate hain. Beti Indira ke saath kuch din ke liye England jaate hain. Aath saal se wahan nahi gaye the, aur bahut se dost bula rahe the.
+Wo ek sapne ki duniya mein jeete the. Aur us sapne ke saamne ghar ke asli log dhundhle pad jaate the. Jaise kamre mein koi khada ho, aur aap use dekh hi na rahe hon.
 
-Wapas Badenweiler. Wahi purana niyam. Par ab mausam badal gaya hai. Sardi aa gayi hai. Charon taraf barf hi barf.
+Ab ek pal Kamala ki taraf se sochiye. Pati ghar par kam, bahar zyada. Aur jab ghar par, tab bhi kahin aur.
 
-Christmas paas aata hai, aur Kamala ki haalat phir bigadti hai. Ek aur sankat. Lagta hai ki zindagi bas ek dhaage se latki hai.
+Par Nehru ye bhi kehte hain ki wo Kamala ko poori tarah kabhi nahi bhoole. Wo baar-baar unke paas laut-te the. Bahar ki thakaan ke baad Kamala ka khayal hi unhe sukoon deta tha.
 
-1935 ke un aakhri dino mein Nehru barf aur keechad mein paanv dhansaate hue sanatorium jaate hain. Unhe nahi pata ki Kamala ke paas kitne din bache hain, ya kitne ghante.
+Wo khud se poochte hain: agar Kamala na hoti, to thake hue man ko dobara kaun jagata?
 
-Bahar ka nazara shaant hai. Safed barf ki chaadar. Par Nehru ko wo shaanti maut ki thandi khamoshi jaisi lagti hai. Unki saari umeed, saara purana aashawad, chala jaata hai.
+Ek aadmi, jo apni patni ko bhool bhi gaya, aur jiski har wapsi usi par tiki bhi thi. Shaadiyan shayad aisi hi ulji hui hoti hain.
 
-Par Kamala ladti hain. Ye sankat bhi wo jhel jaati hain, kamaal ki jeevat ke saath. Wo behtar hoti hain, zyada khush rehne lagti hain.
+Phir aata hai 1930. Aur kuch badalta hai.
 
-Aur ab wo kehti hain ki mujhe Badenweiler se le chalo. Wo is jagah se oob chuki hain.
+Nehru dekhte hain ki Kamala bhi is kaam mein utarna chahti hain. Sirf pati ke peechhe khadi patni ki tarah nahi. Apne pairon par.
 
-Ek aur wajah bhi hai. Sanatorium mein ek aur mareez tha, Ireland ka ek ladka. Wo kabhi-kabhi Kamala ko phool bhejta tha. Ek-do baar milne bhi aaya tha. Uski haalat Kamala se kahin behtar thi. Use to ghoomne jaane ki bhi chhoot thi.
+Aur dono saath kaam karne lagte hain.
 
-Achanak us ladke ki maut ho gayi.
+Nehru ke liye ye ek naya sukh hai. Do log, ek hi kaam, ek hi chinta, ek hi umeed.
 
-Sabne koshish ki ki Kamala ko ye khabar na mile. Par khabar pahunch gayi. Nehru ka anubhav hai ki beemar log, khaaskar jo sanatorium mein rehte hain, unme ek chhathi indriya aa jaati hai. Jo baat unse chhupayi jaati hai, wo bhi unhe pata chal jaati hai.
+Wo mahine ajeeb the. Desh mein toofan uthne wala tha. Hawa mein bijli thi.
 
-January 1936. Nehru kuch din ke liye Paris jaate hain, phir thodi der London. Zindagi unhe phir kheench rahi hai.
+Par wo mahine jaldi khatam hue. April aaya. Desh bhar mein aandolan shuru hua. Aur Nehru phir jail mein.
 
-London mein khabar milti hai ki unhe doosri baar Indian National Congress ka adhyaksh chuna gaya hai. Congress ka session April mein hona hai.
+Ab wo hua jiski kisi ne ummeed nahi ki thi.
 
-Ye achanak nahi tha. Doston ne pehle hi bata diya tha, aur Nehru ne Kamala se iski baat bhi ki thi. Par ye ek dharm-sankat tha. Kamala ko is haalat mein chhodkar jaayein? Ya adhyaksh pad chhod dein?
+Ghar ke mard jail mein the. To auratein bahar nikal aayi.
 
-Kamala ne pad chhodne nahi diya. Wo thodi behtar thi. Dono ne socha ki Nehru baad mein laut sakte hain.
+Sochiye un auraton ko. Kuch ne kabhi ghar ki dehleez akele paar nahi ki thi. Garmi ki tapti dhoop. Saamne police ki lathiyan. Aur wo hazaaron mein thi.
 
-January ke aakhir mein Kamala ko Badenweiler se Switzerland le jaaya gaya, Lausanne ke paas ek sanatorium mein.
+Ye khabar jab Naini jail ki deewaron ke andar pahunchi, to Nehru ka dil garv se itna bhar aaya ki saathi qaidi aapas mein is par baat bhi nahi kar paate the.
 
-## Part 5: 28 February
+Aur in auraton mein ek Kamala thi.
 
-Switzerland ki badli hui jagah dono ko achhi lagti hai. Kamala zyada khush hain. Nehru bhi Switzerland ke us hisse ko achhi tarah jaante hain, to thoda ghar jaisa lagta hai.
+Allahabad ke saare jaane-maane karyakarta jail mein the. Shehar ka kaam sambhalne wala koi nahi tha. To ye kaam Kamala ne utha liya.
 
-Haalat mein koi bada badlaav nahi hai. Aage koi sankat nazar nahi aata. Lagta hai ki Kamala lambe waqt tak aisi hi rahengi, shayad dheere-dheere sudhrengi.
+Ek patli si aurat, jise is kaam ka koi tajurba nahi tha.
 
-Udhar Bharat pukaar raha hai. Wahan ke dost lautne ke liye zor de rahe hain.
+Par unme lagan thi. Aag thi. Aur kuch hi mahinon mein poora Allahabad unhe jaanne laga, unpar garv karne laga.
 
-Nehru ka man bechain hai. Kai saal se wo jail ya doosri wajahon se desh ke kaam se kate hue the. Ab wo us kutte ki tarah hain jo patte ko kheench raha hai. London aur Paris ki yaatraon ne, aur Bharat ki khabron ne, unhe apne khol se bahar nikaal diya hai. Wapas usme jaana ab mumkin nahi.
+Phir Nehru ke pita, Motilal Nehru, beemar pade. Aur 1931 ki shuruaat mein wo chale gaye.
 
-Wo Kamala se baat karte hain, doctor se salaah lete hain. Dono maan jaate hain ki Nehru ko Bharat lautna chahiye. Dutch airline KLM mein seat book hoti hai. Lausanne se nikalne ki tareekh: 28 February.
+Un aakhri dino mein Nehru aur Kamala phir mile. Ek ghar mein, jahan maut ka saaya tha.
 
-Sab tay ho jaane ke baad Nehru ko ehsaas hota hai ki Kamala ko unka jaana bilkul achha nahi lag raha. Phir bhi wo plan badalne ko nahi kehti.
+Par is baar kuch alag tha. Is baar dono ek-doosre ko naye sire se dekh rahe the. Ek dost ki tarah. Ek saathi ki tarah.
 
-Nehru unhe bharosa dilaate hain. Bharat mein zyada nahi rukunga. Do-teen mahine mein laut aaunga. Tum chaho to usse bhi pehle. Ek taar bhejo, aur hafte bhar mein hawai jahaaz se tumhare paas.
+Kuch mahine baad dono apni beti ko lekar Ceylon gaye. Aaj ka Sri Lanka.
 
-Jaane mein chaar-paanch din bache hain. Indira paas hi Bex mein school mein padhti hain. Wo ye aakhri din saath bitaane aa rahi hain.
+Ye unki pehli chhutti thi. Saath mein.
 
-Tabhi doctor Nehru ke paas aate hain. Kehte hain ki apna jaana ek hafta ya das din tal dijiye. Isse zyada kuch nahi kehte.
+Sochiye. Garam hawa. Shayad kahin paas samundar. Aur do log jo barson ek hi ghar mein rahe, par shayad pehli baar fursat se ek-doosre ke saath baithe.
 
-Nehru turant maan jaate hain. Agle KLM jahaaz mein nayi seat book karte hain.
+Nehru kehte hain ki wahan unhe laga jaise dono ne ek-doosre ko phir se khoj liya. Aur pichhle saare saal, saari doori, bas is pal ki taiyari the.
 
-Ab in aakhri dino mein Kamala mein ek halka sa badlaav aata hai. Sharir ki haalat to waisi hi lagti hai. Par unka man jaise aas-paas ki cheezon se hat-ta ja raha hai.
+Wo pehli chhutti thi.
 
-Wo Nehru se kehti hain ki koi unhe bula raha hai. Ya ki koi aakriti kamre mein aayi hai. Nehru ko wahan koi nahi dikhta.
+Aur aakhri bhi.
 
-Aur phir 28 February 1936. Wahi din jis din Nehru ko jaana tha. Subah-subah Kamala ne aakhri saans li.
+Lautna jaldi pada. Phir kaam. Phir jail. Ek lambi saza, phir thoda waqt, phir ek aur lambi saza.
 
-Paas mein Indira thi. Aur Dr. M. Atal, jo in mahinon mein ek wafadar dost aur lagataar saathi rahe.
+Aur phir ek drishya, jo Nehru ke man mein hamesha ke liye ruk gaya.
 
-Switzerland ke aas-paas ke shehron se kuch aur dost aaye. Sab Kamala ko Lausanne ke shamshaan le gaye. Kuch hi minute mein wo sundar sharir, wo pyaara chehra jo itni baar, itne dil se muskuraata tha, raakh ho gaya.
+February 1934. Police unhe giraftaar karne aayi hai. Ye koi nayi baat nahi. Dono ise kitni hi baar jhel chuke hain.
 
-Jo kabhi itni zinda thi, itni roshan, ab ek chhote se kalash mein simat gayi.
+Kamala upar kamre mein jaati hain, Nehru ke kapde lene.
 
-## Part 6: Mussolini ka nyota, aur wapsi
+Nehru alvida kehne unke peechhe upar jaate hain.
 
-Ab Lausanne mein, ya Europe mein, rukne ki koi wajah nahi bachi. Wo dor toot gayi thi jo Nehru ko yahan baandhe hue thi.
+Aur achanak Kamala unse lipat jaati hain. Kas ke. Aur phir behosh hokar gir padti hain.
 
-Par Nehru kehte hain ki unke andar bhi kuch toot gaya tha. Iska ehsaas unhe dheere-dheere hua. Wo din kaale din the. Dimaag theek se kaam nahi kar raha tha.
+Ye Kamala ke swabhav mein nahi tha. Dono ne ek-doosre ko sikhaya tha ki jail jaana hanskar lena hai. Koi aansoo nahi, koi tamaasha nahi.
 
-Nehru aur Indira kuch shaant din saath bitaane Montreux jaate hain, Geneva jheel ke kinaare ek shehar.
+Par us din Kamala ki himmat toot gayi.
 
-Wahan ek anokha mehmaan aata hai. Lausanne mein Italy ka consul. Wo khaas taur par ye sandesh lekar aaya hai ki Mussolini ko Nehru ke dukh mein hamdardi hai.
+Baad mein jail ki kothri mein Nehru ye sawal baar-baar poochte rahe. Kya Kamala ko kuch mehsoos hua tha? Kya unhe pata tha ki ghar mein, ek aam din ki tarah, ye unki aakhri mulaqat hai?
 
-Nehru thode hairaan hote hain. Mussolini se wo kabhi mile nahi the. Koi rishta nahi tha. Phir bhi wo consul se kehte hain ki mera shukriya pahuncha dijiye.
+Jab dono ek-doosre ke sabse kareeb aaye the, theek tabhi jail ki deewar beech mein aa khadi hui.
 
-Par is hamdardi ke peeche ek kahani hai.
+Aur jail ki mulaqaton mein kuch asli nahi hota. Dono apna sabse achha chehra lekar aate. Taaki doosra pareshan na ho.
 
-Kuch hafte pehle Rome mein rehne wale ek dost ne Nehru ko likha tha ki Mussolini aapse milna chahte hain. Tab Rome jaane ka sawal hi nahi tha, aur Nehru ne yahi keh diya.
+Nehru ko itna pata tha ki Kamala ke man mein bechaini thi. Wo shayad madad kar sakte the.
 
-Baad mein, jab Nehru ki hawai jahaaz se wapsi ki baat chal rahi thi, wahi sandesh phir aaya. Is baar usme utaawlapan tha, zid thi.
+Par salaakhon ke peechhe se nahi.
 
-Nehru is mulaqat se bachna chahte the. Par wo badtameezi bhi nahi karna chahte the.
+## Part 4: Aadarsh jodi
 
-Wo maante hain ki aam haalat mein shayad wo apni napasandgi daba lete. Unhe jaanne ki utsukta bhi thi ki "Duce", yaani Mussolini, kis tarah ka aadmi hai.
+Ab hum wapas Badenweiler aate hain. Wahi guest house ka kamra.
 
-Par us waqt Italy Abyssinia, aaj ke Ethiopia, par hamla kar raha tha. Aise mein Mussolini se milna har tarah ke matlab nikalwata. Fascist prachaar mein iska istemaal hota. Nehru baad mein kitna bhi inkaar karte, koi faayda nahi hota.
+Nehru kehte hain ki jail ki aadat unke saath yahan tak chali aayi thi. Akele baithna, sochna. Jagah badal gayi thi, par man abhi bhi kothri mein tha.
 
-Aur iske udaharan the. Nehru ko pata tha ki haal hi mein Italy jaane wale kai Bharatiya students aur doosre logon ko fascist prachaar mein istemaal kiya gaya tha. Unki marzi ke khilaaf, kabhi unhe pata bhi nahi chala. Aur 1931 mein ek Italian akhbaar, Giornale d'Italia, ne Gandhiji ka ek farzi interview chhaap diya tha.
+Ye 1935 ka Germany hai. Hitler ka Germany. Nehru ko Nazi raaj sakht napasand tha. Par us chhote, shaant qasbe mein uski parchhaai kam hi dikhti thi. Kisi ne unhe pareshaan nahi kiya.
 
-To Nehru ne apne dost ko mana kar diya. Baad mein phir likha, phone bhi kiya, taaki koi galatfahmi na rahe. Ye sab Kamala ki maut se pehle hua. Kamala ke jaane ke baad unhone ek aur sandesh bheja. Ki baaki wajahein chhod bhi dein, to bhi abhi main kisi se milne ki haalat mein nahi hoon.
+Is akelepan mein Nehru ko ek tasveer yaad aati hai.
 
-Itni saaf-saaf mana karne ki zaroorat kyun padi? Kyunki KLM ka jahaaz Rome hokar jaata tha. Nehru ko ek shaam aur ek raat Rome mein bitaani thi. Isse bacha nahi ja sakta tha.
+Bharat ke bazaaron mein ek tasveer bikti thi. Usme do photo the, agal-bagal. Ek Kamala ki, ek Nehru ki. Aur upar likha tha: "Aadarsh Jodi".
 
-Kuch din Montreux mein rehne ke baad Nehru Geneva aur phir France ke Marseille jaate hain. Wahan se KLM ka jahaaz poorab ki taraf.
+Nehru is par muskuraate hain. Thoda dukh ke saath. Aadarsh ko pakadna mushkil hai. Aur pakad bhi lo, to sambhaal ke rakhna aur mushkil.
 
-Dopahar dhalte jahaaz Rome utarta hai. Wahan ek bada afsar unka intezaar kar raha hai. Uske haath mein Mussolini ke daftar ke pramukh ki chitthi hai. Usme likha hai ki Duce aapse milkar khush honge. Aaj shaam chhe baje ka waqt tay hai.
+Par phir wo Ceylon ko yaad karte hain. Wahan unhone Kamala se ek baat kahi thi.
 
-Nehru hairaan hain. Wo afsar ko apne pichhle sandesh yaad dilaate hain.
+Ki hum kitne khushnaseeb hain.
 
-Par afsar adaa hai. Sab tay ho chuka hai, ab badla nahi ja sakta. Aur mulaqat na hui, to shayad meri naukri chali jayegi. Wo bharosa dilata hai ki akhbaar mein kuch nahi aayega. Bas kuch minute ki baat hai. Duce sirf haath milana chahte hain, aur khud hamdardi jatana chahte hain.
+Hum lade hain. Naraz hue hain. Zindagi ne humein kitni baar alag kiya. Phir bhi, kuch hai jo bujha nahi.
 
-Aur phir poore ek ghante behas chalti hai. Dono taraf se poori tameez ke saath, par tanaav badhta ja raha hai. Nehru ke liye ye bahut thakaane wala ghanta tha. Wo jodte hain ki shayad saamne wale ke liye aur bhi zyada.
+Nehru ne aas-paas kitni shaadiyan dekhi thi jo toot gayi. Ya jo tooti to nahi, par andar se khaali ho gayi. Jo kabhi chamakti thi, wo dheere-dheere dhool ban gayi.
 
-Aakhir chhe baj jaate hain. Aur jeet Nehru ki hoti hai. Mussolini ke mahal mein phone jaata hai: Nehru nahi aa sakte.
+Unke aur Kamala ke saath aisa nahi hua tha. Har mod par zindagi unke liye kuch naya kholti thi. Ek-doosre ko dekhne ka ek naya tareeqa.
 
-Usi shaam Nehru Mussolini ko ek chitthi bhejte hain. Usme afsos jataate hain ki nyota qubool nahi kar paaye, aur hamdardi ke sandesh ke liye shukriya ada karte hain.
+Aur Kamala bhi yahi mehsoos karti thi.
 
-Ab safar aage badhta hai. Cairo mein kuch purane dost milne aate hain. Phir aur poorab, Pashchim Asia ke registaanon ke upar.
+Yahan se Nehru ka man ek bade sawal ki taraf jaata hai. Insaan aur insaan ke beech ka rishta.
 
-Ab tak alag-alag ghatnaon ne, aur safar ke intezaamon ne, unka man vyast rakha tha. Par Cairo ke baad, ghante dar ghante us veeraan registaan ke upar udte hue, ek bhayanak akelapan unhe gher leta hai. Wo khud ko khaali mehsoos karte hain, bina kisi maqsad ke.
+Wo kehte hain ki ye sabse buniyaadi sawal hai. Aur hum rajneeti aur paise ki behson mein ise sabse pehle bhool jaate hain.
 
-Yahi wo drishya hai jisse humne shuruaat ki thi. Akela musafir. Ghar, jo ab ghar nahi. Paas mein tokri, tokri mein kalash. Kamala ka bas itna hi bacha hai. Aur unke saath dekhe saare sapne bhi raakh ho chuke hain.
+Bharat aur China ki purani sabhyataon ne ise nahi bhulaya tha. Unke tareeqon mein kamiyan thi. Par wo insaan ko ek thehraav dete the.
 
-Phir unhe apni aatmakatha yaad aati hai. Jab Kamala Bhowali ke sanatorium mein thi, tab Nehru ne us kitaab ke baare mein unse baat ki thi. Likhte waqt kabhi-kabhi ek-do chapter unhe padhkar sunaate the. Kamala ne uska bas kuch hissa dekha ya suna tha. Baaki wo kabhi nahi dekhengi. Aur zindagi ki kitaab mein dono milkar ab koi naya chapter nahi likhenge.
+Aaj wo thehraav kahin nahi dikhta. Na Bharat mein. Na pashchim mein, jo baaki har cheez mein itna aage nikal gaya.
 
-Baghdad pahunchkar Nehru London mein apne publisher ko taar bhejte hain. Wahi aatmakatha chhapne wali thi. Taar mein kitaab ka samarpan hai, Kamala ke naam, us Kamala ke naam jo ab nahi rahi.
+To kya thehraav aur aage badhna dushman hain? Nehru kehte hain: nahi. Dono saath chal sakte hain. Purani samajh aur naya vigyaan.
 
-Phir Karachi. Bheed, aur bahut se jaane-pehchaane chehre.
+Ab ruk kar sochiye ki ye baat wo kahan baith kar soch rahe hain.
 
-Aur phir Allahabad. Wo kalash Ganga tak le jaaya jaata hai, tez behti Ganga. Raakh us nadi ki god mein baha di jaati hai.
+Ek chhote se kamre mein. Thodi door ek sanatorium hai, jahan unki patni har saans ke liye lad rahi hai. Aur Europe mein ek nayi jung dheere-dheere aakaar le rahi hai.
 
-Nehru yahan sochte hain ki Ganga ne humare kitne purvajon ko isi tarah samundar tak pahunchaya hai. Aur humare baad aane wale kitne log isi tarah uski lehron mein apna aakhri safar karenge.
+Aur wo insaani rishton ke baare mein soch rahe hain. Shayad isliye, kyunki unka apna sabse gehra rishta unki aankhon ke saamne pighal raha hai.
+
+## Part 5: Barf aur Christmas
+
+Dheere-dheere Kamala ki haalat thodi sambhalti hai.
+
+Zyada nahi. Bas itni ki din bina kisi naye dar ke guzar jaye. Par pichhle hafton ke baad ye bhi bahut hai.
+
+Is beech Nehru kuch din ke liye beti Indira ke saath England jaate hain. Purane dost bula rahe the.
+
+Phir wapas Badenweiler.
+
+Par ab qasba badal gaya hai.
+
+Sardi aa gayi hai. Ab sab kuch safed hai. Chhaton par barf. Pedon par barf. Raaston par barf.
+
+Aur Christmas ke paas, jab baaki duniya mein mombattiyan jal rahi hain, Kamala ki haalat phir bigad jaati hai.
+
+Ek aur sankat. Pehle se gehra.
+
+Ab chaliye Nehru ke saath. December ke aakhri din.
+
+Wo guest house se nikalte hain. Barf aur keechad mein paanv dhanste hain. Saans hawa mein dhuaan banti hai.
+
+Wo sanatorium ki taraf chal rahe hain. Aur unhe nahi pata.
+
+Unhe nahi pata ki aaj Kamala ke paas kitna waqt hai. Kitne din. Ya sirf kitne ghante.
+
+Har qadam ke saath yahi sawal.
+
+Charon taraf shaanti hai. Safed, khamosh. Koi aur dekhe to kahe, kitna sundar hai.
+
+Par Nehru ko wo khamoshi maut ki khamoshi lagti hai.
+
+Wo kehte hain ki un dino unki saari umeed chali gayi. Wo aashawad, jo jail mein bhi nahi bujha tha, wo bhi bujh gaya.
+
+Par Kamala ladti hain.
+
+Wo is sankat se bhi nikal aati hain. Ek ajeeb, zid bhari taaqat ke saath. Jaise koi diya hawa mein kaanpta hai, kaanpta hai, par bujhta nahi.
+
+Wo behtar hoti hain. Aur phir khush bhi.
+
+Aur ek din wo Nehru se kehti hain: mujhe yahan se le chalo.
+
+Wo Badenweiler se thak gayi hain. Wahi kamra, wahi khidki, wahi barf.
+
+Par ek aur wajah bhi hai. Ek chhoti si kahani.
+
+Sanatorium mein ek aur mareez tha. Ireland ka ek jawaan ladka.
+
+Wo kabhi-kabhi Kamala ko phool bhejta tha. Ek beemar ladka, doosre kamre ki ek beemar videshi aurat ko phool bhej raha hai. Ek-do baar wo milne bhi aaya.
+
+Uski haalat Kamala se kahin achhi thi. Use to bahar ghoomne ki bhi ijazat thi.
+
+Aur phir ek din, achanak, wo ladka nahi raha.
+
+Sab ne koshish ki ki Kamala ko ye pata na chale.
+
+Par Kamala ko pata chal gaya.
+
+Nehru kehte hain ki jo log lambe samay tak beemar rehte hain, khaaskar aise aspatalon mein, unme ek alag hi ehsaas jaag jaata hai. Unse koi baat chhupao, wo phir bhi jaan jaate hain.
+
+Ab Kamala ke liye wo jagah bhaari ho gayi thi.
+
+January 1936. Nehru kuch din ke liye Paris jaate hain, phir London.
+
+London mein khabar milti hai. Unhe doosri baar Congress ka adhyaksh chuna gaya hai.
+
+Ye khabar anjaan nahi thi. Wo iski baat Kamala se pehle hi kar chuke the. Par ab sawal saamne khada tha. Kamala ko is haalat mein chhodkar Bharat jaayein? Ya ye pad chhod dein?
+
+Aur yahan Kamala ne faisla kiya.
+
+Pad mat chhodo.
+
+Wo thodi behtar thi. Dono ne socha, Nehru ja sakte hain, aur zaroorat padi to laut bhi sakte hain.
+
+January ke aakhir mein Kamala ko Badenweiler se le jaaya gaya. Switzerland. Lausanne ke paas ek naya sanatorium.
+
+Ek nayi khidki.
+
+## Part 6: 28 February
+
+Switzerland ki nayi jagah dono ko achhi lagti hai.
+
+Kamala zyada khush hain. Naya kamra, naya nazara.
+
+Nehru ke liye bhi ye jagah anjaan nahi hai. Wo is ilaqe ko pehle se jaante hain. Thoda-thoda ghar jaisa lagta hai.
+
+Haalat mein koi bada badlaav nahi hai. Na behtar, na bura. Aage koi naya sankat nahi dikhta. Lagta hai ki Kamala lambe samay tak aise hi rahengi. Aur shayad, dheere-dheere, sudhrengi.
+
+Par Bharat se dost bula rahe hain.
+
+Aur Nehru ke andar bhi kuch bechain hai.
+
+Barson se wo apne kaam se kate hue the. Pehle jail, phir ye sanatorium. Ab Paris aur London ki yaatraon ne, Bharat ki khabron ne, unhe hila diya hai. Wo khol, jisme wo itne mahine band rahe, ab tadak gaya hai.
+
+Wo Kamala se baat karte hain. Doctor se poochte hain. Dono maan jaate hain ki Nehru ko Bharat jaana chahiye.
+
+KLM ke jahaaz mein seat book hoti hai. Lausanne se nikalne ki tareekh: 28 February.
+
+Sab tay ho jaata hai.
+
+Aur tab Nehru ko ek baat dikhti hai jo pehle nahi dikhi thi.
+
+Kamala ko unka jaana achha nahi lag raha.
+
+Wo kehti kuch nahi. Plan badalne ko nahi kehti. Par unki chuppi mein kuch hai.
+
+Nehru unke paas baithte hain aur bharosa dilaate hain. Zyada nahi rukunga. Do-teen mahine. Aur agar tum chaaho to usse bhi pehle. Bas ek taar bhej dena. Hafte bhar mein hawai jahaaz se tumhare paas hounga.
+
+Jaane mein chaar-paanch din bache hain.
+
+Indira paas hi ek school mein padhti hain. Wo aa rahi hain, ye aakhri din saath bitaane.
+
+Aur tab doctor Nehru ke paas aate hain.
+
+Kehte hain: aap apna jaana thoda tal dijiye. Ek hafta. Das din.
+
+Bas itna. Aur kuch nahi kehte.
+
+Par kabhi-kabhi jo nahi kaha jaata, wahi sabse zor se sunayi deta hai.
+
+Nehru turant maan jaate hain. Agle jahaaz mein nayi seat le lete hain.
+
+Ab aate hain aakhri din.
+
+Kamala ka sharir pehle jaisa hi lagta hai. Par kuch aur badal raha hai.
+
+Unka man jaise dheere-dheere is kamre se door ja raha hai. Jaise koi naav kinaare se khul gayi ho, aur halke-halke paani mein beh rahi ho.
+
+Wo Nehru se kehti hain ki koi unhe bula raha hai.
+
+Ya ki kamre mein koi aaya hai. Koi aakriti.
+
+Nehru dekhte hain. Wahan koi nahi hai.
+
+Kamra wahi hai. Bistar, kursi, khidki. Par ab usme kuch aur bhi hai, jo sirf Kamala dekh paa rahi hain.
+
+Aur phir 28 February 1936.
+
+Wahi tareekh. Wahi din jis din Nehru ka jahaaz udna tha.
+
+Subah. Bahut subah.
+
+Kamala ne aakhri saans li.
+
+Paas mein Indira thi. Aur Dr. M. Atal, ek dost jo in mahinon mein lagataar saath bane rahe, chupchaap, bina kuch maange.
+
+Jis din Nehru unhe chhodkar jaane wale the, usi din Kamala unhe chhodkar chali gayi.
+
+Aas-paas ke shehron se kuch dost aaye. Sab milkar Kamala ko Lausanne ke shamshaan le gaye.
+
+Aur kuch hi minuton mein sab khatam ho gaya.
+
+Wo chehra jo jail ki mulaqaton mein zabardasti muskurata tha. Wo chehra jo Badenweiler ke kamre mein chamakti aankhon se kal ke sapne dekhta tha.
+
+Sab raakh ho gaya.
+
+Itni zinda aurat. Itni roshan.
+
+Ek chhote se kalash mein.
+
+## Part 7: Rome ki ek shaam, aur wapsi
+
+Ab Europe mein rukne ki koi wajah nahi bachi thi. Jo dhaaga Nehru ko yahan baandhe hue tha, wo toot gaya tha.
+
+Par Nehru kehte hain ki sirf dhaaga nahi toota tha. Unke andar bhi kuch toot gaya tha. Aur ye unhe dheere-dheere samajh aaya.
+
+Wo kaale din the. Sochne ki koshish karte, to soch bikhar jaati.
+
+Wo aur Indira kuch din Montreux mein bitaate hain. Geneva jheel ke kinaare ek shaant shehar. Paani, pahaad, aur do log jo ek hi khaali jagah ke dono taraf baithe hain.
+
+Wahan ek din ek mehmaan aata hai.
+
+Lausanne mein Italy ka consul. Wo Mussolini ka sandesh lekar aaya hai. Ki unhe Nehru ke dukh mein hamdardi hai.
+
+Nehru hairaan hote hain. Wo Mussolini se kabhi mile nahi. Phir bhi tameez se kehte hain: mera shukriya pahuncha dijiye.
+
+Par is hamdardi ke peeche ek kahani thi.
+
+Kuch hafte pehle, jab Kamala abhi zinda thi, Rome se ek dost ka sandesh aaya tha. Mussolini aapse milna chahte hain. Phir jab Nehru ki wapsi ki baat chali, wahi nyota dobara aaya. Is baar zor ke saath.
+
+Nehru bad-tameezi nahi karna chahte the. Aur sach kahein to thodi jigyaasa bhi thi. Ye aadmi, jise uske log "Duce" kehte hain, asal mein kaisa hai?
+
+Par us waqt Italy ki fauj Abyssinia par, yaani aaj ke Ethiopia par, hamla kar rahi thi.
+
+Nehru jaante the ki ek mulaqat, ek haath milana, kya ban sakta hai. Fascist prachaar use uchhalega. Aur baad mein wo kitna bhi inkaar karein, koi nahi sunega.
+
+Isliye unhone saaf mana kar diya. Ek baar nahi, kai baar. Aur Kamala ke jaane ke baad ek aur sandesh bheja: is waqt main kisi se milne ki haalat mein nahi hoon.
+
+Par ek mushkil thi. Jahaaz Rome hokar jaata tha. Ek shaam aur ek raat wahan rukna hi tha.
+
+Kuch din baad Nehru Marseille se jahaaz pakadte hain. Poorab ki taraf.
+
+Dopahar dhal rahi hai jab jahaaz Rome utarta hai.
+
+Wahan ek bada afsar intezaar kar raha hai. Haath mein Mussolini ke daftar se ek chitthi.
+
+Chitthi kehti hai: Duce aapse milkar khush honge. Aaj shaam, chhe baje.
+
+Ab us ghante ko dekhiye.
+
+Ek taraf Nehru. Thake hue, dukh se bhare. Saath mein patni ki raakh.
+
+Doosri taraf ek afsar, jise upar se hukm mila hai.
+
+Nehru yaad dilaate hain: maine pehle hi mana kiya tha.
+
+Afsar kehta hai: sab tay ho chuka hai, ab badla nahi ja sakta. Aur agar aap nahi aaye, to shayad meri naukri chali jayegi. Akhbaar mein kuch nahi chhapega. Bas kuch minute. Duce sirf haath milana chahte hain.
+
+Nehru phir mana karte hain. Afsar phir samjhata hai.
+
+Aur ye poore ek ghante chalta hai.
+
+Dono taraf poori tameez hai. Koi awaaz oonchi nahi karta. Par tanaav badhta jaata hai. Ghadi ki suiyaan chhe ki taraf khisakti hain.
+
+Nehru baad mein kehte hain ki wo ghanta unke liye bahut thakaane wala tha. Aur phir halke se jodte hain: shayad us afsar ke liye aur bhi zyada.
+
+Chhe baj jaate hain.
+
+Aur Nehru nahi jhukte.
+
+Mussolini ke daftar mein phone jaata hai. Nehru nahi aa sakenge.
+
+Usi shaam Nehru ek chhoti si chitthi likhte hain. Afsos ki nyota qubool nahi kar sake. Aur hamdardi ke liye shukriya.
+
+Tameez bhi bachi rahi. Aur usool bhi.
+
+Phir safar aage. Cairo mein kuch purane dost milne aate hain.
+
+Aur Cairo ke baad, registaan.
+
+Yahi wo jagah hai jahan se humne aaj ki kahani shuru ki thi.
+
+Ab tak safar ne Nehru ko uljhaaye rakha tha. Ticket, intezaam, log, Rome ka wo ghanta. Man ko sochne ka waqt hi nahi mila tha.
+
+Par ab neeche sirf ret hai. Ghante dar ghante. Aur us khaali ret ke upar ek bhayanak akelapan unhe gher leta hai.
+
+Wo khud ko khokhla mehsoos karte hain. Jaise koi maqsad hi na bacha ho.
+
+Paas mein tokri hai. Tokri mein kalash.
+
+Kamala ka bas itna bacha hai. Aur saath dekhe gaye saare sapne bhi.
+
+Tabhi unhe ek kitaab yaad aati hai. Unki apni aatmakatha.
+
+Jab Kamala Bharat mein, Bhowali ke sanatorium mein thi, tab Nehru ne is kitaab ki baat unse ki thi. Kabhi-kabhi ek-do chapter padhkar sunaate the.
+
+Wahi drishya phir. Ek aadmi, haath mein panne, dheemi awaaz. Ek aurat, bistar par, sun rahi hai.
+
+Kamala ne us kitaab ka bas thoda sa hissa suna tha. Baaki wo kabhi nahi sunengi.
+
+Aur zindagi ki jo kitaab dono saath likh rahe the, uska ab koi naya chapter nahi aayega.
+
+Baghdad pahunchkar Nehru London mein apne publisher ko ek taar bhejte hain. Kitaab chhapne wali hai. Taar mein uska samarpan hai.
+
+Kamala ke naam. Us Kamala ke naam, jo ab nahi rahi.
+
+Phir Karachi. Bheed. Jaane-pehchaane chehre.
+
+Aur phir Allahabad.
+
+Ganga ka kinaara. Nadi tez beh rahi hai.
+
+Raakh dheere se paani mein utarti hai. Ek pal ke liye satah par tairti hai. Phir lehron ke saath beh jaati hai.
+
+Nehru wahan khade sochte hain. Ki ye nadi humare kitne purvajon ko isi tarah samundar tak le gayi hai.
+
+Aur humare baad aane wale kitne log, ek din, isi tarah inhi lehron par apna aakhri safar karenge.
+
+Kamala ab us lambi qataar mein hain.
 
 ## Aaj ke hisaab se
 
-Ye hissa Nehru ka nahi, humara hai. Teen baatein.
+Ye hissa Nehru ka nahi, humara hai. Do baatein.
 
-Pehli, ye chapter kitaab mein kyun hai? "The Discovery of India" Bharat ke itihaas ki kitaab hai. Phir bhi doosra hi chapter ek patni ki maut ke baare mein hai. Pichhle episode mein Nehru ne khud kaha tha ki agla chapter niji hoga, kyunki usi se unka mizaaj samajh aayega. Ab samajh aata hai. Jo aadmi Bharat ki khoj par nikal raha hai, wo andar se toota hua hai. Aur ye safar Ganga ke kinaare khatam hota hai, jo khud Bharat ke ateet ki sabse purani nishaani hai.
+Pehli, ye chapter yahan kyun hai? "The Discovery of India" Bharat ke itihaas ki kitaab hai. Phir bhi doosra hi chapter ek kamre aur ek bistar ke baare mein hai. Shayad isliye ki jo aadmi Bharat ko khojne nikal raha hai, wo pehle khud ko khoya hua paata hai. Aur kahani Ganga ke kinaare khatam hoti hai, jo khud Bharat ki sabse purani yaad hai.
 
-Doosri, Mussolini wala kissa. Aaj ye chhota sa kissa lagta hai: ek aadmi ne ek mulaqat se mana kar diya. Par dhyan dijiye ki Nehru ek photo, ek haath milane ki keemat samajhte the. Aaj ki duniya mein, jahan ek photo pal bhar mein poori duniya mein phail jaati hai, ye samajh aur bhi kaam ki hai. 1936 mein Britain ke kai bade neta Mussolini ki tareef karte the, ye hum pichhle episode mein sun chuke hain.
+Doosri, Rome ka wo ek ghanta. Ek haath milane se mana karna chhoti baat lagti hai. Par Nehru jaante the ki ek tasveer kya keh sakti hai. Aaj, jab har tasveer pal bhar mein duniya ghoom aati hai, ye samajh aur bhi keemti hai.
 
-Teesri, auraton wala hissa. 1930 mein lakhon auratein sadkon par utri. Nehru ise zor dekar likhte hain. Aur saath mein imaandari se maante hain ki shaadi ke shuru ke saalon mein unhone apni hi patni ko wo saath nahi diya jo uska haq tha. Ek bade neta ka apni kami ko itne saaf shabdon mein maanna aaj bhi kam dikhta hai.
-
-Aapke liye ek sawal: Nehru kehte hain ki hum rajneeti aur arthshastra ki behson mein insaani rishton ko bhool jaate hain. Kya aaj bhi aisa hi hai?
+Aapke liye ek sawal: Nehru maante hain ki unhone apni patni ko der se samjha. Kya hum apne sabse kareebi logon ko tab tak poori tarah dekh paate hain, jab tak wo door na jaane lagein?
 
 ## Outro
 
@@ -305,4 +588,5 @@ Tab tak ke liye, namaskar.
 ## Sources
 
 - [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 2, "Badenweiler: Lausanne". Script ke saare tathya yahin se hain.
-- Kuch chhoti jaankari book se nahi, aam jaankari se hai: Kamala ki beemari TB thi, 26 January ko us daur mein Purna Swaraj Diwas manaya jaata tha, Ceylon aaj ka Sri Lanka hai, Abyssinia aaj ka Ethiopia hai, aur Montreux Geneva jheel ke kinaare hai. Record karne se pehle ek baar check kar lena.
+- Kuch chhoti jaankari book se nahi, aam jaankari se hai: Kamala ki beemari TB thi, Ceylon aaj ka Sri Lanka hai, Abyssinia aaj ka Ethiopia hai, aur Montreux Geneva jheel ke kinaare hai. Record karne se pehle ek baar check kar lena.
+- Mahaul ke kuch rang (devdaar, patte, kamre ki khidki, Ceylon ki hawa, ghadi ki suiyaan) kahani ke liye kalpana se hain, book ke tathya nahi.

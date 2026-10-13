@@ -34,11 +34,55 @@ REQUESTS_LOG = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".
                             "logs", "tts_requests.jsonl")
 
 
+POOL = os.path.expanduser("~/.hermes/keys/gemini_pool.json")
+FREE_LIMIT_PER_DAY = 10     # free tier: requests per key per day
+
+
+def _pool_load():
+    data = json.load(open(POOL))
+    today = time.strftime("%Y-%m-%d")
+    if data.get("day") != today:                 # reset the daily counters
+        for k in data["keys"]:
+            k["used_today"] = 0
+        data["day"] = today
+    return data
+
+
+def _pool_save(data):
+    data["updated"] = time.strftime("%Y-%m-%d %H:%M:%S")
+    tmp = POOL + ".tmp"
+    json.dump(data, open(tmp, "w"), indent=1)
+    os.replace(tmp, POOL)
+
+
+def pick_key():
+    """Least-used usable key of the day; None when every key is spent."""
+    data = _pool_load()
+    usable = [k for k in data["keys"]
+              if k.get("valid") and not k.get("exhausted_today")
+              and k.get("used_today", 0) < FREE_LIMIT_PER_DAY]
+    if not usable:
+        return None
+    usable.sort(key=lambda k: k.get("used_today", 0))
+    return usable[0]["key"]
+
+
+def mark_key(key, status):
+    data = _pool_load()
+    for k in data["keys"]:
+        if k["key"] == key:
+            k["used_today"] = k.get("used_today", 0) + 1
+            k["last_used"] = time.strftime("%Y-%m-%d %H:%M:%S")
+            if status in (429, 403):
+                k["exhausted_today"] = True
+    _pool_save(data)
+
+
 def api_key():
-    for line in open(ENV):
-        if line.startswith("GEMINI_API_KEY="):
-            return line.split("=", 1)[1].strip().strip('"').strip("'")
-    raise SystemExit("no GEMINI_API_KEY")
+    k = pick_key()
+    if not k:
+        raise SystemExit("every key in the pool is spent for today")
+    return k
 
 
 def wav_bytes(pcm: bytes, rate: int = 24000) -> bytes:
@@ -62,10 +106,11 @@ def synthesize(text: str, voice: str, model: str, out_wav: str, timeout=600):
             "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}},
         },
     }
+    key = api_key()
     req = urllib.request.Request(
         f"https://{HOST}/v1beta/models/{model}:generateContent",
         data=json.dumps(payload).encode(),
-        headers={"x-goog-api-key": api_key(), "Content-Type": "application/json"},
+        headers={"x-goog-api-key": key, "Content-Type": "application/json"},
         method="POST")
     t0 = time.time()
     try:
@@ -73,11 +118,13 @@ def synthesize(text: str, voice: str, model: str, out_wav: str, timeout=600):
             data = json.load(resp)
     except urllib.error.HTTPError as e:
         body = e.read().decode("utf-8", "replace")[:400]
+        mark_key(key, e.code)
         log_request(model=model, voice=voice, status=e.code, words=len(text.split()),
-                    error=body[:200])
+                    key=key[-6:], error=body[:200])
         raise RuntimeError(f"HTTP {e.code}: {body}") from None
+    mark_key(key, 200)
     log_request(model=model, voice=voice, status=200, words=len(text.split()),
-                chars=len(text), seconds=round(time.time() - t0, 1))
+                key=key[-6:], chars=len(text), seconds=round(time.time() - t0, 1))
     cand = data.get("candidates") or []
     if not cand:
         raise RuntimeError(f"no candidates: {json.dumps(data)[:300]}")
@@ -197,7 +244,7 @@ def main():
         if made >= args.max_requests:
             print(f"request budget ({args.max_requests}) reached — stopping", flush=True)
             sys.exit(3)
-        for attempt in (1, 2):
+        for attempt in (1, 2, 3):
             try:
                 t = synthesize(c, args.voice, args.model, wav)
                 made += 1
@@ -205,10 +252,17 @@ def main():
                 break
             except RuntimeError as e:
                 msg = str(e)
-                if "HTTP 429" in msg:
+                quota = ("HTTP 429" in msg) or ("HTTP 403" in msg)
+                if quota:
+                    left = sum(1 for k in _pool_load()["keys"]
+                               if k.get("valid") and not k.get("exhausted_today"))
+                    print(f"{n}: quota hit on a key, {left} keys left in pool", flush=True)
+                    if left == 0:
+                        print("every key spent for today — stopping", flush=True)
+                        sys.exit(4)
                     made += 1
-                    print(f"{n}: QUOTA 429 — {msg[:200]}", flush=True)
-                    sys.exit(4)
+                    time.sleep(5)
+                    continue
                 print(f"{n}: attempt {attempt} failed — {msg[:250]}", flush=True)
                 if attempt == 1:
                     made += 1

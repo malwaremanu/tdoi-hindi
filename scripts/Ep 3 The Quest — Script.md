@@ -4,249 +4,609 @@ Oct 13, 2026 · @Manupal Choudhary
 
 ## Episode info
 
-Ye script Chapter 3, "The Quest", ke gyaarahon sub-sections ko apne shabdon mein cover karti hai. Lambai lagbhag 4,000 shabd hai, yaani kareeb 28-30 minute ka audio (andaaza, gina nahi hai).
+Ye script Chapter 3, "The Quest", ko apne shabdon mein kehti hai. Is baar kahani dheere kahi gayi hai: kam tathya, zyada drishya. Chapter ke gyaarah sub-sections mein se kuch ko poori jagah mili hai, kuch ko bas ek jhalak. Lambai lagbhag 4,800 shabd hai, yaani kareeb 32-35 minute ka audio (andaaza, gina nahi hai).
 
-- Original ka koi sentence use nahi hua. Jahan Nehru kisi kavi ya lekhak ko quote karte hain, wahan sirf zikr hai.
-- Kram apna hai: shuruaat "Bharat Mata ki jai" wale sawal-jawab se hoti hai, jo book mein chapter ke beech mein aata hai.
+- Original ka koi sentence use nahi hua. Nehru ki apni baat sirf reported speech mein hai, apne shabdon mein.
+- Kram apna hai: shuruaat "Bharat Mata ki jai" wale maidan se hoti hai, jo book mein chapter ke beech mein aata hai. Kahani wahin laut kar poori hoti hai.
+- Kuch tathya jaan-boojhkar chhode gaye hain (Russia, America aur China ki urja wali tulna, soobon ki lambi list, nadiyon ka poora byora), taaki baaki pal saans le sakein. Jahan mahaul ki kalpana ki gayi hai, wahan script khud "shayad" ya "sochiye" kehti hai.
 
 * [x] Narration: Asha. Podcast: "The Discovery of India, Hindi mein".
 
 | Book ka sub-section | Script mein kahan |
 | --- | --- |
 | The Quest | Part 1 |
-| The Panorama Of India's Past | Part 1 |
-| Nationalism and Internationalism | Part 2 |
+| The Panorama Of India's Past | Part 2 |
+| Nationalism and Internationalism | Part 3 (jhalak) |
 | India's Strength and Weakness | Part 3 |
 | The Search for India | Part 4 |
-| Bhārat Mātā | Cold open + Part 4 |
-| The Variety and Unity of India | Part 5 |
+| Bhārat Mātā | Cold open + Part 5 |
+| The Variety and Unity of India | Part 6 (jhalak) |
 | Travelling through India | Part 6 |
-| General Elections | Part 6 |
-| The Culture of the Masses | Part 7 |
-| Two Lives | Part 8 |
+| General Elections | Part 7 |
+| The Culture of the Masses | Part 8 |
+| Two Lives | Part 9 |
 
 ## Cold open
 
-Uttar Bharat ka ek gaon. Khule maidan mein hazaaron kisaan baithe hain. Dhool udti hai. Ek car aakar rukti hai, aur usse ek dubla-patla aadmi utarta hai. Sir par safed topi hai.
+Dopahar dhal rahi hai. Uttar Bharat ka ek gaon.
 
-Bheed khadi ho jaati hai. Ek awaaz uthti hai, phir hazaar awaazein: "Bharat Mata ki jai!"
+Gaon ke bahar ek khula maidan hai. Fasal kat chuki hai, aur zameen sookhi aur sakht hai.
 
-Mehmaan manch par pahunchta hai. Bhashan shuru karne ki jagah wo ek sawal poochta hai. "Aap abhi jiski jai bol rahe the, wo Bharat Mata kaun hai?"
+Is maidan mein log baithe hain. Saikdon nahi. Hazaaron.
 
-Sannata. Log ek-doosre ki taraf dekhte hain. Kuch muskurate hain. Ye kaisa sawal hai? Phir peeche se ek Jat kisaan bolta hai. Uske haath mitti se sakht hain, aur uske baap-dada bhi isi zameen par hal chalate aaye hain. "Dharti," wo kehta hai. "Ye dharti hi Bharat Mata hai."
+Kuch subah se baithe hain. Kuch kos bhar paidal chalkar aaye hain. Shayad kisi ke kandhe par gamchha hai, kisi ki god mein bachcha. Hawa mein dhool hai, aur dhool mein dhoop.
 
-Mehmaan phir poochta hai. "Kaun si dharti? Aapke gaon ka khet? Zile ki zameen? Ya poore desh ki?"
+Sab ek hi taraf dekh rahe hain. Kachchi sadak ki taraf.
 
-Ye mehmaan hain Jawaharlal Nehru. Saal hai 1936-37. Aur unke is sawal ka jawab jab unhone khud diya, to us kisaan ki aankhon mein jo chamak aayi, wo unhe kabhi nahi bhooli.
+Phir door se ek gaadi aati dikhti hai. Peeche dhool ka ek lamba baadal.
 
-Namaskar, main hoon Asha, aur ye hai "The Discovery of India, Hindi mein". Aaj Episode 3: The Quest, yaani talaash.
+Gaadi rukti hai. Usme se ek dubla-patla aadmi utarta hai. Sir par safed topi. Chehre par thakaan, par aankhon mein kuch tez.
 
-## Part 1: Bachpan ka Bharat, kitaabon ka Bharat
+Bheed khadi ho jaati hai.
 
-Pichhle do episode Ahmadnagar ke qile aur Europe ke ek sanatorium mein beete. Ab Nehru apni kitaab ke asal vishay par aate hain. Aur shuruaat ek imaandar sawal se hoti hai: ye Bharat, jiske liye main jail kaat raha hoon, aakhir hai kya?
+Aur phir ek awaaz uthti hai. Phir das. Phir hazaar.
 
-Wo apne bachpan mein lautte hain. Ek chhote ladke ke man mein desh ki jo dhundhli tasveer thi, wo kahan se aayi? Daadi-naani ki kahaniyon se, puraanon ke kisson se, aur aas-paas ki sachchai se. Ye tasveer kabhi peeche chali jaati, kabhi saamne aa jaati. Par mitti kabhi nahi.
+"Bharat Mata ki jai!"
 
-Is tasveer mein do bhaav saath-saath the. Garv bhi, aur sharm bhi. Garv ek purani sabhyata ka. Sharm andhvishwas ki, ghise-pite reeti-riwaazon ki, aur sabse zyada is baat ki ki desh ghulam tha aur gareeb tha.
+Wo aadmi manch par chadhta hai. Log intezaar kar rahe hain ki ab bhashan shuru hoga.
 
-Jab wo bade hue aur azadi ki ladai mein utre, to Bharat ka khayal unpar chha gaya. Pehla dhakka seedha tha. Koi bhi insaan doosre ka hukm nahi maanna chahta. Unhe ye baat bardasht se bahar lagti thi ki itna bada, itna purana desh, door samundar ke paar ek chhote se dweep ke kabze mein ho. Aur usse bhi buri baat ye ki is zabardasti ke rishte ne desh ko bhayankar gareebi mein dhakel diya tha. Ladne ke liye itni wajah kaafi thi.
+Par wo bhashan shuru nahi karta.
 
-Par sochne wale man ke liye kaafi nahi thi. Sawal pe sawal uthte. Naqshe aur zameen ke alawa Bharat kya hai? Pehle uski taaqat kahan se aati thi? Wo taaqat gayi kaise? Kya poori tarah chali gayi? Aaj ki duniya mein uski jagah kya hai?
+Wo ek sawal poochta hai.
 
-Ek kabooli bhi hai, jo is chapter ki jaan hai. Nehru maante hain ki wo Bharat ke paas lagbhag ek baahri aalochak ki tarah aaye. Unki padhai England mein hui thi. Wo desh ko kuch-kuch ek hamdard angrez ki nazar se dekhte the. Unhe bahut kuch badalna tha, naye kapde pehnane the.
+Abhi aap jiski jai bol rahe the, ye Bharat Mata kaun hai?
 
-Phir shak hua. Jo aadmi itne purane virse ko kabaad samajhkar phenkne chala hai, kya wo use jaanta bhi hai? Haan, bahut kuch phenkne layak tha. Par koi desh hazaaron saal tak zinda aur sabhya nahi rehta, agar uske andar kuch gehra aur tikau na ho. Wo cheez kya thi? Ye sawal unhe ateet ki taraf le gaya.
+Maidan mein sannata chha jaata hai.
 
-To unhone padhna shuru kiya. Itihaas, aur purana sahitya. Soch ki taaqat, bhasha ki safai, aur dimaag ki ameeri dekhkar wo hairaan reh gaye.
+Log ek-doosre ka munh dekhte hain. Koi halke se hans deta hai. Ye bhi koi poochne ki baat hai?
 
-Phir kalpana mein safar. Unhone un yaatriyon ke saath Bharat ghooma jo sadiyon pehle China, Iran aur Madhya Asia se aaye the aur apne safar ka haal likh gaye. Unhone socha ki Bharat ka asar door poorab tak kahan-kahan pahuncha. Cambodia mein Angkor ke mandir. Java mein Borobudur.
+Saal hai 1936. Ya shayad 1937 ki shuruaat. Aur sawal poochne wale aadmi ka naam hai Jawaharlal Nehru.
 
-Himalaya unhe kheenchta tha. Ek to pahadon se pyaar, doosre Kashmir se khoon ka rishta, kyunki unka parivar wahin se aaya tha. Wahan unhe aaj ki khoobsurti bhi dikhti, aur beete yugon ki yaadein bhi.
+Is sawal ka jawab us maidan mein kya mila, wo hum aaj ki kahani ke aakhir mein sunenge.
 
-Aur Himalaya se nikalne wali nadiyan. Har nadi itihaas ka ek panna. Sindhu, jisse "India" aur "Hindu" jaise naam bane. Brahmaputra, jo pahadon ko cheerkar raasta banata hai. Yamuna, jiske kinaare Krishna ki leelaon ke kisse bikhre hain. Aur Ganga, jo unke liye Bharat ki sabse apni nadi thi, jiski kahani desh ki sabhyata ki kahani hai.
+Kyunki ye sawal sirf kisaanon se nahi poocha gaya tha. Nehru ye sawal barson se khud se bhi pooch rahe the.
 
-Wo purane khandaharon mein gaye. Ajanta aur Ellora ki gufaayein. Mumbai ke paas Elephanta. Phir baad ke daur ki imaaratein, Agra aur Delhi mein, jahan har pathar kuch kehta hai.
+Namaskar, main hoon Asha, aur ye hai "The Discovery of India, Hindi mein". Aaj Episode 3: The Quest. Yaani talaash.
 
-Aur ek drishya, jo unke apne shehar ka tha. Allahabad mein, ya Hardwar mein, Kumbh ka mela. Laakhon log, jaise unke purvaj hazaaron saal se aate rahe, Ganga mein dubki lagane aate. Nehru ko yaad aata ki terah sau saal pehle ek Chini yaatri ne aise hi mele ka haal likha tha. Aur tab bhi ye mela itna purana tha ki uski shuruaat kisi ko yaad nahi thi. Wo khud se poochte: kaun sa vishwas hai jo peedhi-dar-peedhi logon ko is nadi tak kheench laata hai?
+Aaj ki kahani ek safar ki kahani hai. Kitaabon se khet tak. Shehar se gaon tak. Aur ek aadmi ke apne man se, ek poore desh tak.
 
-## Part 2: Desh, aur duniya
+## Part 1: Ek kothri, ek sawal
 
-Nehru maante hain ki Bharat ke liye unka lagaav aksar dil ka maamla tha, dimaag ka kam. Is bhaav ka naam hai rashtravaad.
+Pehle ek pal ke liye wahan chaliye jahan ye kitaab likhi ja rahi hai.
 
-Wo rashtravaad ka bachaav karte hain. Ghulam desh mein ye swabhavik hai, aur sehatmand bhi. Jo desh kisi aur ke kabze mein hai, uski pehli chahat azadi hi hogi. Aur Bharat jaise desh mein, jiski apni pehchaan itni gehri hai aur virasat itni lambi, ye chahat do guni ho jaati hai.
+Ahmadnagar ka qila. Ek jail. Saal 1944.
 
-Par wo yahan ruk nahi jaate. Unka kehna hai ki unka rashtravaad kai cheezon se bandha hua tha. Wo duniya ghoom chuke the. Spain ki ladai, China par hamla, Europe ka sankat, sab unhone kareeb se dekha tha. Unhe dheere-dheere samajh aaya ki koi desh akela, deewar khadi karke nahi jee sakta. Aur jeena chahe bhi, to ye achha nahi hoga.
+Ek chhota sa kamra. Ek mez. Kuch kaagaz. Bahar ek aangan, jahan shaam ko qaidi tehalte hain.
 
-Unke sapnon ka Bharat duniya se juda hua tha. Rajneeti mein, vyapaar mein, sanskriti mein, doosre deshon ke saath kandhe se kandha milakar chalne wala.
+Pichhle do episode mein humne Nehru ko is qile mein dekha, aur phir yaadon mein Europe ke ek sanatorium tak gaye. Ab Nehru kalam uthate hain aur us vishay par aate hain jiske liye ye poori kitaab hai.
 
-Par kal tak pahunchne ke liye aaj se guzarna padta hai. Aur aaj ki jadein ek lambe, uljhe hue ateet mein hain. Isliye samajhne ke liye Nehru peeche mudte hain.
+Bharat.
 
-Yahan ek baat dhyan dene layak hai. Nehru ka rashtravaad doosron se nafrat par nahi tika. Wo desh ke liye ladte hain, par duniya ki taraf khidki khuli rakhte hain.
+Par wo shuruaat kisi bade elaan se nahi karte. Wo shuruaat ek imaandar sawal se karte hain.
 
-## Part 3: Taaqat kahan se aati hai
+Ye Bharat, jiske liye main baar-baar jail aata hoon, ye aakhir hai kya?
 
-Ab sabse bada sawal. Bharat kamzor kyun hua?
+Sochiye. Ek aadmi jo lagbhag bees saal se is desh ke liye lad raha hai. Jiski jawaani salaakhon ke peechhe guzri hai. Aur wo kaagaz par likh raha hai ki mujhe theek se pata nahi ki main kis cheez se itna pyaar karta hoon.
 
-Haal ki wajah Nehru ko saaf dikhti hai. Bharat technique mein peechhe reh gaya. Europe, jo kai maamlon mein sadiyon tak peechhe tha, aage nikal gaya. Uske peechhe vigyaan ki soch thi, ek ubalti hui zindagi thi, samundar paar naye desh dhoondhne ka josh tha. Nayi technique se nayi fauji taaqat aayi. Aur us taaqat ke dum par Europe ke desh poorab mein phail gaye. Ye kahani sirf Bharat ki nahi, lagbhag poore Asia ki hai.
+Ye kabooli chhoti nahi hai.
 
-Par Nehru isse gehra sawal poochte hain. Kya kisi qaum ke andar koi kuan hota hai, jisse use taaqat milti hai? Kya Bharat ka wo kuan sookh gaya? Ya uske neeche abhi bhi chhupe hue sote hain, jo use phir bhar sakte hain?
+Phir Nehru apne bachpan mein lautte hain.
 
-Wo ek darawna sawal bhi saamne rakhte hain. Hum ek purani qaum hain. Ya sahi kahein to bahut si nasalon ka ek ajeeb mishran. Hamari yaadein itihaas ki subah tak jaati hain. To kya humara din dhal chuka hai? Kya hum zindagi ki shaam mein hain, ek boodhe aadmi ki tarah, jise ab sirf aaraam aur neend chahiye?
+Allahabad ka ek bada ghar. Ek chhota ladka. Shayad kisi raat ko koi bada use kahani suna raha hai. Raja, rishi, yuddh, devta.
 
-Unka jawab hai ki koi qaum hamesha ek jaisi nahi rehti. Log milte-julte hain, badalte hain. Kabhi lagta hai ki koi qaum mar gayi, aur phir wo nayi shakl mein uth khadi hoti hai. Itihaas mein aisi badi sabhyataon ki misaalein bhari padi hain jo dheere-dheere mit gayi, ya achanak khatam ho gayi, aur unki jagah kisi nayi, josheeli sanskriti ne le li.
+Us ladke ke man mein desh ki ek tasveer banti hai. Dhundhli si. Kuch kahaniyon se, kuch puraanon se, kuch aas-paas jo dikhta tha usse.
 
-To wo cheez kya hai jo kisi qaum ko zinda rakhti hai? Nehru use ek andar ki urja kehte hain. Wo na ho, to har koshish bekaar hai. Jaise koi boodha aadmi jawaan hone ka naatak kare.
+Aur Nehru kehte hain ki is tasveer mein do bhaav ek saath the.
 
-Aaj ki duniya mein ye urja Nehru ko teen logon mein sabse zyada dikhti hai. Americans, Russians, aur Chinese. Wo khud maante hain ki ye ajeeb jodi hai.
+Ek tha garv. Ek bahut purani sabhyata ka garv.
 
-America ke log nayi qaum hain. Unki jadein purani duniya mein hain, par unpar purane bojh nahi. Isliye unme itni urja hai. Canada, Australia aur New Zealand ke logon ke saath bhi yahi baat hai.
+Aur doosra tha sharm.
 
-Russia ki misaal alag hai. Wahan ek purani qaum ne apne aap ko phir se jawaan banaya. Keemat chukayi, aur aam logon ke andar dabi hui taaqat ko jagaya. Nehru umeed karte hain ki shayad ye jung, apni saari tabahi ke bawajood, kuch aur qaumon ko bhi naya jeevan de.
+Sharm andhvishwas ki. Un riwaazon ki jo kab ke bekaar ho chuke the. Aur sabse zyada is baat ki, ki desh ghulam tha. Aur gareeb.
 
-Aur China. Na nayi qaum, na Russia jaisa upar se neeche tak ka inqilaab. Saat saal se ek kroor jung jhel raha hai. Phir bhi Nehru ko Chini logon ki jeevan-shakti hairaan karti hai. Itni pakki buniyaad wali qaum doob jaaye, ye unhe sochna bhi mushkil lagta hai.
+Ladka bada hua. Padhne England gaya. Aur jab wapas aaya, to uski aankhein badal chuki thi.
 
-Aur Bharat? Nehru imaandaari se kehte hain ki kabhi-kabhi unhe apne logon mein bhi wahi chamak dikhi. Hamesha nahi. Aur shayad unki chahat unki nazar ko dhundhla kar rahi ho.
+Yahan Nehru ek aisi baat kehte hain jo kisi bhi neta ke liye kehna aasaan nahi.
 
-Par apni yaatraon mein wo yahi dhoondhte rahe. Agar ye urja hai, to sab theek hoga. Agar bilkul nahi hai, to saari rajneeti aur saare naare dikhawa hain. Unhe aisa koi samjhauta nahi chahiye tha jisme log thode behtar haal mein, par purane dhang se hi jeete rahein. Unhe lagta tha ki logon ke andar bahut si taaqat dabi padi hai, aur use azaad karna hai.
+Wo maante hain ki wo Bharat ke paas lagbhag ek bahar wale ki tarah aaye.
 
-Aur ek tez baat. Bharat jaisa desh duniya mein chhota kirdaar nahi nibha sakta. Ya to wo bahut maayne rakhega, ya bilkul nahi. Beech ka koi raasta Nehru ko na pasand tha, na mumkin lagta tha.
+Ek aise aadmi ki tarah jo desh se hamdardi to rakhta hai, par use thoda upar se dekhta hai. Jaise koi bhala angrez dekhe. Use lagta tha ki is desh mein bahut kuch galat hai. Bahut kuch badalna hai. Ise naye kapde pehnane hain.
 
-## Part 4: Gaon ka Bharat, aur Bharat Mata
+Phir ek din, ek shak.
 
-Ab wo daur, jab ye khoj kitaabon se nikalkar khet tak pahunchi.
+Kya main is desh ko jaanta bhi hoon?
 
-Bees ke dashak mein Gandhiji ke andolanon ne shehar ke padhe-likhe naujawanon ko gaon ki taraf bheja. Nehru jaise log, jo gaon ko lagbhag bhool chuke the, achanak ek doosre Bharat ke aamne-saamne the.
+Jo aadmi ek hazaaron saal purane ghar ka saamaan uthakar bahar phenkne chala hai, kya usne kabhi us ghar ke kamre dekhe hain?
 
-Ye nazara hila dene wala tha. Ek to bhayankar gareebi aur samasyaon ka pahaad. Doosre, isne unki kai pakki dharnaaon ko hila diya. Jo Bharat kitaabon mein tha, wo yahan nahi tha. Aur jo yahan tha, wo kitaabon mein nahi tha.
+Haan, bahut kuch phenkne layak tha. Nehru ye maante hain.
 
-Har kisi par iska asar alag hua. Kuch log gaon ko pehle se jaante the, unke liye kuch naya nahi tha. Par Nehru ke liye ye sach mein ek khoj thi. Apne logon ki kamiyan unhe dikhti thi, aur chubhti bhi thi. Phir bhi gaon ke logon mein unhe kuch aisa mila jise shabdon mein baandhna mushkil tha. Kuch aisa jo unhe shehar ke middle class mein nahi mila tha.
+Par koi desh hazaaron saal tak bas yun hi zinda nahi rehta. Uske andar kuch to hoga. Kuch gehra. Kuch jo bar-bar toot kar bhi khada ho jaata hai.
 
-Wo saaf karte hain ki wo "janta" ko kisi aadarsh moorti ki tarah nahi dekhte. Na hi ek khaali shabd ki tarah. Itni badi aabaadi mein bhi wo logon ko alag-alag insaan ki tarah dekhne ki koshish karte hain.
+Wo cheez kya thi?
 
-Shayad isliye ki unhe zyada umeed nahi thi, unhe niraasha bhi nahi hui. Jitna socha tha, usse zyada mila. Unhe lagta hai ki logon mein jo thehraav aur chhupi taaqat thi, wo shayad purani Bharatiya sanskriti ki wajah se thi, jo thodi-bahut ab bhi bachi thi. Pichhle do sau saal ki maar mein bahut kuch toot gaya tha. Jo bacha, usme kuch keemti tha, aur kuch bekaar aur bura bhi.
+Yahi sawal unhe peechhe ki taraf le gaya. Ateet ki taraf.
 
-Ab wapas us maidan mein, jahan se humne shuru kiya tha.
+## Part 2: Kalpana ki yaatra
 
-Nehru ek sabha se doosri sabha ghoomte. Shehron mein wo Bharat ki baat kam karte, kyunki wahan ke log kuch aur sunna chahte the. Par gaon mein, kisaanon ke saamne, wo desh ki baat karte. Ek bada desh, jiska har hissa alag hai, phir bhi sab Bharat hai.
+To Nehru ne padhna shuru kiya.
 
-Wo unhe apni yaatraon ke baare mein batate. Uttar-pashchim mein Khyber darre se lekar door dakshin mein Kanyakumari tak. Har jagah kisaan wahi sawal poochte the. Gareebi. Karz. Zameendaar aur mahajan. Bhaari lagaan aur tax. Police ki zyadti. Aur ye sab ek hi dhaanche mein bandha tha, jo videshi sarkar ne khada kiya tha. Isliye swaraj sabka hoga, ya kisi ka nahi.
+Jail ki kothri mein, ya safar ke beech kisi raat, purani kitaabein khulti hain. Itihaas. Kavita. Darshan.
 
-Wo unhe duniya ki baat bhi batate. China, Spain, Abyssinia, Misr, Soviet Union, America. Ye mushkil kaam tha, par utna mushkil nahi jitna Nehru ne socha tha. Purane mahakaavyon ne logon ke man mein pehle se desh ka ek naqsha bana rakha tha. Kuch log teerth-yatra par desh ke chaaron kono tak ho aaye the. Kuch purane fauji the, jo videsh mein lad chuke the.
+Aur wo hairaan reh jaate hain.
 
-Aur phir wo pal. "Bharat Mata ki jai!" Nehru achanak poochte, ye Bharat Mata kaun hai? Log hans padte. Hairaan hote. Ek-doosre ko dekhte. Phir koi bolta, dharti. Nehru poochte, kaun si dharti? Sawal aur jawab chalte rehte. Aakhir log jhunjhlakar kehte, aap hi bata dijiye.
+Itni saaf soch. Itni sundar bhasha. Itna bada dimaag, jo hazaaron saal pehle in sawalon se jooj raha tha ki duniya kya hai, aur insaan kya hai.
 
-Aur Nehru batate. Haan, ye pahad, ye nadiyan, ye jungle, ye khet jo humein anaaj dete hain, sab humein pyaare hain. Par aakhir mein jo sabse zyada maayne rakhta hai, wo hain is desh ke log. Aap jaise, mere jaise. Karodon log, jo is poore desh mein phaile hain. Bharat Mata yahi log hain. Uski jai, inki jai hai.
+Phir Nehru ek aur safar karte hain. Kalpana ka safar.
 
-Phir wo kehte: aap is Bharat Mata ke hisse hain. Ek tarah se aap khud Bharat Mata hain.
+Sadiyon pehle kuch yaatri Bharat aaye the. China se, Iran se, Madhya Asia ke registaanon ko paar karke. Wo paidal aaye, pahaad laanghkar aaye. Aur jo dekha, wo likh gaye.
 
-Ye baat dheere-dheere unke man mein utarti. Aur unki aankhein aise chamak uthti, jaise unhone koi bahut badi cheez dhoondh li ho.
+Nehru unki likhi kitaabein padhte hain. Aur jaise unke saath-saath chalte hain.
 
-## Part 5: Itne alag, phir bhi ek
+Sochiye. Ek kothri mein baitha aadmi. Aur uska man ek Chini bhikshu ke peeche-peeche, kisi dhool bhari sadak par, kisi purane vihaar ki taraf ja raha hai.
 
-Bharat ki sabse badi paheli shayad yahi hai. Itni vividhta, aur phir bhi ekta.
+Phir unka man Himalaya ki taraf jaata hai.
 
-Vividhta aankh se dikhti hai. Logon ki shakal-soorat mein, khane mein, kapdon mein, bolchaal mein. Nehru do chhoron ki misaal dete hain: uttar-pashchim ka Pathan, aur dakshin ka Tamil. Dono mein bahut kam baatein milti hain. Pathan ka naach, uski boli, uska pehnawa, sab alag. Par Nehru ke liye Pathan utna hi Bharatiya hai jitna Tamil. Baaki sab in dono ke beech kahin aate hain.
+Pahaad unhe hamesha kheenchte the. Aur Kashmir se unka ek khoon ka rishta tha, kyunki unka parivaar kabhi wahin se aaya tha.
 
-Bengali, Marathi, Gujarati, Tamil, Telugu, Oriya, Assamese, Kannad, Malayali, Sindhi, Punjabi, Pathan, Kashmiri, Rajput, aur beech mein Hindustani bolne wala bada ilaka. Sab ne sadiyon tak apni pehchaan bachaye rakhi. Phir bhi sab ki virasat ek hai, aur sab ke andar kuch ek jaise naitik aur maansik guna hain.
+Aur pahaadon se utarti nadiyan.
 
-Nehru ka kehna hai ki purana Bharat, purane China ki tarah, apne aap mein ek poori duniya tha. Baahar se jo bhi aaya, use apne andar sama liya, aur apna rang de diya.
+Nehru ke liye har nadi ek kahani thi. Par ek nadi sabse apni thi. Ganga.
 
-Ek aur baat wo jodte hain, jo aaj ke zamane ki hai. Videsh mein Bharatiya log, apne andar ke saare matbhed ke bawajood, ek Bharatiya samooh ki tarah rehte hain. Bharat ka Isai kahin bhi jaye, use Bharatiya hi maana jaata hai. Bharat ka Musalmaan Turkey mein ho, Arab mein ya Iran mein, jahan Islam hi bada dharm hai, wahan bhi wo Bharatiya hi kehlata hai. Baahar wale us ekta ko pehchaan lete hain, jise ghar ke andar kuch log maanne se mana karte hain.
+Wo Ganga jo unke shehar Allahabad se hokar behti hai. Wahi Ganga jis mein, pichhle episode mein, humne unhe Kamala ki raakh bahaate dekha tha.
 
-## Part 6: Ek crore log, aur ek chunav
+Aur Ganga ke kinaare ek drishya hai jo Nehru ko baar-baar khinchta hai.
 
-Ab ek safar ki baat, jo aaj bhi hairat mein daalta hai.
+Kumbh ka mela.
 
-1936 ke aakhir aur 1937 ki shuruaat mein Nehru Congress ke adhyaksh the. Unhone poore desh ka daura kiya. Rail se, car se, aur jahan sadak khatam ho jaaye, wahan jo bhi mil jaaye usse. Kahin ghoda, kahin paidal.
+Sochiye us subah ko. Abhi suraj nikla bhi nahi. Thand hai. Ret par, nadi ki taraf, ek ant-heen qataar chal rahi hai.
 
-Kisi ne baad mein hisaab lagaya ki in mahinon mein lagbhag ek crore log unki sabhaon mein khud aaye. Aur sadak ke raaste aate-jaate laakhon aur logon se kisi na kisi tarah mulaqat hui. Sabse badi sabhaon mein ek-ek lakh log hote the. Bees hazaar ki bheed to aam baat thi.
+Boodhe, jo laathi ke sahare hain. Auratein, jinke sir par potliyan hain. Bachche, jo neend mein maa ka pallu pakde chal rahe hain.
 
-Ek kissa sunne layak hai. Kabhi kisi chhote qasbe se guzarte hue Nehru dekhte ki sadkein sooni hain, dukaanein band hain. Jaise shehar khaali ho gaya ho. Phir pata chalta ki poora qasba, mard, auratein, bachche tak, shehar ke doosre chhor par sabha ki jagah pahunch chuka hai. Aur wahan dhoop mein baithkar sabr se unka intezaar kar raha hai.
+Laakhon log.
 
-Itni bhaag-daud mein shareer toota kyun nahi? Nehru khud nahi samajh paate. Dheere-dheere shareer is ghumantu zindagi mein dhal gaya. Do sabhaon ke beech car mein aadha ghanta gehri neend. Uthna mushkil lagta. Phir saamne naare lagati bheed dikhti, aur neend udd jaati.
+Koi bula nahi raha. Koi rasta nahi dikha raha. Phir bhi sab aa rahe hain. Jaise unke maa-baap aaye the. Jaise unke maa-baap ke maa-baap aaye the.
 
-Khana unhone bahut kam kar diya. Aksar raat ka khana chhod dete, aur isse behtar mehsoos karte. Par asli taaqat kahin aur se aati thi. Logon ka josh aur pyaar, jo har jagah unhe gher leta. Wo iske aadi ho gaye the, phir bhi kabhi poori tarah aadi nahi hue. Har din koi nayi hairani le aata.
+Nehru ko yaad aata hai ki lagbhag terah sau saal pehle ek Chini yaatri ne aise hi ek mele ka haal likha tha.
 
-Is daure ke peeche ek wajah thi: aane wala aam chunav.
+Terah sau saal.
 
-1937 mein suboon ki vidhan sabhaon ke chunav hone the. Vote ka haq sab ko nahi tha. Sirf lagbhag baarah pratishat aabaadi ko. Phir bhi ye pehle se kaafi behtar tha. Rajwadon ko chhodkar, poore Bharat mein kareeb teen crore log vote daal sakte the. Har soobe mein vidhan sabha chuni jaani thi. Kai suboon mein do sadan the, yaani do-do chunav. Ummeedwaar hazaaron mein the.
+Aur tab bhi, us yaatri ke zamane mein bhi, ye mela itna purana tha ki koi nahi jaanta tha ki ye kab shuru hua.
 
-Nehru ko chunav ke aam tareeqe pasand nahi the. Wo maante the ki chunav democracy ka zaroori hissa hain, inse bacha nahi ja sakta. Par chunav aksar insaan ka bura chehra saamne laate hain. Aur zaroori nahi ki behtar aadmi jeete. Samvedansheel log, jo dhakka-mukki karke aage badhna nahi jaante, aksar door hi rehte hain.
+Nehru khud se poochte hain. Wo kaun sa bharosa hai, wo kaun si dor hai, jo peedhi-dar-peedhi logon ko is nadi ke kinaare kheench laati hai?
 
-Nehru ka sawal aaj bhi chubhta hai: kya democracy sirf unke liye hai jinki chamdi moti ho, awaaz oonchi ho, aur zameer lachila?
+Nehru khud bahut dharmik aadmi nahi the. Par us bheed ko dekhkar wo chup ho jaate the.
 
-To unhone apna alag raasta chuna. Wo kisi ek ummeedwaar ke liye vote nahi maangte the. Wo poore desh mein ek hawa banana chahte the. Azadi ki ladai ki hawa, Congress ke chunav ghoshna-patra ki hawa. Unka hisaab seedha tha. Agar ye hawa ban gayi, to sab theek. Agar nahi bani, to kisi ek seat ke jeetne-haarne se kya fark padta hai.
+Kyunki wahan unhe kuch aisa dikhta tha jo kisi kitaab mein nahi tha.
 
-Aur dilchasp baat ye ki yahi tareeqa ummeedwaaron ke liye bhi sabse faaydemand nikla. Chhota sa chunav ek bade sawal se jud gaya: ek desh ki azadi, aur karodon gareebon ki sadiyon purani gareebi se mukti. Nehru ke shabdon ka bhaav ye hai ki ye vichaar samundar se aati taaza hawa ki tarah phaile, aur chhoti-moti chunavi chaalon ko uda le gaye.
+Ek desh, jo apni yaad ko apne pairon mein lekar chalta hai.
 
-Nehru kehte hain ki wo apne logon ko jaante the aur unhe pasand karte the. Un laakhon aankhon ne unhe bheed ka man padhna sikhaya tha.
+## Part 3: Shaam ka sawal
 
-## Part 7: Anpadh kisaan ki tasveeron wali gallery
+Ab ek mushkil sawal. Aur Nehru ise taalte nahi.
 
-In yaatraon mein Nehru ne ek aur cheez dekhi. Aaj ke Bharat ke log, jinki aankhein kal ki taraf thi, unki zindagi ke dhaage door ateet se jude the.
+Agar Bharat itna mahaan tha, to wo gira kaise?
 
-Har jagah ek saanskritik zameen thi. Isme lok-darshan tha, parampara thi, itihaas tha, puraan aur kisse the. Inke beech koi lakeer kheenchna mumkin nahi tha. Aur ye zameen sirf padhe-likhon ki nahi thi. Bilkul anpadh log bhi isme hissedaar the.
+Iska ek jawab Nehru ko saaf dikhta hai. Europe aage nikal gaya. Vigyaan mein, machinon mein, jahaazon mein, banduukon mein. Ek naye josh ke saath wo samundar paar nikla, aur us josh ke peeche nayi technique thi. Bharat peeche reh gaya. Aur sirf Bharat nahi, lagbhag poora Asia.
 
-Ramayan aur Mahabharat, aur doosre purane granth, bolchaal ki bhasha mein, sunaye aur gaaye jaate the. Unke kisse, unki seekh, logon ke man par khudi hui thi. Jo kisaan apna naam nahi likh sakta tha, use saikdon chhand zubaani yaad the. Baat-baat mein wo kisi kisse ka hawala deta, kisi purane granth ki seekh suna deta.
+Par Nehru ko ye jawab adhoora lagta hai.
 
-Nehru kai baar hairaan reh jaate. Gaon ke log aaj ki kisi seedhi-saadi baat par charcha kar rahe hote, aur beech mein kisi mahakaavya ka koi mod le aate.
+Wo ek gehra sawal poochte hain. Aur ise samajhne ke liye ek tasveer lijiye.
 
-Yahan Nehru ek tulna karte hain. Unke apne man mein itihaas ki tasveerein thi, tathyon par tiki hui. Par unhe ehsaas hua ki anpadh kisaan ke man mein bhi ek tasveeron ki gallery hai. Usme itihaas kam hai. Zyadatar puraan, parampara aur mahakaavyon ke naayak-naayikayein hain. Phir bhi wo gallery utni hi rangeen aur zinda hai.
+Ek purana kuan. Gaon ke beech. Sadiyon se usne gaon ko paani diya hai.
 
-Nehru logon ke chehre dekhte. Unka chalna-phirna dekhte. Kai chehre bahut samvedansheel the. Kai shareer seedhe aur mazboot. Auraton mein ek garima thi, ek lachak, ek thehraav. Aur aksar unki aankhon mein ek gehri udaasi.
+Ab ek din balti neeche jaati hai, aur khaali laut-ti hai.
 
-Wo ek kadwi sachchai bhi darj karte hain. Behtar sehat aur kad-kaathi zyadatar oonchi jaatiyon mein dikhti thi, jo thode behtar aarthik haal mein thi. Yaani gareebi shareer par bhi likhi thi.
+Kya kuan sookh gaya?
 
-Kabhi kisi kachchi sadak se ya kisi gaon se guzarte hue Nehru chaunk jaate. Saamne koi aadmi, ya koi aurat, aisi dikhti jaise kisi purani deewar-chitrakari se nikal aayi ho. Ajanta jaisi kisi gufa ki tasveer se. Wo sochte, itni tabaahi aur dukh ke baad bhi ye roop sadiyon tak kaise bacha raha? Aur behtar haalaat, behtar mauqe milein, to in logon ke saath kya kuch nahi kiya ja sakta?
+Ya neeche kahin, mitti ki parton ke neeche, ab bhi paani ke sote hain? Bas unhe phir se khodna hai?
 
-Par sach ka doosra pehlu bhi tha. Har taraf gareebi thi, aur gareebi ke anginat bachche. Bhookh, beemari, karz, dar. Har maathe par uski chhaap. Zindagi kuchal di gayi thi, tedhi kar di gayi thi. Lagataar kami aur asuraksha se kai buraiyan paida hui thi. Ye dekhna sukhad nahi tha. Par Bharat ki buniyaadi sachchai yahi thi.
+Nehru Bharat ke baare mein yahi poochte hain. Kya is desh ki andar ki taaqat khatam ho gayi? Ya wo kahin dabi padi hai?
 
-Logon mein haalaat ko chupchaap maan lene ki aadat bhi bahut zyada thi. Jo hai, so hai.
+Aur phir ek aur, zyada darawna sawal.
 
-Aur phir bhi, in sab ke neeche, ek naram mizaaj tha. Ek mithaas, ek sabhyata. Hazaaron saal ki virasat, jise koi musibat mita nahi paayi thi.
+Hum bahut purane log hain. Humari yaadein itihaas ki pehli subah tak jaati hain.
 
-## Part 8: Do zindagiyan
+To kya ab humari shaam aa gayi hai?
 
-Chapter ka aakhri hissa sabse chhota hai, aur sabse niji.
+Ek boodhe aadmi ki tarah, jo aangan mein khaat par leta hai, aur jise ab duniya se kuch nahi chahiye, bas thodi neend aur thoda aaraam?
 
-Nehru batate hain ki is talaash mein unhone apne man ke darwaaze khole rakhe. Jo log zinda the, unse aane wali soch aur bhaavnaon ki lehrein. Aur jo kab ke ja chuke the, unki bhi.
+Ye sawal Nehru ek jail mein baithkar likh rahe hain. Bahar duniya mein ek bhayanak jung chal rahi hai. Ye sawal unke liye kitaabi nahi tha.
 
-Wo khud ko ek anant julus ka hissa samajhte. Sadiyon se chalta hua ek kaafila, jiske bilkul aakhri chhor par wo bhi ghisatte hue chal rahe hain. Kuch der wo us kaafile mein ghul-mil jaate. Phir alag ho jaate, aur jaise kisi pahadi ki choti se neeche ghaati ko dekhte.
+Unka jawab dheere aata hai.
 
-Phir sawal uthta. Ye saara safar kis liye? Ye kabhi na khatam hone wale julus kahan ja rahe hain?
+Koi qaum hamesha ek jaisi nahi rehti. Log milte hain, ghulte hain, badalte hain. Kabhi lagta hai ki koi qaum mar gayi. Aur phir wo kisi nayi shakl mein uth khadi hoti hai.
 
-Kabhi thakaan aur mohbhang unhe gher lete. Tab wo ek tarah ki virakti mein sharan lete. Dheere-dheere unhone khud ko ye samjha liya tha ki apne aap ko, aur apne saath jo hota hai use, zyada ahmiyat na dein.
+Asal cheez hai andar ki urja. Ek jaan. Wo ho, to sab mumkin hai. Wo na ho, to saari koshish ek naatak hai. Jaise koi boodha aadmi jawaan dikhne ke liye baal rangwa le.
 
-Kam se kam unhe aisa lagta tha. Aur yahan Nehru apne upar hanste hain. Wo maante hain ki ye virakti zyada chali nahi. Unke andar ek jwalamukhi hai. Kisi bhi pal saari deewarein toot jaati hain, aur saari doori gayab ho jaati hai.
+Aur Nehru imaandaari se kehte hain. Kabhi-kabhi unhe apne logon mein wo jaan dikhi. Hamesha nahi. Aur shayad unki apni chahat unki aankhon ko dhoka de rahi thi.
 
-Par jitni bhi kaamyaabi mili, wo kaam ki thi. Bhaag-daud ke beech bhi wo kabhi-kabhi khud ko alag karke apne hi kaam ko door se dekh paate.
+Par yahi wo cheez thi jo wo apni yaatraon mein dhoondhte rahe. Gaon-gaon. Chehre-chehre.
 
-Kabhi ek-do ghante chura lete. Roz ki fikrein bhool jaate. Aur apne man ke ek band, shaant kamre mein chale jaate, jaise kisi math ki kothri mein. Wahan kuch der ek doosri zindagi jeete.
+Kuan sookha hai, ya neeche paani hai?
 
-To ek aadmi, do zindagiyan. Ek bheed mein, manch par, chunav ke daure mein. Doosri andar, akeli, chupchaap. Dono saath-saath chalti, ek-doosre se bandhi hui. Phir bhi alag.
+Ek baat aur, jo is talaash ke saath chalti hai. Nehru ka desh-prem deewarein khadi karne wala nahi tha. Wo duniya ghoom chuke the. Spain ki ladai, China par hamla, Europe ka andhera, sab unhone dekha tha. Unhe lagta tha ki koi desh apne darwaaze band karke nahi jee sakta. Unka Bharat duniya ki taraf khulti hui ek khidki tha.
 
-Aur shayad yahi Nehru ki poori kitaab ka raaz hai. Wo bheed mein khade hokar Bharat ko dekhte hain, aur phir kamre mein baithkar us par sochte hain.
+Par us khidki tak pahunchne ke liye pehle apne ghar ko jaanna tha.
+
+Aur ghar, asal mein, gaon mein tha.
+
+## Part 4: Gaon ki taraf
+
+Ab hum thoda peechhe chalte hain. Bees ke dashak mein.
+
+Gandhiji ka zamana hai. Aur Gandhiji ek ajeeb kaam kar rahe hain. Wo shehar ke padhe-likhe naujawanon se keh rahe hain: gaon jaao.
+
+Sochiye Nehru jaise aadmi ko. England mein padha hua. Achhe kapde. Achhi angrezi. Shehar ki zindagi.
+
+Aur ab wo ek kachchi sadak par hain.
+
+Garmi. Dhool. Door tak khet. Phir mitti ke kuch ghar. Ek kuan. Ek peepal. Kuch bachche jo nange paanv daudkar gaadi ke peechhe aate hain.
+
+Aur phir log.
+
+Kisaan, jinke chehre dhoop se kaale pad gaye hain. Auratein, jo ghoonghat ke peechhe se dekhti hain. Boodhe, jinki aankhon mein ek purani thakaan hai.
+
+Nehru kehte hain ki ye ek doosre Bharat se mulaqat thi.
+
+Wo Bharat jo unki kitaabon mein nahi tha.
+
+Aur jo Bharat kitaabon mein tha, wo yahan dikh nahi raha tha.
+
+Pehla dhakka gareebi ka tha. Itni gehri gareebi ki shabd chhote pad jaayein. Karz. Bhookh. Beemari. Lagaan. Zameendaar ka dar. Mahajan ka dar. Police ka dar.
+
+Ye sab dekhkar Nehru ka dil baitha. Apne logon ki kamiyan unhe dikhti thi, aur chubhti thi.
+
+Par phir ek doosri baat hui. Ek aisi baat jiski unhe ummeed nahi thi.
+
+In gareeb, anpadh logon mein unhe kuch mila.
+
+Kya?
+
+Nehru khud ise theek se shabdon mein nahi baandh paate. Ek thehraav. Ek sharafat. Ek andar ki mazbooti. Kuch aisa jo unhe shehar ke padhe-likhe middle class mein nahi mila tha.
+
+Shayad koi boodha kisaan, jiske ghar mein khaane ko kam hai, phir bhi wo mehmaan ke liye lota bhar paani aur ek rotі le aata hai. Shayad koi aurat, jo itni takleef ke baad bhi seedhi khadi hai.
+
+Nehru saaf kehte hain ki wo gaon walon ko kisi moorti ki tarah nahi poojte the. Na hi "janta" ko ek khaali shabd banate the. Wo har chehre ko ek alag insaan ki tarah dekhne ki koshish karte the.
+
+Aur shayad isliye ki wo zyada ummeed lekar nahi gaye the, unhe niraasha bhi nahi hui.
+
+Jitna socha tha, usse zyada mila.
+
+Kuan sookha nahi tha.
+
+Neeche paani tha.
+
+## Part 5: Bharat Mata kaun hai?
+
+Ab wapas us maidan mein chaliye. Jahan se humne aaj shuru kiya tha.
+
+Dhool. Dhoop. Hazaaron kisaan. Aur manch par khada ek aadmi, jisne abhi-abhi ek ajeeb sawal pooch liya hai.
+
+Ye Bharat Mata kaun hai?
+
+Nehru batate hain ki ye sawal unhone ek baar nahi, kitni hi sabhaon mein poocha.
+
+Shehar mein wo aisi baatein kam karte the. Shehar ke log kuch aur sunna chahte the. Par gaon mein, kisaanon ke beech, wo desh ki baat karte the.
+
+Aur jab bhi "Bharat Mata ki jai" ka naara lagta, wo beech mein rok kar poochte.
+
+Ab sochiye us pal ko.
+
+Pehle hansi. Thodi sharmeeli si. Jaise kisi ne bachche se pooch liya ho ki suraj kya hai.
+
+Phir log ek-doosre ko dekhte hain. Kohni maarte hain. Tu bata.
+
+Aur phir peechhe se ek kisaan khada hota hai.
+
+Nehru ek baar ka zikr karte hain jab ye kisaan ek Jat tha. Shayad uske haath mitti se khurdure the. Shayad uske baap ne, aur baap ke baap ne, isi zameen par hal chalaya tha.
+
+Wo kehta hai: dharti. Ye dharti hi Bharat Mata hai.
+
+Achha jawab hai. Mitti se nikla hua jawab.
+
+Par Nehru phir poochte hain. Kaun si dharti?
+
+Tumhare gaon ki? Tumhare zile ki? Tumhare soobe ki? Ya poore desh ki?
+
+Ab kisaan chup ho jaata hai. Kyunki uski dharti to wahi hai jo uske pairon ke neeche hai. Jahan tak wo chal sakta hai. Jahan tak uski aankh jaati hai.
+
+Sawal aur jawab chalte rehte hain. Koi pahaad kehta hai. Koi nadi. Koi kuch aur.
+
+Aur aakhir mein log thak kar, thode jhunjhla kar, kehte hain: aap hi bata dijiye.
+
+Ab Nehru batate hain.
+
+Aur wo jo kehte hain, wo is poore chapter ka dil hai. Isliye ise dheere suniye.
+
+Wo kehte hain ki haan, ye pahaad, ye nadiyan, ye jungle, ye khet jo humein anaaj dete hain, sab humein pyaare hain.
+
+Par sab se badh kar jo maayne rakhta hai, wo hain is desh ke log.
+
+Aap jaise log. Mere jaise log. Karodon log, jo is poori zameen par phaile hue hain.
+
+Bharat Mata yahi log hain.
+
+Aur jab aap Bharat Mata ki jai bolte hain, to aap in logon ki jai bolte hain.
+
+Phir Nehru ek aakhri baat jodte hain. Wo kisaanon ki taraf dekhkar kehte hain ki aap is Bharat Mata ke hisse hain.
+
+Ek tarah se, aap khud Bharat Mata hain.
+
+Ab us Jat kisaan ke chehre ki kalpana kijiye.
+
+Ek aadmi jise zindagi bhar kisi ne kuch nahi samjha. Zameendaar ne nahi. Sarkar ne nahi. Shayad khud usne bhi nahi.
+
+Aur aaj ek aadmi manch se keh raha hai ki jis Mata ki jai tum bolte ho, wo tum ho.
+
+Nehru likhte hain ki ye baat dheere-dheere logon ke man mein utarti thi. Ek pal lagta tha. Shayad do.
+
+Aur phir unki aankhon mein ek chamak aa jaati thi. Jaise unhone koi bahut badi cheez dhoondh li ho.
+
+Shayad dhoondh bhi li thi.
+
+Bharat Mata ab koi tasveer nahi thi, koi naqsha nahi tha. Wo is maidan mein baithi thi. Dhool mein. Dhoop mein.
+
+## Part 6: Raat ki gaadiyaan, khaali qasbe
+
+Ab ek bada safar shuru hota hai.
+
+Saal 1936 ka aakhir. Nehru Congress ke adhyaksh hain. Kamala ko gaye abhi saal bhar bhi nahi hua.
+
+Aur ab wo poore desh mein ghoomne nikalte hain.
+
+Rail se. Gaadi se. Kabhi hawai jahaaz se. Aur jahan sadak khatam ho jaaye, wahan jo bhi mil jaaye.
+
+Sochiye ek raat ki train. Teesra pehar. Dibbe mein peeli roshni. Khidki ke bahar andhera, aur andhere mein kabhi-kabhi kisi gaon ki ek akeli laalten.
+
+Train kisi chhote station par rukti hai. Raat ke do baje.
+
+Aur platform par log khade hain.
+
+Kisi ko pata chal gaya tha ki is gaadi mein Jawaharlal hain. To wo aa gaye. Raat ke do baje. Bas ek jhalak dekhne.
+
+Shayad koi khidki ke paas aakar haath jod deta hai. Shayad koi bachcha kandhe par chadha hai. Train phir chal padti hai, aur wo log andhere mein peechhe chhoot jaate hain.
+
+Nehru Khyber ke darre ke paas bhi gaye, jahan Pathan rehte hain. Lambe, oonche log, apni boli, apne naach, apne kapde. Aur wo door dakshin bhi gaye, Kanyakumari tak, jahan teen samundar milte hain. Wahan Tamil log, bilkul alag boli, alag khana, alag chehre.
+
+Nehru kehte hain ki Pathan aur Tamil mein shayad hi kuch milta ho.
+
+Phir bhi, dono Bharatiya hain. Utne hi.
+
+Aur har jagah, uttar se dakshin tak, kisaan unse wahi sawal poochte the. Karz ka. Lagaan ka. Zameen ka. Zubaan alag thi, dard ek tha.
+
+Nehru ko is desh ki paheli yahin samajh aati hai. Itna alag. Aur phir bhi ek. Jaise ek hi dhaage mein piroye hue alag-alag rang ke moti.
+
+Ab ek kissa, jo Nehru khud sunate hain. Aur jo mujhe is poore chapter mein sabse pyaara laga.
+
+Gaadi kisi chhote qasbe mein daakhil hoti hai.
+
+Aur qasba khaali hai.
+
+Sadkein sooni. Dukaanein band. Shatter gire hue. Gali mein ek kutta tak nahi. Jaise koi sab ko lekar chala gaya ho.
+
+Sochiye, gaadi us sannate mein se dheere-dheere guzarti hai. Nehru khidki se bahar dekhte hain. Kya hua? Kahan gaye sab?
+
+Phir pata chalta hai.
+
+Poora qasba, mard, auratein, bachche, boodhe, sab qasbe ke doosre chhor par chale gaye hain. Jahan sabha honi hai.
+
+Aur wahan wo dhoop mein baithe hain. Ghanton se. Sabr se. Intezaar kar rahe hain.
+
+Ek qasba jo apne ghar chhodkar ek aadmi ko sunne chala gaya.
+
+Kisi ne baad mein hisaab lagaya ki un mahinon mein lagbhag ek crore log Nehru ki sabhaon mein khud aaye. Ek crore. Kuch sabhaon mein ek lakh log. Aur bees hazaar ki bheed to aam baat ho gayi thi.
+
+Ab ek sawal. Itna safar, itni sabhaein, ek insaan ka shareer jhela kaise?
+
+Nehru khud hairaan hain.
+
+Dheere-dheere shareer is zindagi mein dhal gaya. Do sabhaon ke beech gaadi mein aadhe ghante ki neend. Gehri neend. Jaise kisi ne switch band kar diya ho.
+
+Phir gaadi rukti. Uthna mushkil lagta. Aankhein bhaari.
+
+Aur phir bahar se awaaz aati. Naare. Hazaaron chehre.
+
+Aur neend gayab.
+
+Khaana unhone bahut kam kar diya tha. Raat ka khaana aksar chhod dete. Aur kehte hain ki isse behtar hi lagta tha.
+
+Par asli taaqat khaane se nahi aati thi.
+
+Wo un logon se aati thi. Unke josh se, unke pyaar se, jo har jagah Nehru ko gher leta tha.
+
+Nehru kehte hain ki wo iske aadi ho gaye the. Aur phir bhi, kabhi poori tarah aadi nahi hue. Har din kuch naya laata tha. Har din ek nayi hairani.
+
+## Part 7: Chunav, aur ek hawa
+
+Is daure ke peeche ek wajah thi. Ek chunav.
+
+1937 mein soobon ki vidhan sabhaon ke chunav hone the.
+
+Ab aaj ke hisaab se mat sochiye. Us waqt har koi vote nahi daal sakta tha. Sirf lagbhag baarah pratishat log. Sau mein se baarah.
+
+Phir bhi ye pehle se bahut zyada tha. Kareeb teen crore log.
+
+Aur Nehru ka chunav se rishta ajeeb tha.
+
+Wo maante the ki chunav zaroori hain. Democracy ke bina koi raasta nahi, aur democracy ke liye chunav chahiye.
+
+Par chunav unhe pasand nahi the.
+
+Kyun?
+
+Kyunki unhe lagta tha ki chunav aksar insaan ka sabse bura chehra saamne laate hain. Dhakka-mukki. Jhoothe vaade. Chhoti chaalein.
+
+Aur jo log naram hain, samvedansheel hain, jo dhakka dekar aage badhna nahi jaante, wo aksar peeche reh jaate hain.
+
+Nehru ek sawal chhodte hain jo aaj bhi chubhta hai. Kya democracy sirf unke liye hai jinki chamdi moti ho, awaaz oonchi ho, aur zameer zaroorat ke hisaab se mud jaaye?
+
+To unhone apna alag raasta chuna.
+
+Wo kisi ek ummeedwaar ke liye vote nahi maangte the. Kisi ek seat ki baat nahi karte the.
+
+Wo hawa banana chahte the.
+
+Ek aisi hawa jo poore desh mein chale. Azadi ki hawa. Gareebi se chhutkaare ki hawa.
+
+Unka hisaab seedha tha. Agar hawa ban gayi, to sab theek. Aur agar nahi bani, to kisi ek seat ke jeetne ya haarne se kya fark padta hai?
+
+Sochiye us maidan ko phir se. Wahi dhool, wahi kisaan.
+
+Agar Nehru wahan khade hokar kehte ki falaane babu ko vote do, to shayad log sun lete aur bhool jaate.
+
+Par wo keh rahe the ki tum Bharat Mata ho. Aur Bharat Mata ghulam hai. Aur ye gareebi sadiyon se chali aa rahi hai, par hamesha nahi rahegi.
+
+Ek chhota sa chunav achanak ek bade sawal se jud gaya tha.
+
+Nehru ise ek hawa ki tarah dekhte hain jo samundar ki taraf se aati hai. Taaza, namkeen, tez. Aur jo saari chhoti-moti chaalon ko kaagaz ke tukdon ki tarah uda le jaati hai.
+
+Aur maze ki baat ye ki yahi tareeqa ummeedwaaron ke liye bhi sabse faaydemand nikla.
+
+Nehru kehte hain ki wo apne logon ko jaante the. Aur unhe pasand karte the.
+
+Un laakhon aankhon ne unhe ek bheed ka man padhna sikha diya tha.
+
+## Part 8: Kisaan ki tasveeron wali gallery
+
+Ab is safar ki ek shaant baat. Shor se door.
+
+Gaon-gaon ghoomte hue Nehru ne dekha ki gaon ke log, jo aaj mein jee rahe the aur kal ki taraf dekh rahe the, unki zindagi ke dhaage door ateet se bandhe hue the.
+
+Sochiye ek shaam. Kisi gaon ki chaupal. Ek alaav jal raha hai. Kuch log baithe hain.
+
+Baat ho rahi hai kisi aaj ki baat par. Shayad baarish par. Shayad kisi jhagde par.
+
+Aur beech mein ek boodha kisaan kehta hai: ye to waisa hi hua jaise Ram ke saath hua tha.
+
+Ya koi Mahabharat ka koi mod le aata hai. Koi seekh, koi kissa.
+
+Ye aadmi apna naam nahi likh sakta. Par use saikdon chhand zubaani yaad hain.
+
+Nehru ye dekhkar baar-baar hairaan hote.
+
+Phir unhe ek baat samajh aati hai.
+
+Unke apne man mein itihaas ki tasveerein thi. Kitaabon se, tathyon se, tareekhon se bani hui.
+
+Aur is anpadh kisaan ke man mein bhi ek gallery thi. Tasveeron ki.
+
+Usme tareekhein kam thi. Usme Ram the, Sita thi, Arjun the, Draupadi thi. Puraanon ke kisse, purvajon ki kahaniyan.
+
+Par wo gallery utni hi zinda thi. Utni hi rangeen.
+
+Shayad Nehru ki gallery se bhi zyada.
+
+Aur Nehru chehre dekhte the.
+
+Kai chehre bahut naazuk the. Bahut mehsoos karne wale. Kai shareer seedhe aur mazboot. Auraton mein ek garima thi. Ek lachak. Ek thehraav.
+
+Aur aksar unki aankhon mein ek gehri udaasi.
+
+Kabhi kisi kachchi sadak par chalte hue, Nehru achanak ruk jaate.
+
+Saamne koi aurat paani bhar kar laut rahi hoti. Ya koi aadmi kheton se.
+
+Aur Nehru ko lagta ki ye chehra unhone pehle dekha hai.
+
+Kahan?
+
+Ajanta ki gufaaon mein. Deewaron par bani un purani tasveeron mein. Wahi aankhein. Wahi gardan ka mod. Wahi chaal.
+
+Jaise koi tasveer deewar se utar kar, sadiyan paar karke, is kachchi sadak par chalne lagi ho.
+
+Nehru sochte. Itni tabaahi ke baad, itne dukh ke baad, ye roop bacha kaise raha? Aur agar in logon ko achhe din milein, achha khaana, achhi padhai, to ye kya kuch nahi kar sakte?
+
+Par Nehru sach ka doosra hissa bhi nahi chhupate.
+
+Gareebi har jagah thi. Aur gareebi ke saath uske saare bachche. Bhookh. Beemari. Karz. Dar.
+
+Wo ek kadwi baat bhi kehte hain. Achhi sehat aur achha kad-kaathi zyadatar unme dikhta tha jo thode behtar haalat mein the. Yaani gareebi sirf jeb mein nahi thi. Wo shareer par bhi likhi thi.
+
+Aur logon mein ek aadat thi. Jo hai, so hai. Kismat. Chup-chaap sab maan lena.
+
+Ye sab dekhna aasaan nahi tha.
+
+Par in sab ke neeche, Nehru ko phir bhi ek narmi dikhti thi. Ek mithaas. Ek sabhyata, jo hazaaron saal ki thi, aur jise koi musibat poori tarah mita nahi paayi.
+
+Kuan sookha nahi tha.
+
+## Part 9: Do zindagiyan
+
+Chapter ka aakhri hissa sabse chhota hai. Aur sabse niji.
+
+Ab bheed chhod dijiye. Naare chhod dijiye. Aur ek aadmi ke andar chaliye.
+
+Nehru kehte hain ki is poori talaash mein unhone apne man ke darwaaze khule rakhe. Zinda logon ke liye bhi. Aur un logon ke liye bhi jo sadiyon pehle ja chuke the.
+
+Aur phir wo ek tasveer banate hain.
+
+Ek julus. Ek lamba kaafila. Jo itihaas ki shuruaat se chal raha hai. Raja, kisaan, kavi, sipahi, yaatri. Sab chal rahe hain. Dhool udti hai.
+
+Aur is kaafile ke bilkul aakhri chhor par, ek aadmi. Thaka hua, paanv ghasitta hua. Wo Nehru hain.
+
+Kabhi wo is kaafile mein ghul jaate hain. Uski bheed ka hissa ban jaate hain.
+
+Aur kabhi alag ho jaate hain. Jaise koi pahaadi ki choti par chadh kar neeche ghaati mein chalte kaafile ko dekhe.
+
+Aur tab ek sawal uthta hai.
+
+Ye sab kis liye? Ye kabhi na khatam hone wala julus jaa kahan raha hai?
+
+Kabhi thakaan aati thi. Kabhi mohbhang. Tab Nehru ek tarah ki doori mein chale jaate the. Khud ko samjhaate the ki apne aap ko itna mat samjho. Jo ho raha hai, use itna dil par mat lo.
+
+Kam se kam unhe aisa lagta tha.
+
+Aur yahan Nehru apne aap par halke se hanste hain.
+
+Wo maante hain ki ye doori zyada der nahi tikti thi. Unke andar ek jwalamukhi tha. Kisi bhi pal saari deewarein toot jaati, aur wo phir se aag mein hote.
+
+Par phir bhi, thodi si kaamyaabi mili.
+
+Sochiye. Ek din ke beech, chaar sabhaon ke baad, kisi dak bangle ka ek kamra. Bahar log abhi bhi shor kar rahe hain. Andar ek lalten.
+
+Aur Nehru ek-do ghante chura lete hain.
+
+Wo apne man ke andar ek kamre mein chale jaate hain. Ek shaant, band kamra. Jaise kisi math ki kothri.
+
+Wahan na naare hain, na chunav, na kal ka program.
+
+Wahan ek doosri zindagi hai.
+
+To ek aadmi. Aur do zindagiyan.
+
+Ek bahar. Manch par. Bheed mein. Dhool mein. Jahan wo kisaanon se poochte hain ki Bharat Mata kaun hai.
+
+Aur ek andar. Akeli. Chup. Jahan wo khud se poochte hain ki main kaun hoon.
+
+Dono saath chalti hain. Ek-doosre se bandhi hui. Phir bhi alag.
+
+Aur shayad yahi is poori kitaab ka raaz hai.
+
+Ek aadmi jo bheed mein khada hokar Bharat ko dekhta hai. Aur phir Ahmadnagar ki ek kothri mein baithkar, us bheed ko yaad karta hai.
+
+Wo maidan. Wo dhool. Wo Jat kisaan.
+
+Aur uski aankhon ki wo chamak, jab use pata chala ki Bharat Mata wo khud hai.
 
 ## Aaj ke hisaab se
 
-Ye hissa Nehru ka nahi, humara hai. Teen baatein.
+Ye hissa Nehru ka nahi, humara hai. Do baatein.
 
-Pehli, Bharat Mata ka matlab. Aaj ye naara har raily mein lagta hai. Nehru ka jawab saaf tha: Bharat Mata koi devi ki moorti ya sirf zameen ka naqsha nahi, balki is desh ke karodon log hain. Is jawab par aaj bhi behas hoti hai. Par uski seedhi si kasauti ye hai: kisi bhi neeti se Bharat Mata ki jai hui ya nahi, ye logon ki zindagi dekhkar pata chalega.
+Pehli, Bharat Mata ka matlab. Aaj ye naara har jagah lagta hai. Nehru ka jawab saaf tha: Bharat Mata koi naqsha nahi, koi moorti nahi, balki is desh ke log hain. Is jawab par aaj bhi behas hoti hai. Par is mein ek seedhi si kasauti chhupi hai. Kisi bhi faisle se Bharat Mata ki jai hui ya nahi, ye naaron se nahi, logon ki zindagi dekhkar pata chalega.
 
-Doosri, 1937 ka chunav. Nehru ki "hawa" wali soch kaam aayi. Congress ne zyadatar suboon mein jeet hasil ki aur kai suboon mein sarkar banayi. Aur jis chunav mein sirf baarah pratishat log vote daal sakte the, uske das saal baad azaad Bharat ne har vayask ko vote ka haq de diya.
+Doosri, wo baarah pratishat. 1937 mein sau mein se sirf baarah log vote daal sakte the. Das saal ke andar desh azaad hua, aur uske baad har vayask ko vote ka haq mila. Us Jat kisaan ko bhi. Uski beti ko bhi. Nehru ka "hawa" wala sawal aaj bhi zinda hai: chunav chhoti chaalon se jeeta jaaye, ya kisi bade sapne se?
 
-Teesri, Nehru ka chubhta sawal. Kya democracy sirf moti chamdi aur oonchi awaaz walon ki hai? Lagbhag nabbe saal baad bhi ye sawal purana nahi hua.
-
-Aapke liye ek sawal: agar koi aapse achanak pooche ki Bharat Mata kaun hai, to aap kya jawab denge?
+Aapke liye ek sawal: agar koi aaj achanak aapse pooche ki Bharat Mata kaun hai, to aap kya kahenge? Aur kya aap kabhi khud ko us jawab mein dekh paate hain?
 
 ## Outro
 
-Agle episode mein Nehru ki khoj zameen ke neeche utarti hai. Sindh aur Punjab mein khudai se paanch hazaar saal purane shehar nikalte hain: Mohenjo-daro aur Harappa. Pakki eenton ke ghar, naaliyan, snaanghar. Aur ek sawal: ye log kaun the, aur Bharat ki kahani asal mein kitni purani hai?
+Agle episode mein Nehru ki khoj zameen ke neeche utarti hai. Sindh aur Punjab ki mitti se paanch hazaar saal purane shehar nikalte hain: Mohenjo-daro aur Harappa. Pakki eenton ke ghar, naaliyan, snaanghar. Aur ek sawal: ye log kaun the, aur Bharat ki kahani asal mein kitni purani hai?
 
 Tab tak ke liye, namaskar.
 
 ## Sources
 
 - [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 3, "The Quest". Script ke zyadatar tathya yahin se hain.
-- Repo wali `ch03.txt` kuch jagah adhoori hai (nadiyon wala hissa aur Khyber-Kanyakumari wala hissa beech mein kat jaata hai, aur "Variety and Unity" bahut chhota hai). Nadiyon ka zikr, kisaanon ki shikayaton ki list, duniya ke deshon ke naam, Pathan-Tamil wali misaal aur soobon ki list poori book ke hisaab se hain. Record karne se pehle original se milaa lena.
-- Kuch jaankari book se nahi, aam jaankari se hai: Nehru 1936-37 mein Congress adhyaksh the, gaon ki taraf jaane ke peeche Gandhiji ke bees ke dashak ke andolan, Nehru parivar ka Kashmiri hona, safar mein ghode aur paidal ka zikr, 1937 mein Congress ki jeet, aur azaad Bharat mein sabko vote ka haq. Ise bhi ek baar check kar lena.
+- Repo wali `ch03.txt` kuch jagah adhoori hai. Pathan-Tamil wali misaal aur Khyber-Kanyakumari wala zikr poori book ke hisaab se hain. Record karne se pehle original se milaa lena.
+- Kuch jaankari book se nahi, aam jaankari se hai: Nehru 1936-37 mein Congress adhyaksh the, gaon ki taraf jaane ke peeche Gandhiji ke bees ke dashak ke andolan, Nehru parivar ka Kashmiri hona, Kumbh wale Chini yaatri ka Xuanzang hona, Kanyakumari par teen samundar, aur azaad Bharat mein sabko vote ka haq. Ise bhi ek baar check kar lena.
+- Mahaul ke kai rang kahani ke liye kalpana se hain, book ke tathya nahi: maidan ki dhool aur gamchhe, kuan wali tasveer, raat ki train aur do baje ka platform, khaali qasbe ke band shatter, chaupal ka alaav, dak bangle ki lalten, Jat kisaan ke haath. Train ke safar ka zikr bhi kalpana ke taur par signal kiya gaya hai; book ke hisaab se safar ke saadhan ek baar check kar lena.

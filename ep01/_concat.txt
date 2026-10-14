@@ -1,0 +1,2 @@
+file '/home/itcell/audiobooks/tdoi/ep01/_head_fixed.wav'
+file '/home/itcell/audiobooks/tdoi/ep01/_tail.wav'

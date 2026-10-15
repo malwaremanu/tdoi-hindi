@@ -217,12 +217,26 @@ def main():
     ap.add_argument("--voice", default="Fola")
     ap.add_argument("--model", default="gemini-3.8-flash-tts")
     ap.add_argument("--words", type=int, default=550, help="target words per request")
+    ap.add_argument("--first-chunk-words", type=int, default=0,
+                    help="cap the first chunk at this many words (cold open split)")
     ap.add_argument("--max-requests", type=int, default=10)
     ap.add_argument("--only-generate", action="store_true")
     args = ap.parse_args()
 
     text = open(args.text, encoding="utf-8").read() if args.text else extract_narration(args.script)
-    chunks = split_chunks(text, args.words)
+    if args.first_chunk_words:
+        head, cur, n = "", [], 0
+        for para in text.split("\n\n"):
+            w = len(para.split())
+            if cur and n + w > args.first_chunk_words:
+                break
+            cur.append(para)
+            n += w
+        head = "\n\n".join(cur).strip()
+        rest = text[len(head):].strip()
+        chunks = [head] + split_chunks(rest, args.words)
+    else:
+        chunks = split_chunks(text, args.words)
     os.makedirs(args.workdir, exist_ok=True)
     names = []
     for i, c in enumerate(chunks, 1):

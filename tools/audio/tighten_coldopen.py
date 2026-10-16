@@ -17,13 +17,11 @@ NEW_GAP = 0.75
 # regions a cue sits in (raw-take seconds) + the deliberate silence zone:
 # never shortened, so the plan's gaps and dead air survive exactly.
 KEEP = [
-    (50.3, 51.4),    # S5 car door gap
-    (60.6, 61.25),   # S7 single shout gap
-    (62.05, 63.15),  # S8 group shout gap
-    (63.55, 64.65),  # S9 roar peak gap
-    (65.8, 66.85),   # S9 second beat gap
-    (67.9, 68.65),   # S10 footsteps gap
-    (85.29, 94.31),  # question + sannata + chuckle: dead air, never tightened
+    (22.5, 23.75),   # S2 book handed over (paper)
+    (31.9, 34.2),    # S3/S4 page turns
+    (70.15, 71.3),   # S5 book set down
+    (76.0, 79.9),    # the question + its silence: never tightened
+    (96.0, 98.5),    # "chhota sa pal" -> "Europe aage kaise": deliberate beat
 ]
 
 

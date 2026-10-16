@@ -163,3 +163,27 @@ Reference only (not for publication): BBC Sound Effects searches `crowd India ou
 2. सब सड़क की तरफ देखेंगे तो तानपूरा बहुत धीमे से शुरू होगा, और दूर से एक पुरानी गाड़ी धूल में आकर रुकेगी।
 3. भीड़ खड़ी होगी, एक आवाज़, फिर दस, फिर हज़ार, और बस यहीं तानपूरा थोड़ा सा ऊपर उठेगा।
 4. सवाल से पहले संगीत और भीड़ दोनों चले जाएंगे, फिर पूरा सन्नाटा होगा, एक हल्की हंसी आएगी, और आख़िर में धीमा तानपूरा नमस्कार से पहले ख़त्म हो जाएगा।
+
+---
+
+## 8. Re-spot for the r2 narration (Oct 16, 2026)
+
+Ep 3 ki script dobara likhi gayi, to cold open ka text aur uska timeline dono badle.
+Cue table ke saare anchor naye narration timeline (`ep03/r2/c01_t.wav`, gap-tighten ke
+baad) par re-spot kiye gaye hain — same sounds, same levels, same pans, sirf waqt badla:
+
+| Anchor | Naya time |
+| --- | --- |
+| B1 field in / S1 kite / B2 crowd in | 00:00 / 00:06.1 / 00:16.0 |
+| S2 gust / B2 hush + M1 in | 00:30.7 / 00:34.65 |
+| S3 car / S4 engine cut / S5 door | 00:39.0 / 00:45.4 / 00:48.55 |
+| S6 crowd stands + the swell starts | 00:54.9 |
+| S7 shout / S8 group / S9 roar onset | 00:58.45 / 00:59.9 / 01:00.8 |
+| chant dip / S10 steps / B2 settle | 01:02.3 / 01:05.75 / 01:06.3 |
+| B2 + M1 out (before the question) | 01:14.0 → gone by 01:16.2 |
+| B1 out / S11 chuckle / M1 coda in | 01:23.1 / 01:29.25 / 01:32.0 |
+| M1 hard stop (dead air before नमस्कार) | 02:07.4, host intro 02:07.84 |
+
+Gap-tighten sirf cold-open ke paragraph gaps par hua (1.0 s+ → 0.75 s); cue wale gap aur
+sannata zone (सवाल → साल है 1936) bilkul untouched rakhe gaye. QC: sannata gaps -60 dB se
+neeche (dead air), M1 stop ke baad -inf, sab takes ka content-verify sim 0.92–0.96.

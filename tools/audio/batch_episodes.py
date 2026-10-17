@@ -88,6 +88,7 @@ def main():
     ap.add_argument("--reserve-requests", type=int, default=0,
                     help="keep this many requests for later work")
     ap.add_argument("--words-per-request", type=int, default=1300)
+    ap.add_argument("--translit-backend", choices=["local", "api"], default="local")
     args = ap.parse_args()
 
     os.makedirs(os.path.join(REPO, "logs"), exist_ok=True)
@@ -127,7 +128,7 @@ def main():
 
         if not os.path.exists(dev) or os.path.getsize(dev) < 1000:
             if sh([PY, os.path.join(TOOLS, "transliterate.py"), "--rom", rom,
-                   "--out", dev], log) != 0:
+                   "--out", dev, "--backend", args.translit_backend], log) != 0:
                 state_update(ep, status="translit_failed")
                 continue
         latin = len(re.findall(r"[A-Za-z]", open(dev, encoding="utf-8").read()))

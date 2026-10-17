@@ -36,6 +36,48 @@ SYSTEM = (
 )
 
 
+GEMINI_HOST = "generativelanguage.googleapis.com"
+
+
+def call_api(text: str, model: str, timeout: int = 300) -> str:
+    """Official Gemini API path.
+
+    The local gemini-web2api wrapper is only as good as the Gemini web endpoint it drives:
+    when that endpoint started answering 405 Method Not Allowed the whole pipeline stalled,
+    so transliteration can run straight against the API instead. Usage is counted in the LLM
+    pool file, never the TTS counter - QC and transliteration must not eat episode takes.
+    """
+    import sys as _sys
+    _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from build_episode import pick_key
+    from verify_gemini import llm_mark
+    key = pick_key()
+    if not key:
+        raise RuntimeError("every key in the pool is spent for today")
+    payload = {
+        "systemInstruction": {"parts": [{"text": SYSTEM}]},
+        "contents": [{"parts": [{"text": text}]}],
+        "generationConfig": {"temperature": 0.1},
+    }
+    req = urllib.request.Request(
+        f"https://{GEMINI_HOST}/v1beta/models/{model}:generateContent",
+        data=json.dumps(payload).encode(),
+        headers={"x-goog-api-key": key, "Content-Type": "application/json"},
+        method="POST")
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            data = json.load(resp)
+    except urllib.error.HTTPError as e:
+        llm_mark(key, e.code)
+        raise RuntimeError(f"HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:200]}") from None
+    llm_mark(key, 200)
+    cand = data.get("candidates") or []
+    if not cand:
+        raise RuntimeError("no candidates: " + json.dumps(data)[:200])
+    parts = (cand[0].get("content") or {}).get("parts") or []
+    return "".join(p.get("text", "") for p in parts).strip()
+
+
 def call(text: str, timeout: int = 300) -> str:
     payload = {
         "model": MODEL,
@@ -73,7 +115,14 @@ def main():
     ap.add_argument("--out", required=True)
     ap.add_argument("--target-words", type=int, default=600)
     ap.add_argument("--cache-dir", default=None)
+    ap.add_argument("--backend", choices=["local", "api"], default="local",
+                    help="local = gemini-web2api gateway, api = official Gemini API")
+    ap.add_argument("--model", default=os.environ.get("TRANSLIT_MODEL", "gemini-3.6-flash"))
     args = ap.parse_args()
+    global call
+    if args.backend == "api":
+        _model = args.model
+        call = lambda t, timeout=300: call_api(t, _model, timeout)   # noqa: E731
 
     paras = [p.strip() for p in open(args.rom, encoding="utf-8").read().split("\n\n") if p.strip()]
     cache = args.cache_dir or os.path.join(os.path.dirname(os.path.abspath(args.out)), "_translit_cache")

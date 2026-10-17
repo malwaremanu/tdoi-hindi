@@ -17,6 +17,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 
 BASE = os.environ.get("GEMINI_WEB2API_BASE", "http://localhost:8081/v1")

@@ -86,6 +86,26 @@ def gain_for(cue_peak, narr_peak, level_db):
     return (narr_peak - (abs(level_db) - PEAK_HEADROOM)) - cue_peak
 
 
+def rms_db(x):
+    return 20 * np.log10(max(1e-9, float(np.sqrt(np.mean(np.asarray(x, dtype=np.float64) ** 2)))))
+
+
+def gain_for_rms(seg, narr_rms, level_db, peak_ceiling=-1.0):
+    """Level a cue by loudness, not by peak.
+
+    Peak-matching is stable for one source but wildly inconsistent across sources: a dense
+    ambience and a sparse one end up 10 dB apart at the same "level". Plan writers state a
+    dB figure under the voice, so target the cue's RMS and only pull back if the resulting
+    peak would breach the ceiling.
+    """
+    target = narr_rms - abs(level_db)
+    g = target - rms_db(seg)
+    peak_after = db(seg) + g
+    if peak_after > peak_ceiling:
+        g -= peak_after - peak_ceiling
+    return g
+
+
 def loud_window(path, dur, extra="", offset_frac=None):
     x = load(path, extra)
     w = int(dur * SR)
@@ -267,15 +287,21 @@ def main():
     x = load(norm_wav)
     n = len(x)
     narr_peak = db(x)
+    narr_rms = rms_db(x)
     total = n / SR
-    print(f"narration {total:.1f}s peak {narr_peak:.1f} dBFS  alignments "
+    print(f"narration {total:.1f}s peak {narr_peak:.1f} dBFS rms {narr_rms:.1f}  alignments "
           f"{'yes' if align else 'no'}", flush=True)
 
     # narration and the SFX layer are built separately: the duck must pull the SFX
     # layer back only, never the voice (ducking the voice drops the name line itself)
     narr = np.zeros((n, 2), dtype=np.float64)
     place(narr, x, 0.0, 0.0, 0.0, fade_in=0.0, fade_out=0.0)
-    buf = np.zeros((n, 2), dtype=np.float64)
+    # beds/score and spot cues are built in separate buses: beds stack (three overlapping
+    # ambiences sum ~5 dB louder than any one of them), so the bed bus is levelled once as
+    # a whole after the fact instead of each bed landing somewhere different per episode.
+    bedbuf = np.zeros((n, 2), dtype=np.float64)
+    cuebuf = np.zeros((n, 2), dtype=np.float64)
+    buf = bedbuf                       # alias for the layer loop below
     resolved = {}
 
     def anchor_time(rec):
@@ -310,7 +336,7 @@ def main():
         else:
             e = env([(0, -60), (min(2.0, (end - start) / 4), 0),
                      (max(0.1, end - start - 1.2), 0), (end - start, -60)], ln)
-        g = gain_for(db(seg), narr_peak, float(layer.get("level_db", -24)))
+        g = gain_for_rms(seg, narr_rms, float(layer.get("level_db", -24)))
         pan = float(layer.get("pan", 0.0))
         fi = 0.0 if pts else 0.02
         fo = 0.0 if pts else 0.10
@@ -329,12 +355,23 @@ def main():
         dur = cue.get("seconds")
         if dur:
             seg = seg[: int(float(dur) * SR)]
-        g = gain_for(db(seg), narr_peak, float(cue.get("level_db", -20)))
-        place(buf, seg, t, g, float(cue.get("pan", 0.0)), None,
+        g = gain_for_rms(seg, narr_rms, float(cue.get("level_db", -20)))
+        place(cuebuf, seg, t, g, float(cue.get("pan", 0.0)), None,
               float(cue.get("fade_in", 0.01)), float(cue.get("fade_out", 0.12)))
         resolved[cue.get("id", cue["sound"])] = round(t, 2)
         print(f"  cue {cue.get('id', cue['sound'])}: {t:6.2f}s "
               f"{os.path.basename(cue['sound'])} at {cue.get('level_db')} dB", flush=True)
+
+    # ---- bed bus level: the stacked ambiences land where the plan's levels say -------
+    lvls = [abs(float(l.get("level_db", -24))) for l in plan.get("beds", [])]
+    if lvls and np.any(bedbuf):
+        want = narr_rms - (sum(lvls) / len(lvls))
+        shift = max(-9.0, min(9.0, want - rms_db(bedbuf)))
+        bedbuf *= 10 ** (shift / 20.0)
+        print(f"bed bus: {rms_db(bedbuf):.1f} dBFS rms, {rms_db(bedbuf) - narr_rms:+.1f} dB "
+              f"under voice (trim {shift:+.1f} dB)", flush=True)
+    buf = bedbuf + cuebuf
+    print(f"cue bus: {rms_db(cuebuf):.1f} dBFS rms", flush=True)
 
     # ---- duck windows ------------------------------------------------------
     duck = np.ones(n)

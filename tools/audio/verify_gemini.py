@@ -108,7 +108,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--workdir", required=True)
     ap.add_argument("--chunks", required=True)
-    ap.add_argument("--model", default="gemini-2.5-flash")
+    ap.add_argument("--model", default="gemini-3.8-flash")
     ap.add_argument("--bitrate", default="32k")
     ap.add_argument("--min-run", type=int, default=4)
     args = ap.parse_args()

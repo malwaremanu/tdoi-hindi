@@ -91,17 +91,22 @@ def main():
                 continue
         src = "\n\n".join(ch)
         ok = False
-        for attempt in range(1, 5):
+        for attempt in range(1, 7):
             try:
                 txt = call(src)
             except Exception as exc:  # noqa: BLE001
-                print(f"batch {i}: attempt {attempt} transport error: {str(exc)[:120]}", flush=True)
+                # the local gateway returns 502 when several writers hit it at once;
+                # back off instead of burning the episode on a transient error
+                wait = min(30, 2 ** attempt)
+                print(f"batch {i}: attempt {attempt} transport error: {str(exc)[:100]} "
+                      f"-> retry in {wait}s", flush=True)
+                time.sleep(wait)
                 continue
             latin = re.findall(r"[A-Za-z]+", txt)
             if latin:
                 print(f"batch {i}: attempt {attempt} left {len(latin)} latin tokens {latin[:6]}", flush=True)
-                if attempt < 4:
-                    continue                      # retry: a Latin token would be read in English
+                if attempt < 6:
+                    continue              # retry: a Latin token would be read in English
                 txt = re.sub(r"[A-Za-z]+", "", txt)
             open(cpath, "w", encoding="utf-8").write(txt)
             print(f"batch {i}: ok ({len(txt.split())} words)", flush=True)

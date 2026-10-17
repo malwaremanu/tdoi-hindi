@@ -49,11 +49,10 @@ def call_api(text: str, model: str, timeout: int = 300) -> str:
     """
     import sys as _sys
     _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-    from build_episode import pick_key
-    from verify_gemini import llm_mark
-    key = pick_key()
+    from verify_gemini import llm_mark, pick_llm_key
+    key = pick_llm_key()
     if not key:
-        raise RuntimeError("every key in the pool is spent for today")
+        raise RuntimeError("every key in the LLM pool is spent for today")
     payload = {
         "systemInstruction": {"parts": [{"text": SYSTEM}]},
         "contents": [{"parts": [{"text": text}]}],
@@ -113,11 +112,12 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--rom", required=True)
     ap.add_argument("--out", required=True)
-    ap.add_argument("--target-words", type=int, default=600)
+    ap.add_argument("--target-words", type=int, default=1000)
     ap.add_argument("--cache-dir", default=None)
     ap.add_argument("--backend", choices=["local", "api"], default="local",
                     help="local = gemini-web2api gateway, api = official Gemini API")
-    ap.add_argument("--model", default=os.environ.get("TRANSLIT_MODEL", "gemini-3.6-flash"))
+    ap.add_argument("--model", default=os.environ.get("TRANSLIT_MODEL", "gemini-3.6-flash"),
+                    help="transliteration model; keep it different from the verification model so the two share no daily quota bucket")
     args = ap.parse_args()
     global call
     if args.backend == "api":

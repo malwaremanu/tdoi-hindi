@@ -92,9 +92,15 @@ def main():
         eid = ep.replace(".", "_")
         plans = glob.glob(os.path.join(REPO, "scripts", f"Ep {ep} *SFX plan.json"))
         chunks = sorted(glob.glob(os.path.join(work, "c??.wav")))
-        if not os.path.isdir(work) or len(chunks) < 2:
-            print(f"{ep}: takes not ready ({len(chunks)} chunks)", flush=True)
-            state_update(ep, status="waiting_takes", chunks=len(chunks))
+        # readiness = the batch's own joined clean master exists; counting chunk files is not
+        # enough, because the batch writes them one at a time and a join that runs mid-batch
+        # silently produces a short episode (10 min instead of 34)
+        master = glob.glob(os.path.join(work, "ep*_full_clean.mp3"))
+        if not os.path.isdir(work) or not master:
+            print(f"{ep}: takes not ready ({len(chunks)} chunks, master {'yes' if master else 'no'})",
+                  flush=True)
+            state_update(ep, status="waiting_takes", chunks=len(chunks),
+                         master_ready=bool(master))
             continue
         if not plans:
             print(f"{ep}: no SFX plan", flush=True)

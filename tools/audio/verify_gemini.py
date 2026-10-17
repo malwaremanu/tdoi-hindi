@@ -35,6 +35,35 @@ from build_episode import pick_key  # noqa: E402  (same key pool, TTS-usage orde
 LLM_POOL = os.path.expanduser("~/.hermes/keys/gemini_llm_pool.json")
 
 
+def pick_llm_key():
+    """Choose the key with the fewest *LLM* calls today.
+
+    pick_key() orders by TTS usage, which is the wrong axis here: every translation and
+    verification call would land on the same key and burn its daily text quota while the
+    other keys sit idle. Also skip keys already marked exhausted (429) for the day.
+    """
+    from build_episode import _pool_load
+    tts = _pool_load()
+    valid = [k["key"] for k in tts["keys"] if k.get("valid")]
+    try:
+        llm = json.load(open(LLM_POOL))
+    except Exception:  # noqa: BLE001
+        llm = {}
+    if llm.get("day") != time.strftime("%Y-%m-%d"):
+        llm = {"day": time.strftime("%Y-%m-%d"), "keys": {}}
+    recs = llm.get("keys", {})
+    scored = []
+    for key in valid:
+        rec = recs.get(key[-6:], {})
+        if rec.get("exhausted_today"):
+            continue
+        scored.append((rec.get("used_today", 0), key))
+    if not scored:
+        return None
+    scored.sort()
+    return scored[0][1]
+
+
 def llm_mark(key: str, status: int):
     today = time.strftime("%Y-%m-%d")
     try:
@@ -82,9 +111,9 @@ def transcribe(mp3: str, model: str, timeout: int = 600) -> str:
     b64 = base64.b64encode(open(mp3, "rb").read()).decode()
     payload = {"contents": [{"parts": [{"text": PROMPT},
                                        {"inline_data": {"mime_type": "audio/mp3", "data": b64}}]}]}
-    key = pick_key()
+    key = pick_llm_key()
     if not key:
-        raise RuntimeError("every key in the pool is spent for today")
+        raise RuntimeError("every key in the LLM pool is spent for today")
     req = urllib.request.Request(
         f"https://{HOST}/v1beta/models/{model}:generateContent",
         data=json.dumps(payload).encode(),

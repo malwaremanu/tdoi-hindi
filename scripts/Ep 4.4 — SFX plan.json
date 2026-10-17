@@ -1,0 +1,410 @@
+{
+ "episode": "4.4",
+ "cold_open_words": 482,
+ "beds": [
+  {
+   "id": "hava",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=140,lowpass=6500",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 157.55,
+   "level_db": -23,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     155.0,
+     0
+    ],
+    [
+     157.55,
+     -60
+    ]
+   ],
+   "notes": "Kailash ki oonchi hawa — poori scene ka lead bed, host intro se 0.25 s pehle out"
+  },
+  {
+   "id": "maidan",
+   "sound": "ep02/sfx/raw_fs/air.mp3",
+   "filter": "highpass=90,lowpass=8000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 157.55,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     9.2,
+     -60
+    ],
+    [
+     11.5,
+     0
+    ],
+    [
+     155.0,
+     0
+    ],
+    [
+     157.55,
+     -60
+    ]
+   ],
+   "notes": "khula maidan (\"Neeche nadiyan hain\") — 11.5 s par khulta hai, choti wali hawa ke neeche"
+  },
+  {
+   "id": "gaon",
+   "sound": "ep03/sfx/raw_fs/b1_village.mp3",
+   "filter": "highpass=110,lowpass=7000",
+   "start": 0.0,
+   "end_phrase": [
+    "कल्पना",
+    "कीजिए"
+   ],
+   "end_offset": -1.6,
+   "end_fallback": 79.9,
+   "level_db": -27,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     12.0,
+     -60
+    ],
+    [
+     14.5,
+     0
+    ],
+    [
+     78.5,
+     0
+    ],
+    [
+     80.9,
+     -60
+    ]
+   ],
+   "notes": "gaon/khet/bazaar ki door wali zameen — ghanti se ~1.5 s pehle chali jaati hai, kyunki wahan se scene Nehru ki declared kalpana ban jaata hai"
+  }
+ ],
+ "cues": [
+  {
+   "id": "windgust",
+   "sound": "synth:gust",
+   "synth_seconds": 3.5,
+   "phrase": [
+    "हिमालय",
+    "के",
+    "उन",
+    "पहाड़ों"
+   ],
+   "occurrence": 1,
+   "fallback_at": 1.9,
+   "offset": -1.2,
+   "level_db": -22,
+   "pan": 0.3,
+   "fade_in": 1.2,
+   "fade_out": 1.4
+  },
+  {
+   "id": "kailash",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.2,
+   "phrase": [
+    "उसका",
+    "नाम",
+    "कैलाश"
+   ],
+   "occurrence": 1,
+   "fallback_at": 4.4,
+   "offset": -1.9,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.4,
+   "fade_out": 1.6
+  },
+  {
+   "id": "nadi",
+   "sound": "synth:river_wash",
+   "synth_seconds": 5.0,
+   "phrase": [
+    "नीचे",
+    "नदियां"
+   ],
+   "occurrence": 1,
+   "fallback_at": 10.4,
+   "offset": -1.0,
+   "level_db": -27,
+   "pan": 0.45,
+   "fade_in": 1.5,
+   "fade_out": 1.5
+  },
+  {
+   "id": "jashn",
+   "sound": "ep03/sfx/raw_fs/chuckle.mp3",
+   "seconds": 1.2,
+   "phrase": [
+    "कैसे",
+    "जश्न",
+    "मनाते"
+   ],
+   "occurrence": 1,
+   "fallback_at": 22.6,
+   "offset": -0.6,
+   "level_db": -24,
+   "pan": 0.4,
+   "fade_in": 0.05,
+   "fade_out": 0.5
+  },
+  {
+   "id": "bazaar",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "seconds": 5.0,
+   "phrase": [
+    "बाजार",
+    "की",
+    "चाह-चाह"
+   ],
+   "occurrence": 1,
+   "fallback_at": 26.7,
+   "offset": -1.8,
+   "level_db": -25,
+   "pan": 0.5,
+   "fade_in": 1.5,
+   "fade_out": 1.5
+  },
+  {
+   "id": "aag",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "filter": "highpass=350,lowpass=5200",
+   "seconds": 6.0,
+   "phrase": [
+    "आग",
+    "के",
+    "आस-पास",
+    "बैठी",
+    "एक",
+    "टोली"
+   ],
+   "occurrence": 1,
+   "fallback_at": 32.6,
+   "offset": -3.0,
+   "level_db": -24,
+   "pan": -0.3,
+   "fade_in": 1.5,
+   "fade_out": 2.5
+  },
+  {
+   "id": "utarna",
+   "sound": "ep02/sfx/raw_fs/bass.mp3",
+   "filter": "lowpass=200",
+   "seconds": 6.0,
+   "phrase": [
+    "नीचे",
+    "उतरने",
+    "का",
+    "मन",
+    "करता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 40.4,
+   "offset": -1.0,
+   "level_db": -26,
+   "pan": 0.0,
+   "fade_in": 3.0,
+   "fade_out": 2.5
+  },
+  {
+   "id": "dhol_door",
+   "sound": "ep01/sfx/raw_fs/s3_stab.mp3",
+   "filter": "lowpass=300",
+   "seconds": 0.9,
+   "phrase": [
+    "ये",
+    "आदमियों",
+    "के",
+    "बीच",
+    "खेलते"
+   ],
+   "occurrence": 1,
+   "fallback_at": 50.4,
+   "offset": -0.4,
+   "level_db": -22,
+   "pan": 0.4,
+   "fade_in": 0.005,
+   "fade_out": 0.35
+  },
+  {
+   "id": "ghanti",
+   "sound": "ep05/sfx/raw_fs/cup.mp3",
+   "filter": "highpass=300,lowpass=6000",
+   "seconds": 6.0,
+   "phrase": [
+    "कल्पना",
+    "कीजिए"
+   ],
+   "occurrence": 1,
+   "fallback_at": 81.5,
+   "offset": -0.3,
+   "level_db": -24,
+   "pan": 0.35,
+   "fade_in": 0.01,
+   "fade_out": 4.0
+  },
+  {
+   "id": "chal_chhod",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "seconds": 3.0,
+   "phrase": [
+    "आज",
+    "कोई",
+    "उन्हें",
+    "सच",
+    "नहीं",
+    "मानता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 114.8,
+   "offset": -0.5,
+   "level_db": -24,
+   "pan": -0.35,
+   "fade_in": 0.02,
+   "fade_out": 0.6
+  },
+  {
+   "id": "dhol_paas1",
+   "sound": "ep01/sfx/raw_fs/s3_stab.mp3",
+   "filter": "lowpass=350",
+   "seconds": 0.9,
+   "phrase": [
+    "एक",
+    "दिन",
+    "इन",
+    "कहानियों",
+    "को"
+   ],
+   "occurrence": 1,
+   "fallback_at": 150.4,
+   "offset": -0.4,
+   "level_db": -19,
+   "pan": 0.25,
+   "fade_in": 0.005,
+   "fade_out": 0.35
+  },
+  {
+   "id": "dhol_paas2",
+   "sound": "ep01/sfx/raw_fs/s3_stab.mp3",
+   "filter": "lowpass=350",
+   "seconds": 0.9,
+   "phrase": [
+    "दो",
+    "किताबों",
+    "में",
+    "बाँध",
+    "दिया",
+    "जाएगा"
+   ],
+   "occurrence": 1,
+   "fallback_at": 152.6,
+   "offset": -0.4,
+   "level_db": -16,
+   "pan": 0.1,
+   "fade_in": 0.005,
+   "fade_out": 0.35,
+   "notes": "scene ka sabse tez block — isi ek cue ko -16 dB ki chhoot hai"
+  }
+ ],
+ "score": [
+  {
+   "id": "shruti",
+   "sound": "ep03/sfx/raw_fs/shruti.mp3",
+   "filter": "highpass=70,lowpass=5000",
+   "phrase": [
+    "यहीं",
+    "से",
+    "एक",
+    "पूरी",
+    "दुनिया",
+    "खुलती"
+   ],
+   "occurrence": 1,
+   "fallback_at": 66.3,
+   "offset": -1.5,
+   "start": 64.8,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 157.55,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     60.0,
+     0
+    ],
+    [
+     88.0,
+     3
+    ],
+    [
+     90.7,
+     4
+    ],
+    [
+     92.7,
+     -60
+    ]
+   ],
+   "notes": "ek hi score layer: duniya khulte hi andar, ek baar chadhta hai, do kitaabon aur naqshe ke vaade par chhoota hai, host intro se 0.25 s pehle out. points 0-based hain (layer ke apne start se), kyunki mixer ka env() wahi se ginta hai"
+  }
+ ],
+ "duck": [
+  {
+   "id": "naam_duck",
+   "phrase": [
+    "उसका",
+    "नाम",
+    "कैलाश"
+   ],
+   "occurrence": 1,
+   "fallback_at": 4.4,
+   "pre": 1.3,
+   "post": 2.4,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.4,
+  "notes": "H1: teen beds aur score host intro se 0.25 s pehle khatam; intro aur uske teen sawal sookhe chalte hain, phir 1.4 s ki sachchi chuppi aur body (Ab tak) shuru. Andar do beat jaan-boojh kar khaali hain (koi spot cue nahi): (1) 'पहले उन्हें शक्ल लेनी पड़ेगी' wala beat — sirf beds, aur (2) 'पर रुकिए। ये कहानियां आईं कहाँ से?' wala hook-out sawal — wahan score bhi sirf hold karta hai"
+ }
+}

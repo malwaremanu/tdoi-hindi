@@ -1,0 +1,403 @@
+{
+ "episode": "6.5",
+ "cold_open_words": 364,
+ "beds": [
+  {
+   "id": "river",
+   "sound": "synth:river_wash",
+   "synth_seconds": 240,
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 112.0,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.5,
+     0
+    ],
+    [
+     88,
+     0
+    ],
+    [
+     91,
+     1.5
+    ],
+    [
+     94,
+     1.5
+    ],
+    [
+     98,
+     0
+    ],
+    [
+     111.4,
+     0
+    ],
+    [
+     111.95,
+     -60
+    ]
+   ],
+   "notes": "nadi ka paani, poore cold open ka farsh; kashti ke waqt 1.5 dB khulta hai, namaskar se 0.25 s pehle out (synth par filter lagta nahi, sirf synth_seconds)"
+  },
+  {
+   "id": "room",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=90",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 112.0,
+   "level_db": -27,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     9,
+     -60
+    ],
+    [
+     12.5,
+     -1
+    ],
+    [
+     88,
+     -1
+    ],
+    [
+     90,
+     -60
+    ],
+    [
+     95,
+     -60
+    ],
+    [
+     98,
+     -3
+    ],
+    [
+     111.4,
+     -3
+    ],
+    [
+     111.95,
+     -60
+    ]
+   ],
+   "notes": "kothi ke kamre ka room tone: 12.5 s par andar aata hai ('upar ek kamra'), lifafa kashti par jaate hi bahar chala jaata hai, aur mez par lautte hi -30 dB par wapas aata hai"
+  }
+ ],
+ "cues": [
+  {
+   "id": "pen1",
+   "sound": "ep01/sfx/raw_fs/s9_writing.mp3",
+   "seconds": 2.4,
+   "phrase": [
+    "कलम",
+    "चलती",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -20,
+   "pan": -0.15,
+   "fade_in": 0.02,
+   "fade_out": 0.4,
+   "fallback_at": 44.9
+  },
+  {
+   "id": "page1",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 0.8,
+   "phrase": [
+    "बीच",
+    "में",
+    "एक",
+    "पन्ना",
+    "आता"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -22,
+   "pan": -0.2,
+   "fade_in": 0.01,
+   "fade_out": 0.15,
+   "fallback_at": 46.9
+  },
+  {
+   "id": "coin1",
+   "sound": "ep05/sfx/raw_fs/cup.mp3",
+   "filter": "lowpass=2000",
+   "seconds": 0.6,
+   "phrase": [
+    "उस",
+    "रकम",
+    "के",
+    "नीचे"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -18,
+   "pan": -0.3,
+   "fade_in": 0.005,
+   "fade_out": 0.2,
+   "fallback_at": 51.8,
+   "notes": "rakam ke neeche dabi thap; scene ka sabse uncha cue (pool mein asli sikka nahi hai, cup.mp3 + lowpass)"
+  },
+  {
+   "id": "name",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.2,
+   "phrase": [
+    "वही",
+    "नाम",
+    "थोड़ी",
+    "दूर"
+   ],
+   "occurrence": 1,
+   "offset": -1.8,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.4,
+   "fade_out": 1.5,
+   "fallback_at": 54.3,
+   "notes": "naam doosri baar aata hai — ek hi bowed phrase, centre; isi par duck baithta hai"
+  },
+  {
+   "id": "tick2",
+   "sound": "ep01/sfx/raw_fs/s8b_pen.mp3",
+   "seconds": 0.35,
+   "phrase": [
+    "एक",
+    "नाम",
+    "दो",
+    "बार"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "level_db": -21,
+   "pan": -0.35,
+   "fade_in": 0.005,
+   "fade_out": 0.12,
+   "fallback_at": 58.8,
+   "notes": "ginne ki doosri halki tik — 'do baar' ke saath do tik"
+  },
+  {
+   "id": "cannon1",
+   "sound": "ep01/sfx/raw_fs/s3_stab.mp3",
+   "filter": "lowpass=180",
+   "seconds": 1.1,
+   "phrase": [
+    "कुछ",
+    "आवाज़ें",
+    "आती",
+    "हैं"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "level_db": -24,
+   "pan": 0.45,
+   "fade_in": 0.005,
+   "fade_out": 0.5,
+   "fallback_at": 71.4,
+   "notes": "pehli door ki top — hard impact par bhaari low-pass, daayein"
+  },
+  {
+   "id": "cannon2",
+   "sound": "ep02/sfx/raw_fs/bass.mp3",
+   "filter": "lowpass=200",
+   "seconds": 2.2,
+   "phrase": [
+    "हल्के",
+    "से",
+    "सर",
+    "उठाता",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": -1.4,
+   "level_db": -24,
+   "pan": 0.55,
+   "fade_in": 0.08,
+   "fade_out": 1.0,
+   "fallback_at": 73.9,
+   "notes": "doosri top, zyada door — sub-bass ki garaj, thoda aage daayein (foley range ke sabse neeche)"
+  },
+  {
+   "id": "paper2",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 1.6,
+   "phrase": [
+    "पन्नों",
+    "को",
+    "एक-एक",
+    "कर",
+    "के"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -21,
+   "pan": -0.2,
+   "fade_in": 0.02,
+   "fade_out": 0.5,
+   "fallback_at": 79.6,
+   "notes": "panno ka bundle joda jaata hai — page1 se lamba aur thoda uncha"
+  },
+  {
+   "id": "seal",
+   "sound": "ep01/sfx/raw_fs/s6_latch.mp3",
+   "filter": "lowpass=3500",
+   "seconds": 0.5,
+   "phrase": [
+    "मोम",
+    "की",
+    "मोहर",
+    "लगाता",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": -0.1,
+   "level_db": -19,
+   "pan": -0.1,
+   "fade_in": 0.005,
+   "fade_out": 0.25,
+   "fallback_at": 86.9,
+   "notes": "mom ki mohar — dabi hui chhoti clack, slam nahi"
+  },
+  {
+   "id": "boat",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 2.6,
+   "phrase": [
+    "एक",
+    "कश्ती",
+    "पर",
+    "जाता",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -24,
+   "pan": 0.4,
+   "fade_in": 0.5,
+   "fade_out": 1.0,
+   "fallback_at": 92.2,
+   "notes": "kashti ki lakdi ki chikat; paani ka khulna river bed ke +1.5 dB rise se aata hai"
+  },
+  {
+   "id": "register",
+   "sound": "ep05/sfx/raw_fs/cup.mp3",
+   "filter": "lowpass=1200",
+   "seconds": 0.8,
+   "phrase": [
+    "एक",
+    "बंद",
+    "रजिस्टर",
+    "रह",
+    "जाता"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -19,
+   "pan": -0.15,
+   "fade_in": 0.005,
+   "fade_out": 0.3,
+   "fallback_at": 100.4,
+   "notes": "lambi lakdi ki mez par register band hota hai (wahi cup.mp3, daba hua low-pass)"
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "उस",
+    "लंबी",
+    "मेज़",
+    "पर"
+   ],
+   "occurrence": 1,
+   "fallback_at": 98.4,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 112.0,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2,
+     -4
+    ],
+    [
+     4.5,
+     -2
+    ],
+    [
+     5.8,
+     0
+    ],
+    [
+     6.8,
+     2
+    ],
+    [
+     8.2,
+     -1
+    ],
+    [
+     10,
+     -2.5
+    ],
+    [
+     13.65,
+     -60
+    ]
+   ],
+   "notes": "ek hi swell: -24 base, 'एक चीज़ नहीं लिखी गई' par -22; uske baad utarta hai, duck ise chupa deta hai, aur namaskar se 0.25 s pehle poora out"
+  }
+ ],
+ "duck": [
+  {
+   "id": "verdict_duck",
+   "phrase": [
+    "फ़ैसला",
+    "आज",
+    "नहीं",
+    "होगा"
+   ],
+   "occurrence": 1,
+   "pre": 1.2,
+   "post": 2.2,
+   "gain": 0.3,
+   "fallback_at": 108.2,
+   "notes": "faisle wali line apne aap khadi ho — nadi, kamra aur tanpura teenon 0.30 par gir jaate hain"
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.3,
+  "notes": "1) Score aur dono beds namaskar se 0.25 s pehle poore out; host intro ke neeche kuch nahi, aur ident ke baad body bilkul sookhi. 2) Andar ke khaali beats (koi cue nahi): 54.5-71.4 s ('us naujawan ko iska matlab nahi pata'), 75.0-79.6 s (doosri top ke baad 'phir jhuk jaata hai'), aur 88.5-92.2 s (mohar ke baad lifafa chala jaata hai). 3) Verdict ke duck ke baad score wapas nahi aata; aakhri shabd beds ke naam rehte hain, aur cold open ke aakhir se body tak 1.3 s asli khamoshi."
+ }
+}

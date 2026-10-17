@@ -1,0 +1,441 @@
+{
+ "episode": "4.2",
+ "cold_open_words": 437,
+ "beds": [
+  {
+   "id": "field",
+   "sound": "ep03/sfx/raw_fs/field.mp3",
+   "filter": "highpass=90,lowpass=8000",
+   "start": 0.0,
+   "fallback_at": 0.0,
+   "end_phrase": [
+    "उन्नीस",
+    "सौ",
+    "चवालीस"
+   ],
+   "end_occurrence": 1,
+   "end_offset": -0.15,
+   "end_fallback": 100.44,
+   "level_db": -23,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     0
+    ],
+    [
+     97.5,
+     0
+    ],
+    [
+     100.45,
+     -60
+    ]
+   ],
+   "notes": "jungle ki purani subah ka khula bed; 1944 par hard cut"
+  },
+  {
+   "id": "wind",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=140,lowpass=6500",
+   "start": 0.0,
+   "fallback_at": 0.0,
+   "end_phrase": [
+    "उन्नीस",
+    "सौ",
+    "चवालीस"
+   ],
+   "end_occurrence": 1,
+   "end_offset": -0.15,
+   "end_fallback": 100.44,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     4.0,
+     0
+    ],
+    [
+     97.5,
+     0
+    ],
+    [
+     100.45,
+     -60
+    ]
+   ],
+   "notes": "patton wali hawa ki patli layer; field bed ke oopar"
+  },
+  {
+   "id": "dhaara",
+   "sound": "synth:river_wash",
+   "synth_seconds": 24.0,
+   "start": 0.0,
+   "fallback_at": 0.0,
+   "end_phrase": [
+    "उन्नीस",
+    "सौ",
+    "चवालीस"
+   ],
+   "end_occurrence": 1,
+   "end_offset": -0.15,
+   "end_fallback": 100.44,
+   "level_db": -25,
+   "pan": -0.15,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.5,
+     0
+    ],
+    [
+     97.5,
+     0
+    ],
+    [
+     100.45,
+     -60
+    ]
+   ],
+   "notes": "behti patli dhaara — poore pehle hisse ki reedh; 1944 par baaki sab ke saath chup. synth bed 24 s ka loop hai (mixer tile karta hai), isliye end_phrase ke saath kat sakti hai"
+  },
+  {
+   "id": "room",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=60,lowpass=7000",
+   "phrase": [
+    "अहमदनगर",
+    "का",
+    "किला"
+   ],
+   "occurrence": 1,
+   "start": 101.84,
+   "fallback_at": 101.84,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_occurrence": 2,
+   "end_offset": -0.25,
+   "end_fallback": 160.62,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.0,
+     0
+    ],
+    [
+     54.5,
+     0
+    ],
+    [
+     58.1,
+     -60
+    ]
+   ],
+   "notes": "kothri ka room tone — 1944 ke hard cut ke baad sannata, phir ye dheere aata hai. end_occurrence 2 zaroori hai: mixer ka fuzzy match 'नमस्कार' ko pehli baar 'मुस्कुराते' par bhi pakad leta hai (~58 s)"
+  }
+ ],
+ "cues": [
+  {
+   "id": "pani",
+   "sound": "synth:river_wash",
+   "synth_seconds": 6.0,
+   "phrase": [
+    "और",
+    "ये",
+    "पानी"
+   ],
+   "occurrence": 1,
+   "offset": -0.8,
+   "fallback_at": 50.92,
+   "level_db": -24,
+   "pan": -0.3,
+   "fade_in": 0.8,
+   "fade_out": 1.5,
+   "notes": "ladke ke doosre sawal par dhaara zara ubharti hai — paani khud jawab deta hai"
+  },
+  {
+   "id": "chidiya1",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "seconds": 0.43,
+   "phrase": [
+    "रुकी",
+    "नहीं"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 21.53,
+   "level_db": -32,
+   "pan": 0.55,
+   "fade_in": 0.02,
+   "fade_out": 0.1,
+   "notes": "ek akeli chidiya, pehli baar; door, daayen"
+  },
+  {
+   "id": "chidiya2",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "seconds": 0.43,
+   "phrase": [
+    "रुकी",
+    "नहीं"
+   ],
+   "occurrence": 1,
+   "offset": 1.9,
+   "fallback_at": 21.53,
+   "level_db": -33,
+   "pan": 0.2,
+   "fade_in": 0.02,
+   "fade_out": 0.12,
+   "notes": "wahi chidiya doosri baar, thoda nazdeek"
+  },
+  {
+   "id": "patt",
+   "sound": "synth:gust",
+   "synth_seconds": 3.5,
+   "phrase": [
+    "जो",
+    "हवा",
+    "में",
+    "कांप",
+    "रहे"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 39.74,
+   "level_db": -26,
+   "pan": 0.35,
+   "fade_in": 0.4,
+   "fade_out": 1.2,
+   "notes": "kaanpte patte — hawa ka ek jhonka, chaura"
+  },
+  {
+   "id": "kaagaz",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 1.1,
+   "phrase": [
+    "किताब",
+    "के",
+    "पन्ने",
+    "पलट"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 108.05,
+   "level_db": -21,
+   "pan": -0.25,
+   "fade_in": 0.02,
+   "fade_out": 0.25,
+   "notes": "qaidi purani kitaab ke panne palat raha hai"
+  },
+  {
+   "id": "pen_thehar",
+   "sound": "ep01/sfx/raw_fs/s8b_pen.mp3",
+   "seconds": 0.6,
+   "phrase": [
+    "पन्ने",
+    "पर",
+    "रुक",
+    "जाता"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 110.94,
+   "level_db": -23,
+   "pan": -0.3,
+   "fade_in": 0.01,
+   "fade_out": 0.2,
+   "notes": "kalam ek panne par thehar jaati hai"
+  },
+  {
+   "id": "likhai",
+   "sound": "ep01/sfx/raw_fs/s9_writing.mp3",
+   "seconds": 2.6,
+   "phrase": [
+    "कॉपी",
+    "में",
+    "वही",
+    "सवाल"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 113.84,
+   "level_db": -20,
+   "pan": -0.2,
+   "fade_in": 0.05,
+   "fade_out": 0.4,
+   "notes": "apni copy mein wahi sawal utaarna — is scene ka sabse tez spot cue"
+  },
+  {
+   "id": "chidiya3",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "seconds": 0.43,
+   "phrase": [
+    "ढाई",
+    "हजार",
+    "साल",
+    "से",
+    "भी",
+    "आगे"
+   ],
+   "occurrence": 1,
+   "offset": -1.0,
+   "fallback_at": 98.94,
+   "level_db": -30,
+   "pan": -0.45,
+   "fade_in": 0.02,
+   "fade_out": 0.12,
+   "notes": "1944 se pehle aakhri chidiya — uske baad teen layer ek saath katte hain"
+  },
+  {
+   "id": "lau",
+   "sound": "ep02/sfx/raw_fs/air.mp3",
+   "filter": "highpass=350,lowpass=5000",
+   "seconds": 2.4,
+   "phrase": [
+    "अहमदनगर",
+    "का",
+    "किला"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 101.84,
+   "level_db": -30,
+   "pan": 0.4,
+   "fade_in": 0.3,
+   "fade_out": 0.8,
+   "notes": "lalten ki lau ke liye pool mein aag/shama ka sound nahi hai, isliye kothri ka halka jhonka (air, high-passed). Room tone ke saath hi aata hai"
+  },
+  {
+   "id": "kalam_ruk",
+   "sound": "ep01/sfx/raw_fs/s8b_pen.mp3",
+   "seconds": 0.7,
+   "phrase": [
+    "लड़का",
+    "कहां",
+    "गया"
+   ],
+   "occurrence": 1,
+   "offset": -1.0,
+   "fallback_at": 160.21,
+   "level_db": -24,
+   "pan": -0.35,
+   "fade_in": 0.02,
+   "fade_out": 0.35,
+   "notes": "aakhri line par kalam ruk jaati hai; cue 0.3 s pehle khatam — host intro dry rehta hai"
+  }
+ ],
+ "score": [
+  {
+   "id": "shruti",
+   "sound": "ep03/sfx/raw_fs/shruti.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "जिन्हें",
+    "हम",
+    "उपनिषद",
+    "कहते"
+   ],
+   "occurrence": 1,
+   "offset": -0.6,
+   "fallback_at": 90.66,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_occurrence": 2,
+   "end_offset": -0.25,
+   "end_fallback": 160.62,
+   "level_db": -22,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     -10
+    ],
+    [
+     8.5,
+     -9
+    ],
+    [
+     11.0,
+     -5
+    ],
+    [
+     17.0,
+     -7
+    ],
+    [
+     21.0,
+     -9
+    ],
+    [
+     30.0,
+     -8
+    ],
+    [
+     36.0,
+     -8
+    ],
+    [
+     39.5,
+     0
+    ],
+    [
+     44.0,
+     -3
+    ],
+    [
+     56.0,
+     -4
+    ],
+    [
+     64.0,
+     -6
+    ],
+    [
+     70.3,
+     -60
+    ]
+   ],
+   "notes": "ek hi entry, ek hi swell: 'उपनिषद' par andar, 'कौन जानता है' wale chhand par choti (rel 39.5 s = 0 dB = -22 dB peak), aur 'नमस्कार' se 0.25 s pehle poori tarah bahar. 1944 par score kata nahi — wahi dhun kothri mein saath jaati hai"
+  }
+ ],
+ "duck": [
+  {
+   "id": "naam_duck",
+   "phrase": [
+    "जवाहरलाल",
+    "नेहरू"
+   ],
+   "occurrence": 1,
+   "fallback_at": 131.64,
+   "pre": 1.2,
+   "post": 2.4,
+   "gain": 0.3,
+   "notes": "naam wala moment: 'ये कैदी हैं जवाहरलाल नेहरू' akela land kare"
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.3,
+  "notes": "Beds, score aur aakhri cue 'नमस्कार' se 0.25 s pehle khatam — host intro aur uske baad wale do sawal poori tarah dry hain. Cold open ke andar teen jagah jaan-boojh kar koi cue nahi: (1) 'गुरु कुछ नहीं कहते' (~46-48 s) — guru ki chuppi hi jawab hai; (2) raakh/angare wala beat (~13-16 s) — koi aag ka crackle nahi, sirf beds; (3) 'लड़का सोचता रह जाता है / उसे जवाब नहीं मिला' (~67-69 s). Iske alawa 'उन्नीस सौ चवालीस' par scripted sannata: field, wind aur dhaara ek frame mein kat jaate hain aur room tone 2 s ke fade se aata hai. Ant mein kalam rukne ke baad 1.3 s sannata, phir body"
+ }
+}

@@ -226,8 +226,11 @@ def main():
             A[k] = last + 0.5
         last = A[k]
 
+    # voice and SFX layer stay separate: the duck on the name moment must pull the
+    # effects back, never the narration (ducking the voice dips the name line itself)
+    narr = np.zeros((n, 2), dtype=np.float64)
+    place(narr, x, 0.0, 0.0, 0.0, fade_in=0.0, fade_out=0.0)
     buf = np.zeros((n, 2), dtype=np.float64)
-    place(buf, x, 0.0, 0.0, 0.0, fade_in=0.0, fade_out=0.0)
 
     # ---------------- A1: desert air + wind bed (whole scene up to the host intro)
     air = load(os.path.join(EP2_RAW, "air.mp3"), "highpass=90,lowpass=8000")
@@ -317,7 +320,7 @@ def main():
     duck = np.ones(n)
     i0, i1 = int((A["name"] - 1.2) * SR), int((A["name"] + 2.4) * SR)
     duck[i0:i1] = 0.30
-    buf *= duck[:, None]
+    buf *= duck[:, None]          # SFX layer only
 
     # ---------------- G2: tanpura under the three questions, out before the body
     tp = load(os.path.join(EP3_RAW, "tanpura.mp3"), "highpass=70,lowpass=6000")
@@ -330,7 +333,7 @@ def main():
         place(buf, t, t0, gain_for(db(t), narr_peak, -24), 0.0, et, 0.0, 0.0)
 
     # ---------------- the SFX layer on its own, for QC (narration removed)
-    layer = buf - (duck[:, None] * x[:, None])
+    layer = buf.copy()
     lout = os.path.join(SFX, "_c01_sfx_only.wav")
     layer.astype(np.float32).tofile(lout + ".f32")
     sh([FF, "-y", "-f", "f32le", "-ar", str(SR), "-ac", "2", "-i", lout + ".f32", lout])
@@ -338,6 +341,7 @@ def main():
     print(f"sfx layer rms {db(layer):.1f} dBFS vs narration {narr_peak:.1f} dBFS peak")
 
     # ---------------- sum, limit, write
+    buf = narr + buf
     peak = np.max(np.abs(buf))
     if peak > 0.95:
         buf *= 0.95 / peak

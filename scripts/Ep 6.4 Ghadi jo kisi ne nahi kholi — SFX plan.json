@@ -1,0 +1,293 @@
+{
+ "episode": "6.4",
+ "cold_open_words": 335,
+ "beds": [
+  {
+   "id": "hall",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=120,lowpass=9000",
+   "start": 0.0,
+   "end_phrase": [
+    "अगले",
+    "काम",
+    "पर",
+    "चला"
+   ],
+   "end_offset": 0.75,
+   "end_fallback": 79.13,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     77.5,
+     0
+    ],
+    [
+     79.4,
+     -60
+    ]
+   ],
+   "notes": "B1 (Ep 6 plan ka hall air): Fatehpur Sikri ke daalan ki garam, shaant hawa. 'darbar agle kaam par chala jaata hai' par khatam — uske baad jail wale hisse mein hawa nahi, sirf tanpura."
+  },
+  {
+   "id": "darbar",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "filter": "highpass=150,lowpass=5000",
+   "start": 12.0,
+   "end_phrase": [
+    "ये",
+    "बनी",
+    "कैसे"
+   ],
+   "end_offset": -1.6,
+   "end_fallback": 70.5,
+   "level_db": -27,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     0
+    ],
+    [
+     31.0,
+     0
+    ],
+    [
+     32.5,
+     -3
+    ],
+    [
+     53.5,
+     -3
+    ],
+    [
+     56.0,
+     -60
+    ]
+   ],
+   "notes": "B2 / B2-hush (Ep 6 plan): door ka darbar. 'दरबार भरा' par judta hai, 'Akbar apne zamane' se pehle hush (-3 dB), aur 'ये बनी कैसे' se 1.6 s pehle poora out. Points bed ke start se relative seconds hain."
+  }
+ ],
+ "cues": [
+  {
+   "id": "qadam",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "seconds": 1.6,
+   "phrase": [
+    "अजनबी",
+    "काले",
+    "चोगों",
+    "में"
+   ],
+   "occurrence": 1,
+   "offset": -1.5,
+   "fallback_at": 16.5,
+   "level_db": -20,
+   "pan": -0.25,
+   "fade_in": 0.02,
+   "fade_out": 0.3
+  },
+  {
+   "id": "tohfa",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 1.1,
+   "phrase": [
+    "लिपटी",
+    "एक",
+    "मोटी",
+    "किताब"
+   ],
+   "occurrence": 1,
+   "offset": -1.2,
+   "fallback_at": 22.5,
+   "level_db": -22,
+   "pan": -0.2,
+   "fade_in": 0.02,
+   "fade_out": 0.25
+  },
+  {
+   "id": "panna1",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 0.6,
+   "phrase": [
+    "वो",
+    "एक",
+    "पन्ना"
+   ],
+   "occurrence": 1,
+   "offset": -0.35,
+   "fallback_at": 27.38,
+   "level_db": -20,
+   "pan": -0.15,
+   "fade_in": 0.005,
+   "fade_out": 0.15
+  },
+  {
+   "id": "panna2",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 0.45,
+   "phrase": [
+    "फिर",
+    "दूसरा"
+   ],
+   "occurrence": 1,
+   "offset": -0.35,
+   "fallback_at": 28.88,
+   "level_db": -21,
+   "pan": -0.1,
+   "fade_in": 0.005,
+   "fade_out": 0.12
+  },
+  {
+   "id": "thap",
+   "sound": "ep05/sfx/raw_fs/cup.mp3",
+   "filter": "lowpass=2000",
+   "seconds": 0.5,
+   "phrase": [
+    "किताब",
+    "एक",
+    "तरफ़",
+    "रख"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 62.25,
+   "level_db": -16,
+   "pan": -0.1,
+   "fade_in": 0.005,
+   "fade_out": 0.3
+  },
+  {
+   "id": "thap_paper",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 0.4,
+   "phrase": [
+    "किताब",
+    "एक",
+    "तरफ़",
+    "रख"
+   ],
+   "occurrence": 1,
+   "offset": 0.3,
+   "fallback_at": 62.25,
+   "level_db": -24,
+   "pan": -0.2,
+   "fade_in": 0.02,
+   "fade_out": 0.15
+  },
+  {
+   "id": "hawa",
+   "sound": "synth:gust",
+   "synth_seconds": 3.2,
+   "phrase": [
+    "हवा",
+    "में",
+    "लटक"
+   ],
+   "occurrence": 1,
+   "offset": -0.7,
+   "fallback_at": 66.0,
+   "level_db": -24,
+   "pan": 0.4,
+   "fade_in": 1.0,
+   "fade_out": 1.2
+  },
+  {
+   "id": "kothri",
+   "sound": "ep01/sfx/raw_fs/s6_latch.mp3",
+   "seconds": 0.8,
+   "phrase": [
+    "एक",
+    "जेल",
+    "की",
+    "कोठरी"
+   ],
+   "occurrence": 1,
+   "offset": -1.9,
+   "fallback_at": 82.88,
+   "level_db": -24,
+   "pan": 0.45,
+   "fade_in": 0.01,
+   "fade_out": 0.3
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "तीन",
+    "सौ",
+    "साल",
+    "बाद"
+   ],
+   "fallback_at": 81.38,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 96.38,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.5,
+     0
+    ],
+    [
+     8.2,
+     0
+    ],
+    [
+     10.6,
+     3
+    ],
+    [
+     12.2,
+     3
+    ],
+    [
+     14.5,
+     -60
+    ]
+   ],
+   "notes": "M1: ek hi entry, ek hi swell. Tanpura 'तीन सौ साल बाद' par uthta hai (-25 dB), 'जिसमें एक बड़ा सवाल छुपा है' par +3 dB chadhkar -22 dB chhoota hai, aur 'नमस्कार' se 0.25 s pehle poori tarah chup ho jaata hai. Points score ke start se relative seconds hain; aakhri point par -60, isliye align se waqt khisakne par bhi ident se pehle sannata rehta hai."
+  }
+ ],
+ "duck": [
+  {
+   "id": "sawal_duck",
+   "phrase": [
+    "ये",
+    "बनी",
+    "कैसे"
+   ],
+   "occurrence": 1,
+   "fallback_at": 70.5,
+   "pre": 1.2,
+   "post": 2.2,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.3,
+  "notes": "Cold open ke aakhri shabd ('apna ghar yaad kar raha hai') ke baad 1.3 s sannata, phir 'Ab tak'. Ident par bhi sab out: 'नमस्कार' se pehle kuchh nahi bajta, aur ident ke baad poore episode mein ek bhi cue nahi. Do beats jaan-boojh kar khaali hain: (1) 38.3-56.6 s — 'ये छपी हुई है' se 'सब बहस करते हैं' tak, chhape akshar aur Akbar ka chitra, koi spot cue nahi (sirf hushi hui B2); (2) 70.5-79.9 s — 'ये बनी कैसे' aur uske baad ka anuchhed, B2 pehle hi out, hall ki hawa duck par 30%, agla cue 'kothri' 80.98 s par. Ek teesra chhupa hua beat: 56.6-60.8 s, 'Akbar kitaab band karte hain' — kitaab band karna awaaz se nahi dikhaya jaata."
+ }
+}

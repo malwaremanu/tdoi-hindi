@@ -1,0 +1,306 @@
+{
+ "episode": "6.6",
+ "cold_open_words": 384,
+ "beds": [
+  {
+   "id": "air",
+   "sound": "ep02/sfx/raw_fs/air.mp3",
+   "filter": "highpass=90,lowpass=8000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 105.35,
+   "level_db": -24,
+   "pan": 0.0,
+   "notes": "chhat par raat ki sookhi hawa, poore cold open ke neeche; ident se 0.25 s pehle out (default envelope: 2 s in, aakhri 1.2 s out)"
+  },
+  {
+   "id": "village",
+   "sound": "ep03/sfx/raw_fs/b1_village.mp3",
+   "filter": "lowpass=1400",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 105.35,
+   "level_db": -27,
+   "pan": 0.0,
+   "notes": "neeche soya hua shehar — door ki dheemi awaaz, bahut neeche, bhoorh jaisi"
+  }
+ ],
+ "cues": [
+  {
+   "id": "paper1",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 1.4,
+   "phrase": [
+    "मेज",
+    "पर",
+    "दो",
+    "पुराने",
+    "कागज़"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 4.5,
+   "level_db": -22,
+   "pan": -0.2,
+   "fade_in": 0.01,
+   "fade_out": 0.3
+  },
+  {
+   "id": "flame",
+   "sound": "synth:gust",
+   "filter": "lowpass=1200",
+   "synth_seconds": 1.8,
+   "phrase": [
+    "और",
+    "एक",
+    "दीपक"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 6.1,
+   "level_db": -27,
+   "pan": 0.35,
+   "fade_in": 0.4,
+   "fade_out": 0.6
+  },
+  {
+   "id": "paper2",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 1.2,
+   "phrase": [
+    "दोनों",
+    "परचे",
+    "साथ",
+    "रखे"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 19.5,
+   "level_db": -23,
+   "pan": -0.3,
+   "fade_in": 0.01,
+   "fade_out": 0.25
+  },
+  {
+   "id": "finger",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 1.6,
+   "phrase": [
+    "एक",
+    "आदमी",
+    "उंगली"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 29.1,
+   "level_db": -21,
+   "pan": -0.3,
+   "fade_in": 0.02,
+   "fade_out": 0.3,
+   "notes": "ungli ka sarsaraana; 'उंगली' repo ke Devanagari takes ka hi roop hai"
+  },
+  {
+   "id": "lean",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 1.1,
+   "phrase": [
+    "अपने",
+    "परचे"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 33.0,
+   "level_db": -26,
+   "pan": -0.15,
+   "fade_in": 0.02,
+   "fade_out": 0.2
+  },
+  {
+   "id": "tally",
+   "sound": "ep01/sfx/raw_fs/s9_writing.mp3",
+   "seconds": 1.8,
+   "phrase": [
+    "दर्ज",
+    "हो",
+    "जाता"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 37.1,
+   "level_db": -22,
+   "pan": -0.15,
+   "fade_in": 0.02,
+   "fade_out": 0.3
+  },
+  {
+   "id": "nighttone",
+   "sound": "synth:low_tone",
+   "synth_seconds": 4.0,
+   "phrase": [
+    "गिनती",
+    "रात",
+    "भर",
+    "चलती"
+   ],
+   "occurrence": 1,
+   "offset": -0.6,
+   "fallback_at": 38.7,
+   "level_db": -26,
+   "pan": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 1.5
+  },
+  {
+   "id": "tables",
+   "sound": "ep02/sfx/raw_fs/cello.mp3",
+   "seconds": 3.5,
+   "phrase": [
+    "पुर्तगाल",
+    "की",
+    "टेबल्स",
+    "कम",
+    "ठीक"
+   ],
+   "occurrence": 1,
+   "offset": -2.0,
+   "fallback_at": 42.2,
+   "level_db": -25,
+   "pan": 0.0,
+   "fade_in": 0.8,
+   "fade_out": 1.2,
+   "notes": "spot hai, score nahi: ek hi bowed phrase — tables kam theek hain"
+  },
+  {
+   "id": "crowd",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "seconds": 4.5,
+   "phrase": [
+    "कुछ",
+    "लोग",
+    "और",
+    "भी"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 76.5,
+   "level_db": -27,
+   "pan": 0.35,
+   "fade_in": 1.0,
+   "fade_out": 1.5,
+   "notes": "darbaar ke log aas-paas — bhoorh, koi samajh aane wala shabd nahi"
+  },
+  {
+   "id": "breeze",
+   "sound": "synth:gust",
+   "synth_seconds": 3.0,
+   "phrase": [
+    "उस",
+    "रात",
+    "उस",
+    "छत",
+    "पर"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 94.1,
+   "level_db": -26,
+   "pan": 0.45,
+   "fade_in": 1.0,
+   "fade_out": 1.5
+  },
+  {
+   "id": "bigdi",
+   "sound": "synth:low_tone",
+   "synth_seconds": 1.4,
+   "phrase": [
+    "तो",
+    "फिर",
+    "बात",
+    "कहां",
+    "बिगड़ी"
+   ],
+   "occurrence": 1,
+   "offset": -1.0,
+   "fallback_at": 104.0,
+   "level_db": -24,
+   "pan": 0.0,
+   "fade_in": 0.2,
+   "fade_out": 0.8,
+   "notes": "aakhri sawal; ye marne ke baad ident tak sirf sannata"
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "आज",
+    "की",
+    "बात",
+    "नहीं"
+   ],
+   "occurrence": 1,
+   "fallback_at": 55.7,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 105.35,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     -4
+    ],
+    [
+     11.0,
+     -1
+    ],
+    [
+     40.7,
+     0
+    ],
+    [
+     47.1,
+     -60
+    ]
+   ],
+   "notes": "ek hi swell: 'aaj ki baat nahi hai' par chalu, 11 s par poora khula — wahin naam aata hai — phir ghulta hua ident se 0.25 s pehle out"
+  }
+ ],
+ "duck": [
+  {
+   "id": "name_duck",
+   "phrase": [
+    "राजा",
+    "का",
+    "नाम",
+    "सवाई",
+    "जय",
+    "सिंह"
+   ],
+   "occurrence": 1,
+   "pre": 1.5,
+   "post": 2.4,
+   "gain": 0.3,
+   "fallback_at": 67.8,
+   "notes": "naam/verdict ka pal: beds aur tanpura 0.30 par, naam akela landta hai, phir tanpura wapas ubharta hai"
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "notes": "teen chuppi ke beat: (1) 'आसमान। ग्रह। तारे।' — sirf beds, koi cue nahi; (2) 'उनका घेरा छोटा था।' — galti ka kaaran bina kisi awaaz ke; (3) naam ke baad ka tail — duck ke window mein kuch naya nahi. Aakhri cue (bigdi) ident se ~1 s pehle mar jaati hai, tanpura usse bhi pehle, beds aakhri 1.2 s mein — ident khaali hawa se aata hai; ident aur uski teen lines sookhi chalti hain; phir 1.2 s asli sannata aur body ('## Ab tak') shuru."
+ }
+}

@@ -1,0 +1,349 @@
+{
+ "episode": "5.8",
+ "cold_open_words": 436,
+ "beds": [
+  {
+   "id": "guha",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=40,lowpass=7000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 133.3,
+   "level_db": -22,
+   "pan": 0.0,
+   "notes": "gaar ka band room-tone; poore cold open ke neeche, host intro se 0.25 s pehle khatam. points nahi diye: mixer ka default envelope (2 s in / 1.2 s out) hi theek hai"
+  },
+  {
+   "id": "nam_chattan",
+   "sound": "ep02/sfx/raw_fs/air.mp3",
+   "filter": "lowpass=1200",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 133.3,
+   "level_db": -26,
+   "pan": 0.0,
+   "notes": "hawa ko lowpass karke gaar ki nam, dabi hui saans; doosri ambience layer, poori scene"
+  },
+  {
+   "id": "guru_tanav",
+   "sound": "ep02/sfx/raw_fs/drone.mp3",
+   "filter": "highpass=50,lowpass=2400",
+   "phrase": [
+    "वो",
+    "वाक्य",
+    "आज",
+    "भी"
+   ],
+   "occurrence": 1,
+   "fallback_at": 43.0,
+   "end_phrase": [
+    "बस"
+   ],
+   "end_offset": -0.05,
+   "end_fallback": 50.7,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     1.2,
+     0
+    ],
+    [
+     4.5,
+     0
+    ],
+    [
+     6.0,
+     -60
+    ]
+   ],
+   "notes": "Guru ki teen vaakya wali salah par tanav; 'बस।' par khatam - us line par sannata. points layer ke apne start se ginne hain (0 = start)"
+  }
+ ],
+ "cues": [
+  {
+   "id": "diya",
+   "sound": "synth:gust",
+   "synth_seconds": 1.8,
+   "phrase": [
+    "फिर",
+    "एक",
+    "रोशनी"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 2.2,
+   "level_db": -23,
+   "pan": -0.15,
+   "fade_in": 0.45,
+   "fade_out": 0.7,
+   "notes": "andhere mein pehli lau - gust recipe ka halka hiss/swell, lau ki saans jaisa. (mixer synth recipes par 'filter' lagu nahi karta, isliye yahan filter nahi diya - shape sirf synth_seconds se)"
+  },
+  {
+   "id": "saans",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "lowpass=350",
+   "seconds": 3.0,
+   "phrase": [
+    "गीले",
+    "पत्थर",
+    "की"
+   ],
+   "occurrence": 1,
+   "offset": -0.9,
+   "fallback_at": 9.8,
+   "level_db": -24,
+   "pan": 0.35,
+   "fade_in": 0.9,
+   "fade_out": 1.1,
+   "notes": "script ki SFX line: nam chattan se aati dheemi saans - wind ko 350 Hz par lowpass karke ek lambi dhimi saans; door/wide (pan right). Filter file sound par hi lagta hai, isliye yahan file hai"
+  },
+  {
+   "id": "boond",
+   "sound": "synth:brick_thud",
+   "synth_seconds": 0.35,
+   "phrase": [
+    "साल",
+    "का",
+    "रंग"
+   ],
+   "occurrence": 1,
+   "offset": -0.35,
+   "fallback_at": 16.9,
+   "level_db": -22,
+   "pan": 0.5,
+   "fade_in": 0.005,
+   "fade_out": 0.3,
+   "notes": "script ki SFX line: ek boond patthar par - brick_thud ka click + 105 Hz ka dheema decay, chhote roop mein patthar par boond ka 'tok'. (synth par filter nahi lagta, isliye raw)"
+  },
+  {
+   "id": "chhaini",
+   "sound": "ep01/sfx/raw_fs/s3_stab.mp3",
+   "seconds": 0.45,
+   "phrase": [
+    "सालों",
+    "तक",
+    "छैनी",
+    "चली"
+   ],
+   "occurrence": 1,
+   "offset": -0.25,
+   "fallback_at": 34.4,
+   "level_db": -16,
+   "pan": -0.15,
+   "fade_in": 0.005,
+   "fade_out": 0.25,
+   "notes": "scene ka sabse loud block: chhaini patthar par. Ye hi plan ka ekmatra -16 dB cue hai"
+  },
+  {
+   "id": "brush1",
+   "sound": "ep01/sfx/raw_fs/s4_brush.mp3",
+   "seconds": 1.1,
+   "phrase": [
+    "रंग",
+    "चढ़ा"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 36.2,
+   "level_db": -21,
+   "pan": -0.3,
+   "fade_in": 0.05,
+   "fade_out": 0.3,
+   "notes": "salaun tak rang chadhta hai - wahi brush jise aage deewar par rang lagate hue sunenge (brush2)"
+  },
+  {
+   "id": "nirnay",
+   "sound": "ep02/sfx/raw_fs/bass.mp3",
+   "filter": "lowpass=200",
+   "seconds": 2.0,
+   "phrase": [
+    "वो",
+    "खतरनाक"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 48.8,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.35,
+   "fade_out": 0.6,
+   "notes": "'wo khatarnak hain' par sub-bass ka bojh - salah ka wazan, cheekh nahi"
+  },
+  {
+   "id": "deewar",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 1.4,
+   "phrase": [
+    "और",
+    "दीवार",
+    "खुलती",
+    "जाती"
+   ],
+   "occurrence": 1,
+   "offset": -0.6,
+   "fallback_at": 54.5,
+   "level_db": -22,
+   "pan": 0.4,
+   "fade_in": 0.08,
+   "fade_out": 0.4,
+   "notes": "diya aage badhta hai, deewar khulti jaati hai - patthar par roshni ka khisakna"
+  },
+  {
+   "id": "juloos",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "seconds": 3.0,
+   "phrase": [
+    "जुलूस",
+    "में",
+    "चली"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 65.2,
+   "level_db": -24,
+   "pan": 0.45,
+   "fade_in": 0.5,
+   "fade_out": 1.2,
+   "notes": "deewar par juloos - bheed ki awaaz, koi samajh mein aane wala shabd nahi, door/wide"
+  },
+  {
+   "id": "jeevit",
+   "sound": "ep03/sfx/raw_fs/chuckle.mp3",
+   "seconds": 1.5,
+   "phrase": [
+    "सब",
+    "जीवित"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 69.7,
+   "level_db": -24,
+   "pan": 0.55,
+   "fade_in": 0.1,
+   "fade_out": 0.8,
+   "notes": "'sab jeevit' - door se aati halki hansi: deewar ki goonj, kamre mein baitha koi aadmi nahi"
+  },
+  {
+   "id": "brush2",
+   "sound": "ep01/sfx/raw_fs/s4_brush.mp3",
+   "seconds": 1.6,
+   "phrase": [
+    "उन्हें",
+    "पत्थर",
+    "पर",
+    "उतार",
+    "दिया"
+   ],
+   "occurrence": 1,
+   "offset": -1.2,
+   "fallback_at": 96.2,
+   "level_db": -22,
+   "pan": -0.25,
+   "fade_in": 0.15,
+   "fade_out": 0.6,
+   "notes": "Guru ki baat maan kar bhi usne unhe patthar par utaar diya - wahi brush wapas aata hai"
+  },
+  {
+   "id": "rukta",
+   "sound": "ep05/sfx/raw_fs/cup.mp3",
+   "filter": "highpass=90,lowpass=6000",
+   "seconds": 0.6,
+   "phrase": [
+    "दिया",
+    "एक",
+    "जगह",
+    "रुक",
+    "जाता"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 114.7,
+   "level_db": -21,
+   "pan": -0.2,
+   "fade_in": 0.01,
+   "fade_out": 0.35,
+   "notes": "diya patthar par rakha jaata hai aur ruk jaata hai - ek halka sparsh, phir kuch bhi nahi"
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "अजंता",
+    "की",
+    "औरतें",
+    "मशहूर",
+    "हो",
+    "गईं"
+   ],
+   "occurrence": 1,
+   "fallback_at": 81.8,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 133.3,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     14.4,
+     1.5
+    ],
+    [
+     23.0,
+     0
+    ],
+    [
+     32.0,
+     -60
+    ]
+   ],
+   "notes": "ek hi swell: 'Ajanta ki auratein mashhoor ho gayin' par enter, 'unhe patthar par utaar diya' par choti (+1.5 dB), phir 'diya ek jagah ruk jaata hai' par chup aur ant (-60) tak chup. Host intro se bahut pehle out. points layer ke apne start se"
+  }
+ ],
+ "duck": [
+  {
+   "id": "mashhoor_duck",
+   "phrase": [
+    "अजंता",
+    "की",
+    "औरतें",
+    "मशहूर",
+    "हो",
+    "गईं"
+   ],
+   "occurrence": 1,
+   "fallback_at": 81.8,
+   "pre": 1.2,
+   "post": 2.4,
+   "gain": 0.3,
+   "notes": "ek hi duck - naam/faisla wali line akeli sunayi de"
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "notes": "'चलिए।' ke baad 1.2 s pura sannata, phir body ('## Ab tak') shuru. Usse pehle 'वहां दीवार खाली है' se 'चलिए।' tak sirf do halke beds: score 113.8 s par -60 dB ho jaata hai"
+ }
+}

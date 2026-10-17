@@ -1,0 +1,343 @@
+{
+ "episode": "5.1",
+ "cold_open_words": 367,
+ "beds": [
+  {
+   "id": "air",
+   "sound": "ep02/sfx/raw_fs/air.mp3",
+   "filter": "highpass=90,lowpass=8000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 140.4,
+   "level_db": -21,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     137.9,
+     0
+    ],
+    [
+     140.4,
+     -60
+    ]
+   ],
+   "notes": "sookhi dopahar ki hawa, door tak - the floor of the whole scene; out 0.25 s before 'नमस्कार'. points t=0 is this layer's own start; dB are relative to level_db"
+  },
+  {
+   "id": "wind",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=140,lowpass=6500",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 140.4,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.5,
+     0
+    ],
+    [
+     19.6,
+     0
+    ],
+    [
+     21.2,
+     -1.5
+    ],
+    [
+     23.8,
+     0
+    ],
+    [
+     126.0,
+     0
+    ],
+    [
+     138.0,
+     -0.5
+    ],
+    [
+     140.4,
+     -60
+    ]
+   ],
+   "notes": "patli, khushk, door ki hawa. 21 s par 1.5 dB neeche - chheni ki thes ko jagah dene ke liye. points t=0 is this layer's own start"
+  }
+ ],
+ "cues": [
+  {
+   "id": "chheni1",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 0.4,
+   "phrase": [
+    "एक",
+    "लकीर",
+    "खींचता"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 20.2,
+   "level_db": -20,
+   "pan": -0.3,
+   "fade_in": 0.005,
+   "fade_out": 0.12
+  },
+  {
+   "id": "thes",
+   "sound": "ep01/sfx/raw_fs/s3_stab.mp3",
+   "seconds": 0.6,
+   "phrase": [
+    "फिर",
+    "दूसरी"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 21.8,
+   "level_db": -16,
+   "pan": -0.15,
+   "fade_in": 0.005,
+   "fade_out": 0.35
+  },
+  {
+   "id": "dhool",
+   "sound": "synth:sand_trickle",
+   "synth_seconds": 1.8,
+   "phrase": [
+    "फिर",
+    "दूसरी"
+   ],
+   "occurrence": 1,
+   "offset": 0.35,
+   "fallback_at": 21.8,
+   "level_db": -24,
+   "pan": 0.25,
+   "fade_in": 0.06,
+   "fade_out": 0.6
+  },
+  {
+   "id": "chheni3",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 0.4,
+   "phrase": [
+    "फिर",
+    "तीसरी"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 22.7,
+   "level_db": -21,
+   "pan": -0.1,
+   "fade_in": 0.005,
+   "fade_out": 0.12
+  },
+  {
+   "id": "crow",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "seconds": 1.2,
+   "phrase": [
+    "सांची",
+    "से",
+    "ज्यादा",
+    "दूर"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 26.4,
+   "level_db": -24,
+   "pan": 0.55,
+   "fade_in": 0.03,
+   "fade_out": 0.25
+  },
+  {
+   "id": "ghanti",
+   "sound": "synth:low_tone",
+   "synth_seconds": 2.6,
+   "phrase": [
+    "रुकीये",
+    "और",
+    "इसे"
+   ],
+   "occurrence": 1,
+   "offset": -1.5,
+   "fallback_at": 46.7,
+   "level_db": -24,
+   "pan": 0.5,
+   "fade_in": 0.02,
+   "fade_out": 1.6
+  },
+  {
+   "id": "niyam1",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 0.3,
+   "phrase": [
+    "अपने",
+    "पर",
+    "काबू",
+    "रखना"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 77.2,
+   "level_db": -21,
+   "pan": -0.2,
+   "fade_in": 0.004,
+   "fade_out": 0.10
+  },
+  {
+   "id": "niyam2",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 0.3,
+   "phrase": [
+    "दूसरों",
+    "के",
+    "लिए",
+    "त्याग",
+    "करना"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 79.2,
+   "level_db": -21,
+   "pan": -0.12,
+   "fade_in": 0.004,
+   "fade_out": 0.10
+  },
+  {
+   "id": "niyam3",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 0.3,
+   "phrase": [
+    "अपना",
+    "फर्ज",
+    "ईमानदारी",
+    "से",
+    "निभाना"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 81.3,
+   "level_db": -22,
+   "pan": -0.18,
+   "fade_in": 0.004,
+   "fade_out": 0.10
+  },
+  {
+   "id": "gust",
+   "sound": "synth:gust",
+   "synth_seconds": 3.5,
+   "phrase": [
+    "ये",
+    "दरवाजा",
+    "बंद",
+    "होने"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 129.9,
+   "level_db": -23,
+   "pan": 0.35,
+   "fade_in": 0.9,
+   "fade_out": 1.4
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "ये",
+    "गांव",
+    "बेसनगर"
+   ],
+   "occurrence": 1,
+   "fallback_at": 24.4,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 140.4,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     26.5,
+     0
+    ],
+    [
+     29.5,
+     2
+    ],
+    [
+     32.5,
+     2
+    ],
+    [
+     37,
+     0
+    ],
+    [
+     105,
+     0
+    ],
+    [
+     113.6,
+     0
+    ],
+    [
+     116.1,
+     -60
+    ]
+   ],
+   "notes": "ek hi entry, ek hi swell: 0 dB = -24 dB, swell +2 dB = -22 dB peaking on the name 'इसे हेलिओडोरस ने खड़ा किया' (~30 s from start), phir wapas base par; khatam 0.25 s pehle 'नमस्कार'. points t=0 is this layer's own start"
+  }
+ ],
+ "duck": [
+  {
+   "id": "verdict_duck",
+   "phrase": [
+    "इस",
+    "देश",
+    "का",
+    "एक",
+    "देवता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 71.4,
+   "pre": 1.3,
+   "post": 2.4,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "notes": "cold open ke aakhri shabd, 'Aur beech mein ek khamba rahega, Besnagar ka.', aur body ('## Ab tak') ke pehle shabd ke beech 1.2 s ka poora sannata - koi hiss, koi tail, koi room tone nahi. Cold open ke andar teen jagah jaan-boojh kar koi cue nahi: (1) 'वो एक यूनानी है' - sirf beds; (2) 'ये छोटी बात नहीं है। ये एक निशान है।'; (3) 'सवाल दो हैं' se 'नमस्कार' tak - score aur beds dono ja chuke hain"
+ }
+}

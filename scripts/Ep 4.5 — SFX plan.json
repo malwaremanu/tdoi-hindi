@@ -1,0 +1,323 @@
+{
+ "episode": "4.5",
+ "cold_open_words": 377,
+ "beds": [
+  {
+   "id": "village",
+   "sound": "ep03/sfx/raw_fs/b1_village.mp3",
+   "filter": "highpass=70,lowpass=8000",
+   "start": 0.0,
+   "end_phrase": [
+    "और",
+    "चल",
+    "पड़ता",
+    "है"
+   ],
+   "end_occurrence": 1,
+   "end_offset": 0.6,
+   "end_fallback": 47.9,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [0, -60],
+    [2.5, 0],
+    [27.6, 0],
+    [28.4, -13],
+    [33.6, -13],
+    [34.6, 0],
+    [46.4, 0],
+    [47.9, -60]
+   ],
+   "notes": "bhor ka gaon; 28.4-33.6 s ka dip = 'koi naukar / talwar / bhala nahi' wala khaali beat. points start 0.0 se gine hain, isliye yahan absolute = relative"
+  },
+  {
+   "id": "field",
+   "sound": "ep03/sfx/raw_fs/field.mp3",
+   "filter": "highpass=120,lowpass=7000",
+   "start": 47.6,
+   "end_phrase": [
+    "अहमदनगर",
+    "का",
+    "किला"
+   ],
+   "end_occurrence": 1,
+   "end_offset": -0.4,
+   "end_fallback": 97.8,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [0, -60],
+    [3.0, 0],
+    [44.0, 0],
+    [50.2, -60]
+   ],
+   "notes": "raasta + Takshashila wala hissa; source sirf 17.3 s ka hai, mixer ise tile karega. points is layer ke start (47.6) se gine hain"
+  },
+  {
+   "id": "room",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=80,lowpass=6000",
+   "start": 97.8,
+   "end_phrase": [
+    "नमस्कार",
+    "मैं",
+    "हूँ"
+   ],
+   "end_occurrence": 1,
+   "end_offset": -0.75,
+   "end_fallback": 127.75,
+   "level_db": -27,
+   "pan": 0.0,
+   "points": [
+    [0, -60],
+    [2.5, 0],
+    [26.5, 0],
+    [30.0, -60]
+   ],
+   "notes": "1944, Ahmadnagar qila; kothri ka room tone. points is layer ke start se gine hain"
+  }
+ ],
+ "cues": [
+  {
+   "id": "dawn_bird",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "filter": "lowpass=4000",
+   "seconds": 0.9,
+   "phrase": [
+    "अभी",
+    "सूरज",
+    "नहीं",
+    "निकला"
+   ],
+   "occurrence": 1,
+   "offset": -1.0,
+   "fallback_at": 1.6,
+   "level_db": -24,
+   "pan": 0.55,
+   "fade_in": 0.05,
+   "fade_out": 0.25
+  },
+  {
+   "id": "well_rope",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "filter": "lowpass=6000",
+   "seconds": 1.1,
+   "phrase": [
+    "एक",
+    "आँगन",
+    "जिसमें",
+    "चूल्हा"
+   ],
+   "occurrence": 1,
+   "offset": -0.9,
+   "fallback_at": 9.5,
+   "level_db": -24,
+   "pan": -0.35,
+   "fade_in": 0.08,
+   "fade_out": 0.3
+  },
+  {
+   "id": "knot",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 1.0,
+   "phrase": [
+    "गाँठ",
+    "बाँध",
+    "देता",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 24.8,
+   "level_db": -22,
+   "pan": -0.25,
+   "fade_in": 0.02,
+   "fade_out": 0.2
+  },
+  {
+   "id": "hand",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "filter": "highpass=90,lowpass=6500",
+   "seconds": 4.0,
+   "phrase": [
+    "बेटे",
+    "के",
+    "सिर",
+    "पर",
+    "हाथ",
+    "रख"
+   ],
+   "occurrence": 1,
+   "offset": -2.2,
+   "fallback_at": 42.2,
+   "level_db": -23,
+   "pan": -0.15,
+   "fade_in": 0.6,
+   "fade_out": 1.8
+  },
+  {
+   "id": "door",
+   "sound": "ep03/sfx/raw_fs/door.mp3",
+   "seconds": 1.8,
+   "phrase": [
+    "नौजवान",
+    "पोटली",
+    "कंधे",
+    "पर",
+    "डालता",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": -1.4,
+   "fallback_at": 45.7,
+   "level_db": -18,
+   "pan": -0.3,
+   "fade_in": 0.02,
+   "fade_out": 0.4
+  },
+  {
+   "id": "steps",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "seconds": 2.6,
+   "phrase": [
+    "और",
+    "चल",
+    "पड़ता",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": -0.25,
+   "fallback_at": 47.3,
+   "level_db": -21,
+   "pan": -0.35,
+   "fade_in": 0.05,
+   "fade_out": 0.6
+  },
+  {
+   "id": "cart",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "filter": "highpass=90,lowpass=3500",
+   "seconds": 3.4,
+   "phrase": [
+    "मैदान",
+    "नदियाँ",
+    "जंगल"
+   ],
+   "occurrence": 1,
+   "offset": -1.4,
+   "fallback_at": 52.0,
+   "level_db": -22,
+   "pan": 0.45,
+   "fade_in": 0.7,
+   "fade_out": 1.2
+  },
+  {
+   "id": "reveal",
+   "sound": "synth:low_tone",
+   "synth_seconds": 3.2,
+   "phrase": [
+    "उस",
+    "शहर",
+    "का",
+    "नाम",
+    "है",
+    "तक्षशिला"
+   ],
+   "occurrence": 1,
+   "offset": -1.0,
+   "fallback_at": 57.2,
+   "level_db": -20,
+   "pan": 0.0,
+   "fade_in": 0.4,
+   "fade_out": 1.2
+  },
+  {
+   "id": "writing",
+   "sound": "ep01/sfx/raw_fs/s9_writing.mp3",
+   "filter": "highpass=200,lowpass=7000",
+   "seconds": 3.2,
+   "phrase": [
+    "पुराने",
+    "भारत",
+    "पर",
+    "लिख"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 100.1,
+   "level_db": -21,
+   "pan": -0.3,
+   "fade_in": 0.3,
+   "fade_out": 0.8
+  },
+  {
+   "id": "maps",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 1.8,
+   "phrase": [
+    "राज्यों",
+    "के",
+    "नक़्शे",
+    "बनाए",
+    "हैं"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 111.2,
+   "level_db": -23,
+   "pan": 0.25,
+   "fade_in": 0.1,
+   "fade_out": 0.5
+  }
+ ],
+ "score": [
+  {
+   "id": "drone",
+   "sound": "ep02/sfx/raw_fs/drone.mp3",
+   "filter": "highpass=60,lowpass=6000",
+   "start": 59.6,
+   "end_phrase": [
+    "नमस्कार",
+    "मैं",
+    "हूँ"
+   ],
+   "end_occurrence": 1,
+   "end_offset": -0.75,
+   "end_fallback": 127.75,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [0, -60],
+    [3.5, 0],
+    [29.5, 0],
+    [33.4, 3],
+    [38.0, 0],
+    [64.0, 0],
+    [68.1, -60]
+   ],
+   "notes": "ek hi score layer; ek hi swell, 33.4 s (start se) = 'Hum ye safar kyun kar rahe hain?'. start naam ke duck window ke baad, out host intro se 0.25 s pehle. points start se gine hain; source 68.2 s lamba hai, isliye ek hi pass"
+  }
+ ],
+ "duck": [
+  {
+   "id": "name_duck",
+   "phrase": [
+    "उस",
+    "शहर",
+    "का",
+    "नाम",
+    "है",
+    "तक्षशिला"
+   ],
+   "occurrence": 1,
+   "pre": 1.2,
+   "post": 2.2,
+   "gain": 0.3,
+   "fallback_at": 57.2
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "notes": "'Jawab us potli ke saath-saath chalega' ke baad 1.2 s sannata, phir 'Ab tak' ka pehla shabd. Teen cue-free beats andar bhi hain: khaali haath wala paragraph (B1 -13 dB par), 'Bas. Itna hi saamaan.', aur 'Hum ye safar kyun kar rahe hain?' + 'Kyunki Nehru ki ek shikayat thi.' (sirf drone)."
+ }
+}

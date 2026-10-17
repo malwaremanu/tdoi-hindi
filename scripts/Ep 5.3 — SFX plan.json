@@ -1,0 +1,440 @@
+{
+ "episode": "5.3",
+ "cold_open_words": 327,
+ "beds": [
+  {
+   "id": "room",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=70,lowpass=7000",
+   "start": 0.0,
+   "end_phrase": [
+    "वही",
+    "किताब",
+    "एक",
+    "जहाज"
+   ],
+   "end_offset": 2.0,
+   "end_fallback": 21.31,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     1.6,
+     0
+    ],
+    [
+     19.3,
+     0
+    ],
+    [
+     21.3,
+     -60
+    ]
+   ],
+   "notes": "chhapa-khane ka room tone (1789): scene ke pehle do beat, ship wale phrase par do second ke fade ke saath khatam"
+  },
+  {
+   "id": "sea",
+   "sound": "synth:river_wash",
+   "synth_seconds": 8.0,
+   "start": 19.31,
+   "phrase": [
+    "वही",
+    "किताब",
+    "एक",
+    "जहाज"
+   ],
+   "fallback_at": 19.31,
+   "end_phrase": [
+    "छोटा",
+    "कमरा"
+   ],
+   "end_offset": 0.8,
+   "end_fallback": 28.33,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.0,
+     0
+    ],
+    [
+     6.5,
+     0
+    ],
+    [
+     9.02,
+     -60
+    ]
+   ],
+   "notes": "jahaz ka samundar: kitaab Hindostan se Europe ja rahi hai; Germany ke kamre par poora out"
+  },
+  {
+   "id": "wind",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=140,lowpass=6500",
+   "start": 27.53,
+   "phrase": [
+    "छोटा",
+    "कमरा"
+   ],
+   "fallback_at": 27.53,
+   "end_phrase": [
+    "महसूस",
+    "नहीं",
+    "होती"
+   ],
+   "end_offset": 0.4,
+   "end_fallback": 57.91,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     1.5,
+     0
+    ],
+    [
+     27.4,
+     0
+    ],
+    [
+     30.4,
+     -60
+    ]
+   ],
+   "notes": "Goethe ke kamre ke bahar ki sard hawa; 'mehsoos nahi hoti' par out (jab padhne wale ko bahar ki hawa mehsoos hona band ho jaati hai)"
+  },
+  {
+   "id": "drone",
+   "sound": "ep02/sfx/raw_fs/drone.mp3",
+   "filter": "lowpass=500",
+   "start": 84.17,
+   "phrase": [
+    "लोगों",
+    "में",
+    "एक",
+    "हलचल"
+   ],
+   "fallback_at": 84.17,
+   "end_phrase": [
+    "पुराने",
+    "नाटक",
+    "की",
+    "नकल"
+   ],
+   "end_offset": 0.6,
+   "end_fallback": 116.11,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     0
+    ],
+    [
+     28.9,
+     0
+    ],
+    [
+     31.9,
+     -60
+    ]
+   ],
+   "notes": "hulchul se Europe ke purane sawal tak ek flat tension bed; swar nahi uthta (swell sirf score mein), aur score se pehle poora out"
+  }
+ ],
+ "cues": [
+  {
+   "id": "press1",
+   "sound": "synth:brick_thud",
+   "phrase": [
+    "शहर",
+    "में",
+    "एक",
+    "छापाखाना"
+   ],
+   "occurrence": 1,
+   "offset": -0.8,
+   "fallback_at": 4.97,
+   "level_db": -16,
+   "pan": -0.15,
+   "fade_in": 0.005,
+   "fade_out": 0.25,
+   "notes": "scene ka sabse loud block, is ek cue ko -16 dB ki chhoot hai"
+  },
+  {
+   "id": "press2",
+   "sound": "synth:brick_thud",
+   "phrase": [
+    "किताब",
+    "छप",
+    "रही"
+   ],
+   "occurrence": 1,
+   "offset": -0.75,
+   "fallback_at": 7.47,
+   "level_db": -18,
+   "pan": -0.1,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "ink",
+   "sound": "ep01/sfx/raw_fs/s9_writing.mp3",
+   "seconds": 1.6,
+   "phrase": [
+    "पहले",
+    "पन्ने",
+    "पर",
+    "एक",
+    "नाम"
+   ],
+   "occurrence": 1,
+   "offset": -1.55,
+   "fallback_at": 11.1,
+   "level_db": -24,
+   "pan": -0.35,
+   "fade_in": 0.03,
+   "fade_out": 0.4,
+   "notes": "kagaz par syaahi — naam chhapne ki lakeer"
+  },
+  {
+   "id": "name1",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.0,
+   "phrase": [
+    "शकुंतला"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 12.25,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.35,
+   "fade_out": 1.4,
+   "notes": "pehla naam; ek hi Devanagari shabd ka anchor (skeleton 5 akshar, punctuation se safe)"
+  },
+  {
+   "id": "name2",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 2.6,
+   "phrase": [
+    "नाम",
+    "कालिदास"
+   ],
+   "occurrence": 1,
+   "offset": -0.45,
+   "fallback_at": 15.98,
+   "level_db": -24,
+   "pan": 0.15,
+   "fade_in": 0.3,
+   "fade_out": 1.2
+  },
+  {
+   "id": "rope",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 2.4,
+   "phrase": [
+    "किताब",
+    "एक",
+    "जहाज",
+    "पर"
+   ],
+   "occurrence": 1,
+   "offset": -1.2,
+   "fallback_at": 19.67,
+   "level_db": -23,
+   "pan": 0.4,
+   "fade_in": 0.15,
+   "fade_out": 0.8,
+   "notes": "jahaz ki rassi/lakdi ki chirkane, door aur daayen"
+  },
+  {
+   "id": "gust",
+   "sound": "synth:gust",
+   "synth_seconds": 4.0,
+   "phrase": [
+    "बाहर",
+    "सर्द",
+    "हवा"
+   ],
+   "occurrence": 1,
+   "offset": -1.6,
+   "fallback_at": 34.77,
+   "level_db": -24,
+   "pan": 0.5,
+   "fade_in": 0.8,
+   "fade_out": 1.5,
+   "notes": "khidki ke bahar ek jhonka, gehri daayen"
+  },
+  {
+   "id": "page",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 2.4,
+   "phrase": [
+    "पन्ने",
+    "पलटे",
+    "जाते"
+   ],
+   "occurrence": 1,
+   "offset": -1.2,
+   "fallback_at": 44.65,
+   "level_db": -22,
+   "pan": -0.3,
+   "fade_in": 0.02,
+   "fade_out": 0.3,
+   "notes": "panne palatne ki awaaz, paas aur baayen"
+  },
+  {
+   "id": "stop",
+   "sound": "synth:low_tone",
+   "synth_seconds": 2.6,
+   "phrase": [
+    "और",
+    "फिर",
+    "वो",
+    "रुक",
+    "जाता"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 47.04,
+   "level_db": -21,
+   "pan": 0.0,
+   "fade_in": 0.06,
+   "fade_out": 1.2,
+   "notes": "wo ruk jaata hai — ek neeche ka soch wala tone"
+  },
+  {
+   "id": "idea",
+   "sound": "ep02/sfx/raw_fs/cello.mp3",
+   "seconds": 3.2,
+   "phrase": [
+    "एक",
+    "बात",
+    "समझ",
+    "आ",
+    "गई"
+   ],
+   "occurrence": 1,
+   "offset": -1.1,
+   "fallback_at": 60.72,
+   "level_db": -24,
+   "pan": -0.1,
+   "fade_in": 0.5,
+   "fade_out": 1.4,
+   "notes": "baat samajh aa gayi — ek hi bowed note, andar ki taraf"
+  },
+  {
+   "id": "hulchul",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "seconds": 3.2,
+   "phrase": [
+    "हलचल",
+    "मच"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 84.54,
+   "level_db": -22,
+   "pan": 0.45,
+   "fade_in": 0.5,
+   "fade_out": 1.2,
+   "notes": "Europe ke padhe-likhe logon mein hulchul — bheed ki awaaz, shabd samajh nahi aate"
+  },
+  {
+   "id": "editions",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 2.0,
+   "phrase": [
+    "छापे",
+    "कई",
+    "बार",
+    "निकले"
+   ],
+   "occurrence": 1,
+   "offset": -1.1,
+   "fallback_at": 87.88,
+   "level_db": -23,
+   "pan": -0.25,
+   "fade_in": 0.05,
+   "fade_out": 0.5,
+   "notes": "kai chhape nikle — kagaz ke pule"
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "start": 117.89,
+   "phrase": [
+    "आज",
+    "का",
+    "सवाल",
+    "यही"
+   ],
+   "fallback_at": 117.89,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 132.26,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     1.8,
+     0
+    ],
+    [
+     12.9,
+     0
+    ],
+    [
+     14.37,
+     -60
+    ]
+   ],
+   "notes": "poore cold open ka ek hi swell: 'आज का सवाल यही है' par uthta hai, do sawalon ke neeche rehta hai, aur नमस्कार se 0.25 s pehle poora out — host intro sookha rehta hai"
+  }
+ ],
+ "duck": [
+  {
+   "id": "name_duck",
+   "phrase": [
+    "शकुंतला"
+   ],
+   "occurrence": 1,
+   "fallback_at": 12.25,
+   "pre": 1.5,
+   "post": 2.5,
+   "gain": 0.3,
+   "notes": "naam ka lamha: kitaab ke pehle panne par 'शकुंतला' alag sunayi de, saath wali sarangi bhi isi window mein"
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.4,
+  "notes": "ident ke aakhri shabd ke baad 1.4 s poora sannata, phir 'Ab tak' ka pehla shabd (script ki '[SFX: tanpura ghulta hai; sannata]' line). Iske alawa cold open ke andar do jaan-boojh kar khaali beat: (a) shuruaati line 'साल सत्रह सौ नवासी है...' — sirf room tone, koi spot cue nahi; (b) parda/Faust wala paragraph — wahan ek bhi cue nahi, sirf awaaz"
+ }
+}

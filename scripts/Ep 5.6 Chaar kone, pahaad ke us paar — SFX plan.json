@@ -1,0 +1,295 @@
+{
+ "episode": "5.6",
+ "cold_open_words": 353,
+ "beds": [
+  {
+   "id": "darbar",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "filter": "highpass=150,lowpass=5000",
+   "start": 0.0,
+   "end_phrase": [
+    "निकल",
+    "पड़ता"
+   ],
+   "end_offset": 1.5,
+   "end_fallback": 66.1,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.0,
+     0
+    ],
+    [
+     24.5,
+     0
+    ],
+    [
+     26.0,
+     -1.5
+    ],
+    [
+     63.5,
+     -1.5
+    ],
+    [
+     65.0,
+     0
+    ],
+    [
+     66.2,
+     0
+    ],
+    [
+     67.6,
+     -60
+    ]
+   ],
+   "notes": "kamre/darbaar ki dheemi bheed; samraat ke aane par (≈26 s) halka hush, bhikshu ke nikalne par out"
+  },
+  {
+   "id": "sadak",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=120,lowpass=7000",
+   "phrase": [
+    "प्याला",
+    "पीता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 65.0,
+   "end_phrase": [
+    "आज",
+    "का",
+    "सवाल",
+    "यही"
+   ],
+   "end_offset": 0.5,
+   "end_fallback": 110.4,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     7.0,
+     0
+    ],
+    [
+     43.4,
+     0
+    ],
+    [
+     45.6,
+     -60
+    ]
+   ],
+   "notes": "khuli sadak ki sookhi hawa; 'Wo pyala peeta hai' par shuru, 'To aaj ka sawal yahi hai' par khatam (points uske apne start se relative hain)"
+  }
+ ],
+ "cues": [
+  {
+   "id": "kadam",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "filter": "highpass=100,lowpass=6000",
+   "seconds": 2.4,
+   "phrase": [
+    "विदाई",
+    "के"
+   ],
+   "occurrence": 1,
+   "fallback_at": 25.5,
+   "offset": -0.5,
+   "level_db": -19,
+   "pan": -0.3,
+   "fade_in": 0.01,
+   "fade_out": 0.25
+  },
+  {
+   "id": "pyala",
+   "sound": "ep05/sfx/raw_fs/cup.mp3",
+   "filter": "highpass=200",
+   "seconds": 0.8,
+   "phrase": [
+    "प्याला",
+    "मंगवाते"
+   ],
+   "occurrence": 1,
+   "fallback_at": 36.3,
+   "offset": 0.5,
+   "level_db": -19,
+   "pan": -0.2,
+   "fade_in": 0.005,
+   "fade_out": 0.3
+  },
+  {
+   "id": "mitti",
+   "sound": "synth:sand_trickle",
+   "synth_seconds": 1.8,
+   "phrase": [
+    "अपनी",
+    "मुट्ठी",
+    "में"
+   ],
+   "occurrence": 1,
+   "fallback_at": 38.5,
+   "offset": 0.4,
+   "level_db": -19,
+   "pan": -0.15,
+   "fade_in": 0.15,
+   "fade_out": 0.5
+  },
+  {
+   "id": "ghol",
+   "sound": "ep05/sfx/raw_fs/liq.mp3",
+   "filter": "highpass=200",
+   "seconds": 1.6,
+   "phrase": [
+    "मिट्टी",
+    "को",
+    "प्याले",
+    "में"
+   ],
+   "occurrence": 1,
+   "fallback_at": 46.0,
+   "offset": 0.2,
+   "level_db": -16,
+   "pan": -0.12,
+   "fade_in": 0.1,
+   "fade_out": 0.6
+  },
+  {
+   "id": "chir",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "filter": "highpass=120,lowpass=6000",
+   "seconds": 0.6,
+   "phrase": [
+    "और",
+    "निकल",
+    "पड़ता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 66.1,
+   "offset": 0.6,
+   "level_db": -18,
+   "pan": -0.1,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "kauwa",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "filter": "highpass=200,lowpass=6000",
+   "seconds": 1.2,
+   "phrase": [
+    "बरसों",
+    "यहां",
+    "घूमता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 70.9,
+   "offset": 0.4,
+   "level_db": -24,
+   "pan": 0.5,
+   "fade_in": 0.01,
+   "fade_out": 0.3
+  },
+  {
+   "id": "pothi",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "filter": "highpass=300,lowpass=6000",
+   "seconds": 1.2,
+   "phrase": [
+    "साथ",
+    "सैकड़ों",
+    "पोथियां"
+   ],
+   "occurrence": 1,
+   "fallback_at": 81.3,
+   "offset": 0.3,
+   "level_db": -20,
+   "pan": -0.25,
+   "fade_in": 0.01,
+   "fade_out": 0.4
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "ये",
+    "रास्ता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 88.4,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 124.4,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     4.0,
+     0
+    ],
+    [
+     27.5,
+     0
+    ],
+    [
+     29.5,
+     2.0
+    ],
+    [
+     31.5,
+     1.0
+    ],
+    [
+     33.5,
+     0
+    ],
+    [
+     35.75,
+     -60
+    ]
+   ],
+   "notes": "ek hi score entry; ek hi swell 'wo pahaad ke us paar kaise pahunchi' par (+2 dB); intro se 0.25 s pehle poori tarah out (points entry se relative)"
+  }
+ ],
+ "duck": [
+  {
+   "id": "naam_duck",
+   "phrase": [
+    "भिक्षु",
+    "का",
+    "नाम"
+   ],
+   "occurrence": 1,
+   "fallback_at": 57.2,
+   "pre": 1.2,
+   "post": 2.4,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.3,
+  "notes": "tanpura 'नमस्कार' se 0.25 s pehle band, dono beds usse pehle out; host intro aur 'Chaliye.' ke baad 1.3 s kuch bhi nahi, phir body. Cold open ke andar teen jagah jaan-boojh kar koi cue nahi: (1) 'registaan … daaku bhi … uska naam Bharat hai' — raasta bataaya gaya hai, tay nahi kiya gaya; (2) 'ise pi lo' aur 'Wo pyala peeta hai' — koi ghoont nahi, koi pyala nahi; (3) pothi ki sarsaraahat ke baad se tanpura ke entry tak — 'gyaan dhoondhne aaya tha' wali dono lines chup-chaap chalti hain."
+ }
+}

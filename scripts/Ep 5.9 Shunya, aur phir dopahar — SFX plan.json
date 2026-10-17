@@ -1,0 +1,354 @@
+{
+ "episode": "5.9",
+ "cold_open_words": 356,
+ "beds": [
+  {
+   "id": "room",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=110,lowpass=7000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 103.9,
+   "level_db": -23,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.0,
+     0
+    ],
+    [
+     40.0,
+     0
+    ],
+    [
+     80.0,
+     0
+    ],
+    [
+     101.0,
+     0
+    ],
+    [
+     103.0,
+     -60
+    ]
+   ],
+   "notes": "daftar ki sookhi, garam hawa - poore cold open ka room tone; points layer-local hain (start=0), aakhri point 1 s pehle -60 par"
+  },
+  {
+   "id": "fan",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=60,lowpass=520",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 103.9,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     0
+    ],
+    [
+     60.0,
+     0
+    ],
+    [
+     95.0,
+     0
+    ],
+    [
+     101.0,
+     0
+    ],
+    [
+     103.0,
+     -60
+    ]
+   ],
+   "notes": "chhat ke purane pankhe ki dheemi hawa (pool mein alag fan-recording nahi hai: lowpass wind hi pankha hai); wicker cue uski chataq hai"
+  }
+ ],
+ "cues": [
+  {
+   "id": "fan_creak",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "filter": "lowpass=2600",
+   "seconds": 0.9,
+   "phrase": [
+    "एक",
+    "दफ़्तर",
+    "दोपहर"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 1.5,
+   "level_db": -22,
+   "pan": 0.2,
+   "fade_in": 0.04,
+   "fade_out": 0.35
+  },
+  {
+   "id": "machine",
+   "sound": "ep02/sfx/raw_fs/engine.mp3",
+   "filter": "highpass=90,lowpass=1500",
+   "seconds": 3.0,
+   "phrase": [
+    "जिसका",
+    "कोई",
+    "अंत"
+   ],
+   "occurrence": 1,
+   "offset": -2.6,
+   "fallback_at": 30.1,
+   "level_db": -24,
+   "pan": 0.4,
+   "fade_in": 0.8,
+   "fade_out": 1.2
+  },
+  {
+   "id": "pen_numbers",
+   "sound": "ep01/sfx/raw_fs/s9_writing.mp3",
+   "filter": "highpass=200",
+   "seconds": 2.6,
+   "phrase": [
+    "रजिस्टर",
+    "के",
+    "पन्नों",
+    "पर",
+    "अंक"
+   ],
+   "occurrence": 1,
+   "offset": -1.6,
+   "fallback_at": 24.7,
+   "level_db": -20,
+   "pan": -0.25,
+   "fade_in": 0.3,
+   "fade_out": 0.5
+  },
+  {
+   "id": "register_shut",
+   "sound": "ep05/sfx/raw_fs/cup.mp3",
+   "filter": "lowpass=2200",
+   "seconds": 0.9,
+   "phrase": [
+    "शाम",
+    "को",
+    "रजिस्टर",
+    "बंद"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 32.7,
+   "level_db": -18,
+   "pan": -0.15,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "diary_out",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "filter": "highpass=250",
+   "seconds": 0.8,
+   "phrase": [
+    "जेब",
+    "से",
+    "एक",
+    "छोटी",
+    "सी",
+    "डायरी"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 38.1,
+   "level_db": -22,
+   "pan": -0.35,
+   "fade_in": 0.02,
+   "fade_out": 0.2
+  },
+  {
+   "id": "crow_morning",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "filter": "lowpass=6000",
+   "seconds": 1.1,
+   "phrase": [
+    "और",
+    "अगली",
+    "सुबह"
+   ],
+   "occurrence": 1,
+   "offset": 0.1,
+   "fallback_at": 57.2,
+   "level_db": -24,
+   "pan": 0.55,
+   "fade_in": 0.03,
+   "fade_out": 0.3
+  },
+  {
+   "id": "pen_diary",
+   "sound": "ep01/sfx/raw_fs/s8b_pen.mp3",
+   "filter": "highpass=250",
+   "seconds": 1.4,
+   "phrase": [
+    "उन्हें",
+    "रात",
+    "भर",
+    "लिखता"
+   ],
+   "occurrence": 1,
+   "offset": -0.6,
+   "fallback_at": 55.3,
+   "level_db": -21,
+   "pan": -0.3,
+   "fade_in": 0.05,
+   "fade_out": 0.35
+  },
+  {
+   "id": "world_far",
+   "sound": "synth:low_tone",
+   "synth_seconds": 4.0,
+   "phrase": [
+    "उस",
+    "वक़्त",
+    "दुनिया",
+    "के"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 76.3,
+   "level_db": -26,
+   "pan": 0.4,
+   "fade_in": 1.4,
+   "fade_out": 1.8
+  },
+  {
+   "id": "envelope",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "filter": "highpass=250",
+   "seconds": 0.9,
+   "phrase": [
+    "अकेले",
+    "लिख",
+    "रहा"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 102.7,
+   "level_db": -19,
+   "pan": 0.2,
+   "fade_in": 0.01,
+   "fade_out": 0.2
+  },
+  {
+   "id": "wooden_box",
+   "sound": "ep05/sfx/raw_fs/cup.mp3",
+   "filter": "lowpass=1800",
+   "seconds": 0.7,
+   "phrase": [
+    "अकेले",
+    "लिख",
+    "रहा"
+   ],
+   "occurrence": 1,
+   "offset": 0.2,
+   "fallback_at": 102.7,
+   "level_db": -20,
+   "pan": 0.25,
+   "fade_in": 0.005,
+   "fade_out": 0.2
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "एक",
+    "तरफ़",
+    "वो",
+    "निशान"
+   ],
+   "occurrence": 1,
+   "fallback_at": 93.9,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 103.9,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     1.2,
+     0
+    ],
+    [
+     4.0,
+     0
+    ],
+    [
+     6.5,
+     2
+    ],
+    [
+     8.0,
+     4
+    ],
+    [
+     9.3,
+     4
+    ],
+    [
+     9.8,
+     0
+    ],
+    [
+     10.0,
+     -60
+    ]
+   ],
+   "notes": "ek hi gesture: veredict line par -26 par aata hai (phrase ke aakhri shabd ke turant baad), lifafe/dabbe ke waqt +4 (=-22) par peak, aur 'नमस्कार' se 0.25 s pehle out. points layer-local hain."
+  }
+ ],
+ "duck": [
+  {
+   "id": "shunya_duck",
+   "phrase": [
+    "देखने",
+    "में",
+    "कुछ",
+    "भी",
+    "नहीं",
+    "लगता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 91.6,
+   "pre": 1.4,
+   "post": 2.2,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "notes": "(1) beds 'नमस्कार' se 0.25 s pehle out, aur score bhi wahi par khatam - host intro aur uske teen sawal bilkul saaf, koi SFX nahi. (2) cold open ke andar teen jagah jaan-boojh kar koi cue nahi: 'पता इंग्लैंड का।', 'उसका काम है गिनती लिखना।', aur 'उम्र कम। कपड़े सधे हुए...' wali line. (3) 'तो चलिए।' ke baad 1.2 s sannata, phir body ka pehla shabd. (4) score ka aakhri point -60 par hai, yaani score dead-air pocket banata hai."
+ }
+}

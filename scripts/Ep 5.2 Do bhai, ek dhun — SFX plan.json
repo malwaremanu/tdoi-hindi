@@ -1,0 +1,319 @@
+{
+ "episode": "5.2",
+ "cold_open_words": 316,
+ "beds": [
+  {
+   "id": "room",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=90,lowpass=7000",
+   "start": 0.0,
+   "end_phrase": [
+    "कमरा",
+    "चुप",
+    "हो",
+    "जाता"
+   ],
+   "end_offset": 0.35,
+   "end_fallback": 76.2,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     73.0,
+     0
+    ],
+    [
+     76.2,
+     -60
+    ]
+   ],
+   "notes": "Allahabad 1944 ka bhara kamra: dheemi room tone jo poore cold open mein chalti hai; kamra chup hone wali line ke ant par khatam"
+  },
+  {
+   "id": "crowd",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "filter": "highpass=150,lowpass=4500",
+   "start": 0.0,
+   "end_phrase": [
+    "कमरा",
+    "चुप",
+    "हो",
+    "जाता"
+   ],
+   "end_offset": 0.0,
+   "end_fallback": 75.85,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     73.0,
+     0
+    ],
+    [
+     75.85,
+     -60
+    ]
+   ],
+   "notes": "baithi hui bheed ki halki gunj (kabhi samajh aane wale shabd nahi); mehmaan ki baat poore hone par patli hoti hai aur 'kamra chup' par chali jaati hai"
+  }
+ ],
+ "cues": [
+  {
+   "id": "chair",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 0.6,
+   "phrase": [
+    "कुछ",
+    "कुर्सियों",
+    "पर"
+   ],
+   "occurrence": 1,
+   "fallback_at": 5.35,
+   "offset": -0.25,
+   "level_db": -22,
+   "pan": -0.25,
+   "fade_in": 0.01,
+   "fade_out": 0.15
+  },
+  {
+   "id": "guest_door",
+   "sound": "ep03/sfx/raw_fs/door.mp3",
+   "filter": "highpass=120,lowpass=4000",
+   "seconds": 1.8,
+   "phrase": [
+    "मेहमान",
+    "दूर",
+    "से",
+    "आया"
+   ],
+   "occurrence": 1,
+   "fallback_at": 10.7,
+   "offset": 0.1,
+   "level_db": -24,
+   "pan": 0.45,
+   "fade_in": 0.15,
+   "fade_out": 0.6
+  },
+  {
+   "id": "book",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "seconds": 0.6,
+   "phrase": [
+    "किताबों",
+    "से",
+    "नहीं",
+    "शुरू",
+    "करता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 21.72,
+   "offset": -0.9,
+   "level_db": -23,
+   "pan": -0.3,
+   "fade_in": 0.01,
+   "fade_out": 0.12
+  },
+  {
+   "id": "tune1",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.0,
+   "phrase": [
+    "एक",
+    "कहानी",
+    "से",
+    "शुरू",
+    "करता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 23.72,
+   "offset": -1.9,
+   "level_db": -24,
+   "pan": 0.0,
+   "fade_in": 0.35,
+   "fade_out": 0.9
+  },
+  {
+   "id": "step_east",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "seconds": 1.8,
+   "phrase": [
+    "एक",
+    "पूरब",
+    "की",
+    "तरफ",
+    "चला",
+    "गया"
+   ],
+   "occurrence": 1,
+   "fallback_at": 29.4,
+   "offset": -0.9,
+   "level_db": -23,
+   "pan": -0.35,
+   "fade_in": 0.02,
+   "fade_out": 0.3
+  },
+  {
+   "id": "step_west",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "seconds": 1.8,
+   "phrase": [
+    "दूसरा",
+    "पश्चिम",
+    "की",
+    "तरफ"
+   ],
+   "occurrence": 1,
+   "fallback_at": 30.73,
+   "offset": -0.6,
+   "level_db": -23,
+   "pan": 0.45,
+   "fade_in": 0.02,
+   "fade_out": 0.35
+  },
+  {
+   "id": "fragment",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "filter": "highpass=250,lowpass=4000",
+   "seconds": 0.8,
+   "phrase": [
+    "कुछ",
+    "टुकड़े"
+   ],
+   "occurrence": 1,
+   "fallback_at": 47.78,
+   "offset": -0.35,
+   "level_db": -24,
+   "pan": 0.0,
+   "fade_in": 0.02,
+   "fade_out": 0.25
+  },
+  {
+   "id": "tune2",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.1,
+   "phrase": [
+    "वही",
+    "धुन",
+    "किसी",
+    "ने",
+    "बजाई"
+   ],
+   "occurrence": 1,
+   "fallback_at": 58.8,
+   "offset": -2.9,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.2,
+   "fade_out": 0.5
+  },
+  {
+   "id": "tune3",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 4.6,
+   "phrase": [
+    "कमरा",
+    "चुप",
+    "हो",
+    "जाता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 75.85,
+   "offset": 2.6,
+   "level_db": -20,
+   "pan": 0.0,
+   "fade_in": 0.4,
+   "fade_out": 1.5
+  }
+ ],
+ "score": [
+  {
+   "id": "shruti",
+   "sound": "ep03/sfx/raw_fs/shruti.mp3",
+   "filter": "highpass=70,lowpass=5500",
+   "phrase": [
+    "दोनों",
+    "घरों",
+    "में",
+    "बची"
+   ],
+   "fallback_at": 44.77,
+   "end_phrase": [
+    "कमरा",
+    "चुप",
+    "हो",
+    "जाता"
+   ],
+   "end_offset": 0.0,
+   "end_fallback": 75.85,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     0
+    ],
+    [
+     15.5,
+     0
+    ],
+    [
+     17.4,
+     3
+    ],
+    [
+     18.8,
+     3
+    ],
+    [
+     20.5,
+     0
+    ],
+    [
+     31.08,
+     -60
+    ]
+   ],
+   "notes": "ek hi score layer: do gharon mein bachi hui cheez par andar aata hai, 'ek doosre ko pehchan liya' par ek hi baar ubharta hai (+3 dB), 'kamra chup' par chala jaata hai — namaskar se bahut pehle. points layer ke start se relative hain"
+  }
+ ],
+ "duck": [
+  {
+   "id": "hush_duck",
+   "phrase": [
+    "कमरा",
+    "चुप",
+    "हो",
+    "जाता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 75.85,
+   "pre": 1.3,
+   "post": 2.2,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.3,
+  "notes": "hush ke ant par room, crowd aur score teenon khatam — hush ke baad 2.3 s ka sannata (duck window) aur phir akeli dhun; teen sawaal aur 'Namaskar' bina kisi bed ke, aur '## Ab tak' se pehle 1.3 s ka sannata"
+ }
+}

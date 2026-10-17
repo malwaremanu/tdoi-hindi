@@ -16,28 +16,28 @@
    "pan": 0.0,
    "points": [
     [
-     0,
-     -60
+     0.0,
+     -60.0
     ],
     [
-     2,
-     0
+     2.0,
+     0.0
     ],
     [
      33.5,
-     0
+     0.0
     ],
     [
      72.0,
-     0
+     0.0
     ],
     [
      150.7,
-     0
+     0.0
     ],
     [
      151.0,
-     -60
+     -60.0
     ]
    ],
    "notes": "the desert air that runs the whole scene, out before the host intro"
@@ -56,28 +56,28 @@
    "pan": 0.0,
    "points": [
     [
-     0,
-     -60
+     0.0,
+     -60.0
     ],
     [
-     2,
-     0
+     2.0,
+     0.0
     ],
     [
      33.5,
-     0
+     0.0
     ],
     [
      72.0,
-     0
+     0.0
     ],
     [
      150.7,
-     0
+     0.0
     ],
     [
      151.0,
-     -60
+     -60.0
     ]
    ],
    "notes": "dry grit layer over the air bed"
@@ -344,20 +344,20 @@
    "pan": 0.0,
    "points": [
     [
-     160.3,
-     -60
+     0.0,
+     -60.0
     ],
     [
-     162.3,
-     0
+     2.0,
+     0.0
     ],
     [
-     179.3,
-     0
+     19.0,
+     0.0
     ],
     [
-     181.3,
-     -60
+     21.0,
+     -60.0
     ]
    ],
    "notes": "tanpura under the three questions only, after the host intro"
@@ -383,5 +383,6 @@
  "dead_air": {
   "before_body_seconds": 1.4,
   "notes": "H1: beds out before the host intro; the questions play over tanpura, then 1.4 s of true silence to the body"
- }
+ },
+ "_note": "`points` are seconds RELATIVE to the layer's own start (the mixer's env() indexes from the layer start; absolute values clamp the layer to -60 dB). `phrase` anchors are Devanagari and resolved through c0N.align.json. `fallback_at` is a safety net only."
 }

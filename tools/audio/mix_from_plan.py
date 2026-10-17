@@ -184,10 +184,19 @@ def resolve_sound(spec, cue):
 
 
 # ------------------------------------------------------------------ anchors
+# U+0964 (danda) and U+0965 sit inside the Devanagari range, so they survive a naive
+# [^\w\u0900-\u097F] strip and break the fuzzy test on any phrase that ends a sentence
+# ("हैं।" vs "हैं" scores 0.667 < 0.7). Strip them explicitly.
+PUNCT = "\u0964\u0965\u0966"      # danda, double danda
+PUNCT_NUM = "\u0966\u0967\u0968\u0969\u096A\u096B\u096C\u096D\u096E\u096F"
+
+
 def norm(w):
     w = unicodedata.normalize("NFC", w).lower()
-    w = re.sub(r"[^\w\u0900-\u097F]", "", w).replace("ँ", "ं")
-    return re.sub(r"[\u093E-\u094D\u0901\u0902]", "", w)
+    w = re.sub(r"[^\w\s\u0900-\u097F]", " ", w)
+    w = re.sub(r"[\u0964\u0965]", "", w)          # danda / double danda
+    w = w.replace("ँ", "ं")
+    return re.sub(r"\s+", " ", w).strip()
 
 
 def find_phrase(align, phrase, occurrence=1):
@@ -218,6 +227,8 @@ def main():
     ap.add_argument("--plan", required=True)
     ap.add_argument("--out", default="")
     ap.add_argument("--no-align", action="store_true")
+    ap.add_argument("--check-only", action="store_true",
+                    help="resolve every anchor phrase and report, write no audio")
     args = ap.parse_args()
 
     plan = json.load(open(args.plan, encoding="utf-8"))
@@ -227,6 +238,27 @@ def main():
 
     align_path = os.path.join(work, args.chunk + ".align.json")
     align = json.load(open(align_path, encoding="utf-8")) if os.path.exists(align_path) else []
+
+    if args.check_only:
+        bad = 0
+        for layer in plan.get("beds", []) + plan.get("score", []):
+            for key in ("phrase", "end_phrase"):
+                if layer.get(key):
+                    t = find_phrase(align, layer[key], int(layer.get("end_occurrence" if key == "end_phrase" else "occurrence", 1) or 1))
+                    ok = t is not None
+                    bad += 0 if ok else 1
+                    print(f"  {'OK      ' if ok else 'UNRESOLVED'} {layer.get('id', layer.get('sound'))} {key}: {' '.join(layer[key])}"
+                          + (f" -> {t:.2f}s" if ok else ""), flush=True)
+        for cue in plan.get("cues", []) + plan.get("duck", []):
+            if not cue.get("phrase"):
+                continue
+            t = find_phrase(align, cue["phrase"], int(cue.get("occurrence", 1) or 1))
+            ok = t is not None
+            bad += 0 if ok else 1
+            print(f"  {'OK      ' if ok else 'UNRESOLVED'} {cue.get('id', cue.get('sound'))}: {' '.join(cue['phrase'])}"
+                  + (f" -> {t:.2f}s" if ok else ""), flush=True)
+        print(f"{os.path.basename(args.plan)}: {bad} unresolved anchors", flush=True)
+        sys.exit(1 if bad else 0)
 
     src = os.path.join(work, args.chunk + ".wav")
     norm_wav = os.path.join(sfx_dir, f"_{args.chunk}_norm.wav")
@@ -239,8 +271,11 @@ def main():
     print(f"narration {total:.1f}s peak {narr_peak:.1f} dBFS  alignments "
           f"{'yes' if align else 'no'}", flush=True)
 
+    # narration and the SFX layer are built separately: the duck must pull the SFX
+    # layer back only, never the voice (ducking the voice drops the name line itself)
+    narr = np.zeros((n, 2), dtype=np.float64)
+    place(narr, x, 0.0, 0.0, 0.0, fade_in=0.0, fade_out=0.0)
     buf = np.zeros((n, 2), dtype=np.float64)
-    place(buf, x, 0.0, 0.0, 0.0, fade_in=0.0, fade_out=0.0)
     resolved = {}
 
     def anchor_time(rec):
@@ -311,15 +346,15 @@ def main():
         b = int(min(total, t + float(d.get("post", 2.0))) * SR)
         duck[a:b] = min(duck[a:b].min(), float(d.get("gain", 0.3)))
         print(f"  duck {t:6.2f}s -> {d.get('gain', 0.3)}", flush=True)
-    buf *= duck[:, None]
-
-    layer = buf - (duck[:, None] * x[:, None])
+    buf *= duck[:, None]          # duck the SFX layer only
+    layer = buf.copy()
     lout = os.path.join(sfx_dir, f"_{args.chunk}_sfx_only.wav")
     layer.astype(np.float32).tofile(lout + ".f32")
     sh([FF, "-y", "-f", "f32le", "-ar", str(SR), "-ac", "2", "-i", lout + ".f32", lout])
     os.remove(lout + ".f32")
     print(f"sfx layer peak {db(layer):.1f} dBFS", flush=True)
 
+    buf = narr + buf                # voice + ducked SFX
     peak = np.max(np.abs(buf))
     if peak > 0.95:
         buf *= 0.95 / peak

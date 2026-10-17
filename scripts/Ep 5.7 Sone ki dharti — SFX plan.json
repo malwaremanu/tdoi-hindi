@@ -1,0 +1,355 @@
+{
+ "episode": "5.7",
+ "cold_open_words": 313,
+ "beds": [
+  {
+   "id": "air",
+   "sound": "ep02/sfx/raw_fs/air.mp3",
+   "filter": "highpass=90,lowpass=8000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 86.6,
+   "level_db": -22,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     83.3,
+     0
+    ],
+    [
+     86.3,
+     -60
+    ]
+   ],
+   "notes": "sookhi hawa patthar ki deewaron ke beech; out ident se 0.25 s pehle. points nominal seconds hain (rate ~2.53 shabd/s), take aane par re-spot karein | end_phrase [\"नमस्कार\"] par end_occurrence 2 zaroori hai: mixer ka fuzzy matcher pehle \"मुस्कुराता,\" ko 53.75 s par match kar deta hai",
+   "end_occurrence": 2
+  },
+  {
+   "id": "grit",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=400,lowpass=6000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 86.6,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     83.3,
+     0
+    ],
+    [
+     86.3,
+     -60
+    ]
+   ],
+   "notes": "air.mp3 aur wind.mp3 ek hi file hain (md5 0e1687e50ad830415b3b658fee3dfd5a) — isliye yahi recording sirf ek patli grit band ki tarah, air se 4 dB neeche | end_phrase [\"नमस्कार\"] par end_occurrence 2 zaroori hai: mixer ka fuzzy matcher pehle \"मुस्कुराता,\" ko 53.75 s par match kar deta hai",
+   "end_occurrence": 2
+  },
+  {
+   "id": "field",
+   "sound": "ep03/sfx/raw_fs/field.mp3",
+   "filter": "highpass=250,lowpass=7000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 86.6,
+   "level_db": -27,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     83.3,
+     0
+    ],
+    [
+     86.3,
+     -60
+    ]
+   ],
+   "notes": "deewaron ke us paar ka khula aasman / door kuch patte; agar file mein aawazein ya modern shor mile to ye bed hata dein | end_phrase [\"नमस्कार\"] par end_occurrence 2 zaroori hai: mixer ka fuzzy matcher pehle \"मुस्कुराता,\" ko 53.75 s par match kar deta hai",
+   "end_occurrence": 2
+  }
+ ],
+ "cues": [
+  {
+   "id": "carve1",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 1.3,
+   "phrase": [
+    "पत्थर",
+    "में",
+    "तराशा",
+    "हुआ"
+   ],
+   "occurrence": 1,
+   "offset": -0.6,
+   "fallback_at": 2.8,
+   "level_db": -22,
+   "pan": -0.3,
+   "fade_in": 0.05,
+   "fade_out": 0.4
+  },
+  {
+   "id": "gust",
+   "sound": "synth:gust",
+   "synth_seconds": 2.6,
+   "phrase": [
+    "ऊपर",
+    "से",
+    "नीचे",
+    "सब",
+    "तरफ"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 21.3,
+   "level_db": -24,
+   "pan": 0.5,
+   "fade_in": 0.8,
+   "fade_out": 0.8
+  },
+  {
+   "id": "thr1",
+   "sound": "synth:brick_thud",
+   "phrase": [
+    "एक",
+    "द्वार",
+    "पर",
+    "एक"
+   ],
+   "occurrence": 1,
+   "offset": -0.15,
+   "fallback_at": 16.6,
+   "level_db": -21,
+   "pan": -0.35,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "thr2",
+   "sound": "synth:brick_thud",
+   "phrase": [
+    "उसके",
+    "बाद",
+    "एक",
+    "और"
+   ],
+   "occurrence": 1,
+   "offset": -0.15,
+   "fallback_at": 18.2,
+   "level_db": -22,
+   "pan": -0.2,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "thr3",
+   "sound": "synth:brick_thud",
+   "phrase": [
+    "वही",
+    "एक",
+    "शक्ल"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 22.5,
+   "level_db": -23,
+   "pan": -0.05,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "name",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.2,
+   "phrase": [
+    "इस",
+    "द्वार",
+    "का",
+    "नाम",
+    "बायोन",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": -1.6,
+   "fallback_at": 36.0,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.4,
+   "fade_out": 1.6
+  },
+  {
+   "id": "reveal_bass",
+   "sound": "ep02/sfx/raw_fs/bass.mp3",
+   "filter": "lowpass=200",
+   "seconds": 7.0,
+   "phrase": [
+    "अंगकोर",
+    "वट"
+   ],
+   "occurrence": 1,
+   "offset": -0.9,
+   "fallback_at": 43.1,
+   "level_db": -20,
+   "pan": 0.0,
+   "fade_in": 2.5,
+   "fade_out": 3.0
+  },
+  {
+   "id": "rubble",
+   "sound": "ep01/sfx/raw_fs/s2_gravel.mp3",
+   "seconds": 1.2,
+   "phrase": [
+    "उसके",
+    "चारों",
+    "तरफ",
+    "खंडहर"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 44.3,
+   "level_db": -18,
+   "pan": -0.15,
+   "fade_in": 0.05,
+   "fade_out": 0.3
+  },
+  {
+   "id": "water",
+   "sound": "synth:river_wash",
+   "synth_seconds": 4.0,
+   "phrase": [
+    "नकली",
+    "झील",
+    "और",
+    "तालाब"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 46.6,
+   "level_db": -24,
+   "pan": 0.45,
+   "fade_in": 1.2,
+   "fade_out": 1.5
+  },
+  {
+   "id": "carve2",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 1.6,
+   "phrase": [
+    "बहुत",
+    "बड़ा",
+    "तराशा",
+    "हुआ"
+   ],
+   "occurrence": 1,
+   "offset": -0.7,
+   "fallback_at": 52.6,
+   "level_db": -21,
+   "pan": 0.3,
+   "fade_in": 0.05,
+   "fade_out": 0.5
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "start": 73.9,
+   "fallback_at": 73.9,
+   "phrase": [
+    "समुंदर",
+    "और",
+    "एक",
+    "रास्ता"
+   ],
+   "occurrence": 1,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end": 86.3,
+   "end_fallback": 86.6,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.2,
+     0
+    ],
+    [
+     8.0,
+     0
+    ],
+    [
+     11.3,
+     2
+    ],
+    [
+     12.4,
+     -60
+    ]
+   ],
+   "notes": "ek hi score, ek hi entry: samundar ki line par aata hai, aakhri line par ek baar +2 dB swells (asardar -22), aur \"नमस्कार\" se 0.25 s pehle poori tarah out. Ident ke baad score dobara nahi aata.",
+   "end_occurrence": 2
+  }
+ ],
+ "duck": [
+  {
+   "id": "name_duck",
+   "phrase": [
+    "इस",
+    "द्वार",
+    "का",
+    "नाम",
+    "बायोन",
+    "है"
+   ],
+   "occurrence": 1,
+   "pre": 1.2,
+   "post": 2.2,
+   "gain": 0.3,
+   "fallback_at": 36.0
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "notes": "Ident, teen sawal aur \"Chaliye.\" saaf voice par. Score 86.7 s par out (\"नमस्कार\" 87.0 s) — script ki line \"ident se pehle sannata\". Body (\"## Ab tak\") se pehle 1.2 s ka asli sannata. Iske alawa cold open ke andar jaan-boojh kar khaali beats: 4.0-12.6 s (\"Halki. Chup.\"), 24.1-31.6 s (dohraye hue shabdon ka khayal), 53.4-60.9 s (rahasyamayi chehra + \"Angkor ki ye muskaan\") aur 60.9-72.7 s (sawal, sirf beds)."
+ }
+}

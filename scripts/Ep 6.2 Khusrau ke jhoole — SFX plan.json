@@ -1,0 +1,390 @@
+{
+ "episode": "6.2",
+ "cold_open_words": 315,
+ "beds": [
+  {
+   "id": "rain_bed",
+   "sound": "synth:rain",
+   "synth_seconds": 95.0,
+   "start": 0.0,
+   "end_phrase": [
+    "बिल्कुल",
+    "वही"
+   ],
+   "end_offset": 0.25,
+   "end_fallback": 65.02,
+   "level_db": -21,
+   "pan": 0.0,
+   "points": [
+    [
+     0.0,
+     -60
+    ],
+    [
+     2.0,
+     -3
+    ],
+    [
+     7.0,
+     -2
+    ],
+    [
+     9.4,
+     -1.2
+    ],
+    [
+     62.57,
+     -0.4
+    ],
+    [
+     64.65,
+     -3
+    ],
+    [
+     64.92,
+     -60
+    ]
+   ],
+   "notes": "pehli barsaat, door se aati hui. ~2.5 s me khulti hai, shuru mein -3 dB par rehti hai (taaki rain_arrive cue ke saath -16 se oopar na jaaye), phir poore level tak chadhti hai. 'बिल्कुल वही' ke 0.25 s baad 0.27 s ke andar ek dum -60 par — script ka 'barsaat ek dum ruk jaati hai'"
+  },
+  {
+   "id": "village_bed",
+   "sound": "ep03/sfx/raw_fs/b1_village.mp3",
+   "filter": "highpass=110,lowpass=7000",
+   "phrase": [
+    "गांव",
+    "के",
+    "बाहर"
+   ],
+   "occurrence": 1,
+   "fallback_at": 11.46,
+   "end_phrase": [
+    "बिल्कुल",
+    "वही"
+   ],
+   "end_offset": 0.35,
+   "end_fallback": 65.12,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0.0,
+     -60
+    ],
+    [
+     1.6,
+     0
+    ],
+    [
+     64.07,
+     0
+    ],
+    [
+     64.82,
+     -10
+    ],
+    [
+     65.12,
+     -60
+    ]
+   ],
+   "notes": "ped wala gaun. sookhi hawa aur ped ke pichhe ki halki goonj; barsaat ke katne ke 0.35 s baad dam todta hai, phir poora sannata"
+  }
+ ],
+ "cues": [
+  {
+   "id": "rain_arrive",
+   "sound": "synth:rain",
+   "synth_seconds": 9.0,
+   "phrase": [
+    "बरसात",
+    "की",
+    "पहली",
+    "शाम"
+   ],
+   "occurrence": 1,
+   "offset": -0.6,
+   "fallback_at": 1.32,
+   "level_db": -17,
+   "pan": 0.0,
+   "fade_in": 1.2,
+   "fade_out": 2.5,
+   "notes": "scene ka ek loudest block: pehli barsaat ka dhamaka. bed us waqt -23 par hai, isliye cue -17 par rakhi gayi hai (mil kar -16 se oopar nahi jaata)"
+  },
+  {
+   "id": "boond",
+   "sound": "synth:sand_trickle",
+   "synth_seconds": 3.5,
+   "phrase": [
+    "सूखी",
+    "मिट्टी",
+    "पर",
+    "बूंद",
+    "गिरती"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "fallback_at": 5.4,
+   "level_db": -21,
+   "pan": -0.2,
+   "fade_in": 0.15,
+   "fade_out": 0.6,
+   "notes": "sookhi mitti aur patton par girti boondon ka halka chhitka (mixer synth cues par filter nahi lagata, isliye recipe hi chuna gaya)"
+  },
+  {
+   "id": "thandak",
+   "sound": "synth:gust",
+   "synth_seconds": 3.0,
+   "phrase": [
+    "हवा",
+    "में",
+    "ठंडक"
+   ],
+   "occurrence": 1,
+   "offset": -1.0,
+   "fallback_at": 9.03,
+   "level_db": -24,
+   "pan": 0.4,
+   "fade_in": 0.8,
+   "fade_out": 1.2,
+   "notes": "geeli khushboo ke saath aayi thandi hawa ka jhonka — door, daahini taraf"
+  },
+  {
+   "id": "rassi1",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 1.4,
+   "phrase": [
+    "दो",
+    "रस्सी",
+    "के",
+    "झूले",
+    "बंधे"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 16.74,
+   "level_db": -21,
+   "pan": -0.3,
+   "fade_in": 0.05,
+   "fade_out": 0.35,
+   "notes": "daali par bandhi rassi ki pehli chik-chik"
+  },
+  {
+   "id": "creak_up",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 1.6,
+   "phrase": [
+    "ऊपर",
+    "जाती"
+   ],
+   "occurrence": 1,
+   "offset": -0.25,
+   "fallback_at": 23.46,
+   "level_db": -20,
+   "pan": -0.2,
+   "fade_in": 0.05,
+   "fade_out": 0.4,
+   "notes": "jhoole ka oopar jaana — chik-chik uthti hui, jhoole ke jhoole par sabse tez"
+  },
+  {
+   "id": "creak_down",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 1.6,
+   "phrase": [
+    "नीचे",
+    "आती"
+   ],
+   "occurrence": 1,
+   "offset": -0.25,
+   "fallback_at": 24.45,
+   "level_db": -21,
+   "pan": -0.25,
+   "fade_in": 0.05,
+   "fade_out": 0.45,
+   "notes": "wapas neeche — usi jhoole ki doosri chik-chik, 1 dB dheemi"
+  },
+  {
+   "id": "gaana",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "seconds": 5.0,
+   "phrase": [
+    "और",
+    "गाती"
+   ],
+   "occurrence": 1,
+   "offset": 0.1,
+   "fallback_at": 25.89,
+   "level_db": -25,
+   "pan": 0.5,
+   "fade_in": 0.9,
+   "fade_out": 1.6,
+   "notes": "ladkiyon ka gaana — bheed ki bhini-bhini goonj, koi saaf shabd nahi, door aur daahini taraf; 'Aur gaati hain.' par gaana paas aata hai, par samajh nahi aata"
+  },
+  {
+   "id": "name",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.4,
+   "phrase": [
+    "नाम",
+    "अमीर",
+    "खुसरो"
+   ],
+   "occurrence": 1,
+   "offset": -1.9,
+   "fallback_at": 39.99,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.4,
+   "fade_out": 1.6,
+   "notes": "naam wala moment: ek hi kamand ki bhari awaaz; 1.9 s pehle shuru hoti hai aur naam par khulti hai"
+  },
+  {
+   "id": "lekhan",
+   "sound": "ep01/sfx/raw_fs/s9_writing.mp3",
+   "seconds": 4.0,
+   "phrase": [
+    "नेहरू",
+    "लिखते",
+    "हैं"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 41.43,
+   "level_db": -23,
+   "pan": -0.35,
+   "fade_in": 0.3,
+   "fade_out": 0.8,
+   "notes": "Nehru likh rahe hain — kalam ka sarsaraahat, baayein kone mein"
+  },
+  {
+   "id": "steps",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "seconds": 2.8,
+   "phrase": [
+    "कितने",
+    "बादशाह"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 56.07,
+   "level_db": -24,
+   "pan": 0.45,
+   "fade_in": 0.6,
+   "fade_out": 1.0,
+   "notes": "gaddi ki taraf aati hui kaafilaa — dhool par door ke kadam, daahini taraf"
+  },
+  {
+   "id": "sultans",
+   "sound": "synth:low_tone",
+   "synth_seconds": 5.5,
+   "phrase": [
+    "सुल्तान",
+    "बदले"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 56.73,
+   "level_db": -21,
+   "pan": 0.0,
+   "fade_in": 0.5,
+   "fade_out": 1.2,
+   "notes": "ek bhara hua neecha sur: 'Sultan badle, Sultan ke dharm badle, Sultan ki zubaan badli' — teen tabdeeliyan ek hi dhakke mein"
+  },
+  {
+   "id": "vapsi",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 1.2,
+   "phrase": [
+    "गाना",
+    "वही"
+   ],
+   "occurrence": 1,
+   "offset": -0.35,
+   "fallback_at": 63.78,
+   "level_db": -20,
+   "pan": -0.25,
+   "fade_in": 0.05,
+   "fade_out": 0.35,
+   "notes": "chhah sau saal baad bhi wahi jhoole, wahi chik-chik — pehli chik-chik ka jawab"
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "छह",
+    "सौ",
+    "साल",
+    "पहले"
+   ],
+   "occurrence": 1,
+   "fallback_at": 37.68,
+   "end_phrase": [
+    "बिल्कुल",
+    "वही"
+   ],
+   "end_offset": 0.4,
+   "end_fallback": 65.17,
+   "level_db": -23,
+   "pan": 0.0,
+   "points": [
+    [
+     0.0,
+     -60
+    ],
+    [
+     2.6,
+     -4
+    ],
+    [
+     10.65,
+     -1.0
+    ],
+    [
+     13.65,
+     -1.5
+    ],
+    [
+     24.29,
+     -4
+    ],
+    [
+     26.29,
+     -12
+    ],
+    [
+     27.14,
+     -60
+    ]
+   ],
+   "notes": "ek hi swell: 'छह सौ साल पहले' par andar, 'एक शब्द भी बदले बिना' par choti, barsaat ke katne par ek saans mein bahar. Points layer ke shuru se gine gaye hain; phrase kahin aur lage to envelope ke aakhri 0.35 s khamosh rehte hain (fade layer ke ant se aage nahi jaata)"
+  }
+ ],
+ "duck": [
+  {
+   "id": "name_duck",
+   "phrase": [
+    "नाम",
+    "अमीर",
+    "खुसरो"
+   ],
+   "occurrence": 1,
+   "fallback_at": 39.99,
+   "pre": 1.2,
+   "post": 2.4,
+   "gain": 0.3,
+   "notes": "poore cold open mein sirf ek duck — Amir Khusrau ka naam akela khada ho jaaye"
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "no_cue_beats": [
+   "गांव के बाहर एक आम का पुराना पेड़ खड़ा है … पीपल पर भी एक — sirf beds, koi spot cue nahi",
+   "बोल इतने पुराने हैं … पर धुन आज की है — naam se pehle ki khamoshi (duck window isi gali se khulti hai)",
+   "आज का सवाल यही है + राजा बदलते रहे … नहीं बदली? — poora sannata, koi cue nahi, koi bed nahi"
+  ],
+  "notes": "barsaat 'बिल्कुल वही' par ek dum kat jaati hai (script ka [SFX] nirdesh) aur village bed 0.35 s baad dam todta hai. Aakhri sawal bilkul nange mein padta hai. Host intro dry hai — uske baad is episode mein koi SFX nahi; intro ke ant aur body ke pehle shabd ('उन्नीस सौ चवालीस') ke beech 1.2 s ka pocket"
+ }
+}

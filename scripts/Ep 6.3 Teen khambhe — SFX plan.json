@@ -1,0 +1,378 @@
+{
+ "episode": "6.3",
+ "cold_open_words": 348,
+ "beds": [
+  {
+   "id": "wind",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=120,lowpass=7000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 141.9,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     0
+    ],
+    [
+     80.5,
+     0
+    ],
+    [
+     81.0,
+     3.0
+    ],
+    [
+     84.0,
+     3.0
+    ],
+    [
+     85.5,
+     0
+    ],
+    [
+     138.0,
+     0
+    ],
+    [
+     141.0,
+     -2
+    ],
+    [
+     141.85,
+     -60
+    ]
+   ],
+   "notes": "sadak ki dhool bhari hawa; points absolute hain kyunki start 0.0 hai. Ye file 27.1 s ki hai, isliye tile hoti hai — dekh 'Mix notes'. 69.5-72.0 par +3 dB: 'bas hawa ki awaaz reh jaati hai'."
+  },
+  {
+   "id": "village",
+   "sound": "ep03/sfx/raw_fs/b1_village.mp3",
+   "filter": "highpass=200,lowpass=9000",
+   "start": 0.0,
+   "end_phrase": [
+    "गांव",
+    "सो",
+    "जाता"
+   ],
+   "end_offset": 0.5,
+   "end_fallback": 107.4,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     4.0,
+     0
+    ],
+    [
+     93.0,
+     0
+    ],
+    [
+     96.0,
+     -4
+    ],
+    [
+     101.0,
+     -4
+    ],
+    [
+     105.0,
+     -9
+    ],
+    [
+     106.2,
+     -60
+    ],
+    [
+     107.4,
+     -60
+    ]
+   ],
+   "notes": "gaon ke bahar ki raat: khule khet aur jhingur. Jhingur baithak par dheere padte hain (83-88) aur 'gaon so jaata hai' par chup."
+  },
+  {
+   "id": "aangan",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=100,lowpass=8000",
+   "phrase": [
+    "अंदर",
+    "आंगन",
+    "में"
+   ],
+   "occurrence": 1,
+   "fallback_at": 95.0,
+   "end_phrase": [
+    "गांव",
+    "सो",
+    "जाता"
+   ],
+   "end_offset": 0.2,
+   "end_fallback": 107.1,
+   "level_db": -26,
+   "pan": 0.0,
+   "notes": "aangan/baithak ka room tone — bahar se andar ka safar. Koi points nahi, isliye mixer ka default envelope (2 s in, 1.2 s out) lagta hai."
+  }
+ ],
+ "cues": [
+  {
+   "id": "dhool",
+   "sound": "synth:sand_trickle",
+   "synth_seconds": 2.6,
+   "phrase": [
+    "सड़क",
+    "पर",
+    "धूल",
+    "उठी"
+   ],
+   "occurrence": 1,
+   "offset": -1.4,
+   "fallback_at": 4.9,
+   "level_db": -22,
+   "pan": -0.35,
+   "fade_in": 0.6,
+   "fade_out": 0.8,
+   "notes": "'Sadak par dhool uthi hui hai.' — sadak se uthti hui bareek dhool"
+  },
+  {
+   "id": "khet_kauwa",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "seconds": 0.43,
+   "phrase": [
+    "खेत",
+    "खाली",
+    "पड़े"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 13.1,
+   "level_db": -24,
+   "pan": 0.5,
+   "fade_in": 0.02,
+   "fade_out": 0.15,
+   "notes": "'Khet khaali pade hain' — kati fasal ke baad ek door ka kauwa (file me hit 0.14 s par hai)"
+  },
+  {
+   "id": "utarna",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "filter": "atrim=start=0.4:end=2.2,asetpts=N/SR/TB,highpass=90",
+   "seconds": 1.8,
+   "phrase": [
+    "वो",
+    "नीचे",
+    "उतरता"
+   ],
+   "occurrence": 1,
+   "offset": -0.5,
+   "fallback_at": 48.0,
+   "level_db": -22,
+   "pan": -0.3,
+   "fade_in": 0.02,
+   "fade_out": 0.3,
+   "notes": "'Wo neeche utarta hai.' — ghode se utar kar dhool par do kadam"
+  },
+  {
+   "id": "kagaz",
+   "sound": "ep01/sfx/raw_fs/s8_paper.mp3",
+   "filter": "atrim=start=0.05:end=1.5,asetpts=N/SR/TB,highpass=200",
+   "seconds": 1.4,
+   "phrase": [
+    "कागज",
+    "आगे",
+    "बढ़ाता"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 50.4,
+   "level_db": -21,
+   "pan": -0.2,
+   "fade_in": 0.05,
+   "fade_out": 0.35,
+   "notes": "'Kagaz aage badhata hai.' — mantri ki mohar wala kagaz; file me hit 0.08-0.31 s par"
+  },
+  {
+   "id": "zanjeer",
+   "sound": "ep01/sfx/raw_fs/s6_latch.mp3",
+   "filter": "atrim=start=11.2:end=12.1,asetpts=N/SR/TB,highpass=80",
+   "seconds": 0.9,
+   "phrase": [
+    "फाटक",
+    "की",
+    "जंजीर",
+    "हिलती"
+   ],
+   "occurrence": 1,
+   "offset": -0.35,
+   "fallback_at": 77.1,
+   "level_db": -16,
+   "pan": 0.0,
+   "fade_in": 0.005,
+   "fade_out": 0.3,
+   "notes": "SCENE KA SABSE OONCHA BLOCK (ek hi cue -16 par). 'Phaatak ki zanjeer hilti hai — aur phir ruk jaati hai.' File ka hit 11.68 s par hai, isliye atrim zaroori hai."
+  },
+  {
+   "id": "hawa",
+   "sound": "synth:gust",
+   "synth_seconds": 3.0,
+   "phrase": [
+    "हवा",
+    "की",
+    "आवाज",
+    "रह",
+    "जाती"
+   ],
+   "occurrence": 1,
+   "offset": -1.8,
+   "fallback_at": 81.4,
+   "level_db": -23,
+   "pan": 0.35,
+   "fade_in": 0.2,
+   "fade_out": 0.5,
+   "notes": "'Bas hawa ki awaaz reh jaati hai.' — zanjeer rukne ke baad sirf hawa ka ek jhonka"
+  },
+  {
+   "id": "baithak",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "filter": "atrim=start=0.5:end=5.5,asetpts=N/SR/TB,highpass=150,lowpass=5000",
+   "seconds": 4.5,
+   "phrase": [
+    "कुछ",
+    "लोग",
+    "चारपाई",
+    "पर",
+    "बैठते"
+   ],
+   "occurrence": 1,
+   "offset": -1.8,
+   "fallback_at": 95.2,
+   "level_db": -25,
+   "pan": 0.3,
+   "fade_in": 0.8,
+   "fade_out": 1.5,
+   "notes": "'kuch log charpai par baithte hain' — dheemi, door ki baithak; koi samajh mein aane wale shabd nahi"
+  },
+  {
+   "id": "rassi",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "filter": "atrim=start=2.75:end=4.15,asetpts=N/SR/TB,highpass=150",
+   "seconds": 1.4,
+   "phrase": [
+    "एक",
+    "रस्सी",
+    "हल्की"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 99.0,
+   "level_db": -22,
+   "pan": -0.15,
+   "fade_in": 0.02,
+   "fade_out": 0.5,
+   "notes": "'Ek rassi halki si chik-chik karti hai.' — charpai ki rassi. File ka gehra creak 2.86 s par hai."
+  },
+  {
+   "id": "fauj",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "filter": "atrim=start=1.4:end=3.4,asetpts=N/SR/TB,highpass=60,lowpass=6000",
+   "seconds": 1.6,
+   "phrase": [
+    "एक",
+    "फौज",
+    "कहीं",
+    "और"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 115.4,
+   "level_db": -26,
+   "pan": 0.55,
+   "fade_in": 0.5,
+   "fade_out": 0.9,
+   "notes": "'Ek fauj kahin aur ja rahi hai.' — door, doosri gaon ki taraf jaate kadam; is gaon ka raasta nahi"
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "अपना",
+    "दरवाजा",
+    "बंद",
+    "कर",
+    "सकता"
+   ],
+   "occurrence": 1,
+   "fallback_at": 139.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 141.9,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     0.5,
+     0
+    ],
+    [
+     0.9,
+     3
+    ],
+    [
+     1.15,
+     7
+    ],
+    [
+     1.55,
+     7
+    ],
+    [
+     1.95,
+     -60
+    ]
+   ],
+   "notes": "EK HI SWELL. Tanpura 'apna darwaza band kar sakta' par andar aata hai, 'kis taaqat se?' par -17 dB tak uthta hai (base -24) aur namaskar se 0.5-1.2 s pehle chup (take ke pace par). Points apne start se RELATIVE hain (mixer env() layer-start se t=0 maanta hai) — 4.1 ki json me ye absolute the, jis-se wo score poori tarah -60 par chala jaata hai."
+  }
+ ],
+ "duck": [
+  {
+   "id": "faisla_duck",
+   "phrase": [
+    "ये",
+    "गांव",
+    "आज",
+    "रात"
+   ],
+   "occurrence": 1,
+   "pre": 1.3,
+   "post": 2.3,
+   "gain": 0.3,
+   "fallback_at": 85.7,
+   "notes": "EK HI DUCK: faisle wali line 'Ye gaon aaj raat ye darwaza nahi kholega.' par beds 0.30 par — line akeli girti hai."
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "notes": "Scored scene 'kis taaqat se?' par khatam hota hai; tanpura 'namaskar' se 0.5-1.2 s pehle chup ho jaata hai (envelope 1.95 s par -60) aur beds 'namaskar' se 0.25 s pehle katte hain, isliye host intro me 1.2 s ki sachchi khamoshi hai. Ident ke baad (1944 wala para) aur poora body — 'Ab tak' se aage — bilkul saaf, ek bhi SFX nahi."
+ }
+}

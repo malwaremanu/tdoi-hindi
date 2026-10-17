@@ -1,0 +1,288 @@
+{
+ "episode": "5.5",
+ "cold_open_words": 362,
+ "beds": [
+  {
+   "id": "room",
+   "sound": "ep01/sfx/raw_fs/b1_bed.mp3",
+   "filter": "highpass=70,lowpass=7000",
+   "start": 0.0,
+   "end_phrase": [
+    "पक्की",
+    "हैं"
+   ],
+   "end_offset": 0.0,
+   "end_fallback": 75.2,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [0, -60],
+    [2.0, 0],
+    [26.2, 0],
+    [27.2, -8],
+    [30.9, -8],
+    [32.3, 0],
+    [50.6, 0],
+    [51.6, -9],
+    [55.0, -9],
+    [56.0, 0],
+    [73.0, 0],
+    [76.0, -60]
+   ],
+   "notes": "Paris ke kamre ka sannata; p13 ke ant par barsaat ke saath khatam — uske baad Ahmadnagar ki kothri khaali rehti hai"
+  },
+  {
+   "id": "rain",
+   "sound": "synth:rain",
+   "filter": "highpass=120,lowpass=7000",
+   "synth_seconds": 20.0,
+   "start": 0.0,
+   "end_phrase": [
+    "पक्की",
+    "हैं"
+   ],
+   "end_offset": 0.0,
+   "end_fallback": 75.2,
+   "level_db": -23,
+   "pan": 0.0,
+   "points": [
+    [0, -60],
+    [1.6, 0],
+    [26.2, 0],
+    [27.2, -10],
+    [30.9, -10],
+    [32.3, 0],
+    [50.6, 0],
+    [51.6, -11],
+    [55.0, -11],
+    [56.2, 0],
+    [71.0, 0],
+    [73.8, -3],
+    [75.0, -8],
+    [75.9, -60]
+   ],
+   "notes": "kheeki ke sheeshay par barsaat; p05 aur p10 ke hush par neeche, p13 ke ant par 'ek saath band'"
+  },
+  {
+   "id": "drone",
+   "sound": "ep02/sfx/raw_fs/drone.mp3",
+   "filter": "lowpass=900",
+   "phrase": [
+    "उन्नीस",
+    "सौ",
+    "चवालीस"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "fallback_at": 76.9,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_occurrence": 2,
+   "end_offset": -0.25,
+   "end_fallback": 102.1,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [0, -60],
+    [3.0, 0],
+    [18.5, 0],
+    [20.0, -5],
+    [24.0, -5],
+    [26.0, -60]
+   ],
+   "notes": "1944, Ahmadnagar ka qila — kothri ka dabav; tanpura ke liye jagah chhodta hai aur ident par khatam ho jaata hai"
+  }
+ ],
+ "cues": [
+  {
+   "id": "car",
+   "sound": "ep02/sfx/raw_fs/engine.mp3",
+   "filter": "lowpass=1800",
+   "seconds": 2.6,
+   "phrase": [
+    "पेरिस",
+    "का"
+   ],
+   "occurrence": 1,
+   "offset": 0.2,
+   "fallback_at": 1.5,
+   "level_db": -24,
+   "pan": 0.55,
+   "fade_in": 0.5,
+   "fade_out": 1.0
+  },
+  {
+   "id": "chair",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "seconds": 1.3,
+   "phrase": [
+    "सामने",
+    "बैठता",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 9.4,
+   "level_db": -22,
+   "pan": -0.3,
+   "fade_in": 0.02,
+   "fade_out": 0.3
+  },
+  {
+   "id": "sword",
+   "sound": "ep01/sfx/raw_fs/s3_stab.mp3",
+   "seconds": 1.0,
+   "phrase": [
+    "तलवारें"
+   ],
+   "occurrence": 1,
+   "offset": -0.06,
+   "fallback_at": 48.9,
+   "level_db": -16,
+   "pan": -0.12,
+   "fade_in": 0.005,
+   "fade_out": 0.45
+  },
+  {
+   "id": "burn_city",
+   "sound": "ep03/sfx/raw_fs/crowd.mp3",
+   "filter": "highpass=200,lowpass=5000",
+   "seconds": 3.4,
+   "phrase": [
+    "जलते",
+    "शहर"
+   ],
+   "occurrence": 1,
+   "offset": 0.15,
+   "fallback_at": 49.5,
+   "level_db": -21,
+   "pan": 0.45,
+   "fade_in": 0.4,
+   "fade_out": 1.1
+  },
+  {
+   "id": "blood_river",
+   "sound": "synth:river_wash",
+   "synth_seconds": 5.0,
+   "phrase": [
+    "खून",
+    "की",
+    "नदियां"
+   ],
+   "occurrence": 1,
+   "offset": -0.2,
+   "fallback_at": 50.4,
+   "level_db": -24,
+   "pan": 0.3,
+   "fade_in": 1.0,
+   "fade_out": 1.2
+  },
+  {
+   "id": "pen",
+   "sound": "ep01/sfx/raw_fs/s8b_pen.mp3",
+   "filter": "highpass=300,lowpass=6000",
+   "seconds": 2.0,
+   "phrase": [
+    "उतार",
+    "रहा",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 81.1,
+   "level_db": -22,
+   "pan": -0.2,
+   "fade_in": 0.05,
+   "fade_out": 0.5
+  },
+  {
+   "id": "steps",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "seconds": 2.2,
+   "phrase": [
+    "हम",
+    "उस",
+    "सवाल",
+    "के",
+    "पीछे"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 91.8,
+   "level_db": -24,
+   "pan": -0.3,
+   "fade_in": 0.02,
+   "fade_out": 0.6
+  },
+  {
+   "id": "door",
+   "sound": "ep01/sfx/raw_fs/s6_latch.mp3",
+   "seconds": 1.4,
+   "phrase": [
+    "पांच",
+    "दरवाजे",
+    "आज",
+    "खुलेंगे"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "fallback_at": 98.9,
+   "level_db": -21,
+   "pan": -0.35,
+   "fade_in": 0.02,
+   "fade_out": 0.4
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura_swell",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=90,lowpass=6500",
+   "phrase": [
+    "छह",
+    "दरवाजे",
+    "हैं"
+   ],
+   "occurrence": 1,
+   "offset": -0.8,
+   "fallback_at": 97.2,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_occurrence": 2,
+   "end_offset": -0.25,
+   "end_fallback": 102.1,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [0, -60],
+    [1.4, 0],
+    [4.0, 0],
+    [5.6, -60]
+   ],
+   "notes": "ek hi swell: 'darwaze' par chadhta hai, paanch darwaze khulne par poore zor par, aur Asha ke 'namaskar' se pehle chala jaata hai"
+  }
+ ],
+ "duck": [
+  {
+   "id": "sawal_duck",
+   "phrase": [
+    "किस",
+    "ताकत",
+    "ने",
+    "एक",
+    "बड़े"
+   ],
+   "occurrence": 1,
+   "fallback_at": 59.5,
+   "pre": 1.2,
+   "post": 2.4,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.3,
+  "notes": "p05 ('namaskar se pehle, chai se pehle'), p06 ('sawal ye hai') aur p10 ('aur yahan?') par koi cue nahi; ident aur dono sawal poore dry hain, aur ident ke baad 1.3 s sannata body ke pehle shabd tak"
+ }
+}

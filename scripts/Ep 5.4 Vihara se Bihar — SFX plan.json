@@ -1,0 +1,338 @@
+{
+ "episode": "5.4",
+ "cold_open_words": 426,
+ "beds": [
+  {
+   "id": "air",
+   "sound": "ep02/sfx/raw_fs/air.mp3",
+   "filter": "highpass=90,lowpass=8000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 138.2,
+   "level_db": -23,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2.5,
+     0
+    ],
+    [
+     130.0,
+     0
+    ],
+    [
+     137.9,
+     -60
+    ]
+   ],
+   "notes": "thandi sookhi hawa: andhere wali subah, imaarat aur khet; host intro se 0.25 s pehle out"
+  },
+  {
+   "id": "drone",
+   "sound": "ep02/sfx/raw_fs/drone.mp3",
+   "filter": "highpass=60,lowpass=4500",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 138.2,
+   "level_db": -26,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     4.0,
+     0
+    ],
+    [
+     131.0,
+     0
+    ],
+    [
+     137.9,
+     -60
+    ]
+   ],
+   "notes": "khaali patthar ka hall: patthar ki imaarat ke andar kuch nahi hilta; sirf tanpura ke entry se pehle tak"
+  }
+ ],
+ "cues": [
+  {
+   "id": "stream",
+   "sound": "synth:river_wash",
+   "synth_seconds": 5.0,
+   "phrase": [
+    "पानी",
+    "की",
+    "पतली",
+    "धार"
+   ],
+   "occurrence": 1,
+   "fallback_at": 15.1,
+   "offset": -3.0,
+   "level_db": -26,
+   "pan": 0.3,
+   "fade_in": 1.5,
+   "fade_out": 2.0
+  },
+  {
+   "id": "bell_strike",
+   "sound": "ep01/sfx/raw_fs/s3_stab.mp3",
+   "filter": "highpass=60,lowpass=3200",
+   "seconds": 0.9,
+   "phrase": [
+    "एक",
+    "घंटी",
+    "बजती"
+   ],
+   "occurrence": 1,
+   "fallback_at": 36.7,
+   "offset": -0.3,
+   "level_db": -18,
+   "pan": 0.0,
+   "fade_in": 0.005,
+   "fade_out": 0.35
+  },
+  {
+   "id": "bell_ring",
+   "sound": "ep02/sfx/raw_fs/bass.mp3",
+   "filter": "lowpass=200",
+   "seconds": 6.5,
+   "phrase": [
+    "एक",
+    "घंटी",
+    "बजती"
+   ],
+   "occurrence": 1,
+   "fallback_at": 36.7,
+   "offset": 0.03,
+   "level_db": -24,
+   "pan": 0.15,
+   "fade_in": 0.15,
+   "fade_out": 4.0
+  },
+  {
+   "id": "doors_first",
+   "sound": "ep03/sfx/raw_fs/door.mp3",
+   "filter": "highpass=80,lowpass=4000",
+   "seconds": 1.4,
+   "phrase": [
+    "दरवाजे",
+    "खुलते"
+   ],
+   "occurrence": 1,
+   "fallback_at": 44.2,
+   "offset": -0.5,
+   "level_db": -20,
+   "pan": -0.25,
+   "fade_in": 0.02,
+   "fade_out": 0.5
+  },
+  {
+   "id": "doors_hundred",
+   "sound": "ep02/sfx/raw_fs/wicker.mp3",
+   "filter": "highpass=140,lowpass=5000",
+   "seconds": 3.4,
+   "phrase": [
+    "दरवाजे",
+    "खुलते"
+   ],
+   "occurrence": 1,
+   "fallback_at": 44.2,
+   "offset": 0.15,
+   "level_db": -23,
+   "pan": 0.45,
+   "fade_in": 0.5,
+   "fade_out": 1.4
+  },
+  {
+   "id": "feet_stone",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "filter": "highpass=180,lowpass=6000",
+   "seconds": 3.2,
+   "phrase": [
+    "नंगे",
+    "पैरों",
+    "की",
+    "आहट"
+   ],
+   "occurrence": 1,
+   "fallback_at": 48.5,
+   "offset": -1.2,
+   "level_db": -22,
+   "pan": -0.3,
+   "fade_in": 0.1,
+   "fade_out": 1.0
+  },
+  {
+   "id": "queue",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "filter": "highpass=220,lowpass=5000",
+   "seconds": 2.6,
+   "phrase": [
+    "लंबी",
+    "कतार"
+   ],
+   "occurrence": 1,
+   "fallback_at": 50.8,
+   "offset": -0.4,
+   "level_db": -25,
+   "pan": 0.35,
+   "fade_in": 0.4,
+   "fade_out": 1.4
+  },
+  {
+   "id": "latch",
+   "sound": "ep01/sfx/raw_fs/s6_latch.mp3",
+   "filter": "highpass=90,lowpass=5000",
+   "seconds": 0.7,
+   "phrase": [
+    "ये",
+    "एक",
+    "घर"
+   ],
+   "occurrence": 1,
+   "fallback_at": 74.4,
+   "offset": 0.0,
+   "level_db": -24,
+   "pan": -0.25,
+   "fade_in": 0.02,
+   "fade_out": 0.2
+  },
+  {
+   "id": "ruins",
+   "sound": "synth:stone_scrape",
+   "synth_seconds": 1.4,
+   "phrase": [
+    "पत्थर",
+    "के",
+    "खंडर"
+   ],
+   "occurrence": 1,
+   "fallback_at": 100.1,
+   "offset": -0.6,
+   "level_db": -24,
+   "pan": -0.15,
+   "fade_in": 0.05,
+   "fade_out": 0.4
+  },
+  {
+   "id": "worn_steps",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "filter": "highpass=250,lowpass=5000",
+   "seconds": 3.0,
+   "phrase": [
+    "सीढ़ी",
+    "घिसी",
+    "हुई"
+   ],
+   "occurrence": 1,
+   "fallback_at": 110.9,
+   "offset": -1.0,
+   "level_db": -26,
+   "pan": 0.5,
+   "fade_in": 0.8,
+   "fade_out": 1.4
+  },
+  {
+   "id": "name_bihar",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.4,
+   "phrase": [
+    "विहार",
+    "का",
+    "बिहार"
+   ],
+   "occurrence": 1,
+   "fallback_at": 122.5,
+   "offset": -1.6,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.5,
+   "fade_out": 1.8
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "phrase": [
+    "पंद्रह",
+    "सौ",
+    "साल"
+   ],
+   "occurrence": 1,
+   "fallback_at": 86.9,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 138.2,
+   "level_db": -25,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     3.0,
+     0
+    ],
+    [
+     11.0,
+     2
+    ],
+    [
+     20.0,
+     1
+    ],
+    [
+     38.0,
+     1
+    ],
+    [
+     46.0,
+     0
+    ],
+    [
+     51.3,
+     -60
+    ]
+   ],
+   "notes": "ek hi entry, ek hi swell: 'pandrah sau saal' par shuru, 'hajaaron vihaar the' par +2 dB (kareeb 98 s), phir dhheema ghulta hua host intro se 0.25 s pehle out"
+  }
+ ],
+ "duck": [
+  {
+   "id": "name_duck",
+   "phrase": [
+    "इसका",
+    "नाम",
+    "है",
+    "विहार"
+   ],
+   "occurrence": 1,
+   "fallback_at": 84.2,
+   "pre": 1.3,
+   "post": 2.2,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.2,
+  "notes": "beds aur score 'नमस्कार' se 0.25 s pehle out; host intro aur roadmap line sookhe (jaisa 4.1 ke G1/G2). Teen jaan-boojh ke khaali beat andar: (1) 0.0-12.0 s andhera, pahaadi, sau kamron wali imaarat: sirf air + drone, koi spot cue nahi, pehli aawaz ghanti hai; (2) 52.9-74.2 s 'Kisi mein jaldi nahi' se 'Naam tak chhod chuke hain' tak: koi cue nahi (bhikshu khud chup hain); (3) do aakhri sawal (kareeb 131.7-137.7 s) par koi spot cue nahi, sirf tanpura apne base par. Roadmap ke aakhri shabd ke baad 1.2 s sach me khaali, phir body"
+ }
+}

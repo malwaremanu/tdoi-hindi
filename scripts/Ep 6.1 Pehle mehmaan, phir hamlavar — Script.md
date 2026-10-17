@@ -4,32 +4,35 @@ Oct 17, 2026 · @Manupal Choudhary
 
 ## Episode info
 
-Ye script Chapter 6, "New Problems", ke chaar episodes wale naye set ka pehla episode hai. Is episode mein chapter ke shuruaati sub-sections aate hain: "The Arabs and the Mongols", "The Flowering of Arab Culture and Contacts with India", "Mahmud of Ghazni and the Afghans", "The Indo-Afghans : South India : Vijayanagar : Babar : Sea Power", aur "Synthesis and Growth of Mixed Culture" ka pehla paragraph. Lambai 4,894 narration shabd hai (headings aur `[SFX: …]` lines ke bina), yaani kareeb 29-30 minute ka audio (160 shabd prati minute ke andaaze se).
+Ye script Chapter 6, "New Problems", ke chhah hisson wale naye set (Ep 6.1–6.6) ka pehla episode hai. Is episode mein chapter ke wo sub-sections aate hain jo Arabon ke aane aur Mahmud ke hamlon ke hain: "The Arabs and the Mongols" ka pehla aadha (Arabi jahiliyat se lekar Mongol hamle tak), "The Flowering of Arab Culture and Contacts with India" poora, "Mahmud of Ghazni and the Afghans" ka Mahmud wala hissa, aur "Synthesis and Growth of Mixed Culture" ka sirf pehla paragraph. Ye episode purane Ep 6.1 se **barhaya gaya hai** (uske cold open, ident, Ab tak aur Arab/Baghdad wale parts wahin se aate hain), par ab poore v2 source se. Purane script ke do hisse is episode se nikal gaye hain: Ghuri aur Prithvi Raj ka kissah (ab Ep 6.2 ka B2) aur Gulbarga–Ahmadnagar–Chand Bibi–Babar wala hissa (ab Ep 6.2 ka B4).
 
-- **Set ka sawal (Ep 6.1–6.4):** Jis desh ke paas duniya ke behtareen kaarigar the, wo nayi duniya ki daud mein peeche kyun reh gaya?
+- **Set ka sawal (Ep 6.1–6.6):** Jis desh ke paas duniya ke behtareen kaarigar the, wo nayi duniya ki daud mein peeche kyun reh gaya?
 - **Is episode ka sawal:** Islam Bharat mein pehle kaise aaya, aur baad mein kaise — aur dono mein fark kya tha?
-  **Jawab (Part 10):** Pehli baar wo mehmaan ban kar aaya, aur logon ne darwaza khola; doosri baar wo hamlavar ban kar aaya, khazane aur talwar ke saath. Dharm ek tha, tareeqa do, aur isliye nateeja bhi do.
-- **Spine:** ek hi dharm ke do aagman. Pehla aagman — khula darwaza, aaye log mehmaan ban kar. Doosra aagman — uttar-pashchim ke usi raaste par ghudsawaar. Baar-baar lautne wali tasveer hai **khula darwaza**: wo darwaza jo ek vaidya ke liye khula, aur wo darwaza jo teen sau saal baad toota.
-- Original ka koi sentence use nahi hua. Nehru ki apni baat sirf reported speech mein hai; jahan wo kisi vidvaan, itihaaskar ya yaatri ko quote karte hain, wahan sirf saar hai (Trevelyan, Liddell Hart, Alberuni, Ibn Rushd, Toledo ka Said, Mahmud ka Mathura wala vakya).
-- Kram apna hai: cold open (Baghdad, Manak) book mein baad mein aata hai; hum use shuruaat mein rakhte hain, aur Part 4 mein uska hisaab chukate hain. Kahani Part 10 mein wapas mehmaan-hamlavar ke jode par lautti hai.
-- Har naam, tareekh aur ankda `book/chapters/ch06.txt` se hai. Jo pehchaan-lines book se bahar ki hain, wo Sources mein "Aam jaankari" ke neeche hain.
-- Ek "aaj" wala pul inline hai (Part 5), aur aakhir mein "Aaj ke hisaab se". Pul "Aaj sochiye" se shuru hota hai, taaki koi aaj ki baat Nehru ki baat na samjhe.
-- **SFX:** is episode ka apna SFX plan abhi nahi bana. Ep 6 ka purana plan Fatehpur Sikri wale cold open ke liye hai, jo Ep 6.3 mein jaayega; isliye yahan ke saare cues naye hain. Chaar cues cold open mein hain (yahi mukhya hain, inhi par plan banna chahiye); do baaki — Part 3 ki ghanti, Part 7 ki ghudsaari — optional hain, kyunki house style mein ident ke baad awaaz saaf rehti hai.
-- Mahaul ke kai rang kahani ke liye kalpana se hain, book ke tathya nahi. Narration khud "sochiye", "kalpana kijiye" ya "shayad" kehti hai (list Sources mein hai).
+  **Jawab (B10, payoff):** Pehli baar mehmaan ban kar aaya — vyapaari, vaidya, pothiyan, maszidein; darwaza khula tha, koi ladaai nahi hui. Doosri baar hamlavar ban kar aaya — khazana, talwar, aur sau saath saal ki kadwahat. Dharm ek hi tha; tareeqa do.
+- **Spine (R4, joda):** ek hi dharm ke do aagman, aur baar-baar lautne wali tasveer — **khula darwaza**. Cold open mein darwaza ek vaidya ke liye khulta hai; B3 usi darwaze ko dikhata hai jab ek naya dharm doosre dharmon ki kataar mein baith jaata hai; B10 par wo darwaza toota hua milta hai, kyunki is baar kaafile nahi aaye — ghudsawaar aaye.
+- **Coverage:** **S02** "The Arabs and the Mongols" ka A1 (Arabi ateet, Paigambar ka josh, 712 Sindh, Islam dharm ban kar pehle) aur A2 (Crusades, Chengiz, Hulagu 1258, Spain ka ant, Constantinople 1453, Mongol yuddh-vidya) · **S03** "The Flowering of Arab Culture and Contacts with India" poora (anuvaad ka daftar, Alexandria ke bhage hue vidvaan, Barmak, Manak, ganit-khagol-chikitsa ke naam, hisaab barabar na hona, tark se shak tak, Ibn Rushd, Toledo ka Said) · **S04** "Mahmud of Ghazni and the Afghans" ka cluster M poora (712 se 1030 tak, Alberuni ka saar, Tilak ki fauj, Mathura, Firdausi, sidhe Punjab ka narm hona) · **S06a** "Synthesis and Growth of Mixed Culture" ka pehla paragraph ("Musalmaan hamla" par aitraaz, teen asli hamle, Indo-Afghan aur Indo-Mughal naam). **Deferred (aur kahan):** S02-A3 — Mongol Sindhu par rukna, 1369 Timur, Chengiz ka Bauddh hona, chaar vijeta aur Lenin → **Ep 6.2-B4**; S04-G — Shahab-ud-Din Ghuri, Prithvi Raj ka prem, 1192, Dilli ka nishaan → **Ep 6.2-B2**; poora **S05** (Indo-Afghan, dakshin, Vijayanagar, Babar, sea power) → **Ep 6.2**; S06-B/D/E (Idrisi, Kabir, Guru Nanak, Amir Khusrau) → **Ep 6.2**; S06-C (purdah) → **Ep 6.3-B1**. **S01** ("New Problems") source mein sirf heading aur ek akshar "T" hai — GAP, kuch bhi bola nahi gaya. Is episode mein koi T6 nahi hai; neeche ki table mein teen clusters aage ke episodes ko deferred hain.
+- Clusters this episode delivers, beat by beat: B1 jahiliyat par aitraaz + Semitic ateet + Yemen + Arabi ka vikas + Canton ki basti; B2 Paigambar ka josh + girte desh + North Africa + Damascus/Baghdad se do dhaar; B3 nadi par ruk gaya ghudsawaar + Sindh ka alag hona + pothiyan aur vaidya + bahudharm Bharat; B4 anuvaad ka daftar + Alexandria ke bhage hue vidvaan + Barmak + Manak ka hisaab chukana + ganit-khagol-chikitsa ke naam; B5 hisaab barabar na hona + apne khol mein reh jaana; B6 aqal ki aakhri chamak + Ibn Rushd + Toledo ka Said; B7 Crusades + Chengiz + Hulagu 1258 + Granada 1492 + Constantinople 1453 + tark ka na lautna; B8 teen sau saal ka sannata + ~1000 Mahmud + Alberuni + Chola-Srivijaya + Somnath ke baad ki haar; B9 sipahi pehle, dharm ka aadmi baad + Tilak + Mathura + Firdausi + Alberuni ka faisla + Punjab ka narm hona + 1030; B10 "Musalmaan hamla" par Nehru ka rukna + teen asli hamle + Indo-Afghan/Indo-Mughal + payoff.
+- Placement: ye episode poori tarah `book/chapters_v2/ch06.txt` ke rebuilt text se likha gaya hai. **Source note:** ye file 2026-10-17 ko Internet Archive ke full text se dobara banayi gayi thi; pehli `book/chapters/ch06.txt` lossy thi (17,363 shabd) aur usme is episode ke kai paragraph nahi the — poora anuvaad-daftar wala hissa, Alexandria ke bhage hue vidvaan, Chengiz-Hulagu ka kissah, Granada aur Constantinople, Alberuni ka faisla, aur Firdausi ki line ka adhoora hissa. Neeche ki placement table rebuilt text ke sub-sections par hai.
+- Original ka koi sentence use nahi hua. Nehru ki apni baat sirf reported speech mein hai, apne shabdon mein. Jahan wo kisi vidvaan, itihaaskar ya yaatri ko quote karte hain, wahan sirf saar hai (Trevelyan, Liddell Hart, Alberuni, Ibn Rushd, Toledo ka Said, Mahmud ka Mathura wala vakya).
+- Kram apna hai: cold open (Baghdad, Manak) book mein baad mein aata hai; hum use shuruaat mein rakhte hain, aur B4 mein uska hisaab chukate hain. Kahani B10 mein wapas mehmaan-hamlavar ke jode par lautti hai.
+- Ek inline "aaj" pul hai (B5), aur aakhir mein "Aaj ke hisaab se". Pul "aaj sochiye" se shuru hota hai, taaki koi aaj ki baat Nehru ki baat na samjhe.
+- Mahaul ke kai rang kahani ke liye kalpana se hain, book ke tathya nahi (list Sources mein hai).
 
 * [x] Narration: Asha. Podcast: "The Discovery of India, Hindi mein".
 
 | Book ka sub-section | Script mein kahan |
 | --- | --- |
-| The Arabs and the Mongols | Part 1 + Part 2 + Part 3 + Part 6 |
-| The Flowering of Arab Culture and Contacts with India | Cold open + Part 3 + Part 4 + Part 5 + Part 6 |
-| Mahmud of Ghazni and the Afghans | Part 3 (bahudharm wala hissa) + Part 7 + Part 8 + Part 9 |
-| The Indo-Afghans : South India : Vijayanagar : Babar : Sea Power | Part 9 + Part 10 |
-| Synthesis and Growth of Mixed Culture (sirf pehla paragraph) | Part 10 |
+| S01 New Problems | — (source mein sirf heading aur ek akshar "T"; GAP, kuch nahi bola gaya) |
+| S02 The Arabs and the Mongols — A1 | Cold open + B1 + B2 + B3 |
+| S02 The Arabs and the Mongols — A2 | B7 |
+| S02 The Arabs and the Mongols — A3 | — (Ep 6.2-B4 ko deferred) |
+| S03 The Flowering of Arab Culture and Contacts with India | Cold open + B4 + B5 + B6 |
+| S04 Mahmud of Ghazni and the Afghans — cluster M | B3 (bahudharm wala hissa) + B8 + B9 |
+| S04 Mahmud of Ghazni and the Afghans — cluster G | — (Ep 6.2-B2 ko deferred) |
+| S05 The Indo-Afghans… Sea Power | — (Ep 6.2 ko deferred) |
+| S06a Synthesis and Growth of Mixed Culture (sirf pehla paragraph) | B10 |
 
-**Coverage:** The Arabs and the Mongols, The Flowering of Arab Culture and Contacts with India, Mahmud of Ghazni and the Afghans, aur The Indo-Afghans / South India / Vijayanagar / Babar poore. "Synthesis and Growth of Mixed Culture" ka sirf pehla paragraph is episode mein hai — baaki (purdah, Kabir, Guru Nanak, Amir Khusrau) Ep 6.2 ka vishay hai. Chapter 6 ka khaali "New Problems" sub-section (repo mein sirf heading) isliye kuch nahi bola gaya. "The Indo-Afghans" ka "Sea Power" wala hissa repo mein gayab hai (`$2a`), aur us sub-section ka pehla paragraph galti se Angrezon ke baare mein hai — dono Sources ke GAP mein darj hain. Kuch chhoda nahi gaya; T5 waale naam, list tail, poore ankde aur kitaabon ke naam sirf "Kitaab mein aur" mein hain.
-
-Shabd-ginti (narration, `wc -w`, headings aur `[SFX: …]` lines ke bina): Cold open + ident 349 · Ab tak 56 · P1 253 · P2 363 · P3 503 · P4 311 · P5 472 · P6 500 · P7 321 · P8 456 · P9 531 · P10 499 · Aaj ke hisaab se 196 · Outro 84 · **Kul 4,894** (target 4,200-5,000; kareeb 30-31 minute). Das beats, har ek 253-532 shabd ke andar.
+**Shabd-ginti (narration, headings aur `[SFX: …]` lines ke bina, `wc -w` ki tarah gina gaya):** Cold open + ident 348 · Ab tak 80 · B1 393 · B2 448 · B3 542 · B4 435 · B5 367 · B6 446 · B7 494 · B8 402 · B9 499 · B10 394 · Aaj ke hisaab se 191 · Outro 107 · **Kul 5,146** (cap 5,200; sheet ka target 5,000). Kareeb 32 minute ka audio.
 
 ## Cold open
 
@@ -87,57 +90,77 @@ Arab desh. Registan.
 
 ## Ab tak
 
-Ab tak: 1944, Ahmadnagar ka qila. Ek qaidi, Jawaharlal Nehru, wahan is desh ki khoj mein ek kitaab likh raha hai. Pichhli baar humne dekha tha ki is desh ke vichaar, ankde aur hunar pahaad aur samundar paar kaise gaye. Ab ek naya chapter shuru hota hai. Aur uski shuruaat ek naye dharm se hoti hai.
+Ab tak: 1944, Ahmadnagar ka qila. Ek qaidi, Jawaharlal Nehru, wahan is desh ki khoj mein ek kitaab likh raha hai. Pichhli baar humne dekha tha ki is desh ke ankde aur hunar pahaad aur samundar paar kaise gaye — aur Baghdad mein us hisaab ko naya naam mila: Hindsa. Ab ek naya chapter shuru hota hai, aur uski shuruaat ek naye dharm se hoti hai — par pehle us naye dharm ki jagah, us shehar mein jaaniye jahan Hindsa pahuncha tha.
 
 ## Part 1: Ret se pehle ka Arab
 
 Arab ka registan. Ret, oont, aur upar khaali aasmaan.
 
-Is ret se ek lehar uthne wali hai jo Asia, Africa aur Europe ke ek bade hisse tak pahunchegi. Par usse pehle Nehru ek galatfehmi door karte hain.
+Ek kaafila ruk gaya hai. Shaam dhal rahi hai. Ek buzurg aadmi oont ke paas khada hai, aur ek nazm suna raha hai — us zamane ki, jab is desh mein abhi koi paigambar nahi aaya tha. Wo nazm uske baap ne sunai thi. Aur uske dada ne.
 
-Kuch Islami vidvaan Islam se pehle ke Arab daur ko "Jahiliyat" kehte hain. Jahiliyat, yaani agyaan ka andhera, andhvishwas ka daur. Nehru kehte hain ye tasveer adhoori hai. Arab sanskriti khaali zameen se nahi uthi.
+Aage chalkar log kahenge ki Islam se pehle ka Arab ek andhere ka daur tha.
 
-Uska ek lamba ateet tha, aur wo Semitic logon se juda tha. Semitic — ek hi khandaan ki bhaashayein bolne wale log. Fenikiya ke samundari vyapaari. Hebrew. Aur bhi.
+Kuch Islami vidvaan us daur ko "jahiliyat" kehte hain. Jahiliyat — yaani agyaan, andhvishwas, khaali zameen.
 
-Un sabke beech jhagde bhi the. Hebrew log apne aap ko alag rakhne lage. Par us poore ilaake mein aana-jaana chalta raha, aur ek saajhi pichhaas bhi bani.
+Nehru wahan ruk jaate hain. Wo kehte hain ye tasveer adhoori hai. Arab sanskriti khaali zameen se nahi uthi.
 
-Aur ek jagah to poori tarah ubhar chuki thi. Yemen. Arabon ki bahut purani sanskriti wahin phali.
+Uska lamba ateet tha, aur wo Semitic logon se juda tha. Semitic — ek hi khandaan ki bhaashayein bolne wale log. Fenikiya ke samundari vyapaari. Ibrani. Aur do-teen aur. Un sabke beech jhagde bhi the, aur aana-jaana bhi chalta raha. Poore ilaake ka ek saajha pichha bana.
 
-Bhaasha? Paigambar ke zamane mein Arabi ek ban chuki, khadi hui bhaasha thi. Usme Farsi ke shabd the. Aur kuch Bharatiya shabd bhi. Yaani unki zubaan tak is desh ka asar pahunch chuka tha.
+Jis nazm se humne shuru kiya, wo isi saajhe ateet ki thi.
 
-Aur samundar? Fenikiyon ki tarah Arab log bhi samundar paar vyapaar ke liye door tak jaate the. Is se pehle ki Islam aata, dakshin China mein Canton ke paas Arabon ki apni basti thi.
+Aur is saajhe ateet mein bhaasha hi shaamil nahi thi. Karobar, shaadiyan aur kahaniyan — sab ek hi dar se aati thi.
 
-Matlab saaf hai. Ye log duniya se anjaan nahi the. Unke raaste samundar ke us paar tak gaye the.
+Aur ek jagah ye sab ubhar chuka tha. Yemen. Arabon ki purani sanskriti wahin phali — kaafile, bandargah, aur khushbu ka vyapaar. Wahan ke raja purane the. Wahan ke mandir purane the. Wahan ki bhaasha bhi.
 
-To sawal ye nahi ki ye log kahan se aaye. Sawal ye hai ki unme wo aag kahan se aayi?
+Ab bhaasha dekhiye. Paigambar ke zamane mein Arabi ek khadi hui, poori ban chuki bhaasha thi. Usme Farsi ke shabd the. Aur kuch Bharatiya shabd bhi.
 
-## Part 2: Josh, aur ek badalta hua naam
+Yaani is desh ki zubaan ka asar unki bhaasha tak pahunch chuka tha.
+
+Aur samundar? Fenikiyon ki tarah Arab log bhi vyapaar ke liye samundar paar door tak jaate the. Is se pehle ki Islam aaye, dakshin China mein Canton ke paas Arabon ki apni basti thi.
+
+To ye log duniya se anjaan nahi the. Unke raaste samundar ke us paar tak gaye the.
+
+Aur wo raaste khaali maal nahi laate the. Wo saath laate the khabar — kis bandargah mein kya milta hai, kaun sa raja kya maangta hai, aur kaun si baat kis desh mein chalti hai.
+
+Haan, ek giroh apne aap ko alag rakhne laga — Ibrani, yaani Yahudi. Par poore Semitic ilaake mein rishte toote nahi. Bhaasha, vyapaar aur kahaniyan ek doosre mein ghuli hui thi.
+
+To asli sawal ye nahi ki ye log kahan se aaye.
+
+Sawal ye hai: unme wo aag kahan se aayi?
+
+## Part 2: Josh, aur ek badalta naam
 
 Wahi ret. Par ab us ret par ek josh utarta hai.
 
-Nehru kehte hain ki is Paigambar ne apne logon mein jaan daal di. Unme imaan aaya. Unme josh aaya.
+Nehru kehte hain ki is paigambar ne apne logon mein jaan daal di. Unme imaan aaya. Unme josh aaya.
 
 Ye log apne aap ko ek nayi baat ka jhanda uthane wale maanne lage. Aur aisi baat jab kisi poori qaum mein utarti hai, to wo qaum itihaas ko hilaa deti hai.
 
-Par josh akela kaafi nahi hota. Nehru ek doosri wajah ginwate hain, jo kam kavita wali hai, aur zyada sach.
+Aur ye josh khaali jazba nahi raha. Wo chalne wale kaafile ban gaya. Jahan unka ghoda pahuncha, wahan unki masjid pahunchi, unki bhaasha pahunchi, aur unka hisaab pahuncha.
 
-Aas-paas ke desh gir chuke the. Pashchim Asia, Madhya Asia, North Africa — sab kamzor.
+Ek baat yaad rakhiye. Abhi tak ye log duniya ke panno par koi bada naam nahi the. Unka desh ret ka desh tha. Aur phir wo ek hi peedhi mein pashchim mein Spain tak, aur purab mein Madhya Asia tak pahunch gaye.
 
-North Africa ka haal dekhiye. Wahan Isai apne hi giroh se lad rahe the. Aapas ke jhagde, aur khoon. Aur wahan ka Isai dharm tang-dil tha.
+Ye sirf josh se nahi hua.
 
-Ab usi duniya ke saamne Arabon ka raasta aata hai, jo kehta hai: saare insaan bhai hain. Jo doosre dharmon ko sehna jaanta hai.
+Nehru ek doosri wajah ginwate hain, jo kam kavita wali hai aur zyada sach. Aas-paas ke desh gir chuke the.
+
+Pashchim Asia, Madhya Asia, North Africa — sab kamzor, sab bikhre hue.
+
+North Africa ka haal dekhiye. Wahan Isai apne hi giroh se lad rahe the. Aapas ke jhagde, aur khoon. Aur wahan ka Isai dharm tang-dil tha — doosron ko sehne wala nahi.
+
+Ab usi duniya ke saamne Arabon ka raasta aata hai, jo kehta hai: saare insaan bhai hain. Jo doosre dharmon ki pooja ko sehta hai.
 
 Nateeja? Jo log apne hi dharm ke jhagdon se behaal the, wo is nayi taraf chale gaye.
 
-Isliye talwar ke baare mein baad mein baat karenge. Yahan talwar ka kaam nahi tha. Yahan kaam tha thakaan ka, aur ek khuli baat ka.
+Aur ye baat sadiyon tak chalne wali thi. Jahan bhai-chaare ki baat hoti hai, wahan use rokne wala koi nahi hota.
 
-Ab ek baat jo is poore episode ke kaam ki hai.
+Samajhiye, yahan talwar ka kaam nahi tha. Yahan kaam tha thakaan ka, aur ek khuli hui baat ka.
 
-Jo sanskriti Arab log apne saath le jaate the, wo ek hi tasveer nahi thi. Wo badalti rehti thi. Rang badalti rehti thi.
+Aur ek cheez, jo is poore episode ke kaam ki hai. Jo sanskriti ye log apne saath le jaate the, wo ek hi tasveer nahi thi. Wo badalti rehti thi.
 
-Damascus unki rajdhani bani. Damascus — aaj Syria ka wo shehar, jo tab samrajya ka dil tha. Wahan pahunchte hi unki saadgi gayab hui. Ek nafees, shaandar dhang aa gaya. Byzantium se kuch rang mile. Is daur ko Nehru Arab-Syrian sanskriti kehte hain.
+Damascus unki rajdhani bani. Damascus — aaj Syria ka wo shehar, jo tab poore samrajya ka dil tha. Wahan pahunchte hi unki saadgi gayab hui. Ek nafees dhang aa gaya, aur Byzantium se kuch rang mile. Is daur ko Nehru Arab-Syrian sanskriti kehte hain.
 
-Phir wo Baghdad gaye. Aur wahan purane Iran ki parampara ne unhe chhoo liya. Ab ek nayi cheez bani: Arab-Irani sanskriti. Yahi us poore bade ilaake par chha gayi.
+Phir wo Baghdad gaye. Wahan purane Iran ki parampara ne unhe chhoo liya. Ab bani ek nayi cheez — Arab-Irani sanskriti. Yahi us poore bade ilaake par chha gayi.
 
 Isi liye Nehru ek naam par aitraaz karte hain. Log ise "Islami sabhyata" kehte hain. Nehru kehte hain ye naam uljha deta hai, aur shayad galat bhi hai.
 
@@ -147,17 +170,25 @@ Ek aag. Aur ek farsh.
 
 Ab sawal ye hai: ye lehar Bharat tak pahunchi? Aur pahunchi kaise?
 
-## Part 3: Sindh se darwaze tak
+## Part 3: Sindh, aur uske aage band raasta
 
-Ek baat hairan karne wali hai. Arabon ke hamle itne aasan the, aur itne door tak pahunche — Asia, Africa, Europe ka bhi ek hissa. Par Bharat mein wo Sindh se aage nahi gaye. Na us waqt, na baad mein.
+Ek ghudsawaar aage badh raha hai. Uske saamne ek nadi hai.
+
+Saal hai 712. Wo Arab hai, aur wo us nadi ke kinaare par apne ghode ko rok leta hai.
+
+Wo aage nahi jaata.
+
+Us nadi ke us paar ki zameen uske samrajya ka kinaara hai. Yahin usne Sindh jeeta tha. Aur yahin, isi kinaare par, raasta band ho jaata hai.
+
+Ek baat hairan karne wali hai. Arabon ke hamle itne aasan the, aur itne door tak pahunche — Asia, Africa, aur Europe ka bhi ek hissa. Par Bharat mein wo Sindh se aage nahi gaye. Na us waqt, na baad mein.
 
 Kyun?
 
-Nehru imaandari se kehte hain: shayad isliye ki Bharat us waqt itna mazboot tha ki wo waar jhel sakta tha. Warna ye samjhaana mushkil hai ki asli hamle se pehle itni sadiyan kyun nikli gayin.
+Nehru imaandari se kehte hain: shayad isliye ki Bharat us waqt itna mazboot tha ki wo waar jhel sakta tha. Warna ye samjhaana mushkil hai ki asli hamle se pehle teen sau saal kyun nikle gaye.
 
-Doosri wajah Arabon ki apni khalbali thi. Sindh Baghdad ke control se nikal gaya, aur ek chhota azaad Musalmaan raajya ban gaya.
+Doosri wajah Arabon ki khud ki khalbali thi. Sindh Baghdad ke control se nikal gaya, aur ek chhota azaad Musalmaan raajya ban kar zinda raha.
 
-Par talwar ruki, to rishte chal pade.
+Par jahan talwar ruki, wahan rishte chal pade.
 
 Yaatri aane-jaane lage. Doot aane-jaane lage.
 
@@ -167,17 +198,15 @@ Sirf pothiyan nahi gayin. Bahut se Bharatiya vaidya bhi Baghdad gaye.
 
 Aur ye sab sirf uttar Bharat ka kaam nahi tha. Dakshin ke raajya bhi isme shaamil the. Khaas kar pashchim kinaare ke Rashtrakuta — pashchim Bharat ka ek raajvansh, jiska Arab vyapaariyon se ghana vyapaar tha.
 
-To dekhiye kya hua. Ek talwar ruki hui thi, aur doosri taraf ek kaafila chal raha tha.
-
 [SFX: ek mandir ki ghanti, aur uske saath door se azaan — dono ek hi subah mein]
 
 Aur ab wo baat, jo aaj ke sawal ka pehla hissa hai.
 
 Is aane-jaane se Bharat ke log us naye dharm ko jaanne lage. Islam.
 
-Tab yahan sirf yaatri nahi aaye. Aise log bhi aaye jo ye dharm phailaane ke liye nikle the. Unka swagat hua. Maszidein bani.
+Aur yahan sirf yaatri nahi aaye. Aise log bhi aaye jo ye dharm phailaane ke liye nikle the. Unka swagat hua. Maszidein bani.
 
-Nehru ek baat saaf likhte hain. Na raajya ne aitraaz kiya, na logon ne. Koi dharmik jhagda nahi hua. Kyunki ye is desh ki purani parampara thi — sab dharmon ko sehna, puja ke sab tareeqon ko jagah dena.
+Nehru saaf likhte hain: na raajya ne aitraaz kiya, na logon ne. Koi dharmik jhagda nahi hua. Kyunki ye is desh ki purani parampara thi — sab dharmon ko sehna, pooja ke sab tareeqon ko jagah dena.
 
 Aur ab ye vakya yaad rakhiye, kyunki yahi is episode ki pehli seedhi hai.
 
@@ -187,11 +216,11 @@ Ye samajhne ke liye ek tasveer chahiye. Sochiye, us waqt ka Bharat.
 
 Ek dharm ka desh? Nahi. Bahut dharmon ka desh.
 
-Bauddh dharm aur Jain dharm bhi the. Haan, us waqt tak wo kaafi phike pad chuke the, aur Hindu dharm ne unhe apne andar samaa liya tha. Par unke alawa do aur dharm the.
+Bauddh dharm aur Jain dharm bhi the — haan, us waqt tak wo kaafi phike pad chuke the, aur Hindu dharm ne unhe apne andar samaa liya tha. Par unke alawa do aur dharm the.
 
-Isai dharm. Aur Ibrani dharm, yaani Yahudi dharm. Dono Bharat aaye the — shayad Isa ke janm ke baad ki pehli sadi mein — aur dono ko yahan jagah mil gayi.
+Isai dharm. Aur Ibrani dharm, yaani Yahudi dharm. Dono Bharat aaye the — shayad Isi ke janm ke baad ki pehli sadi mein — aur dono ko yahan jagah mil gayi.
 
-Dakshin Bharat mein Syrian Isaiyon aur Nestorian ki badi tadaad thi. Wo is desh ka utna hi hissa the, jitna koi aur. Yahudi bhi. Satvin sadi mein Iran se aaye Zoroastrian bhi — ek chhota Parsi samooh. Aur pashchim kinaare aur uttar-pashchim mein to Musalmaan pehle se the.
+Dakshin Bharat mein Syrian Isaiyon aur Nestorian ki badi tadaad thi. Wo is desh ka utna hi hissa the, jitna koi aur. Yahudi bhi. Aur satvin sadi mein Iran se aaye Zoroastrian — ek chhota Parsi samooh. Pashchim kinaare aur uttar-pashchim mein to Musalmaan pehle se the.
 
 Nateeja? Naya dharm aayega, to wo isi bheed mein ek aur dharm hoga. Koi use rokne nahi aayega. Koi usse dara nahi.
 
@@ -209,19 +238,29 @@ Us waqt tak Arab log Asia, Africa aur Europe ka ek hissa jeet chuke the. Ab unka
 
 Nehru kehte hain ki aathvin aur nauvin sadi ke Arabon mein jo jigyasa thi, jo tark ke naye raaste, jo vigyaan ke sawal — wo hairan karne wali hai.
 
+Ek khalifa ne, al-Mansur, ek daftar khada kiya. Anuvaad ka daftar. Wahan Yunani, Syriac, Zend, Latin aur Sanskrit ki pothiyan padhi jaati thi, aur badli jaati thi.
+
+Syria, Asia Minor aur Levant ke purane math-khaane isi kaam ke liye khol diye gaye.
+
+Aur ek giroh aisa aaya, jo apne ghar se bhaag kar nikla tha. Alexandria ke purane school Isai bishops ne band kar diye the, aur wahan ke vidvaan khud bhaga diye gaye the. Wo Fars aur doosri jagahon mein pade hue the.
+
+Baghdad mein unhe jagah mili. Aur wo apne saath kya laaye? Plato. Aristotle. Ptolemy. Euclid. Yunani darshan, ganit, aur khagol.
+
+Unke saath wahan Nestorian aur Yahudi vidvaan the. Aur Bharatiya vaidya.
+
 Ye daur Harun-al-Rashid aur unke baad al-Mamun ke raaj mein bhi chalta raha. Baghdad sabhya duniya ka sabse bada ilm ka kendra ban gaya.
 
-Bharat ki padhai ko yahan bahut sahara mila. Aur wo sahara ek taqatwar parivaar se aaya — Barmak parivaar, jise Barmecides bhi kehte hain. Ye parivaar Khalifa ko vazir deta tha, aur shayad pehle Bauddh tha.
+Bharat ki padhai ko yahan bahut sahara mila. Aur wo sahara ek taqatwar parivaar se aaya — Barmak parivaar, jise Barmecides bhi kehte hain. Ye parivaar khalifa ko vazir deta tha. Aur shayad ye pehle Bauddh the.
 
 Aur Manak? Harun-al-Rashid ki beemari mein unhe Bharat se bulaya gaya tha. Wo Baghdad mein bas gaye. Aur unhe ek bade aspataal ka mukhiya banaya gaya.
 
 Arab lekhakon ne likha hai ki us waqt Baghdad mein Manak ke alawa chhe aur Bharatiya vaidya rehte the.
 
-Khagol aur jyotish mein Arab aage badhe — Bharat aur Alexandria, dono se aage. Do naam bade hain. Al Khwarismi, nauvin sadi ke ganitgya aur khagolshastra. Aur Omar Khayyam, barhvin sadi ke shayar, jo khagol bhi jaante the.
+Isi mahaul mein ganit aur khagol ne oonchi udaan li. Yahan Arab log Bharat aur Alexandria, dono se aage badhe. Ek naam: Al Khwarismi — nauvin sadi ka aadmi, jisne hisaab aur nakshe ki apni pothiyan likhin. Aur barhvin sadi mein ek shayar, jo khagol bhi jaanta tha — Omar Khayyam.
 
-Chikitsa mein Arab vaidya aur surgeons Asia aur Europe mein mashhoor the. Unme sabse bada naam: Ibn Sina, Bukhara ke, jinko vaidyon ka shahzada kaha jaata tha. Unki maut 1037 mein hui.
+Chikitsa mein Arab vaidya aur surgeon Asia aur Europe mein mashhoor the. Unme sabse bada naam: Ibn Sina, Bukhara ke, jinko vaidyon ka shahzada kaha jaata tha. Unki maut 1037 mein hui.
 
-Aur darshan mein ek bada naam: Abu Nasr Farabi.
+Aur darshan mein ek naam — Abu Nasr Farabi.
 
 Ek shehar. Diye ki roshni. Mez par Yunani, Farsi aur Sanskrit ki pothiyan. Aur anuvaad karte log.
 
@@ -229,7 +268,7 @@ Ye bhi wo darwaza hi tha. Bas ye khula hua tha doosri taraf.
 
 Par is darwaze se guzar kar hum laaye kya?
 
-## Part 5: Hisaab, aur aqal ki aakhri chamak
+## Part 5: Hisaab barabar nahi tha
 
 Ab is daur ki ek kadwi baat, jo Nehru baar-baar dohraate hain.
 
@@ -237,7 +276,17 @@ Arabs ne Bharat se bahut seekha. Ganit, jyotish, chikitsa. Par is rishte mein pe
 
 Aur ulta? Bharatiya logon ne Arabon se bahut kam seekha.
 
+Kya diya humne? Ankde — wo ankde, jinke saath is se pehle ek poora episode bana. Ganit ke niyam. Khagol ki table. Aur chikitsa ke wo upaay, jo yahan ki pothiyon mein sadiyon se likhe the.
+
+Aur liya kya? Do-teen kitaabein, do-teen naam, aur bahut kam.
+
+Sochiye ek munshi ki pothi. Us par do khaane hain. Pehle khaane mein ek lambi fehrist — kya diya. Doosre khaane mein do-teen panktiyan — kya liya. Wo doosra khaana takreeban khaali hai.
+
 Nehru kehte hain ki hum apne ghamand mein lipte reh gaye, aur jahan tak ho sake apne hi khol ke andar reh gaye.
+
+Bahar ki khabar hum tak pahunchti thi. Kaafile aate the, yaatri aate the, doot aate the. Par hum unhe apne darwaze tak hi rok dete the.
+
+Aur ye mauka ek hi baar aaya. Us waqt Baghdad mein aisi soch ubhar rahi thi, jo duniya ko samajhne ke liye dalil aur tajurbe par bharosa karti thi — aur dharm ko bhi sawalon ke saamne rakh deti thi. Is desh ke purane logon ke sawal bhi isi tarah ke the. Dono taraf ek hi cheez khoji ja rahi thi. Par dono taraf ke log ek doosre ki taraf nahi badhe.
 
 Ye kyun dukh ki baat thi? Kyunki theek us waqt is desh ka mann thak raha tha. Uski buniyadi soch ki taaqat ghat rahi thi. Baghdad ka wo khula, tark wala mahaul, agar yahan pahunchta, to shayad use jaga deta.
 
@@ -247,13 +296,27 @@ Aaj sochiye. Jab duniya mein kahin kuch naya hota hai, to hum usse seekhne jaate
 
 Baghdad ki kahani batati hai ki doosra jawab kitna mehnga padta hai.
 
-Dhyan dijiye. Ye roshni hamesha nahi jali.
+Dhyan dijiye. Ye roshni hamesha nahi jali. Aur jo ise bujhane wale the, wo Bharat ki taraf se nahi aaye.
 
-Wahan tark aage badha, to log shak tak pahunche. Agnosticism. Scepticism.
+## Part 6: Aqal ki aakhri chamak
 
-Phir Baghdad ki roshni dheemi padne lagi. Turkon ki taaqat badhi. Aur ye sawal poochhne wali aadat simatne lagi.
+Is daftar mein ek aadat thi, jo aaj hairan karne wali lagti hai. Yahan sab kuch bolne ki chhoot thi.
 
-Par ek jagah wo zinda rahi. Arab Spain.
+Ek aadmi khada hota hai, aur kehta hai: khuda ko koi sifaat dena hi galat hai. Use rehmat wala ya insaaf wala kehna — ye usi tarah pagalpan hai jaise ye kehna ki uski daadhi hai.
+
+Ye baat ek masjid ke bahar kahi jaati hai. Aur koi use rokne nahi aata.
+
+Nehru likhte hain ki yahan tark aur imaan ka jhagda khula tha — aur wo jhagda Baghdad se poore Arab jahan mein phaila, aur Spain tak pahuncha.
+
+Ek baat samajhne wali hai. Ye log apne hi dharm ke khilaf sawal utha rahe the, aur unhe rokne ke liye wahan koi talwar nahi thi. Yahi is daur ka sabse bada aashcharya tha.
+
+Isi mahaul mein do raaste bane. Ek tark wale — jo dharm ko samajh aur dalilon se padhne lage. Doosre aise log, jo dharm ko lagbhag manne se hi inkaar kar dete hain.
+
+Phir aaya shak. Agnosticism. Scepticism. Aise sawal, jinke aage dharm ka khaana khaali lagne lagta hai.
+
+Par ye roshni hamesha nahi jali. Baghdad ki taaqat dheemi padi, Turkon ka raaj badha, aur sawal poochhne wali aadat simatne lagi.
+
+Ek jagah wo phir bhi zinda rahi. Arab Spain.
 
 Wahan ek naam hai. Ibn Rushd — jise Europe Averroes kehta hai, barhvin sadi ke sabse bade Arab darshanikon mein ek. Wo wo had tak gaye jahan khade hokar aadmi dharm ke bahar aa jaata hai.
 
@@ -261,61 +324,65 @@ Unke baare mein likha hai ki unke zamane ke saare dharmon ke liye unki raay ye t
 
 Wo ek taraf se bahut aage ki soch wale the. Unhone likha ki auraton ko saarvajanik kaam mein hissa lena chahiye, aur wo iske liye poori tarah kaabil hain.
 
-Par wahi aadmi ek jagah bilkul be-reham bhi the. Unki raay thi ki laailaaj logon ko khatam kar dena chahiye, kyunki wo samaaj par bojh hain.
-
 Spain us waqt Europe ke baaki ilm-kendron se bahut aage tha. Cordoba ke Arab aur Yahudi vidvaanon ko Paris tak izzat milti thi.
 
 Aur in Arabon ke paas doosre Europeans ke liye izzat kam thi. Toledo ke ek lekhak, Said, ne Pyrenees ke uttar rehne wale logon ko aisa likha: thandi tabiyat ke, jo kabhi baleg nahi hote, lambe, gore — par jinke andar tez dimaagi aur gehri samajh hai hi nahi.
 
 Aaj wahi Europe vigyaan ka kendra hai. Itihaas palat jaata hai.
 
-## Part 6: Do leharein, jo Bharat se hokar nahi gayin
+Aur ho sakta hai ye jhagda sirf kitaabon mein chalta rehta. Par usse pehle ki khatam hota, purab se ek toofan utha.
 
-Baghdad ki wo roshni bujh gayi. Aur usse bujhane wale aaye poorab se.
+## Part 7: Us paar ka toofan
 
-Chengiz Khan aur Mongol. Nehru kehte hain ki unhone is poore daur ko khatam kar diya.
-
-Sau saal baad Madhya Asia phir jaaga. Samarkand aur Herat chitrkala aur vaastukala ke kendra ban gaye, aur Arab-Irani parampara ki thodi roshni lauti.
-
-Par Arabon ka tark nahi lauta. Vigyaan ki jigyasa nahi lauti. Nehru kehte hain ki ab Islam ek aur sakht dharm ban gaya tha — aisa dharm jo dimaag ki jeet se zyada talwar ki jeet ke liye theek baithta hai.
-
-Aur Asia mein uske thekedaar ab Arab nahi the. Wo the Turk. Mongol — jinhe Bharat mein aage chalkar Mughal kaha gaya. Aur kuch had tak Afghan.
-
-Isi daur mein Europe mein do badi leharein uthin. Dono Bharat se hokar nahi gayin. Par dono ne duniya badal di.
+Ye do leharein Bharat se hokar nahi gayin. Par dono ne duniya badal di.
 
 Pehli: Crusades. Gyahrahvin sadi ke aakhir mein shuru hue, aur dedh sau saal se zyada chale. Nehru kehte hain ye sirf do ladaaku dharmon ki ladai nahi thi, cross aur crescent ka jhagda nahi thi. Ek angrez itihaaskar ka saar ye hai ki ye Europe ki wapas jaagti taaqat ka poora jhukav poorab ki taraf tha. Aur Europe wahan se pavitra sthal nahi laaya. Wo laaya nafees kala aur hunar. Shaan-o-shaukat. Vigyaan. Aur jigyasa.
 
-Doosri lehar: Mongol. Nehru kehte hain ki Mongol hamlon ne yuddh ki kala mein kuch naya kiya. Ek angrez yuddh-vidvaan ke hisaab se paimana, gunwatta, achanakpan aur raftaar mein unki koi barabari nahi. Chengiz Khan ko Nehru duniya ke sabse bade senapatiyon mein ginte hain. Asia aur Europe ki bahaduri unke saamne lakdi jaisi thi. Aur ye sirf ittefaq tha ki Madhya aur pashchim Europe bach gaya.
+Doosri lehar Mongol. Aur ye lehar dhool ke ek pahaad ki tarah aayi.
+
+Mongolia mein ek aadmi paida hota hai — Chengiz Khan. Saal 1219 mein wo pashchim ki taraf chal padta hai. Uske raaste mein jo shehar aate hain — Bokhara, Samarkand, Herat — wo dher raakh ban jaate hain. Kehte hain in shehron mein se ek-ek mein das lakh se zyada log rehte the.
+
+Wo Russia ke Kiev tak jaata hai, aur palat aata hai. Baghdad is baar bach jaata hai, kyunki wo uske raaste par nahi tha. Chengiz 1227 mein martaa hai, bahattar saal ki umar mein.
+
+Nehru kehte hain ki Mongol hamlon ne yuddh ki kala mein kuch naya kiya. Ek angrez yuddh-vidvaan ke hisaab se paimana, gunwatta, achanakpan aur raftaar mein unki koi barabari nahi. Chengiz Khan ko Nehru duniya ke sabse bade senapatiyon mein ginte hain. Asia aur Europe ki bahaduri unke saamne lakdi jaisi thi. Aur ye sirf ittefaq tha ki Madhya aur pashchim Europe bach gaya.
 
 Europe ne yuddh ke naye sabak unse seekhe. Aur baarood Europe tak unhi ke raaste se pahuncha — China se.
 
-Par Mongol Bharat nahi aaye. Wo Sindhu nadi par ruk gaye, aur apne hamle kahin aur le gaye.
+Teen sau saal se zyada Baghdad duniya ke kone-kone se aayi daulat aur pothiyan sambhal raha tha.
 
-Aur ek mazedaar baat. Chengiz Musalmaan nahi tha. Uska naam sunkar log aaj bhi yahi samajhte hain, par wo nahi tha. Kehte hain wo aasmaan ke dharm ko maanta tha.
+Uske bete-pote aage badhte hain. 1258 mein Hulagu Baghdad leta hai, aur wo ilm aur kala ka kendra khatam ho jaata hai — paanch sau saal ka jama hua khazana.
 
-Nehru kehte hain ki ye shabd unhe Arabi ke "Samani" ki yaad dilata hai — yaani Bauddh — aur wo shabd Sanskrit ke "Shravana" se nikla tha. Us zamane mein Mongolia samet Asia ke kai hisson mein Bauddh dharm ke bigde roop phale hue the. Shayad Chengiz unhi ke asar mein bada hua.
+Phir wahi hota hai jo har toote ghar mein hota hai. Log bhaagte hain. Vidvaan apni pothiyan lekar Cairo chale jaate hain, kuch Spain. Wahan ek baar phir kala aur ilm ka daur aata hai.
 
-Sochiye. Itihaas ka sabse bada fatah-kun aadmi shayad ek tarah ka Bauddh tha.
+Par Spain khud unke haath se nikal rahi thi. Cordoba 1236 mein chala gaya. Granada do-teen sau saal aur tika, phir 1492 mein wo bhi gaya. Arab raaj Spain mein khatam.
 
-Mongol samrajya dhal gaya. Unki jagah Asia mein chhote-chhote raajya uthne lage. Aur phir Samarkand se ek aur aadmi utha — Timur, ek Turk, jo maa ki taraf se khud ko Chengiz ka vanshaj batata tha.
+Aur usi zamaane mein ek aur darwaza khula. 1453 mein Ottoman Turkon ne Constantinople liya — aur usi dhamake se Europe mein wo taaqatein aazad hui jinse Renaissance paida hua.
 
-Uske baad uske vaarison ka mann jung se zyada aaram aur kala mein lag gaya. Madhya Asia mein ek Timuri punarjaagran aaya — chitrkala, vaastukala, nafasat.
+Iske baad us paar kya bacha? Sau saal baad Samarkand aur Herat mein chitrkala aur vaastukala phir khadi hoti hai. Par Arabon ka tark nahi lauta. Vigyaan ki jigyasa nahi lauti.
 
-Aur isi mahaul mein ek ladka bada hua. Timur ka vanshaj.
+Nehru kehte hain Islam ab ek zyada sakht dharm ban gaya tha — aisa dharm jo dimaag ki jeet se zyada talwar ki jeet ke liye theek baithta hai.
 
-Uska naam Babar tha. Par uska waqt abhi aaya nahi.
+Aur Asia mein uske thekedaar ab Arab nahi the. Wo the Turk. Mongol — jinhe Bharat mein aage chalkar Mughal kaha gaya. Aur kuch had tak Afghan.
 
-## Part 7: Ghazni se aaya Sultan
+## Part 8: Ghazni se aaya Sultan
 
 Ab wo hissa, jahan se darwaza toota.
 
-Pehle ek yaad. Saat sau baarah (712) mein Arab Sindh pahunche the. Aur wahin ruk gaye. Sindh aadhi sadi ke andar Baghdad se nikal gaya, par ek chhote azaad Musalmaan raajya ki tarah zinda raha. Poore teen sau saal tak Bharat par koi naya hamla nahi hua.
+Pehle ek yaad. Saat sau baarah (712) mein Arab Sindh pahunche the. Aur wahin ruk gaye. Sindh aadhi sadi ke andar Baghdad se nikal gaya, par ek chhote azaad Musalmaan raajya ki tarah zinda raha.
+
+Poore teen sau saal tak Bharat par koi naya hamla nahi hua.
 
 Phir, saal hazaar ke aas-paas, Afghanistan ke Ghazni se ek sultan utha. Mahmud. Ek Turk, jo Madhya Asia mein taaqat mein aaya tha.
 
-Uske hamle ek-do nahi the. Bahut the. Har hamla khoon se bhara tha. Aur har baar wo hazaron oonton par khazana ladta tha.
+Wo pahaadon se aata tha, aur har baar wahi laut jaata tha.
 
-Us zamane ke ek vidvaan the, Khiva ke Alberuni. Unhone in hamlon ka jo haal likha, uska saar ye hai: is qaum ke log dhool ke zarraon ki tarah har taraf bikhar gaye, aur unke bache hue logon ke dil mein Musalmaanon ke liye gehri nafrat ghar kar gayi.
+[SFX: ghudsaari — door se aati hui, phir guzar jaati hui]
+
+Uske hamle ek-do nahi the. Bahut the. Har hamla khoon se bhara tha. Aur har baar wo hazaaron oonton par khazana ladta tha.
+
+Sochiye, ek fauj chand hafton mein aati hai. Gaanv jalte hain. Mandir girte hain. Log bhaagte hain. Aur uske peeche reh jaati hai dhool, khaali zameen, aur sannata.
+
+Us zamane ke ek vidvaan the, Khiva ke Alberuni — Khiva, Madhya Asia ka wo shehar, jahan ilm ki pothiyan sadiyon se jama thi. Unhone in hamlon ka jo haal likha, uska saar ye hai: is qaum ke log dhool ke zarraon ki tarah har taraf bikhar gaye, aur unke bache hue logon ke dil mein Musalmaanon ke liye gehri nafrat ghar kar gayi.
 
 Ye dard ki sachchi tasveer hai. Par Nehru ek naap bhi rakhte hain.
 
@@ -329,11 +396,13 @@ Par ye samundari taaqat uttar Bharat ko zameen se aane wale hamle se nahi bacha 
 
 Mahmud ne Punjab aur Sindh apne raaj mein mila liye. Aur har hamle ke baad Ghazni laut jaata tha.
 
-Kashmir wo jeet nahi paaya. Wo pahaadi desh usse ruk gaya.
+Punjab uska ilaaka ban gaya, par uska dil wahan nahi tha. Wo Ghazni mein hi rehta tha.
+
+Kashmir wo jeet nahi paaya. Wo pahaadi desh usse ruk gaya. Pahaadon ne wahi kaam kiya, jo aage chalkar registan ne kiya.
 
 Aur ek jagah usse buri tarah hara bhi diya gaya. Kathiawar ke Somnath se lautte hue, Rajasthan ke registan mein uski fauj toot gayi. Wo uska aakhri hamla tha. Wo phir nahi aaya.
 
-## Part 8: Sipahi tha, dharm ka aadmi nahi
+## Part 9: Sipahi pehle, dharm ka aadmi baad
 
 Ab Mahmud ka asli chehra.
 
@@ -345,15 +414,21 @@ Ek saboot. Usne Bharat mein hi ek fauj banayi, aur uske sipahsaalar the Tilak �
 
 Wo Ghazni ko Asia ke bade shehron jaisa banana chahta tha. Isliye wo yahan se kaarigar aur raajmistri bhi utha kar le gaya.
 
-Mathura ne usse hara diya. Shehar ne, fauj ne nahi. Uske jo shabd the, unka saar ye hai: yahan hazaar imaaratein hain, imaan ki tarah mazboot; aur aisa shehar do sau saal se pehle ban nahi sakta tha.
+Aur ek shehar usse hara gaya, bina talwar ke. Mathura ne. Uske jo shabd the, unka saar ye hai: yahan hazaar imaaratein hain, imaan ki tarah mazboot; aur aisa shehar do sau saal se pehle ban nahi sakta tha.
 
-Uske darbar mein us zamane ke bade log the. Unme ek the Firdausi, jinka "Shahnamah" Farsi ki sabse bada kitaabon mein ginta jaata hai. (Repo mein yahan kitaab ka text aadha kata hua hai — GAP, Sources dekhiye.)
+Uske darbar mein us zamane ke bade log the. Unme ek the Firdausi, aur unki kitaab "Shahnamah", jise aaj Farsi ki sabse badi kitaabon mein ginta jaata hai. Baad mein un dono mein phoot pad gayi — uski tafseel aage ki kitaabon mein hai.
 
-Ab asli sawal. Iska nateeja kya hua?
+Aur ek vidvaan the, Alberuni. Wo yahan aaye, yahan ghoome, Kashmir mein Sanskrit seekhi, aur is desh ka dharm, darshan, vigyaan aur kala padhte rahe.
 
-Nehru itihaas ke panno ko saaf karte hain. Raajnaitik taur par poore Bharat par iska bada asar nahi hua. Bharat ka dil wahan nahi tha, jahan Mahmud ke ghode pahunche.
+Unhone ek baat likhi, jo aaj padhne wale ko chubhti hai. Is desh ke log, unke shabdon mein, apne aap ko sabse upar maante hain — ghamandi, apne hi gyaan mein magan. Unka imaan: duniya mein na is jaisa desh hai, na is jaisi qaum, na is jaise raja, na is jaisa vigyaan.
 
-Par haan, isne ek cheez sab ke saamne rakh di. Uttar Bharat kitna kamzor tha, kitna bikhar chuka tha. Alberuni ka likha hua north aur west ke raajnaitik bikharav ko bhi ujaagar karta hai.
+Nehru kehte hain ye tasveer shayad us waqt ke logon ke mizaaj ki theek tasveer thi.
+
+To is hamle ka nateeja kya hua?
+
+Raajnaitik taur par poore Bharat par iska bada asar nahi hua. Bharat ka dil wahan nahi tha, jahan Mahmud ke ghode pahunche.
+
+Par haan, isne ek cheez sab ke saamne rakh di. Uttar Bharat kitna kamzor tha, kitna bikhar chuka tha. Alberuni ka likha hua north aur west ke bikharav ko bhi ujaagar karta hai.
 
 Aur ek baat, jo aage ki poori kahani ka darwaza kholti hai.
 
@@ -367,99 +442,43 @@ Par ye sab sirf shuruaat thi. Aage ye baat badhni thi.
 
 Mahmud ki maut 1030 mein hui.
 
-Aur ab Madhya Asia ki yaad. Wahan chaar vijeta yaad kiye jaate hain: Sikander, Sultan Mahmud, Chengiz Khan, aur Timur. Nehru likhte hain ki unke zamane tak ek paanchva naam jud chuka hai — Lenin. Ek vijeta, par sipahi nahi. Ek alag hi duniya ka vijeta.
+## Part 10: Mitti ka naam, aur ek bhatka hua hisaab
 
-## Part 9: Ek premi, aur ek toota darwaza
+Ab aakhir mein ek naam ki galti. Aur yahan Nehru ek pal ke liye ruk jaate hain.
 
-Mahmud ke jaane ke baad asli badlav aaya.
-
-Uske marne ke baad ek sau saath saal se zyada tak Bharat par koi doosra hamla nahi hua. Turkon ka raaj Punjab se aage nahi badha.
-
-Phir ek Afghan aaya. Shahab-ud-Din Ghuri. Usne Ghazni liya, Ghaznavi raajvansh khatam kiya, Lahore aaya, aur Delhi ki taraf badha.
-
-Aur Delhi ke raja ne use buri tarah hara diya. Naam: Prithvi Raj Chauhan.
-
-Ghuri Afghanistan laut gaya. Agle saal nayi fauj lekar lauta. Aur is baar wo jeeta. 1192 mein wo Delhi ki gaddi par baith gaya.
-
-Prithvi Raj aaj bhi logon ke geeton mein zinda hain. Kyunki premi log hamesha lokpriya rehte hain. Unhone Kanauj ke raja Jaichandra ki beti se prem kiya, aur usse uske hi pita ke mahal se utha laaye — us waqt jab desh bhar ke rajvansh wahan apni ummeedein lekar jama the.
-
-Is qisse mein jeet bhi hai. Par keemat bhi. Do bade raajyon mein dushmani ho gayi. Aur dono taraf ke sabse bahadur log kat gaye. Nehru kehte hain ki ek aurat ke prem mein Prithvi Raj ne apni jaan aur apni gaddi, dono khoyi. Aur Delhi ek bahar ke aadmi ke haath chali gayi.
-
-Phir bhi log use gaate hain. Aur Jaichandra ko aaj bhi log lagbhag gaddaar maante hain.
-
-Par ek baat saaf karni hai. Delhi ka girna poore Bharat ka girna nahi tha. Dakshin mein Chola ab bhi the. Kai raajya azaad the. Afghan raaj ko dakshin ke bade hisse tak phailne mein dedh sau saal aur lage.
-
-Phir bhi Delhi ek nishaan tha. Ek naye daur ka.
-
-Ab dekhiye, is daur mein wo cheez kaise kaam karti hai, jise hum is chapter ka dil keh sakte hain.
-
-Jo log bahar se aaye the, wo thodi hi peedhiyon mein yahin ke ho gaye. Unki rajdhani ab Ghazni nahi, Delhi thi. Afghanistan unke raajya ka ek kinaara reh gaya.
-
-Ye sokhne ka kaam tez chala. Bahut logon ne yahan ki auraton se shaadiyan kin. Alauddin Khilji, jo unke bade hukmaraano mein the, unhone khud ek Hindu aurat se shaadi ki. Unke bete ne bhi.
-
-Haan, kuch hukmaraan nasl se Turk the — Qutb-ud-Din Aibak, Sultana Razia, Iltutmish. Par amiron aur fauj ki bunnayad Afghan hi rahi.
-
-Delhi ek samraajya ki rajdhani ki tarah phalne-phoolne laga. Chaudahvin sadi mein ek Arab yaatri wahan aaya — Arab nahi, Morocco ka; naam Ibn Batuta. Usne Cairo aur Constantinople se lekar China tak ke shehar dekhe the. Usne likha, thodi badha-chadhaa kar hi sahi, ki Delhi duniya ke sabse bade shehron mein se ek hai.
-
-Phir ek din, chaudahvin sadi ke aakhir mein, uttar se ek toofan utra. Timur.
-
-Wo kuch hi mahine ruka. Yahan aaya, aur chala gaya. Par jahan se guzra, wahan usne murdon ki khopdiyon ke dher khade kar diye. Delhi ek murdon ka shehar ban gayi.
-
-Achhi baat ye thi ki wo zyada door nahi gaya. Sirf Punjab aur Delhi ke kuch hisse is aafat se guzre.
-
-Par Delhi ko is maut ki neend se uthne mein saalon lage. Aur jab wo uthi, to wo ek bade samraajya ki rajdhani nahi thi. Timur ne us samraajya ko tod diya. Uske malbe se dakshin mein kai raajya nikle.
-
-## Part 10: Mitti ka raja, aur ek naam ki galti
-
-Isse pehle ki Delhi toote, dakshin mein do bade raajya khade ho chuke the.
-
-Ek: Gulbarga, jise Bahmani raajya kaha jaata hai. Doosra: Vijayanagar, ek Hindu raajya.
-
-Gulbarga baad mein paanch hisson mein bata. Unme ek tha Ahmadnagar.
-
-Aur yahi jagah hai, jahan humari kahani ghoom kar apne ghar lautti hai.
-
-Ahmadnagar. Wahi qila, jahan baith kar Nehru ye kitaab likh rahe hain.
-
-Ise basane wale the Ahmad Nizam Shah. Saal 1490. Wo Bahmani rajaon ke mantri Nizam-ul-Mulk Bhairi ke bete the. Aur Nizam-ul-Mulk ek Brahmin munshi ke bete the — jinka naam tha Bhairu.
-
-Iska matlab saaf hai. Ahmadnagar ka raajvansh bahri nahi tha. Wo isi mitti se aaya tha. Aur Ahmadnagar ki veerangana Chand Bibi ki ragon mein mila-jula khoon tha.
-
-Aur sirf Ahmadnagar nahi. Dakshin ke saare Musalmaan raajya aise hi the. Sab yahin ke, sab yahan ke ho chuke.
-
-Sochiye. Ek qaidi un deewaron ke beech baitha hai, jinko banane walon ki jad ek Brahmin munshi ke khaate ki kitab mein thi.
-
-Aur uttar mein? Ek aur hamlavar pahadon se utra.
-
-Panipat ka maidan. Wahi maidan, jahan Bharat ki kismat baar-baar tay hui hai. Saal 1526 mein usne Delhi ki gaddi jeet li.
-
-Wo Babar tha. Turk-Mongol. Madhya Asia ki Timuri vansh ki ek shaakh — wahi ladka, jo Samarkand ke us mahaul mein bada hua tha, jahan jung se zyada kala ki baat hoti thi.
-
-Usi ke saath Bharat mein Mughal samraajya shuru hota hai.
-
-Ab aakhir mein ek naam ki galti ki baat.
+Kitaab ke panno par wo ek lafz par rukte hain, use padhte hain, aur aage nahi badhte. Kyunki wo lafz galat hai — aur galat sirf us daur mein nahi, aaj ki soch mein bhi.
 
 Log is poore daur ko "Musalmaan hamla" kehte hain, aur uske baad ke waqt ko "Musalmaan kaal". Nehru kehte hain ye galat hai, aur bhatkaata hai.
 
-Waise hi jaise Angrezon ke aane ko "Isai hamla" kehna galat hoga. Ya Angrezon ke daur ko "Isai daur".
+Wo ek misaal dete hain. Aise hi kehna galat hoga jaise Angrezon ke aane ko "Isai hamla" kahiye, ya unke daur ko "Isai kaal".
 
 Islam ne Bharat par hamla nahi kiya. Wo to sadiyon pehle aa chuka tha.
 
 Hamle the. Ek Turki hamla — Mahmud ka. Ek Afghan hamla. Aur ek Turco-Mongol, ya Mughal, hamla. In aakhri do ka asar sabse zyada tha.
 
-Afghanon ko to aap seema ka Bharatiya samooh maan sakte hain. Wo Bharat ke ajnabi nahi the. Unke raaj ko "Indo-Afghan" kehna chahiye.
+Dhyaan dijiye: pehla hamla ek Turk ka tha. Doosra ek Afghan ka. Aur teesra ek aise khandaan ka, jiski jarh Samarkand mein thi, par jo yahan aakar yahin ka ho gaya.
 
-Mughal bahri the, ajnabi the. Phir bhi hairan karne wali raftaar se wo is dhaanche mein fit ho gaye. Isliye unka daur "Indo-Mughal" kehna chahiye.
+Aur ye jo aaye, wo kaun the?
+
+Afghanon ko aap seema ka Bharatiya samooh maan sakte hain. Wo Bharat ke ajnabi nahi the. Unke raaj ko "Indo-Afghan" kehna chahiye.
+
+Mughal bahri the, ajnabi the. Phir bhi hairan karne wali raftaar se wo is dhaanche mein fit ho gaye. Isliye unke daur ka naam hona chahiye "Indo-Mughal".
+
+Mitti ka naam yahi hai.
 
 Aur ab wo sawal, jiske saath humne aaj shuru kiya tha.
 
 Islam Bharat mein pehle kaise aaya, aur baad mein kaise? Aur dono mein fark kya tha?
 
-**Jawab:** Pehli baar wo mehmaan ban kar aaya — vyapaari, vaidya, pothiyan, maszidein. Logon ne darwaza khola. Doosri baar wo hamlavar ban kar aaya — khazana, loot, aur talwar ke saath. Dharm ek hi tha. Tareeqa do the. Aur isi liye nateeja bhi do tha.
+**Jawab:** Pehli baar mehmaan ban kar aaya — vyapaari, vaidya, pothiyan, maszidein. Darwaza khula tha, aur koi ladaai nahi hui. Doosri baar hamlavar ban kar aaya — khazana, talwar, aur sau saath saal ki kadwahat. Dharm ek hi tha. Tareeqa do.
 
 Pehli baar ek naya dharm doosre dharmon ke saath shaant baith gaya. Doosri baar logon ki zindagi ka poora dhang hila.
 
-Manak, jo Baghdad mein mehmaan ban kar reh gaya tha — wahi rastha tha. Par doosri baar usi raaste par kaafile nahi aaye.
+Pehli baar darwaza khula tha, aur kaafile aaye. Doosri baar darwaza toota tha — aur us malbe par se ghode guzre.
+
+Aur teen sau saal ka jo saath tha, wo bhi toot gaya. Naye dharm se koi dushmani nahi thi. Dushmani thi us tareeqe se, jo zindagi ka poora dhang palat deta hai.
+
+Manak, jo Baghdad mein mehmaan ban kar reh gaya tha — wahi raasta tha. Par doosri baar usi raaste par kaafile nahi aaye.
 
 Ghudsawaar aaye.
 
@@ -467,155 +486,169 @@ Ghudsawaar aaye.
 
 Ye hissa Nehru ka nahi, humara hai. Do baatein.
 
-Pehli, nayi cheezein kaise aati hain. Is episode mein kuch naya dharm aaya, aur sawal ye nahi tha ki wo accha hai ya bura. Sawal ye tha ki wo khol kar aaya ya tod kar. Aur usse milne ka tareeqa bhi humare haath mein tha. Ek jagah us waqt ka Bharat kaamyaab raha: usne sab dharmon ko jagah di. Wahi tareeqa aaj har nayi cheez par bhi chalta hai — nayi technology, naya vichaar, naya dhang. Kya hum use samajhne baithte hain, ya uske aage darwaza band kar dete hain?
+Pehli, nayi cheezein kaise aati hain. Is episode mein ek naya dharm aaya, aur sawal ye nahi tha ki wo accha hai ya bura. Sawal ye tha ki wo khol kar aaya ya tod kar. Aur usse milne ka tareeqa bhi humare haath mein tha. Ek jagah us waqt ka Bharat kaamyaab raha: usne sab dharmon ko jagah di. Wahi tareeqa aaj har nayi cheez par chalta hai — nayi technology, naya vichaar, naya dhang. Kya hum use samajhne baithte hain, ya uske aage darwaza band kar dete hain?
 
-Doosri, wo hisaab jo barabar nahi tha. Baghdad ke daur mein humne bahut diya, aur bahut kam liya. Wo kami kisi talwar se nahi hui. Wo kami apne ghamand se hui. Aur us waqt humari soch thak rahi thi — yahi is poore chapter ka dhaaga hai, jo aage ke teen episode mein khulega.
+Doosri, wo hisaab jo barabar nahi tha. Baghdad ke daur mein humne bahut diya, aur bahut kam liya. Wo kami kisi talwar se nahi hui. Wo kami apne ghamand se hui. Aur us waqt humari soch thak rahi thi — yahi is poore chapter ka dhaaga hai, jo aage ke paanch episode mein khulega.
 
 Aapke liye ek sawal. Aaj is desh mein jo naya aata hai — koi cheez, koi hunar, koi soch — hum usse mehmaan ki tarah bulate hain, ya hamlavar ki tarah? Aur jo humse seekhne aata hai, use hum kya de rahe hain?
 
 ## Outro
 
-Raja badalte rahe. Delhi ke taqt par ek ke baad ek aadmi aaya. Takht badle, naam badle, duaayein badli.
+Mahmud mar gaya.
 
-Par Uttar Pradesh ke ek gaon mein, barsaat ke pehle din, aaj bhi aam aur peepal ki daaliyon par jhoole latakte hain. Aur gaon ki auratein aur ladkiyan aise geet gaati hain, jo chhe sau saal purane hain — ek shabd bhi nahi badla.
+Ek sau saath saal tak koi hamla nahi hua. Turkon ka raaj Punjab se aage nahi badha, aur logon ki zindagi waise hi chalti rahi.
 
-Sattaa badalti rahi. Aam zindagi kyun nahi badli?
+Aur phir, ek Afghan pahaadon se neeche utra. Wo Ghazni aur Lahore se hote hue Dilli ki gaddi ki taraf badha.
 
-Agli baar, un geeton wale aadmi se milenge.
+Par usse pehle ki wo wahan pahunchta, us gaddi ke liye ek kahani likhi ja chuki thi — ek premi raja ki kahani, jisne apni jaan aur apna takht ek aurat ke liye khoya.
+
+Agli baar hum wahi kahani sunenge. Aur uske saath ek sawal: raja badalte rahe, to aam zindagi kyun nahi badli?
 
 Tab tak ke liye, namaskar.
 
 ## Sources
 
-- [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 6, "New Problems", sub-sections "The Arabs and the Mongols", "The Flowering of Arab Culture and Contacts with India", "Mahmud of Ghazni and the Afghans", "The Indo-Afghans : South India : Vijayanagar : Babar : Sea Power", aur "Synthesis and Growth of Mixed Culture" ka pehla paragraph. Script ke saare tathya repo wali `book/chapters/ch06.txt` se hain.
-- **GAPs (record karne se pehle original se milaa lena):**
-  - Chapter ka pehla sub-section "New Problems" repo mein khaali hai (sirf heading, `## New Problems`, aur uske baad seedhe "The Arabs and the Mongols"). Usme se kuch bhi kaha nahi gaya. Agar poori book mein yahan kuch hai, to ise Ab tak ya Part 1 mein jodna padega.
-  - "The Indo-Afghans : South India : Vijayanagar : Babar : **Sea Power**" ka "Sea Power" wala hissa repo mein nahi hai. Sub-section ke aakhir mein `$2a` ka nishaan hai, aur uske baad seedhe "Synthesis" shuru ho jaata hai. Samundari taaqat ka poori tarah alag hissa gayab hai (Chola/Srivijaya ki jhalak sirf Mahmud wale sub-section mein hai, jo humne Part 7 mein li hai). Original se milaa kar dekhein ki kya chhoot gaya.
-  - Usi sub-section ka **pehla paragraph galti se Angrezon ke baare mein hai** ("The coming of the British made a vital difference…", "her political control was exercised from outside and her economy was centered in a distant place") — ye baat is episode ke bahar hai (Ep 6.4 ka vishay), aur ye paragraph shaayad yahan chipak gaya hai. Isliye Part 9 mein ise chhod diya gaya, aur seedhe us vaakya se shuru kiya gaya jahan text phir se Afghanon ki baat karne lagta hai. Book-text flag — record se pehle check karna.
-  - Mahmud wale sub-section mein Firdausi ki line aadhi kati hui hai: "Among these was the famous Persian poet Firdausi, author of the Shahnamah,$26". `$26` ke baad ka text gayab hai (aur wahi nishaan aage Adam Smith wale paragraph mein bhi lagta hai). Part 8 mein isliye Firdausi ka zikr saar ke roop mein hai, aur GAP narration mein bhi saaf bata diya gaya hai.
-  - Is episode ke ilaake mein paanch footnote nishaan hain jinka text repo mein nahi hai: `1` (Chengiz Bauddh hone wali line ke baad), `2` ("the Turks2 and the Mongols"), `3` (Somnath/Rajputana ki line ke baad), `4` (Bahmani kingdom ke baad), `5` (Idrisi wale uddharan ke baad). Inme se `1`, `2`, `3`, `4` in-scope hain. Sirf wahi baat kahi gayi hai jo bachi hui lines mein hai.
-  - "Synthesis and Growth of Mixed Culture" ka sirf pehla paragraph is episode mein hai; uske baad purdah, Kabir, Guru Nanak aur Amir Khusrau wale hisse hain — wo Ep 6.2 ka vishay hai. Usi sub-section mein ek `$2a` aur `$289` nishaan bhi hai (par woh humare paragraph ke bahar hai).
-  - Alberuni wale uddharan ka saar diya gaya hai; poore shabd nahi. Herbert? — us uddharan ka footnote text repo mein nahi hai, isliye wo kis kitaab se hai, pata nahi.
+- [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 6, "New Problems". Is episode ke sub-sections: **S02 "The Arabs and the Mongols" (A1 aur A2)**, **S03 "The Flowering of Arab Culture and Contacts with India"**, **S04 "Mahmud of Ghazni and the Afghans" (cluster M)**, aur **S06a "Synthesis and Growth of Mixed Culture" ka pehla paragraph**. Script ke saare tathya `book/chapters_v2/ch06.txt` se hain.
+- **Source rebuild (2026-10-17).** Ye copy Internet Archive ke poore full text se dobara banayi gayi thi. Purani `book/chapters/ch06.txt` lossy thi — 17,363 shabd; nayi 29,799 ki (16 sub-section headings, jisme chapter ka apna khaali opener bhi hai). Is episode par asar: (1) **S03 ka poora anuvaad-daftar wala hissa** wapas aaya — al-Mansur ka bureau, Greek/Syriac/Zend/Latin/Sanskrit ki fehrist, Syria-Asia Minor-Levant ke math-khaane, Alexandria ke bhage hue vidvaan aur Plato-Aristotle-Ptolemy-Euclid ke naam; (2) **S02-A2 ka poora Chengiz-Hulagu kissah** — 1219 ka march, Bokhara-Samarkand-Herat-Balkh, Kiev, 1227 ki maut, 1258 Hulagu, Cordoba 1236, Granada 1492, Constantinople 1453 — purani copy mein sirf kuch hi lines thi; (3) **S04 ka Firdausi ka adhoora vaakya** (`$26`) ab poora hai ("who later fell out with Mahmud"); (4) **Alberuni ka faisla** (ghamandi, apne gyaan mein magan, "no country like theirs") ab maujood hai — purani copy mein nahi tha. Iske ilawa: purane script ke do hisse ab is episode ke bahar hain (Ghuri/Prithvi Raj, aur Gulbarga-Ahmadnagar-Babar) — dono **Ep 6.2** mein gaye hain.
+- **Source-file caveat (headed offset).** `ch06.txt` mein `## ` heading line asli section-shuru se 14 lines tak door baith sakti hai (heading ek paragraph jaldi chhap jaati hai). Is episode ke teen sub-sections isi tarah mile: "The Flowering of Arab Culture…" ki barhi heading line file ki line 49 par hai (aur uska asli shuru line 39 ke baad wale paragraph se), "Mahmud of Ghazni and the Afghans" ki line 75 par (asli shuru line 71 ke barhi heading paragraph se), aur "Synthesis and Growth of Mixed Culture" ki line 147 par (asli shuru line 141 se, jahan "Moslem invasion" wala paragraph hai). Isi wajah se plan ke shabd-ginti anumanik hain; slicing heading-paragraph se ki gayi hai.
+- **GAPs.** Ek hi khula GAP hai: **S01 "New Problems"** — source mein uske neeche sirf heading aur ek akshar "T" hai (`## New Problems` ke baad `T`, phir `## The Arabs and the Mongols`). Usme se kuch bhi bola nahi gaya; uski jagah ka kaam "Ab tak" karta hai. Ye chapter 6 ka apna khaali opener hai aur chhape hue edition se pehle milana chahiye. Do purane GAP **v2 mein band ho gaye** aur unhe is script se hata diya gaya hai: S05 ka "Sea Power" wala hissa (ab maujood hai; ye Ep 6.2 ke B5 ka vishay hai) aur S04 ka Firdausi `$26` (ab poora hai). Do footnotes ka text maujood hai par unki kitaabein nahi — Tarikh-i-Sorath (Somnath ke baad ki haar) aur Barmak note; inme se jo baat body text mein hai wahi boli gayi hai.
 - **Kitaab mein aur** (T5, bola nahi gaya):
-  - Semitic khandaan ki poori fehrist: Phoenicians, Cretans, Chaldeans, Hebrews (Parts 1 mein sirf Fenikiya, Hebrew aur ek "aur bhi" bola gaya).
-  - Israelites ka apne ko alag kar lena, aur unke aur baaki Semitic logon ke beech ke jhagde — poora cluster.
-  - Arabi mein Farsi ke saath-saath aaye Bharatiya shabdon ki misaalein (book misaal nahi deti).
-  - Kaafile ki tafseel: Arab administrative centres — Damascus aur Baghdad ke beech ka poora safar; Byzantine asar ki poori list.
-  - Sindh ke Baghdad se alag hone ka poora vaakya ("within half a century or so" — Part 7 mein sirf "aadhi sadi ke andar").
-  - Trevelyan ka naam (Part 6 mein "ek angrez itihaaskar"); Peter the Hermit ka naam aur uska poora vakya; Liddell Hart ka naam (Part 6 mein "ek angrez yuddh-vidvaan"); Samani/Shamaism ki poore tafseel aur footnote 1; Mongol campaigns ka poora uddharan; "later called Mughals in India" ke aage ka hissa.
-  - Crusades ka poora uddharan aur 1095 ka saal (Part 6 mein "gyahrahvin sadi ke aakhir mein").
-  - Al Khwarismi ka poora naam aur uska kaam; Omar Khayyam ka poora varnan; Ibn Sina ka poora saar (Avicenna naam nahi bola gaya); Abu Nasr Farabi ka poora varnan; Baghdad ke ilm ke aage ka poora cluster.
-  - Alberuni ka poora uddharan aur uska "poetic description" wala vaakya; Mathura ke baare mein Mahmud ka poora uddharan; Firdausi ka adhoora vaakya (GAP).
-  - Bahmani kingdom ka footnote 4; Idrisi ka poora uddharan aur footnote 5 (ye out-of-scope sub-section se hai, par Mahmud wale hisse mein "Muslim states ke saamne Bharatiya reputation" ka zikr hai — woh is episode mein nahi bola gaya).
-  - "Four/five conquerors" wali list mein Lenin ka poora naam aur Nehru ka varnan (Part 8 mein sirf naam aur saar hai).
-  - South ke raajyaon ke poore naam aur unke aapas ke jhagde: Bahmani ke paanch hisse, unke naamo ke saath; Vijayanagar ke baare mein European yaatriyon ki tareef (ye "Babar & Akbar" wale sub-section se hai, is episode ke bahar).
-  - Ahmadnagar ke khwand: Nizam-ul-Mulk ka poora pad (Bahmani kings ka mantri), 1490 ka saal, Chand Bibi ka "mixed blood" wala vaakya — inme se kuch bole gaye, baaki ki tafseel (jaise Nizam-ul-Mulk ka poora naam aur unke pita Bhairu ka khaata-wala kaam) yahan hai.
-  - "Sea Power" ka gayab hissa — is episode mein kuch nahi bola gaya kyunki text mein hi nahi hai (GAP).
+  - Semitic khandaan ki poori fehrist: Phoenicians, Cretans, Chaldeans, Hebrews (narration mein sirf Fenikiya, Ibrani aur "do-teen aur"). Israelit ka apne ko alag kar lena — narration mein ek line, uski tafseel nahi.
+  - Arabi mein aaye Farsi shabdon ki misaalein (book misaal nahi deti). Byzantine asar ki poori list (sirf "Byzantium se kuch rang mile").
+  - Crusades ka poora date-apparatus (1095 ka saal bhi nahi diya gaya — "gyahrahvin sadi ke aakhir") aur Trevelyan ka poora uddharan; Liddell Hart ka naam; Mongol campaigns ka poora uddharan; Peter the Hermit ka naam.
+  - Mongol shehron ki poori fehrist mein **Balkh** (narration mein Bokhara, Samarkand, Herat) aur Samarkand-Herat ke punarjaagran ki tafseel.
+  - Alexandria ke saare naamo ki poori fehrist (Plotinus aur baaki) — narration mein sirf Plato, Aristotle, Ptolemy, Euclid. Neo-Platonism ka naam bhi nahi liya gaya.
+  - Al Khwarismi ka poora naam aur kaam; Omar Khayyam ka poora varnan; Ibn Sina ka poora saar (unka Europe ka naam "Avicenna" bhi nahi); Abu Nasr Farabi ka poora varnan.
+  - **Ibn Rushd ki doosri raay** — laailaaj logon ko khatam kar dena. Ye narration mein jaan-boojh kar nahi rakhi gayi (plan §3.3: T5); sirf unki auraton wali line aur unki saza ka zikr hai.
+  - Toledo ke Said ka poora uddharan aur uska foot-note. Alberuni ka poora uddharan; Mathura ke baare mein Mahmud ka poora vaakya; Firdausi ki phoot ki wajah-wali tafseel.
+  - Chengiz ke Bauddh/Shamaism wala hissa aur uska footnote (Tibet/Lamaism) — ye **Ep 6.2** ka cluster hai, isliye yahan T5 mein bhi nahi.
+  - Sindh ke Baghdad se alag hone ka poora vaakya ("within half a century or so") — narration ne "aadhi sadi ke andar" rakha hai.
+  - Mahmud ke darbar ke baaki log, aur Somnath ke baad ki haar (Tarikh-i-Sorath footnote ka poora text, jisme ghudsaawar bahaduron ki auraton ka zikr hai) — footnote ka saar bhi nahi bola gaya.
 - **Aam jaankari** (book se bahar, ek baar check kar lena):
-  - Baghdad aaj Iraq mein hai; Damascus aaj Syria mein; Ghazni aaj Afghanistan mein; Samarkand aaj Uzbekistan mein; Bukhara/Khiva aaj Central Asia mein; Cordoba aaj Spain mein; Toledo bhi Spain mein.
+  - Baghdad aaj Iraq mein hai; Damascus aaj Syria mein; Ghazni aaj Afghanistan mein; Samarkand aaj Uzbekistan mein; Khiva/Khwarizm Central Asia mein; Bukhara bhi; Cordoba aur Toledo Spain mein; Granada bhi; Kiev aaj Ukraine mein; Bokhara aur Herat aaj Uzbekistan/Afghanistan mein.
+  - Alexandria Egypt mein; Levant = poorab ki Mediterranean ke kinaare ka ilaaka; Asia Minor = aaj ka Turkey.
   - Canton aaj Guangzhou hai, dakshin China ka ek bandargah.
+  - Ibn Rushd ka Europe wala naam Averroes hai (book khud jodti hai). Firdausi Farsi ke sabse bade shayar maane jaate hain; "Shahnamah" Farsi ka raashtriya mahakavya hai — ye pehchaan book se bahar ki hai.
   - Kathiawar = Gujarat ka wo hissa jo samundar mein nikla hua hai; Somnath wahin hai.
-  - Panipat Delhi ke paas hai (book khud kehti hai).
-  - Chola ek dakshin-Bharatiya samundari raajvansh tha; Rashtrakuta pashchim Bharat (Dekkan/pashchim kinaare) ka raajvansh; Srivijaya Java aur Sumatra ka raajya tha (book khud "Srivijaya in Java and Sumatra" kehti hai).
-  - Vijayanagar aaj Karnataka mein tha; Gulbarga bhi wahin.
-  - "Sikander" = Alexander (book khud koshthak mein "Alexander" likhti hai).
-  - Parsi = Zoroastrian (book dono naam use karti hai: "Zoroastrians… come to India from Iran").
-  - Ibn Batuta ki aam spelling "Ibn Battuta" hai; script mein book wali spelling rakhi gayi hai.
-  - Tulsidas, Kabir, Guru Nanak, Amir Khusrau, Sher Shah, Akbar, Aurangzeb wale sab hisse is episode se bahar hain (Ep 6.2/6.3).
-  - Outro ka barsaat/jhoole wala drishya book ke "Amir Khusrau" wale paragraph se hai (wo paragraph Ep 6.2 ka hai) — isliye yahan sirf ishara hai, geet ka naam nahi liya gaya.
+  - Chola ek dakshin-Bharatiya samundari raajvansh tha; Rashtrakuta pashchim Bharat ka raajvansh; Srivijaya Java aur Sumatra ka raajya (book khud kehti hai).
+  - "Renaissance" ka matlab yahan Europe ka punarjaagran hai; narration ne ise sirf ek naam ki tarah rakha hai.
+  - Zoroastrian = Parsi (book dono naam use karti hai). Nestorian ek Isai sampraday tha, jiska markaz Syria/Fars mein tha.
+  - "Mughal" Mongol ka hi lafz hai (Farsi/Arabi uchchaaran) — narration isi ko khud samjha deti hai.
   - "Aaj ke hisaab se" ka poora hissa humari baat hai, book ki nahi.
 - **Kalpana** (mahaul, book ke tathya nahi):
-  - Cold open ke saare sound cues (aangan ki hawa, patthar ke farsh par kadam, khidki, oont ke qadam, tanpura) aur uski raat ka mahaul. Book sirf itna kehti hai: Harun-al-Rashid ki beemari mein Manak ko Bharat se bulaya gaya, wo Baghdad mein bas gaya, aur ek bade aspataal ka mukhiya bana.
+  - Cold open ke saare sound cues (aangan ki sookhi hawa, patthar ke farsh par kadam, khidki, oont ke qadam, tanpura) aur uski raat ka mahaul. Book sirf itna kehti hai: Harun-al-Rashid ki beemari mein Manak ko Bharat se bulaya gaya, wo Baghdad mein bas gaya, aur ek bade aspataal ka mukhiya bana.
   - Manak ke saamaan ka varnan (pothiyan, sookhi jadiyan, pittal ka daba) aur hafton ka safar — ye tasveerein humari hain.
-  - Part 3 ki mandir-ghanti aur azaan ka joda (book sirf kehti hai ki maszidein bani aur koi virodh nahi hua).
-  - Part 4 ka "diye ki roshni, mez par pothiyan, anuvaad karte log" wala drishya.
-  - Part 10 ka "Brahmin munshi ke khaate ki kitab" wala roop (book sirf ek naam aur rishta batati hai).
-  - Part 7 ki ghudsaari (optional cue).
-  - Part 2 ka "ek aag, aur ek farsh" wala joda — ye Arab josh aur Irani nafasat ki tulna ka humara roop hai.
-  - Outro ka gaon, jhoole aur gaon ki auratein — book ke Khusrau paragraph ki baat ko humne drishya bana diya, par us episode se pehle sirf ishara hai.
-- **Pichhle episode ka seam:** Ep 5.7 (jab likha jaaye) ke Outro se judna hai — method doc kehta hai 5.7 → 6.1 ka seam "Indian numbers reach Baghdad as Hindsa" hai. Ep 5.7 abhi repo mein nahi hai, isliye Ab tak usi baat ko halke shabdon mein uthata hai ("is desh ke vichaar, ankde aur hunar pahaad aur samundar paar kaise gaye"). Ep 5.7 likhne par ye line milaa deni chahiye.
+  - B1 ka kaafila aur buzurg aadmi ki nazm — book sirf itna kehti hai ki Arabi Paigambar ke zamane mein khadi hui bhaasha thi aur usme Farsi aur kuch Bharatiya shabd the, aur Arabi shayari ka purana daur tha.
+  - B3 ka "ghudsawaar nadi par ruk jaata hai" wala drishya — book kehti hai ki 712 mein Arab Sindh pahunche aur wahin ruke; ek ghode par baithe aadmi ka nazaara humara hai.
+  - B3 ki mandir-ghanti aur azaan ka joda (book sirf kehti hai ki maszidein bani aur koi virodh nahi hua).
+  - B4 ka "diye ki roshni, mez par pothiyan, anuvaad karte log" wala drishya; "math-khaane khol diye gaye" wala dhang (book kehti hai ki manuscripts ke liye purane monasteries khoje gaye).
+  - B5 ki "munshi ki pothi" aur uske do khaane — hisaab ka roop humara hai (book kehti hai ki pehal Arabon ki thi aur Indians ne kam seekha).
+  - B6 ka "aadmi khada hokar masjid ke bahar ye baat kehta hai" wala drishya (book kehti hai ki Baghdad mein aisi behes ki poori chhoot thi).
+  - B7 ka "dhool ke pahaad ki tarah" wala roop; "takte ghar mein sab bhaagte hain" wali line.
+  - B8 ki ghudsaari (cue) aur "uske bete-pote aage badhte hain" wala jodne wala vaakya.
+  - B9 ka "bina talwar ke ek shehar ne hara diya" wala roop (book sirf Mahmud ke shabd deti hai).
+  - Outro ka 160 saal ka sannata aur "gaddi ki taraf badha" — book kehti hai ki Mahmud ke baad 160 saal tak koi hamla nahi hua, phir ek Afghan aaya; uske safar ka kram humara hai.
+- **Pichhla seam:** Ep 5.9 ("Shunya, aur phir dopahar") ka Outro Hindsa ke Baghdad par khatam hota hai; "Ab tak" usi baat ko uthata hai. Jo mile nahi, use yahan milaa dena chahiye.
+- **Aage ka seam:** Ep 6.2 ("Khusrau ke jhoole") ka cold open barsaat, jhoole aur chhe sau saal purane geet par hai, aur uska carrying question "Raja badalte rahe — aam zindagi kyun nahi badli?" hai. Isliye is episode ke Outro mein Khusrau ka naam nahi liya gaya; sirf "premi raja" wali kahani ka ishara hai, jo 6.2 ke B2 mein khulti hai. **Cliffhanger par ek chhota badlaav:** plan §2.1 ka hook kehta hai "Dilli ki gaddi khaali mili", par source saaf likhta hai ki us Afghan ko pehle Dilli ke raja ne buri tarah hara diya aur agle saal wo lauta. Isliye narration "Dilli ki gaddi ki taraf badha" kehti hai — hook ka baaki hissa (160 saal, Afghan, premi raja) waisa hi hai.
 
 ## Writer's check (recording se pehle hata dena)
 
-**Phase A — fact ledger (R1).** Chapter 6 ke sub-sections: S01 "New Problems" (repo mein khaali, **GAP**), **S02 "The Arabs and the Mongols"**, **S03 "The Flowering of Arab Culture and Contacts with India"**, **S04 "Mahmud of Ghazni and the Afghans"**, **S05 "The Indo-Afghans : South India : Vijayanagar : Babar : Sea Power"**, **S06 "Synthesis and Growth of Mixed Culture…" (sirf pehla paragraph)**, S07 "The Indian Social Structure" (6.2), S08 "Village Self-Government" (6.2), S09 "The Theory and Practice of Caste" (6.2), S10 "Babar and Akbar" (6.3), S11 "The Contrast between Asia and Europe" (6.3), S12 "Development of a Common Culture" (6.3), S13 "Aurungzeb Puts the Clock Back" (6.3), S14 "The Marathas and the British" (6.4), S15 "The Backwardness of India" (6.4), S16 "Ranjit Singh and Jai Singh" (6.4), S17 "The Economic Background : The Two Englands" (6.4).
+**Fact ledger (atom IDs; ch06 = chapter 6; F = familiar, U = unfamiliar).** Bole gaye U atoms hi gine gaye hain.
 
-Atoms (cluster-wise, chhota roop):
-- **S02:** Jahiliyat ka naam aur uska khandan (C); Semitic ateet — Fenikiya, Cretans, Chaldeans, Hebrew; Israelites ka alag hona; Yemen (N); Arabi ka vikas, Farsi aur Bharatiya shabd (D/N); samundari vyapaar, Canton ki basti (N); Paigambar se jaan aur josh (C); nayi baat ka jhanda, qaum ka bharosa (C); Pashchim/Madhya Asia aur North Africa ke deshon ka girna (C); North Africa ke Isai giroh ka jhagda, tang-dil Isaiyat (C); Arabon ki sahansheelta, bhai-chaare ka sandesh → logon ka aana (C); Damascus/Arab-Syrian, Byzantium (N); Baghdad/Arab-Irani (N); do srot — Arab josh, Irani nafasat (C); Sindh tak aana, aage nahi (D: 712); Bharat ka mazboot hona (C); Arabon ki khalbali, Sindh ka alag hona (C); doot, yaatri (C); ganit-jyotish ki pothiyan Baghdad, Arabi anuvaad (C/D); vaidya Baghdad gaye (C); Rashtrakuta aur dakshin ka vyapaar (N); Islam ko jaanna, prabodhak aaye, maszidein bani (C); na raajya na praja ka aitraaz, purani sahansheelta (C); **Islam dharm ban kar sadiyon pehle, raajnaitik taaqat ban kar der se** (C — spine); bahudharm Bharat: Bauddh/Jain phike aur sokhe hue, Isai aur Ibrani dharm pehli sadi, Syrian Isai/Nestorian, Yahudi, Parsi saatvin sadi, pashchim kinaare aur uttar-pashchim ke Musalmaan (C/N); Crusades 1095, dedh sau saal (D); Trevelyan ka saar (Q→gist); Mongol yuddh-vidya (C); Liddell Hart ka saar (Q→gist); Chengiz sabse bade senapati (C); Europe ka bachav ittefaq (C); Europe ne sabak seekhe, baarood China se (C); Mongol Sindhu par ruke, Bharat nahi aaye (C); Chengiz Musalmaan nahi, aasmaan ka dharm, Samani/Shravana, Mongolia ka bigda Bauddh roop (C/N); "sabse bada vijeta shayad Bauddh" (C); samrajya dhalne par chhote raajya (C); Timur 1369, Samarkand (D/N); vaaris aaram aur kala (C); Timuri punarjaagran (C); Babar ka bachpan (N); char/paanch vijeta: Sikander, Mahmud, Chengiz, Timur + Lenin (L/C).
-- **S03:** empire sambhalna, naye desh, duniya jaanne ki chah (C); 8th-9th sadi ki jigyasa, tark, vigyaan (C); Harun-al-Rashid aur al-Mamun (N); Baghdad sabse bada ilm-kendra (C); Barmak parivaar/Barmecides, vazir, shayad Bauddh (N); Manak ki bulawa, aspataal ka mukhiya (A — cold open); chhe aur Bharatiya vaidya (D); Al Khwarismi 9th sadi (N); Omar Khayyam 12th sadi (N); Arab vaidya-surgeon mashhoor (C); Ibn Sina Bokhara, "vaidyon ka shahzada", 1037 (N/D); Abu Nasr Farabi (N); tark se agnosticism aur scepticism (C); Baghdad ka patan, Turk taaqat, jigyasa kam (C); Arab Spain mein jigyasa zinda (C); Ibn Rushd/Averroes 12th sadi (N); "dharm bachchon ya bewakoofon ke liye…" (Q→gist, sandeh ke saath); apni raay ki keemat (C); auraton ka saarvajanik hissa (C); laailaaj logon ko khatam karne ki raay (C); Spain sabse aage, Cordoba ke vidvaan Paris tak (C); Said of Toledo ka Europeans wala varnan (Q→gist); Turkey ke dabdaab mein Baghdad phika, Chengiz ne khatam kiya (C); sau saal baad Samarkand-Herat mein kala, tark nahi (C); Islam sakht dharm, talwar ke liye theek (C); thekedaar ab Turk, Mongol (Mughal), afghan (C).
-- **S04:** 712 Sindh, wahin rukna (D); aadhi sadi mein alag, chhota raajya (D); teen sau saal shaanti (D); ~1000 Mahmud, Turk (D/N); bahut hamle, khoon, khazana (C); Alberuni (Khiva) ka saar (Q→gist); sirf uttar Bharat ka hissa, march routes (C); Madhya/Poorab/Dakshin bache (C); Chola samrajya, sea routes, Srivijaya Java-Sumatra (N); poorab ke samundar mein Bharatiya bastiyan, samundari taaqat bati (C); samundar ne uttar ko nahi bachaya (C); Punjab aur Sindh milaye, har baar Ghazni wapsi (C); Kashmir ne ruka (C); Somnath se lautte hue Rajputana mein hara, aakhri hamla (A); sipahi > dharm ka aadmi, dharm ka istemaal (C); Bharat = khazane ki jagah (C); Tilak ki fauj, Hindu senapati, apne hum-mazhabon ke khilaaf (A/N); Ghazni ko bada shehar banana, kaarigar aur raajmistri (C); Mathura ka varnan (Q→gist); Firdausi aur Shahnamah (**GAP**); raajnaitik asar seemit, Bharat ka dil chhua nahi (C); uttar ki kamzori dikhi, Alberuni se bikharav ka pata (C); 300 saal shaanti se aaya Islam, ab talwar ke saath, kadwahat (C — spine); naye dharm se aitraaz nahi, zabardasti se aitraaz (C — spine); Punjab ka hukmaraan banne par narmi, Hindu oonche pad, sirf shuruaat (C); 1030 maut (D); Shahab-ud-Din Ghuri, Ghazni, Lahore, Delhi (N); Prithvi Raj ki jeet (N); agle saal wapsi, 1192 Delhi ki gaddi (D); Prithvi Raj ka prem — Jaichandra, Kanauj, rajvansh, dushmani, bahaduron ki maut, jaan aur gaddi (A); geet aaj bhi, Jaichandra gaddaar (C); Delhi ka girna poore Bharat ka nahi, Chola azaad, dedh sau saal (C); Delhi naye daur ka nishaan (C); Afghanon ka sokhna: Delhi rajdhani, Ghazni nahi, Afghanistan kinaara (C); tez Indianization, yahan ki auraton se shaadi (C); Alauddin Khilji aur bete ka byaah (A); Turk raja — Qutb-ud-Din Aibak, Razia, Iltutmish — par amir aur fauj Afghan (N); Delhi phalta hua, Ibn Batuta ka "duniya ke sabse bade shehron mein se ek" (Q→gist/N); chaudahvin sadi ke ant mein Timur, kuch mahine, khopdiyon ke dher, Delhi murdon ka shehar (A); sirf Punjab aur Delhi, saalon mein uthi, samraajya toota (C); malbe se dakshin mein raajya (C).
-- **S05:** Engrezi paragraph (out of scope, **misplaced**); Afghan narmi, Delhi rajdhani, Indianization (C) — S04 se overlap, dono ek hi beat par; Gulbarga/Bahmani aur Vijayanagar chaudahvin sadi ki shuruaat (N); Gulbarga paanch hisson mein, ek Ahmadnagar (N); Ahmadnagar 1490, Ahmad Nizam Shah, Nizam-ul-Mulk Bhairi, Brahmin munshi Bhairu (N/D); vansh mitti ka, Chand Bibi ka mila-jula khoon (C); dakshin ke saare Musalmaan raajya mitti ke (C); Panipat 1526, Babar Turco-Mongol Timurid, Mughal raajvansh ki shuruaat (D/N); **Sea Power GAP**.
-- **S06 (pehla para):** "Musalmaan hamla"/"Musalmaan kaal" kehna galat aur bhatkaata (C — key verdict); Angrezon ka "Isai hamla"/"Isai daur" wali tulna (C); Islam ne hamla nahi kiya, sadiyon pehle aa gaya (C — spine); hamle: Turki (Mahmud), Afghan, Turco-Mongol/Mughal; aakhri do zyada ahem (C); Afghan = seema ka Bharatiya samooh, "Indo-Afghan" (C); Mughal bahri par tezi se fit, "Indo-Mughal" (C).
+| Atom | Type | F/U | Kahan |
+| --- | --- | --- | --- |
+| 06-S03-01 Harun-al-Rashid beemar; Manak bulaya gaya; Baghdad mein bas gaya; bade aspataal ka mukhiya | A | U | Cold open + B4 |
+| 06-S02-01 jahiliyat ka naam aur Nehru ka aitraaz | C | U | B1 |
+| 06-S02-02 Semitic ateet (Fenikiya, Ibrani, "do-teen aur"); jhagde par saajha pichha | N | U | B1 |
+| 06-S02-03 Yemen; Arabi khadi hui bhaasha; Farsi aur Bharatiya shabd | N/C | U | B1 |
+| 06-S02-04 samundari vyapaar; Canton ki Arab basti | N | U | B1 |
+| 06-S02-05 Paigambar se jaan aur josh; nayi baat ka jhanda; qaum itihaas ko hilaa deti hai | C | F | B2 |
+| 06-S02-06 Pashchim/Madhya Asia aur North Africa ke deshon ka girna | C | U | B2 |
+| 06-S02-07 North Africa ke Isai giroh ka jhagda; tang-dil Isaiyat vs Arab sahansheelta; logon ka aa jaana | C | U | B2 |
+| 06-S02-08 Damascus/Arab-Syrian; Byzantium; Baghdad/Arab-Irani | N | U | B2 |
+| 06-S02-09 "Islami sabhyata" par aitraaz; do srot (josh + nafasat) | C | U | B2 |
+| 06-S02-10 712 Sindh; wahin rukna; Bharat ka mazboot hona; Arab khalbali; Sindh ka alag hona | D/C | U | B3 |
+| 06-S02-11 yaatri aur doot; ganit-jyotish ki pothiyan Baghdad; anuvaad; vaidya | C/D | U | B3 |
+| 06-S02-12 Rashtrakuta aur dakshin ka vyapaar | N | U | B3 |
+| 06-S02-13 prabodhak aaye; maszidein bani; na raajya na praja ka aitraaz; purani sahansheelta | C | F | B3 |
+| 06-S02-14 **Islam dharm ban kar sadiyon pehle, raajnaitik taaqat ban kar der se** (spine) | C | F | B3 |
+| 06-S02-15 bahudharm Bharat: Bauddh/Jain sokhe, Isai aur Ibrani pehli sadi, Syrian Isai/Nestorian, Yahudi, Parsi satvin sadi, pashchim/uttar-pashchim ke Musalmaan | C/N | U | B3 |
+| 06-S03-02 empire sambhalna; jigyasa; tark; vigyaan; al-Mansur ka anuvaad daftar (Yunani, Syriac, Zend, Latin, Sanskrit) | C | U | B4 |
+| 06-S03-03 Alexandria ke school band, vidvaan bhage; Plato, Aristotle, Ptolemy, Euclid; Nestorian aur Yahudi vidvaan | C/N | U | B4 |
+| 06-S03-04 Harun-al-Rashid aur al-Mamun; Baghdad sabse bada ilm-kendra; Barmak parivaar, vazir, shayad Bauddh | N | U | B4 |
+| 06-S03-05 chhe aur Bharatiya vaidya; Al Khwarismi; Omar Khayyam; Ibn Sina 1037; Farabi | N/D | U | B4 |
+| 06-S03-06 pehal Arabon ki; humne kam liya; ghamand aur khol; thakta mann; apnapan | C | U | B5 |
+| 06-S03-07 tark aur imaan ka khula jhagda; sifaat wali behes (daadhi wala jumla); tark → agnosticism/scepticism | C | U | B6 |
+| 06-S03-08 Baghdad ki taaqat ka dhalna, Turk raaj, jigyasa simatna; Spain mein zinda rehna | C | U | B6 |
+| 06-S03-09 Ibn Rushd/Averroes; dharmon par unki raay (sandeh ke saath); saza; auraton ka saarvajanik hissa | Q/C | U | B6 |
+| 06-S03-10 Spain sabse aage; Cordoba ke vidvaan Paris tak; Toledo ke Said ka Europeans wala varnan | Q | U | B6 |
+| 06-S02-16 Crusades (gyahrahvin sadi ke aakhir, dedh sau saal); "ek angrez itihaaskar" ka saar (Trevelyan → T5) | D/Q | U | B7 |
+| 06-S02-17 Chengiz 1219 se; Bokhara-Samarkand-Herat raakh; Kiev; 1227 ki maut; Baghdad bacha | D/C | U | B7 |
+| 06-S02-18 Mongol yuddh-kala; "ek angrez yuddh-vidvaan" (Liddell Hart → T5); Europe ka bachav ittefaq; sabak; baarood China se | C/Q | U | B7 |
+| 06-S02-19 1258 Hulagu, paanch sau saal ka khazana; vidvaan Cairo/Spain; Cordoba 1236; Granada 1492; Constantinople 1453 | D | U | B7 |
+| 06-S03-11 Samarkand-Herat mein kala lauti, tark nahi; Islam sakht dharm; thekedaar Turk, Mughal, Afghan | C | U | B7 |
+| 06-S04-01 712 Sindh, wahin rukna; aadhi sadi mein alag; teen sau saal shaanti | D | U | B8 |
+| 06-S04-02 ~1000 Mahmud, Turk; bahut hamle; khoon; khazana | C/D | U | B8 |
+| 06-S04-03 Alberuni (Khiva) ka saar; dhool ke zarre | Q | U | B8 |
+| 06-S04-04 sirf uttar Bharat; Madhya/Poorab/Dakshin bache; Chola; Srivijaya; samundari taaqat bati; samundar ne nahi bachaya | C | U | B8 |
+| 06-S04-05 Punjab-Sindh milaye; har baar Ghazni wapsi; Kashmir; Somnath ke baad Rajputana mein haar; aakhri hamla | C | F | B8 |
+| 06-S04-06 Mahmud sipahi > dharm ka aadmi; dharm ka istemaal; Bharat = khazana | C | F | B9 |
+| 06-S04-07 Tilak ki fauj (Hindu senapati) apne hum-mazhabon ke khilaaf | A/N | U | B9 |
+| 06-S04-08 Ghazni ko bada shehar banana; kaarigar-raajmistri; Mathura ka vakya | C/Q | U | B9 |
+| 06-S04-09 Firdausi aur "Shahnamah"; phoot (tafseel T5) | N | U | B9 |
+| 06-S04-10 Alberuni Kashmir mein Sanskrit; unka faisla (ghamandi, apne gyaan mein magan) | Q | U | B9 |
+| 06-S04-11 raajnaitik asar seemit; dil nahi chhua; uttar ki kamzori dikhi | C | F | B9 |
+| 06-S04-12 300 saal shaanti se, ab talwar ke saath; kadwahat; dharm par aitraaz nahi, zabardasti par aitraaz | C | F | B9 |
+| 06-S04-13 Punjab ka hukmaraan banne par narmi; Hindu oonche pad; sirf shuruaat; 1030 maut | C/D | F | B9 |
+| 06-S06a-01 "Musalmaan hamla"/"Musalmaan kaal" galat aur bhatkaata; Angrezon wali tulna | C | F | B10 |
+| 06-S06a-02 Islam ne hamla nahi kiya; teen asli hamle (Turki, Afghan, Turco-Mongol/Mughal); aakhri do ahem | C | F | B10 |
+| 06-S06a-03 Afghan = seema ka Bharatiya samooh; "Indo-Afghan" | C | U | B10 |
+| 06-S06a-04 Mughal bahri par tezi se fit; "Indo-Mughal"; mitti ka naam | C | U | B10 |
 
-**F/U tagging.** F atoms (2030s sunne wale ko pehle se pata): Arab, Arabi, Farsi, samundar, registan, oont, Isai, Yahudi, Parsi, masjid, Hindu, Muslim, talwar, fauj, khazana, Delhi, Punjab, Kashmir, Somnath, Kathiawar, Rajasthan, China, Sri Lanka/nahi, Bengal/nahi, Alexander/Sikander, Lenin, Punjab, Hindi. Baaki sab N aur D U hain (chhota roop Sources ke "Kitaab mein aur" mein).
+**U-budget.** Sheet ka planned U ~48; draft ka measured count **~50 U atoms** (cold open 3, B1 4, B2 5, B3 5, B4 8, B5 1, B6 5, B7 8, B8 4, B9 4, B10 3, Aaj/Outro 0) — cap 55 ke andar. Kisi bhi 160-shabd ke hisse mein 3 se zyada naya U nahi: sabse ghana hissa B4 ka doosra aadha (Al Khwarismi, Omar Khayyam, Ibn Sina, Farabi) aur B7 ka Mongol hissa (Chengiz, Hulagu, Bokhara, Samarkand, Herat, Granada, Constantinople) hai; dono jagah naam ek-ek karke anchor ke saath aate hain, aur B4 mein Plato-Aristotle-Ptolemy-Euclid ko F maana gaya hai. **Balkh** aur Alexandria ke baaki naam T5 mein bheje gaye, taaki B7 aur B4 apni chhat ke andar rahein.
 
-**Phase B — spine (R3/R4).** Carrying question: "Islam Bharat mein pehle kaise aaya, aur baad mein kaise — aur dono mein fark kya tha?" Spine type: **Pair** — ek hi dharm ke do aagman (mehmaan / hamlavar). Recurring image: **khula darwaza** (cold open: Manak ke liye khula darwaza; Part 10: wahi darwaza toota hua). Set ka sawal: "Jis desh ke paas duniya ke behtareen kaarigar the, wo nayi duniya ki daud mein peeche kyun reh gaya?" — is episode ka hissa: jab Baghdad ki jigyasa ka darwaza khula tha, humne bahut diya aur bahut kam liya (Part 5), yahi aage ke teen episodes ka dhaaga hai.
+**Beat list (narration shabd; headings aur `[SFX]` lines chhod kar, script se gina gaya).** Cold open + ident 348 · Ab tak 80 · B1 393 · B2 448 · B3 542 · B4 435 · B5 367 · B6 446 · B7 494 · B8 402 · B9 499 · B10 394 · Aaj ke hisaab se 191 · Outro 107 · **Kul 5,146** (cap 5,200; sheet ka target 5,000). Sabse lamba beat B3 (542) hai — sheet ka 440 se upar, kyunki 712 se lekar bahudharm Bharat tak ka poora cluster ek hi baans mein aata hai; sabse chhota B5 (367) — hisaab wala beat chhota hi achha lagta hai. Baaki sab 390–499 ke andar. **NEEDS SPLIT: no.** Beat titles plan §2.1 ke B1–B10 se liye gaye hain; B3 ka naam ("Sindh, aur uske aage band raasta") wahi rakha gaya hai, chahe beat ka pehla aadha 712 ke ghudsawaar se shuru hota hai.
 
-**Phase C — budget (R6).** Narration: 4,894 shabd (target 4,200-5,000; 30-31 minute). Beats: 10, har ek 253-531 shabd — R13 ke 8-11 ke andar aur 250-650 ki hadd ke andar. U atoms ~55 (≤75). Dates: 1 per beat jahan beat usi date ka ho — Part 4: 1037; Part 7: 712 + "hazaar saal ke aas-paas"; Part 8: 1030; Part 9: 1192; Part 10: 1490, 1526 (Part 10 ka beat nahi date ka hai, do saal usi kahani ke do mod hain). Aaj-bridges: 1 inline (Part 5) + "Aaj ke hisaab se" (196 shabd).
+**R14 coverage checklist (§2.6 format).**
 
-**Phase D — split points (R10).** Andar ke turns: P3 ke baad (dharm se shehar ki taraf, hook: "Baghdad"), P5 ke baad (ek daur ke ant se bahar ki duniya ki taraf), P6 ke baad (bahar ki duniya se Bharat ki taraf, hook: Babar ka bacha), P8 ke baad (Mahmud se uske baad ke logon ki taraf). Kahin bhi anecdote, tark-verdict, ya quote-apna jawab nahi toota. Seam (Outro): Ep 6.2 ka cold open barsaat/jhoole/Khusrau par hai, aur carrying question "Raja badalte rahe — aam zindagi kyun nahi badli?" hai; Outro wahin khatam hota hai. Pichhle seam ke liye Sources dekhiye (Ep 5.7 abhi nahi likha).
+| ID | Sub-section | Fact cluster | Beat | Tier | ✔ |
+| --- | --- | --- | --- | --- | --- |
+| S01 | New Problems | source mein sirf heading + ek akshar "T" — **GAP**; kuch nahi bola gaya | — | — | [x] |
+| S02-A1 | The Arabs and the Mongols | jahiliyat ka naam aur us par aitraaz; Semitic ateet; Yemen; Arabi ka vikas; samundari vyapaar; Canton | B1 | T2 | [x] |
+| S02-A1 | | Paigambar se jaan aur josh; nayi baat ka jhanda; girte desh; North Africa ke Isai giroh; tang-dil Isaiyat vs sahansheelta | B2 | T1/T2 | [x] |
+| S02-A1 | | sanskriti ka badalna; Arab-Syrian (Damascus, Byzantium); Arab-Irani (Baghdad); do srot; "Islami sabhyata" par aitraaz | B2 | T2 | [x] |
+| S02-A1 | | 712 Sindh; aage nahi; Bharat ka mazboot hona; Arab khalbali; Sindh ka alag hona | B3 | T2 | [x] |
+| S02-A1 | | yaatri-doot; ganit-jyotish ki pothiyan; anuvaad; vaidya; Rashtrakuta | B3 | T1/T2 | [x] |
+| S02-A1 | | prabodhak, maszidein, na raajya na praja ka aitraaz, purani sahansheelta | B3 | T1/T2 | [x] |
+| S02-A1 | | **Islam dharm ban kar sadiyon pehle, raajnaitik taaqat ban kar der se** (spine) | B3 | T2 | [x] |
+| S02-A1 | | bahudharm Bharat: Bauddh/Jain sokhe; Isai aur Ibrani pehli sadi; Syrian Isai, Nestorian, Yahudi, Parsi; pashchim ke Musalmaan | B3 | T1/T2 | [x] |
+| S02-A2 | | Crusades (shuru, lambai); Trevelyan ka saar (naam T5); Cross-Crescent se aage | B7 | T2 | [x] |
+| S02-A2 | | Chengiz 1155/1219-1227; Bokhara-Samarkand-Herat; Kiev; Baghdad ka bachav (Balkh → T5) | B7 | T1/T2 | [x] |
+| S02-A2 | | Mongol yuddh-kala (Liddell Hart ka saar, naam T5); Chengiz ka darja; Europe ka bachav; sabak; baarood China se | B7 | T2 | [x] |
+| S02-A2 | | 1258 Hulagu; paanch sau saal ka khazana; vidvaan Cairo/Spain; Cordoba 1236; Granada 1492; Constantinople 1453 | B7 | T1/T2 | [x] |
+| S02-A2 | | Islam ka sakht hona; Samarkand-Herat mein kala par tark nahi; thekedaar Turk/Mongol (Mughal)/Afghan | B7 | T2 | [x] |
+| S02-A3 | | Mongol Sindhu par rukna; 1369 Timur; Chengiz ka dharm; chaar vijeta + Lenin | — | — | **→ 6.2-B4 (T6)** |
+| S03 | The Flowering of Arab Culture | jeet ke baad doosri tarah ki jeet; jigyasa; tark; vigyaan | B4 | T1/T2 | [x] |
+| S03 | | al-Mansur ka anuvaad daftar (Greek, Syriac, Zend, Latin, Sanskrit); math-khaane | B4 | T2 | [x] |
+| S03 | | Alexandria ke bhage vidvaan; Plato, Aristotle, Ptolemy, Euclid; Nestorian aur Yahudi vidvaan; Bharatiya vaidya | B4 | T1/T2 | [x] |
+| S03 | | Harun-al-Rashid aur al-Mamun; Baghdad ka ilm-kendra; Barmak parivaar; Manak ka hisaab chukana; chhe Bharatiya vaidya | Cold open + B4 | T1/T2 | [x] |
+| S03 | | ganit-khagol (Al Khwarismi, Omar Khayyam); Arab chikitsa (Ibn Sina 1037); Farabi | B4 | T2 | [x] |
+| S03 | | pehal Arabon ki; humne kam liya; ghamand aur khol; thakte mann ko jagane wala mahaul; apnapan | B5 | T1/T2 | [x] |
+| S03 | | tark aur imaan ka khula jhagda; sifaat wali behes; tark → agnosticism aur scepticism; Baghdad ka dhalna | B6 | T1/T2 | [x] |
+| S03 | | Spain mein jigyasa zinda; Ibn Rushd (unki raay, saza, auraton ka hissa); Cordoba; Toledo ka Said | B6 | T1/T2 | [x] |
+| S04-M | Mahmud of Ghazni | 712 recap; wahin rukna; aadhi sadi mein alag; teen sau saal shaanti | B8 | T2 | [x] |
+| S04-M | | ~1000 Mahmud, Turk; bahut hamle; khoon; khazana; Alberuni ka saar | B8 | T1/T2 | [x] |
+| S04-M | | sirf uttar Bharat; Madhya/Poorab/Dakshin bache; Chola, Srivijaya, samundari taaqat bati; samundar ne nahi bachaya | B8 | T2 | [x] |
+| S04-M | | Punjab-Sindh milaye; har baar Ghazni wapsi; Kashmir; Somnath ke baad Rajputana mein haar; aakhri hamla | B8 | T1/T2 | [x] |
+| S04-M | | sipahi > dharm ka aadmi; Bharat = khazana; Tilak ki fauj; Ghazni ko bada shehar; Mathura | B9 | T1/T2 | [x] |
+| S04-M | | Firdausi aur "Shahnamah" (phoot ki tafseel T5); Alberuni Kashmir mein; Alberuni ka faisla | B9 | T1/T2 | [x] |
+| S04-M | | raajnaitik asar seemit; kamzori dikhi; 300 saal shaanti tooti; kadwahat; narmi aur Hindu oonche pad; 1030 | B9 | T1/T2 | [x] |
+| S04-G | Mahmud of Ghazni | Ghuri; Prithvi Raj ki jeet aur 1192; prem ka kissah; Delhi ka nishaan | — | — | **→ 6.2-B2 (T6)** |
+| S05 | The Indo-Afghans… Sea Power | poora sub-section (Indo-Afghan, pashto, Khilji, Ibn Batuta, Timur, Gulbarga, Vijayanagar, Babar, sea power) aur `S05-E1` (Angrezi paragraph) | — | — | **→ 6.2 aur 6.5-B8 (T6)** |
+| S06a | Synthesis (pehla para) | "Musalmaan hamla/kaal" galat aur bhatkaata; Angrezon wali tulna; Islam ne hamla nahi kiya | B10 | T2 | [x] |
+| S06a | | teen asli hamle (Turki, Afghan, Turco-Mongol/Mughal); aakhri do ahem; Indo-Afghan; Indo-Mughal | B10 | T2 | [x] |
+| S06-B/D/E, S06-C | Synthesis (baaki) | Idrisi, admixture, purdah, Kabir, Guru Nanak, Khusrau | — | — | **→ 6.2 aur 6.3-B1 (T6)** |
 
-**Phase E — hook chain (R15).** Ye log anjaan nahi the, to aag kahan se aayi? → talwar ka kaam nahi tha, to kya tha? → ye lehar ka naam kya hai, aur Bharat tak pahunchi kaise? → talwar ruki, to kis raaste par rishta chala? → naya dharm aayega, to use rokega kaun? → ye darwaza kisne khula rakha? → to hisaab barabar kyun nahi tha? → roshni kab bujhi? → kaun si do leharein Bharat se hokar nahi gayin? → Mahmud ne asal mein kiya kya? → us hamle ka asar kya hua? → Delhi ka girna poore Bharat ka girna tha? → payoff: mehmaan ban kar aaya, hamlavar ban kar aaya — aur aam zindagi kyun nahi badli? (→ 6.2).
+Zero blank clusters is episode mein: S01 ek **GAP** hai (source mein uski body nahi hai), aur teen clusters **T6** hain — S02-A3 → 6.2-B4, S04-G → 6.2-B2, S05 (aur usme chhipa `S05-E1`) → 6.2 aur 6.5-B8, S06 ka baaki hissa → 6.2/6.3. T5 mein sirf naam, list tail, poore ankde aur kitaabon ke naam gaye (20 atoms se kam); koi C-type claim, koi A-type kissah, aur koi Q-with-jawab T5 mein nahi gaya.
 
-**Phase E — U count per part (R16).** CO 3 (Harun-al-Rashid, Manak, Baghdad) · P1 4 (Jahiliyat, Semitic, Yemen, Canton) · P2 6 (North Africa, Pashchim Asia, Damascus, Byzantium, Arab-Syrian, Arab-Irani) · P3 7 (Sindh, Rashtrakuta, Nestorian, Syrian Isai, Zoroastrian, Ibrani, Arabi-anuvaad) · P4 6 (al-Mamun, Barmak, Al Khwarismi, Omar Khayyam, Ibn Sina, Farabi) · P5 4 (Ibn Rushd, Averroes, Cordoba, Toledo) · P6 6 (Chengiz, Crusades, Liddell Hart, Samarkand, Herat, Timur) · P7 5 (Mahmud, Alberuni, Khiva, Chola, Srivijaya) · P8 4 (Firdausi, Shahnamah, Tilak, Lenin) · P9 10 (Ghuri, Prithvi Raj, Jaichandra, Kanauj, Alauddin Khilji, Qutb-ud-Din Aibak, Razia, Iltutmish, Ibn Batuta, Timur) · P10 8 (Gulbarga, Vijayanagar, Ahmadnagar, Nizam-ul-Mulk Bhairi, Bhairu, Chand Bibi, Babar, Panipat) · **kul ~55** (≤75). Har part apne shabd/160 × 3 ki chhat ke andar, sirf P9/P10 seema par hain (532 aur 499 shabd → chhat ~10) — dono mein naam ek-ek karke anchors ke saath aate hain.
-
-**Phase E — coverage checklist (R14, §2.6 format).**
-
-| ID | Sub-section | Fact cluster | Ep-Beat | Tier |
-| --- | --- | --- | --- | --- |
-| S01 | New Problems | repo mein sirf heading. **GAP**; kuch nahi bola gaya | — | — |
-| S02 | The Arabs and the Mongols | Jahiliyat ka naam aur us par aitraaz; Semitic ateet (Fenikiya, Chaldean, Hebrew, Cretans), jhagde par saajha pichhaas | 6.1-P1 | T2 |
-| S02 | | Yemen; Arabi ka vikas, Farsi aur Bharatiya shabd; samundari vyapaar; Canton ki Arab basti | 6.1-P1 | T2 |
-| S02 | | Paigambar se jaan aur josh; nayi baat ka jhanda; qaum ka bharosa | 6.1-P2 | T1/T2 |
-| S02 | | girte desh; North Africa ke Isai giroh; tang-dil Isaiyat vs Arab sahansheelta; logon ka aa jaana | 6.1-P2 | T2 |
-| S02 | | sanskriti ka badalna; Arab-Syrian (Damascus, Byzantium); Arab-Irani (Baghdad); do srot (josh + nafasat) | 6.1-P2 | T2 |
-| S02 | | "Islami sabhyata" naam par aitraaz | 6.1-P2 | T2 |
-| S02 | | 712 Sindh; aage nahi; Bharat ka mazboot hona; Arab khalbali; Sindh ka alag hona | 6.1-P2 + 6.1-P5 | T2 |
-| S02 | | yaatri aur doot; ganit-jyotish ki pothiyan Baghdad; anuvaad; vaidya; Rashtrakuta aur dakshin | 6.1-P3 | T1/T2 |
-| S02 | | Islam ko jaanna; prabodhak; maszidein; na raajya na praja ka aitraaz; purani sahansheelta | 6.1-P3 | T1/T2 |
-| S02 | | **Islam dharm ban kar sadiyon pehle, raajnaitik taaqat ban kar der se** (spine) | 6.1-P3 | T2 |
-| S02 | | Crusades (shuru, lambai); Trevelyan ka saar; Cross-Crescent se aage | 6.1-P6 | T2 |
-| S02 | | Mongol yuddh-kala; Liddell Hart; Chengiz; Asia-Europe ki bahaduri; Europe ka bachav; sabak; baarood | 6.1-P6 | T2 |
-| S02 | | Mongol Sindhu par ruke, Bharat nahi aaye | 6.1-P6 | T2 |
-| S02 | | Chengiz Musalmaan nahi; aasmaan ka dharm; Samani/Shravana; Mongolia ka Bauddh roop; Bauddh vijeta ka aashcharya | 6.1-P6 | T1/T2 |
-| S02 | | samrajya ka dhalna, chhote raajya; 1369 Timur/Samarkand; vaaris kala ki taraf; Timuri punarjaagran; Babar ka bachpan | 6.1-P6 | T2 |
-| S02 | | chaar vijeta + Lenin | 6.1-P8 | T3 |
-| S03 | The Flowering of Arab Culture | jeet ke baad doosri tarah ki jeet; naye desh; jigyasa; tark aur vigyaan; Harun-al-Rashid aur al-Mamun; Baghdad ka ilm-kendra | 6.1-P4 | T1/T2 |
-| S03 | | Barmak parivaar, vazir, shayad Bauddh; Manak (cold open payoff), chhe aur Bharatiya vaidya | Cold open + 6.1-P4 | T1 |
-| S03 | | Al Khwarismi; Omar Khayyam; Arab vaidya-surgeon; Ibn Sina 1037; Farabi; ganit-jyotish-chikitsa mein Arab ki badhat | 6.1-P4 | T2 |
-| S03 | | pehal Arabon ki; Bharat ne kam liya; ghamand aur khol; thakte mann ko jagane wala mahaul; purane Bharatiya ka apnapan | 6.1-P5 | T1/T2 |
-| S03 | | tark → agnosticism/scepticism; Baghdad ka patan, Turk taaqat; Spain mein jigyasa zinda; Ibn Rushd (saari raay) | 6.1-P5 | T1/T2 |
-| S03 | | Spain Europe se aage; Cordoba ke vidvaan Paris tak; Said of Toledo ka varnan | 6.1-P5 | T2 |
-| S03 | | Chengiz se daur ka ant; Samarkand-Herat mein kala par tark nahi; Islam sakht; thekedaar Turk/Mongol (Mughal)/Afghan | 6.1-P6 | T2 |
-| S04 | Mahmud of Ghazni | 712 Sindh, wahin rukna; aadhi sadi mein alag; teen sau saal shaanti | 6.1-P7 | T2 |
-| S04 | | ~1000 Mahmud, Turk; bahut hamle; khoon; khazana; Alberuni ka saar | 6.1-P7 | T1/T2 |
-| S04 | | sirf uttar Bharat; Madhya/Poorab/Dakshin bache; Chola, Srivijaya, samundari taaqat; samundar ne nahi bachaya | 6.1-P7 | T2 |
-| S04 | | Punjab-Sindh milaye; har baar Ghazni wapsi; Kashmir; Somnath ke baad Rajputana mein haar; aakhri hamla | 6.1-P7 | T1/T2 |
-| S04 | | Mahmud sipahi > dharm ka aadmi; dharm ka istemaal; Bharat = khazana | 6.1-P8 | T2 |
-| S04 | | Tilak ki fauj (Hindu senapati) apne hum-mazhabon ke khilaaf; Ghazni ko bada shehar; kaarigar-raajmistri; Mathura ka varnan | 6.1-P8 | T1/T2 |
-| S04 | | Firdausi aur Shahnamah — **GAP** (aadha kta) | 6.1-P8 | T5/GAP |
-| S04 | | raajnaitik asar seemit, dil nahi chhua; kamzori dikhi; Alberuni se bikharav ka pata | 6.1-P8 | T2 |
-| S04 | | 300 saal shaanti se, ab talwar ke saath; kadwahat; dharm par aitraaz nahi, zabardasti par aitraaz | 6.1-P8 | T1/T2 |
-| S04 | | Punjab ka hukmaraan banne par narmi; Hindu oonche pad; sirf shuruaat; 1030 maut | 6.1-P8 | T2 |
-| S04 | | Ghuri, Ghazni-Lahore-Delhi; Prithvi Raj ki jeet; agle saal jeet, 1192 | 6.1-P9 | T1/T2 |
-| S04 | | Prithvi Raj ka prem (Jaichandra, Kanauj, rajvansh, dushmani, bahaduron ki maut, jaan aur gaddi) | 6.1-P9 | T1 |
-| S04 | | geet aaj bhi, Jaichandra gaddaar; Delhi ka girna poore Bharat ka nahi; dedh sau saal; Delhi naye daur ka nishaan | 6.1-P9 | T2 |
-| S04 | | bahudharm Bharat: Bauddh/Jain sokhe, Isai aur Ibrani pehli sadi, Syrian Isai/Nestorian, Yahudi, Parsi saatvin sadi, Musalmaan pashchim/uttar-pashchim | 6.1-P3 | T1/T2 |
-| S05 | The Indo-Afghans… | Angrezi paragraph — out of scope, misplaced (Sources ka GAP flag) | — | — |
-| S05 | | Afghan narmi, Delhi rajdhani (Ghazni nahi), Afghanistan kinaara; tez sokhna; yahan ki auraton se shaadi; Alauddin Khilji aur beta | 6.1-P9 | T1/T2 |
-| S05 | | Turk raja (Qutb-ud-Din Aibak, Razia, Iltutmish) par amir-fauj Afghan; Delhi phalta; Ibn Batuta ka varnan | 6.1-P9 | T2 |
-| S05 | | chaudahvin sadi ke ant mein Timur; kuch mahine; khopdiyon ke dher; Delhi murdon ka shehar; sirf Punjab-Delhi; saalon baad uthi; samraajya toota; dakshin mein raajya | 6.1-P9 | T1/T2 |
-| S05 | | Gulbarga (Bahmani) aur Vijayanagar; Gulbarga paanch hisse, ek Ahmadnagar | 6.1-P10 | T2 |
-| S05 | | Ahmadnagar 1490; Ahmad Nizam Shah; Nizam-ul-Mulk Bhairi; Brahmin munshi Bhairu; mitti ka vansh; Chand Bibi; saare dakshini raajya mitti ke | 6.1-P10 | T1/T2 |
-| S05 | | Panipat 1526, Babar (Turco-Mongol, Timurid), Mughal raajvansh ki shuruaat | 6.1-P10 | T1 |
-| S05 | | **Sea Power** — repo mein gayab (`$2a`). **GAP**; kuch nahi bola gaya | — | — |
-| S06 | Synthesis (pehla para) | "Musalmaan hamla/kaal" galat aur bhatkaata; Angrezon wali tulna; Islam ne hamla nahi kiya | 6.1-P10 | T2 |
-| S06 | | hamle: Turki (Mahmud), Afghan, Turco-Mongol/Mughal; aakhri do ahem; Afghan = seema ka Bharatiya samooh, "Indo-Afghan"; Mughal bahri par tezi se fit, "Indo-Mughal" | 6.1-P10 | T2 |
-
-**Phase F — audits.**
-- **R14 coverage:** koi blank cluster nahi. S01 khaali hai (GAP), S05 ka "Sea Power" gayab hai (GAP), S04 ka Firdausi adhoora (GAP) — teeno Sources mein hain. T5 mein sirf naam, list tail, poore ankde aur kitaabon ke naam gaye; koi tark (C) ya kahaani (A) T5 mein nahi.
-- **R15 flow:** Story-event column: ek vaidya beemar Khalifa ke paas pahunchta hai → ek kaafila registan se nikalta hai → ek qaum mein josh utarta hai → ek naam badalta hai → talwar ek nadi par ruk jaati hai → log naye dharm ko jaante hain → ek shehar diyon mein jagta hai → ek hisaab lagaya jaata hai → roshni bujhti hai → Sultan ki fauj utarti hai → ek shehar usse hara deta hai → ek premi apni gaddi khota hai → ek qaidi apne qile ki jad dhoondta hai. Hook chain upar "Phase E" mein hai; har hook agle part mein answer hota hai.
-- **R16 density:** U ~55 (≤75); kisi bhi 160-shabd ke hisse mein 3 se zyada naye U nahi (P9 aur P10 sabse ghan hain, par dono mein naam ek-ek karke anchors ke saath aate hain).
-- **R17 spot-the-lecture (12 signals):** 1 naam/number se shuru hone wale lagataar vakya — P8 aur P10 mein do jagah; dono jagah beech mein Nehru ki kriya ya ek sawal daala gaya (**fixed**). 2 teen se zyada U items ki list — P6 ka Mongol list aur P8 ka "chaar vijeta + Lenin" sabse kareeb; dono mein teen se zyada naam hain par teen chaar F ya pehle se sthapit hain (Sikander, Lenin), isliye chhoda gaya. 3 "Nehru batate hain" — har part mein Nehru ke saath kriya hai (kehte hain, likhte hain, saaf karte hain, ruk jaate hain, yaad dilate hain). 4 lagataar tareekhein — koi part mein do se zyada absolute tareekh nahi (P7 mein 712 aur "hazaar saal ke aas-paas" — ek relative, ek absolute). 5 quote ke saath title — koi lamba quote nahi; Firdausi ka naam aur Shahnamah GAP ki wajah se hain (T5). 6 beat carrying question ko aage nahi badhata — P3, P4 aur P5 ka jawab hai (dharm kaise aaya, darwaza kisne khula rakha, hisaab kyun barabar nahi tha). 7 "kyun" ki kami — P3, P5, P7, P10 mein saaf "kyun"/"nateeja"/"isliye" hai. P5 ka ant ek kadwi raay par hota hai, jise agla part uthata hai. 8 beat ka ant tathya par — har part sawal ya turn par khatam hota hai (P3, P5, P6, P7 par ek sawal ya ek mod). 9 signpost words — "Ek baat" do-teen jagah hai (P2, P3, P8), jaan-boojh kar; baaki clean. 10 20 shabd se lamba vakya — P5 ke Ibn Rushd wale hisse mein do lambe vakya hain; baaki chhote (**dekh lena, recording se pehle tode ja sakte hain**). 11 vakya badle ja sakte hain — nahi; P7 (hamla se haar tak), P9 (jeet se tootne tak), P10 (raajya se naam tak) ka kram matlab rakhta hai. 12 do se zyada aaj-bridges — ek inline (P5) + aakhri section.
-- **SFX cues:** 6 (cold open mein 4, P3 ki ghanti, P7 ki ghudsaari). Cold open ke chaar cues mukhya hain; P3/P7 wale optional, kyunki ident ke baad house style mein awaaz saaf rehti hai.
-- **Pichhla seam:** Ep 5.7 abhi repo mein nahi hai. Uska Outro "Indian numbers reach Baghdad as Hindsa" par khatam hona chahiye (method doc §3.1); Ab tak usi ko halke shabdon mein uthata hai. 5.7 likhne par ye line milaa deni chahiye.
-- **Aage ka seam:** Outro barsaat, jhoole aur chhe sau saal purane geet par khatam hota hai. Ep 6.2 ka cold open wahi drishya hai (aam ki daali par jhoole, Khusrau ke shabd), aur uska sawal "Raja badalte rahe — aam zindagi kyun nahi badli?" hai. Isliye geet likhne wale ka naam yahan nahi liya gaya (Khusrau Ep 6.2 ka vishay hai).
+**"Spot the lecture" (R17) self-check.** (1) Lagataar sentences jo naam/ankde se shuru hon — B4 aur B7 mein the; dono jagah beech mein bhasha badli (B4 mein "Aur Manak?" phir "Isi mahaul mein…", B7 mein "Phir wahi hota hai jo har toote ghar mein hota hai"). (2) 3 se zyada U items wali list — B7 ke Mongol shehar teen par roke gaye (Balkh T5), aur B4 ke chaar naam alag-alag vaakya mein, har ek apne kaam ke saath. (3) "Nehru kehte hain" ka istemaal har beat mein ek hi baar, aur hamesha unke saath kriya hai (ruk jaate hain, dohraate hain, ginwate hain, saaf likhte hain, ek naap rakhte hain). (4) Dates lagataar nahi: ek beat mein ek absolute saal (B8 ka 712 aur "saal hazaar ke aas-paas"), B7 mein teen saal par unke apne kaam hain (1219, 1227, 1258, 1492, 1453) — isliye unhe ek hi list mein nahi rakha gaya, har saal ek ghatna se bandha hai. (5) Quote ke saath kitaab ka naam — sirf "Shahnamah" (wo naam hi point hai), baaki jagah "ek angrez itihaaskar", "ek angrez yuddh-vidvaan", "Toledo ke ek lekhak". (6) Har beat carrying question ko aage badhata hai: kahan se aaye (B1-B2) → kaise aaye (B3) → kya liya-diya (B4-B6) → kaun aaya baad mein (B7-B8) → kis tareeke se (B9) → naam ki galti aur payoff (B10). (7) "Kyun/nateeja/isliye" har beat mein maujood hai (B1 "sawal ye hai", B2 "nateeja?", B3 "kyun?", B5 "ye kyun dukh ki baat thi?", B8 "par Nehru ek naap bhi rakhte hain", B9 "to is hamle ka nateeja kya hua?"). (8) Beat ka ant tathya par nahi, sawal ya turn par — B1, B3, B4, B5, B6, B7 sab ek hook par khatam hote hain; B9 ka ant ek maut par hai kyunki agla beat usi maut se shuru hota hai (B10 "Mahmud mar gaya" Outro mein laut kar aata hai).

@@ -4,7 +4,7 @@ Oct 17, 2026 · @Manupal Choudhary
 
 ## Episode info
 
-Ye script Chapter 5, "Through the Ages", ke saat episodes wale naye set ka paanchwa episode hai. Is episode mein chapter ke do sub-sections aate hain: "The Indian Philosophical Approach" aur "The Six Systems of Philosophy". Yahan chhe darshan aate hain — Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta — aur Yoga ka wo shareer wala hissa, jise Nehru ne khud jail mein kiya. Inke upar ek safar hai: dakshin ka ek pandit, jo is desh ke chaar kone par apna ghar banata hai, aur battis ki umar mein Kedarnath ki barf mein mar jaata hai. Lambai lagbhag 4,780 narration shabd hai, yaani kareeb 30 minute ka audio (160 shabd prati minute ke andaaze se).
+Ye script Chapter 5, "Through the Ages", ke saat episodes wale naye set ka paanchwa episode hai. Is episode mein chapter ke do sub-sections aate hain: "The Indian Philosophical Approach" aur "The Six Systems of Philosophy". Yahan chhe darshan aate hain — Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta — aur Yoga ka wo shareer wala hissa, jise Nehru ne khud jail mein kiya. Inke upar ek safar hai: dakshin ka ek pandit, jo is desh ke chaar kone par apna ghar banata hai, aur battis ki umar mein Kedarnath ki barf mein mar jaata hai. Lambai lagbhag 5,197 narration shabd hai, yaani kareeb 32 minute ka audio (160 shabd prati minute ke andaaze se).
 
 - **Set ka sawal (Ep 5.1–5.7):** Itni chamak ke baad, thakaan kahan se aayi?
 - **Is episode ka sawal:** Itne alag-alag darshan ek hi desh ki soch kaise bane?
@@ -12,7 +12,7 @@ Ye script Chapter 5, "Through the Ages", ke saat episodes wale naye set ka paanc
 - **Spine:** Shankara ka safar. Wo dakshin se uthta hai, chhe darshan us safar ke chhe darwaze ban jaate hain, aur chaar kone par uske banaye ghar Part 10 mein laut kar aate hain. Doosra dhaaga Nehru ka apna hai: jail mein wo roz thode asana karte hain.
 - Original ka koi sentence use nahi hua. Nehru ki apni baat sirf reported speech mein hai; jahan wo kisi vidvaan ko quote karte hain, wahan sirf saar hai (ek chhota Upanishad vakya chhodkar, jo Part 9 mein hai).
 - Kram apna hai: book pehle darshanon ki soch samjhaati hai, phir naam ginaati hai. Yahan chhe naam pehle darwaze ki tarah khulte hain, aur Shankara ka safar shuruaat se aakhir tak saath chalta hai.
-- Har naam, ankda aur tareekh `book/chapters/ch05.txt` se hai. Jo pehchaan-lines book se bahar ki hain, wo Sources mein "Aam jaankari" ke neeche hain.
+- Har naam, ankda aur tareekh `book/chapters_v2/ch05.txt` se hai — ye copy 2026-10-17 ko Internet Archive ke poore text se dobara banayi gayi (purani `book/chapters/ch05.txt` lossy thi). Jo pehchaan-lines book se bahar ki hain, wo Sources mein "Aam jaankari" ke neeche hain.
 - Ek "aaj" wala pul inline hai (Part 7), aur aakhir mein "Aaj ke hisaab se". Pul "Aaj sochiye" se shuru hota hai.
 - Mahaul ke rang kahani ke liye kalpana se hain, book ke tathya nahi. Narration khud "sochiye", "kalpana kijiye" ya "shayad" kehti hai (list Sources mein hai).
 - Is episode ke liye koi SFX plan abhi nahi bana. 6 zaroori cues `[SFX: ...]` ke roop mein inline hain (cold open mein 4, Part 6 aur Part 10 mein ek-ek). Ye kisi purane plan ko extend nahi karte.
@@ -24,7 +24,7 @@ Ye script Chapter 5, "Through the Ages", ke saat episodes wale naye set ka paanc
 | S14 The Indian Philosophical Approach | Part 2 + Part 3 |
 | S15 The Six Systems of Philosophy | Cold open + Part 1 + Part 4 + Part 5 + Part 6 + Part 7 + Part 8 + Part 9 + Part 10 |
 
-**Coverage:** S14 aur S15 poore. Kuch chhoda nahi gaya. Do GAPs sirf bache hue saar ke star par hain: chaar mathon wale para ka shuru (repo mein para `$29` par shuru hota hai) aur Samkhya ka purusha wala vakya (`$26` par toota hua). Do aur truncation marks (`$27`, `$29`) Sources mein likhe hain. T5 waale naam (Havell, Max Müller, Garbe, Stcherbatsky, Aurobindo, Romain Rolland), teerthon ki poori fehrist, aur anko ke poore roop sirf "Kitaab mein aur" mein hain — bole nahi gaye. Shankara ka samay aur chaar mathon ki aaj ki jagah "Aam jaankari" mein hai.
+**Coverage:** S14 aur S15 poore — aur ab `book/chapters_v2/ch05.txt` ki poori copy par (2026-10-17 ka delta pass). Is pass mein S14 ka wo shuruaati hissa mil gaya jo pehle gayab tha (soch ka ek doosri soch ko khinchana, contradictions ka guchha, poore desh mein atit ke kai daur, aur aaj bhi tarak-virudh vishwas) aur S15 ke teen toote hue hisse bhi: chaar mathon wala para, Samkhya ka purusha, aur Yoga ka para. Isi delta se chhe darshanon ki sajhi maanyata (lay, kaaran, punargaman, niswarth kaam) aur Shankara ka asli chehra (Malabar, dus orders, "ek hi aadmi mein kai log") bhi aaye. Bache hue GAP sirf ek hai: Stcherbatsky wale quote ka footnote. T5 waale naam (Havell, Max Müller, Garbe, Stcherbatsky, Aurobindo, Romain Rolland, Professor Keith), teerthon ki poori fehrist, aur anko ke poore roop sirf "Kitaab mein aur" mein hain — bole nahi gaye. Shankara ka samay aur chaar mathon ki aaj ki jagah "Aam jaankari" mein hai. Jo naya material 5,200 shabd ke cap mein nahi aa paaya, wo bhi "Kitaab mein aur" mein likha hai, aur Writer's check ke delta block mein NEEDS SPLIT ka note hai.
 
 ## Cold open
 
@@ -102,6 +102,14 @@ Zara naqsha kholiye aur chaaron jodiye. Dakshin. Poorab. Pashchim. Uttar.
 
 Ek aadmi ne poori zameen ka naqsha apne gharon se bhar diya.
 
+Aur is naqshe ko banane wale ke baare mein Nehru ek ajeeb baat likhte hain. Duniya se mooh modne ka darshan unhone khada kiya, par wo khud kisi ghaar mein bhaag kar nahi baithe.
+
+Wo ek hi aadmi mein kai log the. Darshanik bhi, vidvaan bhi. Agyani bhi, aur mystic bhi. Kavi, sant, sudhaarak, aur ek kabil manager.
+
+Wo Malabar ka tha, dakshin ke us chhor ka. Zindagi bhar poore desh mein chalta raha, behes karta raha, apni aag logon mein bharta raha.
+
+Brahmin dhaanche ke andar unhone pehli baar dus religious orders khade kiye. Unme se chaar aaj bhi zinda hain.
+
 Aur ye ghar aise hi nahi chune gaye. Ye chaar jagah pehle se hi teerth the. Poore desh se log wahan jaate the. Aaj bhi jaate hain. Shankara ne wahan ghar banaya, to wahan jaane wali bheed aur badh gayi.
 
 Phir wo Kedarnath gaya. Himalaya ki un unchaiyon mein, jahan saal bhar barf rehti hai. Aur battis saal ki umar mein wahan mara.
@@ -127,6 +135,10 @@ Ek darshan kya cheez hai?
 Ye bade sawalon ka guchha hai. Duniya kya hai. Main kaun hoon. Sahi kya hai, galat kya hai. Jeena kaise chahiye.
 
 Nehru ek baat maante hain. Ye sawal sabse mushkil sawal hain. Unhe samajhne ke liye dimaag ko kadi mehnat se baandhna padta hai. Bahut logon ke liye ye samajh se bahar hi rehte hain.
+
+Aur soch ek jagah ruk kar nahi baithti. Purani aur nayi soch saath-saath chalti hain, ek doosre se ladti hui. Ek aadmi ka dimaag hi contradictions ka guchha hota hai, uski ek baat doosri se nahi milti. Ek poore desh mein atit ke kai daur ek saath khade rehte hain.
+
+Nehru kehte hain, ye sirf peeche reh gaye deshon ki baat nahi. Jahan aadmi nayi se nayi cheez istemaal karta hai, wahan bhi aise vishwas zinda hain jinhe tarak nahi maanta. Ek scientist apne laboratory se baahar nikalte hi science ka tareeka bhool jaata hai.
 
 Par yahan ek ajeeb baat hai.
 
@@ -208,6 +220,10 @@ Koi anek devtaon ko maanta hai, koi ek Ishwar ko, koi sirf ek ko. Aur ek aisa ha
 
 Phir bhi Nehru kehte hain, inke beech bahut si baatein ek jaisi hain.
 
+Kaun si baatein? Ye sab maante hain ki brahmaand ek niyam se chalta hai, usme ek bada lay hai. Ki har cheez ka apna kaaran hai, phir bhi aadmi apni kismat kuch khud banata hai. Ki janm baar-baar hota hai. Aur ki niswarth prem aur bina matlab ke kiye kaam ki badi jagah hai.
+
+Aur ek baat sabse ajeeb hai. Ye saare darshan shastra ko maante hain, par apne sawal wo insaani tareekon se suljhaate hain. Nehru ek vidvaan ka saar likhte hain: shastra ka kaam sirf nateejon ko pavitra banana reh jaata hai.
+
 Ab pehla darwaza. Nyaya.
 
 Nyaya ka matlab hi hai tarak. Sahi sochne ka vidhi.
@@ -276,7 +292,7 @@ Yahan duniya ko kisi Ishwar ne banaya nahi. Yahan ek lagatar evolution chalti ha
 
 Isi wajah se Samkhya ko dvaita kaha jaata hai. Dvaita, yaani do. Kyunki wo do mool kaaranon par khada hai.
 
-Ek: Prakriti. Wo prakriti jo kabhi na ruke, jo badalti rahe. Doosra: purusha.
+Ek: Prakriti. Wo prakriti jo kabhi na ruke, jo badalti rahe. Doosra: purusha — wo chetna jo badalti nahi. Purush anant hain. Aur purusha khud kuch karta nahi. Bas uska asar prakriti par padta hai, aur prakriti banti chali jaati hai.
 
 Ab tak humne chhe mein se teen darwaze khole. Aur sab kuch dimaag ka khel tha.
 
@@ -293,6 +309,10 @@ Yoga ka naam aaj ghar-ghar mein hai. Par Nehru kehte hain, ise bahut kam log sam
 Yog ka purana vidhi kaafi tha. Use Patanjali naam ke ek vidvaan ne ghaala, aur saaf shakal di.
 
 Patanjali sirf Yoga ke darshanik nahi the. Unhone Panini ke Sanskrit vyakaran par ek badi teeka bhi likhi — Mahabhashya. Nehru kehte hain, wo teeka bhi Panini ke kaam jitni badi classic hai.
+
+Aur is darshan mein ek baat baaki sab se alag hai. Yoga pehle se socha hua siddhant nahi hai, ye khud jaanchne ka tareeka hai. Isliye koi bhi ise apna sakta hai. Nireeshwar Samkhya wale bhi ise chalate the. Iska matlab, Ishwar is darshan ka zaroori hissa nahi hai.
+
+Naam ka matlab bhi dekhiye. Yoga ka matlab hai jodna — jaise angrezi ke "yoke" mein.
 
 Yoga ka maksad kya hai? Shareer aur mann ko saadhna, aur us saadhna ko aisi gehrai tak le jaana jo shareer se upar hai.
 
@@ -345,6 +365,8 @@ Yahin Nehru ek aadmi ko saamne laate hain. Vivekananda.
 Vivekananda — aadhunik Bharat ke sabse bade Yoga aur Vedanta ke prachaarak. Wo baar-baar ek baat par zor dete the: yoga andhvishwas nahi hai. Wo ek experiment hai, aur tarak par khada hai.
 
 Vivekananda kehte the, koi bhi Yoga aapse tarak chhodne ko nahi kehta. Koi nahi kehta ki aankh band kar lo, aur apna dimaag kisi pujari ke haath mein de do. Sab ek hi baat kehte hain — apne tarak ko pakde raho.
+
+Aur wo tarak kitni door tak jaata tha? Nehru unka ek vakya likhte hain. Tarak se atheist ban jaana behtar hai, kisi ke kehne par do sau crore devtaon ko maan lene se.
 
 Nehru unki do aur baatein sunaate hain.
 
@@ -506,13 +528,10 @@ Tab tak ke liye, namaskar.
 
 ## Sources
 
-- [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 5, "Through the Ages", sub-sections "The Indian Philosophical Approach" aur "The Six Systems of Philosophy". Script ke saare tathya repo wali `book/chapters/ch05.txt` se hain (S14 aur S15; file ki lines 335-411).
-- **GAPs (record karne se pehle original se milaa lena):**
-  - **S14 ka pehla para beech ki baat se shuru hota hai.** Repo mein wo is vakya se shuru hota hai: "This is so even in regard to the problems that affect our daily lives in their material aspects." Usse pehle ka vakya gayab hai. Isliye Part 2 mein us baat ko aage nahi badhaya gaya; sirf uske aage ka hissa (darshan ki mushkil, sabke paas apna darshan, kamre) liya gaya.
-  - **Chaar mathon wala para `$29` par shuru hota hai.** Repo mein para "$29maths or monasteries, locating them far from each other" se shuru hota hai — yaani isse pehle ka vakya (shayad "He founded four maths") nahi hai. Isliye Part 1 aur Part 10 mein chaar mathon ka zikr hai, par "usne chaar math banaye" wala asli vakya nahi. Original se milaa lena.
-  - **Samkhya ka para `$26` par toot jaata hai.** "Prākriti, or an ever-active and changing nature or energy, and purusha,$26" — purusha ki vyakhya aage nahi hai. Isliye Part 5 mein purusha ka naam liya gaya hai, uski paribhasha nahi di gayi.
-  - **Yoga ka para `$27` par toot jaata hai.** Repo mein footnote marker 17 ke baad para toota hua hai. Part 6 ka "navel ya naak ki nok" wala hissa bache hue text se nahi aaya — wo T5 mein hai; original se pakki kar lena.
-  - **Footnote 16 aur 17 ka text repo mein nahi hai.** 16 Stcherbatsky ke quote par hai, 17 Yoga ke para par. Isliye Stcherbatsky ka naam aur unka poora quote T5 mein rakha gaya hai.
+- [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 5, "Through the Ages", sub-sections "The Indian Philosophical Approach" aur "The Six Systems of Philosophy". Script ke saare tathya ab repo wali `book/chapters_v2/ch05.txt` se hain (S14: lines 481-509; S15: lines 511-591).
+- **Rebuild (2026-10-17):** ye script pehle `book/chapters/ch05.txt` (lossy copy, `$` wale markers par tooti hui) se likhi gayi thi. Source ab Internet Archive ke poore text se dobara banayi gayi hai — `book/chapters_v2/ch05.txt`; is chapter mein 15,881 shabd naye aaye, aur in do sub-sections mein kareeb 2,200. Purane chaar toote hisse (`$26` Samkhya ka purusha, `$27` Yoga ka para, `$29` chaar mathon wala para, aur S14 ka shuruaati para) ab poore mil gaye hain, aur is delta pass mein narration tak aa gaye hain.
+- **GAP (record karne se pehle original se milaa lena):**
+  - **Stcherbatsky wale quote ka footnote ab bhi nahi hai.** Rebuild ke baad shuruaati footnote markers ka text mil gaya (Patanjali ek aadmi the ya do; "Yoga" ka matlab jodna; Vivekananda ke zyadatar quote Rolland ki "Life of Vivekananda" se), par Stcherbatsky ke quote ke neeche ka footnote nahi hai. Isliye unka naam aur unka poora quote T5 mein hi rakha gaya hai.
 - **Kitaab mein aur** (T5, bola nahi gaya):
   - Havell: Part 3 ka "ek angrez vidvaan", aur unka poora angrezi quote ("religion is hardly a dogma, but a working hypothesis of human conduct…"). Part 3 mein sirf saar hai.
   - Max Müller: wo naam jinka zikr Vedon wale episode mein hua tha. Part 3 ka wo hissa jahan Nehru kehte hain ki chhe darshanon ke peeche ek "sajhi poonji" hai, unhi ka hai; quote ke apne shabd nahi liye gaye.
@@ -529,10 +548,23 @@ Tab tak ke liye, namaskar.
   - Yoga ke aakhri padavon ki poori fehrist (intuitive insight, ecstasy, self-hypnosis) aur "unregulated Yoga" ka poora anubhav.
   - Indian club, ju-jitsu wali list ka poora roop (Part 6 mein paanch naam hi bole gaye).
   - "The body should be fit and healthy, supple and graceful, hard and strong" — poora vakya (Part 6 mein saar).
+  - **Delta pass (2026-10-17) se mila, par 5,200 shabd ke cap ki wajah se narration mein nahi aaya:**
+    - S14 ka purana hissa: pehle insaan ke andar zyada jut aur harmony thi (bas neeche star par); aaj wo jut toota hai aur nayi nahi mili; hum aaj bhi dogmatic dharm, purane vishwas aur rasmein pakde hue hain, par science ki bhasha bolte hain; Nehru ka shak ki science hi tang thi (usne zindagi ke kai zaroori hisse chhod diye), shayad ab wo faila rahi hai aur naya jut purane se oonche star par banega; aur aaj ye problem aadmi ki hadd se bahar nikal gayi — "ek jagah uthi tez hawa doosri jagah cyclone banati hai, teesri jagah anti-cyclone" wala Nehru ka drishtha; vyakti ka jut poore world ke social harmony par tikta hai.
+    - S14: vakil wala drishtha (Part 2 mein sirf scientist wala rakha gaya).
+    - S15: Professor Keith ka naam (Part 4 ka "ek vidvaan") aur unka poora angrezi quote — darshan orthodox hain aur shastra maante hain, par sawal insaani tareekon se suljhaate hain; shastra ka kaam sirf nateejon ko pavitra banana reh jaata hai.
+    - S15: sajhi maanyata ka bacha hissa — tarak par sab bharosa karte hain, par maana jaata hai ki intuition aksar usse bada hota hai.
+    - S15: Samkhya ka poora causality wala tark — asar kaaran mein chhupa hua pehle se maujood hai; kaaran aur asar ek hi cheez ke avikasit aur vikasit roop hain; brahmaand ke sabse neeche aur sabse oopar ke beech ek lagatar unity hai.
+    - S15: Patanjali ek aadmi the ya do — vyakaran wale ka samay pakka hai (doosri sadi Isai poorv), Yoga Sutra wala usse do-teen sau saal baad maana jaata hai.
+    - S15: Yoga ka poora naya hissa — West mein log shareer ke ajeeb tricks seekh kar khud ko authority maan baithte hain aur bholon ko exploit karte hain; Buddha ki tarah baith kar naabhi ya naak ki nok par dekhna; Ishwar mein bharosa practical faayda deta hai; Buddhiston ne apne Yoga roop banaye.
+    - S15: Vivekananda ke baaki quote — "anubhav hi gyaan ka ekmatr srot"; dharm par bhi wahi scientific jaanch (jo dharm isse toot jaaye wo bekaar andhvishwas tha); agar tarak kamzor hai to pujari behtar guide kaise; "jab tak khud na jaan lo, kuch bhi na maano"; tarak se kisi nateeje par na pahunchne walon se hamdari rakhna.
+    - S15: Shankara par bachi baaki baatein — wo apne mission ke bare mein poori tarah hoshiyar the; apne samay ki alag-alag ulajhi dhaaraon ko jodne ki koshish ki (Part 10 mein sirf saar); "battis saal mein unhone kai lambi zindagiyon ka kaam kiya".
 - **Aam jaankari** (book se bahar, ek baar check kar lena):
   - Kedarnath, Sringeri, Puri, Dvaraka aur Badrinath ki aaj ki jagah. Book sirf ilaake batati hai: "Sringeri in Mysore", "Puri on the east coast", "Dvaraka in Kathiawad", "Badrinath in the heart of the Himalayas".
   - Shankara ka samay: repo ka doosra sub-section ("How did Hinduism Absorb Buddhism in India?") unhe aathvi sadi mein rakhta hai; is episode ke apne do sub-sections mein unki koi tareekh nahi hai. Isliye narration mein saal nahi bola gaya.
   - "Math" ka matlab monastery; "Advaita" ka matlab "do nahi, ek"; "dvaita" ka matlab "do"; Maya ka "illusion" wala galat tarjuma.
+  - Malabar: book sirf itna kehta hai — "Born in Malabar in the far south of India". Narration mein usse "dakshin ke us chhor ka" keh kar anchor kiya gaya hai.
+  - "Yoga" ka matlab jodna, aur uska angrezi "yoke" se rishta — ye book ke footnote se hai, bahar ki jaankari se nahi.
+  - "Dus religious orders" aur unme se aaj zinda chaar: ye book ka vakya hai (Brahmin dhaanche ke andar pehli baar), par "orders" aur "math" ek hi cheez nahi — isliye narration mein dono alag rakhe gaye hain.
   - Aristotle ka Yunani darshanik hona (book khud unka naam leti hai, par unki pehchaan nahi deti).
   - Vivekananda ka aadhunik Bharat ke sabse bade Yoga aur Vedanta ke prachaarak hona (ye book ka vakya hai), aur unka Bengal se hona (bahar ki jaankari — narration mein nahi bola gaya).
   - "Being", "absolute soul", "empirical", "relativity" jaise angrezi shabdon ka aasan matlab.
@@ -551,7 +583,7 @@ Tab tak ke liye, namaskar.
 
 ## Writer's check (recording se pehle hata dena)
 
-**Phase A — fact ledger (R1).** Is episode ke do sub-sections: **S14 "The Indian Philosophical Approach"** (repo `book/chapters/ch05.txt`, lines 335-346) aur **S15 "The Six Systems of Philosophy"** (lines 347-411). Atom IDs `05-S14-nn` / `05-S15-nn`. Types: N naam, D tareekh/ankda, C tark/daava, Q uddharan, A waqia, L fehrist.
+**Phase A — fact ledger (R1).** Is episode ke do sub-sections: **S14 "The Indian Philosophical Approach"** (`book/chapters_v2/ch05.txt`, lines 481-509) aur **S15 "The Six Systems of Philosophy"** (lines 511-591). Atom IDs `05-S14-nn` / `05-S15-nn`. Types: N naam, D tareekh/ankda, C tark/daava, Q uddharan, A waqia, L fehrist. Delta pass (2026-10-17) mein ledger `book/chapters_v2/ch05.txt` par dobara milaya gaya; purani copy `book/chapters/ch05.txt` (lossy) se aaye GAPs ke atom IDs par `-d` laga diya gaya hai.
 
 **Coverage checklist (S14 + S15 → beat → tier; R14 ke liye, §2.6 ke format mein):**
 
@@ -565,7 +597,7 @@ Tab tak ke liye, namaskar.
 | S14 | | tiki kyunki usme koi gun tha (samaj jodna, zindagi ke saath dhalna) | 5.5-P3 | T2 |
 | S14 | | bojh kyun bani: usi ke andar ka bura us gun se bada ho gaya; soch zindagi se alag | 5.5-P3 | T2 |
 | S14 | | aaj use akele nahi, duniya ke saamne rakh kar dekhna padega | 5.5-P3 | T2 |
-| S14 | | Havell: dharm dogma nahi, chalne ka niyam (working hypothesis); dogma zindagi se alag reh sakta hai, niyam nahi; lakeer se hatne par bekaar (**GAP**: para beech se shuru) | 5.5-P3 | T2 + T5 |
+| S14 | | Havell: dharm dogma nahi, chalne ka niyam (working hypothesis); dogma zindagi se alag reh sakta hai, niyam nahi; lakeer se hatne par bekaar (**GAP resolved** 2026-10-17: para poora mil gaya; Havell ka naam T5 mein hi) | 5.5-P3 | T2 + T5 |
 | S14 | | darshan sthir sachai par baat karta hai, isliye sthirta; par mahaul aur dimaag ki paidawar | 5.5-P3 | T2 |
 | S14 | | hawa phaile to poori kaum ki zindagi wali soch badal deta hai | 5.5-P3 | T2 |
 | S14 | | Bharat mein darshan oopar ke chune hue logon tak, par kahin aur se zyada nicha tak pahuncha; dekhne ka tareeka ghaala | 5.5-P3 | T2 |
@@ -586,10 +618,10 @@ Tab tak ke liye, namaskar.
 | S15 | | Buddh dharm ke uthte waqt shakal pakki; sirf dimaag se nikla siddhant; tarak ki line, Buddhism ko uske hi maidanon mein lalkara, adhikari ka sahara nahi | 5.5-P5 | T2 |
 | S15 | | isi wajah se Ishwar hataana pada: na personal, na impersonal; na ek-Ishwar-wad, na ek-tattva-wad; atheist; supernatural dharm ka neev hila | 5.5-P5 | T2 |
 | S15 | | duniya kisi Ishwar ne nahi banayi; lagatar evolution, chetna aur prakriti ka takraav; prakriti bhi urja | 5.5-P5 | T2 |
-| S15 | | dvaita: do mool kaaran — Prakriti aur purusha (**GAP** `$26`: purusha ki vyakhya gayab) | 5.5-P5 | T2 |
+| S15 | | dvaita: do mool kaaran — Prakriti aur purusha (**GAP resolved** 2026-10-17: purusha ki vyakhya mil gayi — "chetna jo badalti nahi, purush anant, khud nishkriya" P5 mein aayi) | 5.5-P5 | T2 |
 | S15 | | Yoga (Patanjali): shareer aur mann ko saadhna, aage psychic-spiritual training | 5.5-P6 | T1/T2 |
 | S15 | | Patanjali ne purana vidhi ghaala + Panini ke vyakaran par Mahabhashya; Stcherbatsky ka quote | 5.5-P6 | T2 + T5 |
-| S15 | | Yoga aaj Europe-America mein mashhoor par kam samjha gaya, ajeeb riwaazon se juda (**GAP** `$27`) | 5.5-P6 | T2 + T5 |
+| S15 | | Yoga aaj Europe-America mein mashhoor par kam samjha gaya, ajeeb riwaazon se juda (**GAP resolved** 2026-10-17: navel/naak wala hissa bhi mil gaya — cap ki wajah se ab bhi "Kitaab mein aur" mein) | 5.5-P6 | T2 + T5 |
 | S15 | | aakhri padav: intuitive insight/ecstasy; Nehru nahi jaante higher state hai ya self-hypnosis; bina rehnumai ki Yoga se dimaag par bura asar | 5.5-P6 | T2 |
 | S15 | | shareer ka kaam: fit, healthy, supple, graceful, hard, strong; kuch kasratein aur saans ke tareeke, lambi aur gehri saans | 5.5-P6 | T1 |
 | S15 | | "kasrat" galat shabd: koi zor nahi, asana — theek se karo to aaram aur tone, thakaan nahi | 5.5-P6 | T1 |
@@ -622,7 +654,7 @@ Tab tak ke liye, namaskar.
 | S15 | | dharm ka roop relative; har aadmi ko apne aakaar bhar ki azaadi | 5.5-P9 | T2 |
 | S15 | | Shankara ne caste-dhaanche ko maana, par kisi bhi caste ka aadmi oonchi vidya tak | 5.5-P9 | T2 |
 | S15 | | world negation, sanyam, tyaag, detachment | 5.5-P9 | T2 |
-| S15 | | chaar math: Sringeri (Mysore, dakshin), Puri (poorab), Dvaraka (Kathiawad, pashchim), Badrinath (Himalaya, uttar) (**GAP** `$29`: para beech se shuru) | 5.5-CO + P1 + P10 | T1 |
+| S15 | | chaar math: Sringeri (Mysore, dakshin), Puri (poorab), Dvaraka (Kathiawad, pashchim), Badrinath (Himalaya, uttar) (**GAP resolved** 2026-10-17: para ka shuruaati vakya "He established four great maths..." mil gaya) | 5.5-CO + P1 + P10 | T1 |
 | S15 | | battis saal ki umar mein Brahmin, "tropical south" se, Kedarnath mein mara | 5.5-CO + P1 | T1 |
 | S15 | | safar ka matlab: mushkil raaste, dheemi sawari; colour; Sanskrit = poore Bharat ke padhe-likhe ki sajhi bhasha; yahi jut dikhata hai | 5.5-P10 | T2 |
 | S15 | | log safeer-chaar hone par bhi aate-jaate; kitaabein safar karti; soch tezi se phailti, behes hoti | 5.5-P10 | T2 |
@@ -635,19 +667,48 @@ Tab tak ke liye, namaskar.
 | S15 | | purane mandiron mein moortiyan aur kala — teerthon se purane art ki jhalak | 5.5-P10 | T2 |
 | S15 | | Shankara ka Buddhist dharm ke ant se jod; Brahminism ne samaa liya; par Buddhism pehle hi sikud chuka tha; virodhak "chhupa hua Buddhist" kehte the; Buddhism ka gehra asar | 5.5-P10 | T2 (seam) |
 
-**F/U tagging.** F (aam sunne wale ko pata): Ishwar, dharm, aatma, yoga, asana, ahimsa, satya, Aristotle, Sanskrit, Upanishad, Vedanta, Benares, Buddha, Buddh dharm, Islam. U (naya, R8 anchor chahiye): Shankara, Sringeri, Puri, Dvaraka, Badrinath, Kedarnath, Nyaya, Vaisheshika, Samkhya, Kapila, Prakriti, purusha, Patanjali, Mahabhashya, dvaita, Advaita, Atman, Maya, relativity, Amarnath, Rameshwaram, Hardwar, Prayaga, Havell, Max Müller, Garbe, Stcherbatsky, darshana.
+**Delta pass (2026-10-17) se aaye clusters — `book/chapters_v2/ch05.txt` ke naye text se (tier `**cap**` = 5,200 shabd ke cap ki wajah se "Kitaab mein aur" mein):**
+
+| ID | Sub-section | Delta cluster | Ep-Beat | Tier |
+| --- | --- | --- | --- | --- |
+| 05-S14-01d | The Indian Philosophical Approach | soch ek doosri ko khinchti hai; purani aur nayi soch saath-saath, ek doosre se ladti hui; ek dimaag contradictions ka guchha | 5.5-P2 | T2 |
+| 05-S14-02d | | ek poore desh mein atit ke kai daur ek saath khade hote hain | 5.5-P2 | T2 |
+| 05-S14-03d | | industrial deshon mein bhi tarak-virudh vishwas; scientist laboratory ke bahar science ka tareeka bhool jaata hai | 5.5-P2 | T1 |
+| 05-S14-04d | | pehle insaan ke andar zyada jut (neeche star par), aaj toota aur nayi nahi mili; science tang thi; cyclone/anti-cyclone; jut poore world ke social harmony par | — | **cap** |
+| 05-S14-05d | | vakil wala drishtha | — | **cap** |
+| 05-S15-01d | The Six Systems of Philosophy | sajhi maanyata: brahmaand niyam se, bada lay; kaaran-kaaran + kuch azaadi; punargaman; niswarth prem aur kaam | 5.5-P4 | T2 |
+| 05-S15-02d | | Keith (chhupa naam): darshan orthodox hain, shastra maante hain, par sawal insaani tareekon se suljhaate hain | 5.5-P4 | T2 + T5 |
+| 05-S15-03d | | purusha = chetna jo badalti nahi; purush anant; purusha khud nishkriya | 5.5-P5 | T2 |
+| 05-S15-04d | | Samkhya causality: asar kaaran mein chhupa; kaaran aur asar ek hi cheez ke do roop; neeche se oopar tak unity | — | **cap** |
+| 05-S15-05d | | Yoga = khud jaanchne ka tareeka, siddhant nahi; koi bhi darshan ise apna sakta hai; nireeshwar Samkhya wale bhi; Ishwar zaroori hissa nahi | 5.5-P6 | T1/T2 |
+| 05-S15-06d | | "Yoga" = jodna, angrezi "yoke" se rishta (book ka footnote) | 5.5-P6 | T2 |
+| 05-S15-07d | | Patanjali ek aadmi the ya do; naabhi/naak ki nok; West ke tricksters; Ishwar ki bhakti ka practical faayda | — | **cap** |
+| 05-S15-08d | | Vivekananda: tarak se atheist banna behtar, do sau crore devtaon ko maan lene se | 5.5-P7 | T2 |
+| 05-S15-09d | | Vivekananda ke baaki quote (anubhav hi gyaan ka ekmatr srot, "jab tak khud na jaan lo kuch bhi na maano") | — | **cap** |
+| 05-S15-10d | | Shankara ka asli chehra: ghaar mein bhaag kar nahi baithe; Malabar; ek hi aadmi mein kai log; dus religious orders (chaar aaj zinda) | 5.5-P1 | T1 |
+| 05-S15-11d | | mission ka hosh; apne samay ki ulajhi dhaaraon ko jodna; "battis saal mein kai lambi zindagiyon ka kaam" | — | **cap** |
+
+**F/U tagging.** F (aam sunne wale ko pata): Ishwar, dharm, aatma, yoga, asana, ahimsa, satya, Aristotle, Sanskrit, Upanishad, Vedanta, Benares, Buddha, Buddh dharm, Islam. U (naya, R8 anchor chahiye): Shankara, Sringeri, Puri, Dvaraka, Badrinath, Kedarnath, Nyaya, Vaisheshika, Samkhya, Kapila, Prakriti, purusha, Patanjali, Mahabhashya, dvaita, Advaita, Atman, Maya, relativity, Amarnath, Rameshwaram, Hardwar, Prayaga, Havell, Max Müller, Garbe, Stcherbatsky, darshana, aur delta pass se: Malabar (line se anchor kiya gaya: "dakshin ke us chhor ka"), "religious orders". Keith ka naam chhupa rakha gaya (Part 4 ka "ek vidvaan"), isliye wo U list mein nahi.
 
 **Phase B — spine (R3, R4).** Carrying question: *Itne alag-alag darshan ek hi desh ki soch kaise bane?* Spine type: **Journey** — Shankara ka safar, aur chhe darshan us safar ke chhe darwaze. Personal thread: Nehru ki asana (cold open → Part 7). Set ka sawal (Ep 5.1-5.7): *Itni chamak ke baad, thakaan kahan se aayi?* Jawab Part 10 mein: chhe darwaze, aur unke beech raaste.
 
-**Phase C — budget (R6).** Narration 4780 = 4,200-5,000 ke andar. Beats: 10 (P1-P10), har ek 250-650. U atoms ~53 (<=75). Tareekhein: do (Kapila ka saatvi sadi Isai poorv; "Isai sadi se pehle") — alag-alag parts mein. Bade ankde: "battis saal", "chaar" — teen se kam per beat. Aaj-bridges: 1 inline (Part 7) + "Aaj ke hisaab se".
+**Phase C — budget (R6).** Narration 5197 (delta pass ke baad 417 shabd jude; cap 5,200). Beats: 10 (P1-P10), har ek 250-650 (Part 4 553 aur Part 10 650 — dono hadd ke andar). U atoms ~55 (<=75). Tareekhein: do (Kapila ka saatvi sadi Isai poorv; "Isai sadi se pehle") — alag-alag parts mein; delta se aayi nayi tareekh (Patanjali vyakaran wala, doosri sadi Isai poorv) cap ki wajah se nahi aayi. Bade ankde: "battis saal", "chaar", "dus religious orders", "do sau crore devta" — teen se kam per beat. Aaj-bridges: 1 inline (Part 7) + "Aaj ke hisaab se"; Part 2 ka "aaj bhi aise vishwas" Nehru ka apna tark hai (S14), humara bridge nahi.
 
 **Phase D — split points (R10).** P3 ke baad (darshan ki soch → chhe darwazon ki taraf), P5 ke baad (dimaag se shareer ki taraf), P7 ke baad (Yoga se reet ki taraf), P9 ke baad (chhe darshan se safar ke payoff ki taraf). Koi anecdote, tark ya uddharan nahi toota. Outro ka seam Ep 5.6 ke cold open par khatam hota hai (pahaadon ke us paar se Chini bhikshu).
 
 **Phase E — beat sheet aur hook chain (R12, R15).** Hook chain, part-dar-part: wo aadmi kaun tha, aur chaar kone par ghar kyun? → wo apne saath kya le ja raha tha? → chhe darshan? → unme itna fark kyun? → pehle darwaze par sirf tarak, to vishwas kahan gaya? → agla darwaza isi neev se kyun shuru hota hai? → Ishwar ko hataana pada, to darshan chala kaise? → dimaag se shareer ki taraf kyun? → is darwaze ke peechhe wo qaidi kaun hai? → kya ye cheez aaj bhi waise hi hai? → devta insaan se neeche? → aakhri darwaza kya rakhta hai? → Maya jhooth hai ya nahi? → chhe darwaze khul gaye, to wo aadmi kaun tha? → payoff: chhe darwaze the, aur beech mein raaste the.
 
 **Phase F — audits.**
-- **R14 coverage:** koi blank cluster nahi (table upar). T5 sirf naam, list tail, poore quote aur kitaabon ke naam par; U atoms ka ~30% se kam. Koi T6 nahi bacha. Do GAP (`$26` Samkhya ka purusha, `$29` chaar math wala para) bache hue saar ke star par hain; `$27` ka Yoga para bhi Sources mein hai.
-- **R16 density:** U ~53 (<=75); kisi bhi 160-shabd ke stretch mein 3 se zyada naye naam nahi (P4 ka chhe-naam roll-call jaan-boojh kar, kyunki wahi episode ka vishay hai aur har naam apne part mein anchor hota hai).
-- **R17 spot the lecture (12 signals):** 1 (lagataar naam/number wale vakya) — P4 aur P8 ki ginti chhoti, clean; 2 (teen se zyada U items ki list) — Part 4 ka chhe-naam roll-call (jaan-boojh kar), Part 6 ki khel-list paanch naam tak, Part 10 ki teerth-list teen naam tak, tail T5, clean; 3 ("Nehru batate hain") — Nehru likhte hain, rukte hain, tarazoo rakhte hain, apne baare mein likhte hain, saavdhani likhte hain, clean; 4 (lagataar tareekhein) — sirf ek samay (Kapila) ek part mein, clean; 5 (quote ke saath title) — koi lamba uddharan nahi, sirf ek Upanishad ki chhoti line (Part 9), clean; 6 (beat sawal ko aage nahi badhata) — P5 aur P8 P9 ke Vedanta ki tayyari hain, clean; 7 ("kyun" ki kami) — har part mein "nateeja?"/"isliye", clean; 8 (beat tathya par khatam) — har part sawal ya turn par, clean; 9 (signpost words) — "Ek aur baat", "Iske alawa" nahi hain, clean; 10 (20 shabd se lambe vakya) — P9 aur P10 mein do-teen, jaan-boojh kar (Nehru ka tark tode bina), baaki chhote, clean; 11 (vakya badle ja sakte hain) — P4 ginti se tarak tak, P6 padav se asana tak, P10 safar se teerth tak badhta hai, clean; 12 (do se zyada aaj-bridges) — ek inline (Part 7) + aakhri section, clean.
+- **R14 coverage:** koi blank cluster nahi (table upar; delta clusters alag table mein). T5 sirf naam, list tail, poore quote aur kitaabon ke naam par; U atoms ka ~30% se kam. Koi T6 nahi bacha. Delta pass ke baad chaaron purane GAP band ho gaye (S14 ka shuruaati para, `$26` purusha, `$27` Yoga, `$29` chaar math). Ek GAP khula hai aur Sources mein likha hai: Stcherbatsky ke quote ka footnote.
+- **R16 density:** U ~55 (<=75); kisi bhi 160-shabd ke stretch mein 3 se zyada naye naam nahi (P4 ka chhe-naam roll-call jaan-boojh kar, kyunki wahi episode ka vishay hai aur har naam apne part mein anchor hota hai). Delta se do U jude — Malabar (apne hi vakya mein anchor) aur "religious orders" (uska matlab wahi vakya batata hai).
+- **R17 spot the lecture (12 signals):** 1 (lagataar naam/number wale vakya) — P4 aur P8 ki ginti chhoti, clean; 2 (teen se zyada U items ki list) — Part 4 ka chhe-naam roll-call (jaan-boojh kar), Part 6 ki khel-list paanch naam tak, Part 10 ki teerth-list teen naam tak, tail T5, clean; 3 ("Nehru batate hain") — Nehru likhte hain, rukte hain, tarazoo rakhte hain, apne baare mein likhte hain, saavdhani likhte hain, clean; 4 (lagataar tareekhein) — sirf ek samay (Kapila) ek part mein, clean; 5 (quote ke saath title) — koi lamba uddharan nahi, sirf ek Upanishad ki chhoti line (Part 9), clean; 6 (beat sawal ko aage nahi badhata) — P5 aur P8 P9 ke Vedanta ki tayyari hain, clean; 7 ("kyun" ki kami) — har part mein "nateeja?"/"isliye", clean; 8 (beat tathya par khatam) — har part sawal ya turn par, clean; 9 (signpost words) — "Ek aur baat", "Iske alawa" nahi hain, clean; 10 (20 shabd se lambe vakya) — P9 aur P10 mein do-teen, jaan-boojh kar (Nehru ka tark tode bina), baaki chhote, clean; 11 (vakya badle ja sakte hain) — P4 ginti se tarak tak, P6 padav se asana tak, P10 safar se teerth tak badhta hai, clean; 12 (do se zyada aaj-bridges) — ek inline (Part 7) + aakhri section, clean. **Delta pass ke naye hisse:** signal 2 (list) — Part 4 ki sajhi-maanyata chaar chhote vakya hain, koi naam ya ankda nahi, clean; signal 3 — naye jumle bhi "Nehru likhte hain" / "Nehru ek vidvaan ka saar likhte hain" ke roop mein hain, clean; signal 10 — naye hisson mein koi vakya 20 shabd se lamba nahi (Part 4 ka sabse lamba 15, Part 2 ka 19), clean; signal 12 — koi naya aaj-bridge nahi juda (naya "aaj" sirf Nehru ke apne tark mein hai).
 - **SFX cues:** 6. Cold open 4 (pahadi hawa + barf, mandir ki ghanti, tanpura ka sur, tanpura ka ghulna/sannata), Part 6 (kothri mein gehri saans, phir chup), Part 10 (lautti pahadi hawa). Is episode ka apna SFX plan abhi nahi bana; ye cues ek naye plan ke liye sujhaav hain — kisi purane plan ko extend nahi karte.
-- **Shabd-ginti (final, `wc -w`, headings aur SFX lines ke bina):** CO 293 · Ab tak 49 · P1 254 · P2 285 · P3 400 · P4 459 · P5 422 · P6 401 · P7 539 · P8 266 · P9 515 · P10 650 · Aaj 189 · Outro 58 · **Kul 4780** (kareeb 30 minute, 160 shabd/min). Cold open 300-450 ke andar, Outro <=90, "Aaj ke hisaab se" <=200, har part 250-650 ke andar.
+- **Shabd-ginti (final, `wc -w`, headings aur SFX lines ke bina):** CO 293 · Ab tak 49 · P1 356 · P2 380 · P3 400 · P4 553 · P5 450 · P6 466 · P7 572 · P8 266 · P9 515 · P10 650 · Aaj 189 · Outro 58 · **Kul 5197** (kareeb 32 minute, 160 shabd/min). Cold open 300-450 ke andar, Outro <=90, "Aaj ke hisaab se" <=200, har part 250-650 ke andar. Cap 5,200 — 3 shabd ki jagah bachi hai, isliye is episode mein aage kuch nahi jud sakta.
+
+**Delta pass (2026-10-17).** Source `book/chapters_v2/ch05.txt` (S14 lines 481-509, S15 lines 511-591, Internet Archive ke poore text se dobara bani copy) par script dobara milayi gayi; purani `book/chapters/ch05.txt` lossy thi aur `$` markers par tooti hui thi.
+
+- **Facts jode: 23**, jo delta clusters (upar ki delta table) mein bandhe hain — P1 mein 5, P2 mein 5, P4 mein 5, P5 mein 3, P6 mein 4, P7 mein 1. Baaki 5 clusters cap ki wajah se "Kitaab mein aur" mein hain.
+- **Beats chhue:** P1 (+102), P2 (+95), P4 (+94), P5 (+28), P6 (+65), P7 (+33). Cold open, "Ab tak", P3, P8, P9, P10, "Aaj ke hisaab se" aur Outro **jaise ke waise** hain. P10 ka delta material jaan-boojh kar P1 mein bheja gaya (Shankara ka chehra wahin khulta hai, aur P10 650 shabd ki beat-hadd par tha).
+- **Narration shabd:** 4,780 → **5,197** (cap 5,200; kareeb 32 minute). Cold open, chhe-darwaze ka framing aur cliffhanger waise ke waise.
+- **GAPs:** chaar band — S14 ka shuruaati para, `$26` (Samkhya ka purusha), `$27` (Yoga ka para), `$29` (chaar mathon wala para). Ek khula — Stcherbatsky ke quote ka footnote.
+- **NEEDS SPLIT: yes.** Poora story-relevant delta is cap mein nahi aata. Bahar reh gaya (dekho "Kitaab mein aur"): S14 ka "purane dinon ka jut toota aur nayi nahi mili + science tang thi + cyclone/anti-cyclone + jut world harmony par" wala poora tark (~130 shabd), Keith ka poora quote, Samkhya ka causality, Patanjali ek-ya-do, naabhi/naak aur West ke tricksters, Vivekananda ke baaki quote, aur Shankara ka "mission ka hosh / ulajhi dhaaraon ko jodna / kai lambi zindagiyon ka kaam" (~450-550 shabd). Iske liye extra ~500 shabd chahiye. Sabse saaf split point: P5 ke baad — P1-P5 (darshan ki soch + Nyaya, Vaisheshika, Samkhya) ek episode, P6-P10 (Yoga se Vedanta aur safar ka payoff) doosra. Filhaal episode ek hi hai aur sunne layak hai; split ka faisla parent ka hai.

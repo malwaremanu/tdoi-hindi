@@ -4,7 +4,7 @@ Oct 17, 2026 · @Manupal Choudhary
 
 ## Episode info
 
-Ye script Chapter 6, "New Problems", ke chaar episodes wale set ka aakhri episode hai — aur Ep 4–6 ke is poore re-issue ka bhi aakhri. Is episode mein chapter ke aakhir ke chaar sub-sections aate hain: "The Marathas and the British Struggle for Supremacy. Triumph of the British", "The Backwardness of India and the Superiority of the English in Organization and Technique", "Ranjit Singh and Jai Singh", aur "The Economic Background of India : The Two Englands". Lambai lagbhag 4,900 narration shabd hai, yaani kareeb 30-31 minute ka audio (160 shabd prati minute ke andaaze se).
+Ye script Chapter 6, "New Problems", ke chaar episodes wale set ka aakhri episode hai — aur Ep 4–6 ke is poore re-issue ka bhi aakhri. Is episode mein chapter ke aakhir ke chaar sub-sections aate hain: "The Marathas and the British Struggle for Supremacy. Triumph of the British", "The Backwardness of India and the Superiority of the English in Organization and Technique", "Ranjit Singh and Jai Singh", aur "The Economic Background of India : The Two Englands". Lambai lagbhag 5,195 narration shabd hai, yaani kareeb 32 minute ka audio (160 shabd prati minute ke andaaze se). Source 2026-10-17 ko Internet Archive ke poore text se dobara banaya gaya (`book/chapters_v2/ch06.txt`); us rebuild ka delta in beats mein baithaya gaya hai.
 
 - **Set ka sawal (Ep 6.1–6.4):** Jis desh ke paas duniya ke behtareen kaarigar the, wo nayi duniya ki daud mein peeche kyun reh gaya?
 - **Is episode ka sawal:** Ek vyapaari company itne bade desh ki maalik kaise ban gayi?
@@ -13,7 +13,7 @@ Ye script Chapter 6, "New Problems", ke chaar episodes wale set ka aakhri episod
 - **Spine ka pichhla hissa (jigyasa):** Jai Singh aur Ranjit Singh — dono is baat ka sabooot hain ki is desh mein poochhne wale log mare nahi the. Jo nahi mila, wo jawab nahi tha. Mauka tha.
 - Original ka koi sentence use nahi hua. Nehru ki apni baat sirf reported speech mein hai. Jahan wo kisi vidvaan ya musafir ko quote karte hain, wahan sirf saar hai.
 - Kram apna hai: book mein "Ranjit Singh and Jai Singh" ka hissa Marathas-British wale hisse ke baad aata hai; hum use wahin rakhte hain, par Jai Singh ko cold open mein rakhte hain, taaki do sadiyon ka joda saamne aa jaye.
-- Har naam, tareekh aur ankda `book/chapters/ch06.txt` se hai. Jo pehchaan-lines book se bahar ki hain, wo Sources mein "Aam jaankari" ke neeche hain.
+- Har naam, tareekh aur ankda `book/chapters_v2/ch06.txt` se hai (2026-10-17 ko Internet Archive ke poore text se rebuild hua; purani lossy copy `book/chapters/ch06.txt` sirf diff ke liye rakhi hai). Jo pehchaan-lines book se bahar ki hain, wo Sources mein "Aam jaankari" ke neeche hain.
 - Ek "aaj" wala pul inline hai (Part 9), aur aakhir mein "Aaj ke hisaab se". Pul "Aaj sochiye" se shuru hota hai, taaki koi aaj ki baat Nehru ki baat na samjhe.
 - Mahaul ke rang kahani ke liye kalpana se hain, book ke tathya nahi. Narration khud "sochiye", "kalpana kijiye" ya "shayad" kehti hai (list Sources mein hai).
 - **SFX:** is episode ka apna SFX plan abhi nahi bana. Cold open ke chaar cues house style ke hain (jaise Ep 4.1 aur Ep 5.6 mein). Ye purane `scripts/Ep 6 — SFX plan.md` ko aage nahi badhate — us plan ka Fatehpur Sikri wala cold open Ep 6.3 ko gaya hai. Baaki teen cues naye hain: Part 2 ki gadgadahat, Part 7 ke yaantar, aur Part 11 ki lautti hui hawa. Wo optional hain, kyunki ident ke baad awaaz saaf rehni chahiye.
@@ -27,9 +27,9 @@ Ye script Chapter 6, "New Problems", ke chaar episodes wale set ka aakhri episod
 | S16 Ranjit Singh and Jai Singh | Cold open + Part 6 + Part 7 |
 | S17 The Economic Background of India : The Two Englands | Part 8 + Part 9 + Part 10 + Part 11 |
 
-**Coverage:** S14, S15, S16 aur S17 — chaaron poore. Kuch chhoda nahi gaya. S01 se S13 (Arabs, Mongols, Mahmud, Afghan, mixed culture, gaon, jaati, Babar-Akbar, common culture, Aurungzeb-Shivaji) is episode ke bahar hain; wo Ep 6.1, 6.2 aur 6.3 ka vishay hai. Teen GAP sirf bache hue saar ke star par hain: S14 mein Warren Hastings ka quote block khaali hai, S15 mein ek `$2a` truncation mark hai, aur S17 mein Adam Smith wale jumle se pehle `$26` mark hai. T5 waale naam, poore ankde aur kitaabon ke naam sirf "Kitaab mein aur" mein hain, bole nahi gaye. Jai Singh ki maut ki tareekh par ek flag hai (Sources dekhiye) — script mein koi saal nahi bola gaya.
+**Coverage:** S14, S15, S16 aur S17 — chaaron poore, ab `book/chapters_v2/ch06.txt` (Internet Archive rebuild, 2026-10-17) par. Kuch chhoda nahi gaya. S01 se S13 (Arabs, Mongols, Mahmud, Afghan, mixed culture, gaon, jaati, Babar-Akbar, common culture, Aurungzeb-Shivaji) is episode ke bahar hain; wo Ep 6.1, 6.2 aur 6.3 ka vishay hai. Rebuild ne is chapter mein kareeb 13,000 shabd jode (in chaar sub-sections mein hi ~2,965), aur usi se pehle wale chaaron GAP band ho gaye: S14 ka Warren Hastings 1784 quote + Hyderabad ka Nizam, S15 ka `$2a` truncation (Allawardi ka Bengal, Ahalya Bai ka Indore), S17 ka `$26` (Adam Smith, *The Wealth of Nations*, 1776), aur chapter ke ant ki pushti. Jai Singh ki maut ki tareekh ka flag bhi suljh gaya — 1743, aur Part 7 mein ab yahi saal bola gaya hai. Cap (5,200) ki wajah se naye saar ka sirf sabse zyada story-moving hissa beats mein aa paaya; baaki "Kitaab mein aur" (T5) mein hai — wahan naam, poore ankde aur kitaabon ke naam bole nahi gaye.
 
-Shabd-ginti (narration, headings aur `[SFX: …]` lines ke bina, `wc -w` se): Cold open + ident + Ab tak 412 · P1 438 · P2 299 · P3 296 · P4 381 · P5 310 · P6 406 · P7 619 · P8 409 · P9 421 · P10 352 · P11 270 · Aaj ke hisaab se 194 · Outro 90 · **Kul ~4,897** (target 4,200–5,000; kareeb 30-31 minute). Sabse chhota beat P11, sabse bada P7 — dono 250–650 shabd ke andar.
+Shabd-ginti (narration, headings aur `[SFX: …]` lines ke bina, `wc -w` se): Cold open + ident + Ab tak 412 · P1 438 · P2 431 · P3 296 · P4 468 · P5 379 · P6 406 · P7 627 · P8 411 · P9 421 · P10 352 · P11 270 · Aaj ke hisaab se 194 · Outro 90 · **Kul ~5,195** (patched episode ka cap 5,200; kareeb 32 minute). Sabse chhota beat P11, sabse bada P7 — dono 250–650 shabd ke andar. Delta pass se pehle ye ~4,897 thi.
 
 ## Cold open
 
@@ -151,6 +151,12 @@ Par wo uth khade. Aur apna raaj ek nayi shakal mein khada kiya. Ek sangh.
 
 Poona mein Peshwa — is sangh ka mukhiya. Aur bade rajya: Gwalior ka Scindhia, Indore ka Holkar. Ye sangh pashchim aur madhya Bharat ke bade hisse par raaj kar raha tha.
 
+Us sangh ke saamne ek aur rajya tha, dakshin ka Hyderabad. Uske Nizam badi taaqat dikhte the, par wo sirf dikhava tha. Nehru likhte hain ki wo rajya andar se bhusa bhara hua parda tha, jise bahar ki taaqat hi khadi rakhti thi.
+
+Nizam jab apni aazadi dikhane ki koshish karta, uska lashkar bikhar jaata. Aakhir wo Company ke pankh tale ja baitha.
+
+Company ke afsar Warren Hastings ne 1784 mein usi Nizam par likha: ilaaka chhota, aamadni kam, fauji taaqat tuchh; aur uski reet ek hi thi, padosiyon mein ladai bhadkana, khud kabhi maidan mein na utarna.
+
 Par theek usi waqt ek doosri taaqat zameen par pair jama rahi thi. Uska naam tha Company.
 
 1757. Bengal. Plassey.
@@ -170,6 +176,8 @@ Uttar mein, Punjab mein, ek Sikh rajya ug raha tha. Ranjit Singh ka. Ye rajya aa
 To 18vi sadi ke aakhir mein desh mein sirf do taaqatein bachi thi. Marathas. Aur British.
 
 Baaki sab inke aage-peechhe.
+
+Aur aage? 1799 mein Tipu hara. 1818 tak sab khatam tha: madhya Bharat ke bade sardar Company ke aage jhuk gaye. Punjab bahar tha, aur baaki ladaiyan sirf naqshe ko theek kar rahi thin.
 
 ## Part 3: Kiraye ke sipahi
 
@@ -221,7 +229,11 @@ Pehli baat. Angrezon ka raajneetik aur fauji intezaam dono us zamane mein behtar
 
 Doosri baat. Wo apne dushmanon se zyada jaankari rakhte the. Aur us jaankari ka poora faayda uthate the.
 
-Unke saamne koi ek desh nahi tha. Alag-alag taaqatein thin. Jinme aapas mein khincha-tan thi. Har khincha-tan Company ke kaam aayi.
+Kaisi jaankari? Rishwat aur jasoosi se. Unka bada kaam hi tha darbaron ke mantriyon ko kharidna, aur unka jaal itna pakka tha ki fauj ki khabar unhe pehle pahunch jaati thi. Isliye wo aksar ladai se pehle hi ladai jeet jaate the.
+
+Ek misaal. Scindhia ke paas kaam karne wala ek uncha afsar ladai ke theek waqt par apni poori fauj lekar Angrezon ke saath chala gaya.
+
+Unke saamne koi ek desh nahi tha. Alag-alag taaqatein thin. Jinme aapas mein khincha-tan thi. Haider Ali ne Marathas, Nizam aur Oudh ko saath le kar Angrezon ko bhagane ki koshish ki. Kuch nahi hua. Har khincha-tan Company ke kaam aayi.
 
 Teesri baat. Samundar.
 
@@ -250,6 +262,12 @@ Nehru likhte hain, is desh ke kuch hisse aise ho gaye the jaise Europe mein Tees
 Aur sabse buri haalat wahan thi jahan Company ka raaj tha, ya Company ke aashrit rajya the.
 
 Edward Thompson — ek angrez lekhak, jisne us daur ki haalat likhi. Unka kehna tha ki Madras aur Company ke aashrit rajya Oudh aur Hyderabad aisa manzar the jaise dukhon ka bukhaar. Aur uske saamne Maratha neta Nana Farnavis ke ilaake — shaant suraksha ka ek nakhlistan.
+
+Bengal mein Allawardi naam ke Mughal vakil ke raaj mein aman tha aur vyapaar phalta-phoolta tha. Uske baad Plassey hua, aur phir Bengal loota jaane laga.
+
+Usi waqt madhya Bharat mein Indore ki ek rani thi, Ahalya Bai. Uska raaj tees saal chala, 1765 se 1795. Marne ke baad log usse sant maan gaye.
+
+Ek taraf Bengal aur Bihar toot rahe the. Doosri taraf madhya Bharat phal-phool raha tha.
 
 Yahan ek baat sabse ajeeb hai. Angrezon ke paas taaqat thi. Daulat thi. Par jawabdaari nahi thi.
 
@@ -347,7 +365,7 @@ Pehli. Uski zindagi lambi nahi thi.
 
 Aur uske poore jeevan mein ladaiyan chalti rahin. Darbaar ki chaalbaazi chalti rahi. Wo khud bhi in sab mein ghusa raha.
 
-Doosri. Nadir Shah ka wo 1739 ka hamla uski maut se bas chaar saal pehle hua tha.
+Doosri. Jai Singh ki maut 1743 mein hui thi. Nadir Shah ka wo 1739 ka hamla unki maut se bas chaar saal pehle hua tha.
 
 Sochiye, wo aakhri saal kaise honge. Ek taraf Delhi looti jaa rahi hai. Doosri taraf ek raja apne parchaun par ginti milaa raha hai.
 
@@ -395,7 +413,7 @@ Yahi nahi. Is desh ke kaarigar itne kabil the ki wo England ki nayi machine-wali
 
 Aur jab machine-wala daur shuru hua, to bhi ye maal baha aa raha tha. Usko rokne ke liye bhaari mahsool lagane pade. Kuch jagah poori pabandi.
 
-Adam Smith — angrez, jiski economics ki kitaab aaj bhi padhi jaati hai — is Company ke dhandhe par saaf likha: vyapaariyon ki ek aisi band company ka raaj, kisi bhi desh ke liye, sabse bura raaj hota hai.
+Adam Smith — angrez — ne 1776 mein apni kitaab 'The Wealth of Nations' likhi. Usme is Company ke dhandhe par saaf likha: vyapaariyon ki ek aisi band company ka raaj, kisi bhi desh ke liye, sabse bura raaj hota hai.
 
 Par ek cheez is desh ke paas nahi thi. Satta.
 
@@ -521,20 +539,32 @@ Tab tak ke liye, namaskar.
 
 ## Sources
 
-- [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 6, "New Problems", ke chaar aakhri sub-sections — "The Marathas and the British Struggle for Supremacy. Triumph of the British"; "The Backwardness of India and the Superiority of the English in Organization and Technique"; "Ranjit Singh and Jai Singh"; "The Economic Background of India : The Two Englands". Script ke saare tathya repo wali `book/chapters/ch06.txt` se hain.
-- **GAPs (record karne se pehle original se milaa lena):**
-  - S14 "The Marathas and the British Struggle for Supremacy": Warren Hastings ke 1784 ke khat ka quote block repo mein khaali hai (`>`). Uske saath Hyderabad ke Nizam wali baat bhi gayab hai. Script mein iska kuch nahi aaya.
-  - S15 "The Backwardness of India…": "The British had power and wealth but felt no responsibility…" wale paragraph se pehle ek `$2a` truncation mark hai; us se pehle ka text missing hai. Part 5 ka "jawabdaari nahi thi" wala hissa sirf bache hue saar par hai.
-  - S17 "The Economic Background of India": Adam Smith wale jumle se pehle `$26` truncation mark hai; jumla beech se shuru hota hai. Kitaab ka naam aur saal repo mein nahi hai — humne *The Wealth of Nations* aur 1776 T5 mein rakha hai.
-  - Repo ka ch06.txt is sub-section ke aakhir (USA wale paragraph) par khatam hota hai. Poori kitaab se ek baar pakki kar lena ki chapter yahin khatam hota hai, aur uske baad koi paragraph chhoota nahi.
-- **JAANCH ZAROORI — Jai Singh ki maut ki tareekh:** repo text kehta hai Jai Singh ki maut 1773 mein hui. Par usi paragraph mein likha hai ki Nadir Shah ka hamla (1739) unki maut se "bas chaar saal pehle" hua tha — is hisaab se maut 1743 ban jaati hai. Dono baatein ek saath nahi baithtin. Script mein koi saal nahi bola gaya ("uski maut se bas chaar saal pehle" hi kaha gaya hai). Record karne se pehle poori kitaab se ye tareekh milaa lena.
+- [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 6, "New Problems", ke chaar aakhri sub-sections — "The Marathas and the British Struggle for Supremacy. Triumph of the British"; "The Backwardness of India and the Superiority of the English in Organization and Technique"; "Ranjit Singh and Jai Singh"; "The Economic Background of India : The Two Englands". Script ke saare tathya ab `book/chapters_v2/ch06.txt` se hain — **ye source 2026-10-17 ko isi Internet Archive full text se dobara banaya gaya** (pehli copy lossy thi; is chapter mein kareeb 13,000 shabd naye nikle, jinme se ~2,965 sirf in chaar sub-sections mein). Purani copy `book/chapters/ch06.txt` sirf diff ke liye rakhi hai.
+- **GAPs — chaaron is rebuild se band (koi khula nahi):**
+  - S14: Warren Hastings ka 1784 ka khat aur Hyderabad/Nizam wala poora hissa v2 mein mil gaya — Part 2 mein baith gaya (Nizam ka "bhusa parda", uska Company ke pankh tale aashrit hokar bachna, Hastings ka verdict).
+  - S15: `$2a` mark jahan tha, wahan ka text v2 mein hai — Allawardi ke raaj ka Bengal aur Ahalya Bai ka Indore — Part 5 mein baith gaya.
+  - S17: `$26` mark ka jumla poora mil gaya, aur kitaab ka naam-saal bhi (*The Wealth of Nations*, 1776) — Part 8 mein baith gaya.
+  - Chapter ka ant: v2 bhi usi aakhri (USA wale) paragraph par khatam hota hai; uske baad sirf ek footnote line hai — chapter wahin khatam hota hai.
+- **Jai Singh ki maut ki tareekh — flag suljh gaya:** purani lossy copy 1773 kehti thi, jo usi paragraph ke "Nadir Shah ka hamla maut se chaar saal pehle" (1739) se nahi milta tha. v2 (Internet Archive full text) saaf likhta hai **1743** — 1739 + chaar saal, dono baatein ab ek saath baithtin hain. Part 7 mein ab 1743 bola gaya hai.
 - **Outro wali verdict line:** "sabhyata bahar ke hamle se kam, andar ki thakaan se zyada tooti hai" — ye S11 "The Contrast between Asia and Europe in Mechanical Advance and Creative Energy" ka saar hai, jo Ep 6.3 mein aa chuka hai; yahan T4 (recap) ke roop mein dohraya gaya hai, koi naya tathya nahi. Uske baad wali line ("jo samaj badlaav se inkaar karta hai, wo peeche reh jaata hai") S17 "The Economic Background of India" se hai.
 - **Kitaab mein aur** (T5, bola nahi gaya):
-  - Warren Hastings, 1784 ka khat (GAP — text hi nahi hai).
+  - Warren Hastings ka 1784 ka khat: Part 2 mein uske saar ki teen baatein aur usool bole gaye; poora quote yahan — Hyderabad ke Nizam par: "His dominions are of small extent and scanty revenue; his military strength is represented to be most contemptible…".
   - Peshwa ke saath chauthe bade Maratha rajya ka naam: Baroda ka Gaekwar (Part 2 mein sirf Peshwa, Scindhia aur Holkar bole gaye).
+  - Hyderabad/Nizam ka baaki hissa: Sir John Shore ka jumla ("incorrigibly depraved, devoid of energy, consequently liable to sink into vassalage"); Nizam ki aazadi ki koshish par Marathas ne uski fauj ko bhaga diya; Tipu ki haar se Hyderabad ka ilaaka bada hua.
+  - Haider Ali: dard ki bimari ke saath bhi apne aap par sakhti; usne navy banani shuru ki aur Maldive islands (book: "Maidive") ko jahaaz-banane ka adda banaya; marte waqt fauj ke saath chal raha tha. Tipu ne Napoleon aur Constantinople ke Sultan ko sandesh bheje.
+  - 1804: Agra ke paas Marathas ne Angrezon ko buri tarah haraya. 1806: Charles Metcalfe ka poora jumla ("India contains no more than two great powers, British and Mahratta… Every inch that we recede will be occupied by them.").
+  - 1818 ke baad: Company seedhe ya "puppet aur subsidiary" rajaon ke zariye raaj karti rahi; Punjab aur kinare ke ilaake bahar the; Sikhon, Gurkhas aur Burma ki ladaiyan sirf naqshe ko theek karti rahin.
+  - Maratha able men: Nana Farnavis, Peshwa Baji Rao I, Gwalior ka Mahadaji Scindhia, Indore ka Yaswant Rao Holkar, aur Indore ki rani Ahalya Bai; unki rank-file ki tareef (post chhodna nahi, maut se nahi darna).
+  - Maratha fauj ka dhang: "ideal guerrilla fighters"; baad mein orthodox lines par laut kar armour mein jeete, speed mein haare; duniya ka — aur apne desh ki geography ka — gyaan bahut seemit.
+  - Edward Thompson: Company ke secretariat ke liye "a succession and galaxy of men such as even the British Empire has hardly ever possessed together at any other time"; British residents ka kaam rishwat dena; "their spy system was perfect"; "they won most of their battles before the actual fighting took place".
+  - Scindhia ke afsar ka poora hissa: usne chupke Angrezon se samjhauta kiya aur ladai ke waqt poori fauj lekar unke saath chala gaya; badle mein Scindhia ki zameen se ek naya rajya kata gaya ("wo rajya aaj bhi hai") aur uska naam Quisling jaisa namoona ban gaya. Book uska naam nahi leti.
+  - Murshidabad: Clive ka 1757 ka jumla (London ke barabar, par wahan kuch log London walon se bhi zyada daulat-mand); Dacca ki baareek malmal; khabar aur bhaav pahunchane ka tez jaal — bade vyapaari gharon ko ladaiyon ki khabar Company ke afsaron se pehle milti thi.
+  - India ki pre-industrial economy: "catalytic agent" ki zaroorat; industrialized deshon se takkar na le paana; pehle political domination, phir economy ka tezi se vinash — badle mein kuch positive nahi.
+  - Charles aur Mary Beard (America ke itihaaskar): British ruling class ka poora list ("a barbarous criminal code", mehnat karne walon ki tauheen, "callous brutality in army and navy", primogeniture); America ki azaadi ne in logon se riha karaya; "within a decade or two… reforms which required 100 years or more of persistent agitation to effect in the mother country".
+  - S16 ka kholne wala paragraph (Part 4 ke beech ka saar): "the inadequacy of her own people"; Indians ek "narrow, limited sphere" mein; "even if the curiosity of individuals was roused they could not break the shell"; French revolutionary armies aur Napoleon ne "the whole science of war" badal diya; "the expansive energy which sent the British to distant lands".
   - 1835: wo saal jab tak Delhi ke badshah ke naam ke sikke chalte rahe (Part 1 mein "bahut saal" kaha gaya).
   - V. Anstey (Part 8 ka "ek angrez vidvaan") aur uske exact shabd: "Indian methods of production and of industrial and commercial organization could stand comparison with those in vogue in any other part of the world."
-  - Adam Smith ki *The Wealth of Nations*, 1776 — poori line: "The government of an exclusive company of merchants is perhaps the worst of all governments for any country whatever."
+  - Adam Smith ki *The Wealth of Nations*, 1776 — poori line (kitaab aur saal ab Part 8 mein bole jaate hain): "The government of an exclusive company of merchants is perhaps the worst of all governments for any country whatever."
   - Prinsep (Part 6 ka "ek angrez") aur uska poora jumla: "Never was so large an empire founded by one man with so little criminality."
   - Osborne (Part 6 ka "ek aur angrez, jo usse milne gaya tha") aur uska poora jumla "Except in actual warfare…".
   - Jacquemont ki teesri baat: "His conversation is like a nightmare."
@@ -551,16 +581,19 @@ Tab tak ke liye, namaskar.
   - George III ka England ka badshah hona, aur "flying shuttle / spinning jenny / power loom" ka bunai se juda hona (book naam deti hai, kaam nahi batati).
   - Part 9 ka inline pul ("Aaj sochiye…"), aur "Aaj ke hisaab se" ka poora hissa humari baat hai, book ki nahi.
   - Outro ka agla-chapter ishaara: ye ek vaada hai, koi tathya nahi. Chapter 7 ka vishay ("The Last Phase : Consolidation of British Rule…", aur "The Plunder of Bengal Helps the Industrial Revolution in England") sirf naam se jaana gaya hai; usme se koi ankda nahi bola gaya.
+  - "Bhusa bhara hua parda" (Nizam ke rajya ke liye) — book ke "'strawstuffed and held upright' by external forces" ka saar hai, humari bhasha hai.
+  - Sir John Shore ka naam narration mein jaan-boojh kar nahi liya gaya (Part 2 mein saar "Nehru likhte hain" ke zariye aata hai).
+  - *The Wealth of Nations* (1776), Charles Metcalfe, Ahalya Bai aur Allawardi ki pehchaan — sab book se, koi bahar ka tathya nahi.
 - **Kalpana** (mahaul, book ke tathya nahi): cold open ki raat, chhat, deepak, kaagaz ki sarsaraahat, aur ek padre ka saath hona (book kehti hai Jai Singh ne ek padre ke saath apne log Portugal bheje, par ye raat aur ye chhat humari tasveer hai); dono tables ka "aasmaan, grah, taare" wala vishay (book tablon ka vishay nahi batati); Part 2 ka "savaar baha aa raha tha" wala drishya (book "continued to pour in" kehti hai); Part 7 ka "rukiye, ye kahani ginti ki hai" wala framing; aur Part 7 ka "ek taraf Delhi looti jaa rahi hai, doosri taraf ek raja parchaun par ginti milaa raha hai" (dono tathya alag-alag book se hain, unhe ek drishya mein jodna humari kalpana hai). Jaipur museum ke naqshe, "shehar-sajane ka namuna", GAP wale jumle, aur baaki saare drishya book ke tathya par khade hain.
-- **Tareekhon ki ginti:** Part 1 mein do (1737 Marathas Delhi ke darwaazon par, 1739 Nadir Shah) — ye beat khud us do-saal ka silsila hai; Part 2 mein teen (1761, 1757, 1770) — Panipat se akal tak; Part 7 mein ek (Nadir Shah ka hamla maut se chaar saal pehle); Part 9 mein do (1776 America, 1760 George III); Part 10 mein teen (1600 sanad, 1660 Royal Society, 1760 bunai ki machine) — wo beat khud do England ki tareekhon ki tulna hai. Baaki sab jagah ek-ek tareekh.
+- **Tareekhon ki ginti:** Part 1 mein do (1737 Marathas Delhi ke darwaazon par, 1739 Nadir Shah) — ye beat khud us do-saal ka silsila hai; Part 2 mein paanch (1761, 1757, 1770, 1799, 1818) — Panipat se akal, phir Tipu ka ant aur Maratha taaqat ka khatam; Part 5 mein ek (1765–1795, Ahalya Bai ka raaj); Part 7 mein do (1743 maut, 1739 Nadir Shah ka hamla); Part 8 mein ek (1776, Adam Smith ki kitaab); Part 9 mein do (1776 America, 1760 George III); Part 10 mein teen (1600 sanad, 1660 Royal Society, 1760 bunai ki machine) — wo beat khud do England ki tareekhon ki tulna hai. Baaki sab jagah ek-ek tareekh. Part 2 ab sabse dense beat hai (paanch tareekhein, 431 shabd ≈ 2.7 minute) — record karte waqt ise saans lene dena.
 
 ## Writer's check (recording se pehle hata dena)
 
 **Phase A–E nichod**
 
-- **Fact ledger:** `book/chapters/ch06.txt` ke S14, S15, S16, S17 — inme se 58 atoms (N/D/C/Q/A) ek-ek kar ke likhe gaye. U (naye) atoms: CO 2 (Jai Singh, Portugal ki tables) · P1 4 (Marathas ka pichhla naata, Haider Ali, Nadir Shah, Mor Sihasan) · P2 5 (Ahmad Shah Durrani, Peshwa, Scindhia, Holkar, Clive) · P3 2 (sepoy, kiraye ke sipahi) · P4 4 (Gurkhas, Tees Saal ki Jung, Thompson, Nana Farnavis) · P5 1 ("khatre ka waqt") · P6 3 (Jat Sikh, Jacquemont, Prinsep/Osborne ka joda) · P7 4 (vedhshalaayein, khagol-vid, Euclid, logarithm) · P8 4 (hundi, Herat, Tashkent, Adam Smith) · P9 5 (George III, Bastille, Royal Society, bunai ki machine, 1776) · P10 2 (Hampden-Cromwell ka joda, 1600 ki sanad) · P11 0 · **kul ~36** (≤75). Koi beat apne (words/160 × 3) se upar nahi.
+- **Fact ledger:** `book/chapters_v2/ch06.txt` ke S14, S15, S16, S17 — inme se 58 atoms (N/D/C/Q/A) ek-ek kar ke likhe gaye. U (naye) atoms: CO 2 (Jai Singh, Portugal ki tables) · P1 4 (Marathas ka pichhla naata, Haider Ali, Nadir Shah, Mor Sihasan) · P2 5 (Ahmad Shah Durrani, Peshwa, Scindhia, Holkar, Clive) · P3 2 (sepoy, kiraye ke sipahi) · P4 4 (Gurkhas, Tees Saal ki Jung, Thompson, Nana Farnavis) · P5 1 ("khatre ka waqt") · P6 3 (Jat Sikh, Jacquemont, Prinsep/Osborne ka joda) · P7 4 (vedhshalaayein, khagol-vid, Euclid, logarithm) · P8 4 (hundi, Herat, Tashkent, Adam Smith) · P9 5 (George III, Bastille, Royal Society, bunai ki machine, 1776) · P10 2 (Hampden-Cromwell ka joda, 1600 ki sanad) · P11 0 · **kul ~36** (≤75). Delta pass (2026-10-17) ne 16 aur atoms jode — P2 6 · P4 4 · P5 4 · P7 1 · P8 1 (list "Delta pass" block mein). Koi beat apne (words/160 × 3) se ab bhi upar nahi.
 - **F/U:** F maane gaye — Tipu, Angrez, French, Delhi, Company, Bengal, Panipat, Plassey, Napoleon, Shivaji, Bastille, Shakespeare, Milton, Bible, America. Baaki sab U, aur har U ka anchor ≤15 shabd ka hai.
-- **Beat sheet (11 beats):** P1 438 · P2 299 · P3 296 · P4 381 · P5 310 · P6 406 · P7 619 · P8 409 · P9 421 · P10 352 · P11 270. Har beat 250–650 shabd, ek idea, ek hook. P7 sabse bhaari (Jai Singh ka poora hissa), par 650 ke andar.
+- **Beat sheet (11 beats):** P1 438 · P2 431 · P3 296 · P4 468 · P5 379 · P6 406 · P7 627 · P8 411 · P9 421 · P10 352 · P11 270. Har beat 250–650 shabd, ek idea, ek hook. P7 sabse bhaari (Jai Singh ka poora hissa), par 650 ke andar.
 - **T6 (deferred):** koi nahi. Chaaron sub-sections is episode mein poore hote hain.
 - **R18:** draft par R16–R17 dobara chalayi gayi (neeche).
 
@@ -624,23 +657,37 @@ Tab tak ke liye, namaskar.
 | S17 | | **payoff:** Jaipur ki raat; jawab; galat England + galat Bharat | P11 | T1 |
 | S17 | | America ki azaadi saath-saath; saaf kaagaz; Nehru ki aakhri line | P11 | T1/T2 |
 
+**Delta pass (v2 rebuild, 2026-10-17)**
+
+- **Source:** `book/chapters_v2/ch06.txt` (Internet Archive full text se dobara bana). Purani lossy copy ke muqable is chapter mein kareeb 13,000 shabd naye; in chaar sub-sections mein ~2,965 (S14 +~910, S15 +~1,210, S16 +~250, S17 +~595).
+- **Facts added (16), beat-by-beat:**
+  - **P2 (6):** Nizam/Hyderabad ka dikhava aur "bhusa parda" · Nizam ka lashkar bikhar kar Company ke pankh tale aashrit hona · Warren Hastings ka 1784 ka verdict · 1799 mein Tipu ka ant · 1818 tak Maratha taaqat khatam aur bade sardaron ka jhukna · Punjab bahar rehna aur baaki ladaiyan sirf naqshe ki theek-thaak.
+  - **P4 (4):** Haider Ali ka adhoora morcha (Marathas, Nizam, Oudh) · rishwat aur jasoosi ka kharida hua jaal · "aksar ladai se pehle hi ladai jeet jaate the" · Scindhia ke afsar ka defection.
+  - **P5 (4):** Allawardi ke raaj ka Bengal · Plassey ke baad Bengal ka loot · Ahalya Bai (Indore, 1765–1795, marne ke baad sant) · Bengal toota / madhya Bharat phala.
+  - **P7 (1):** Jai Singh ki maut 1743 (flag band — ab poora saal bolta hai). **P8 (1):** *The Wealth of Nations*, 1776.
+- **Beats touched:** P2 (+~132), P4 (+~87), P5 (+69), P7 (+8), P8 (+4, replacement). Cold open, P1, P3, P6, P9, P10, P11, "Aaj ke hisaab se" aur Outro ke shabd chhue nahi gaye.
+- **Word counts:** narration **~4,897 → ~5,195** (Cold open se Outro tak, headings aur `[SFX]` lines chhod kar, `wc -w`). Cap 5,200 — 5 shabd ki jagah bachi.
+- **Hook chain change:** P2 ka ant ab "baaki ladaiyan sirf naqshe ko theek kar rahi thin" (pehle "baaki sab inke aage-peechhe"; wo line beat ke andar hi rahi, mitayi nahi gayi).
+- **Density check:** P2 mein paanch tareekhein (1761, 1757, 1770, 1799, 1818) ek hi beat mein — 431 shabd ≈ 2.7 minute, yaani ~3 naye item prati minute ke andar, aur beech mein drishya hai.
+- **NEEDS SPLIT: yes** — rebuild ka poora naya saar 5,200 ke cap mein nahi aata. Jo aa gaya wo sabse zyada story-moving hai; baaki (Haider Ali ki navy aur Maldive adda, Tipu ke Napoleon/Constantinople sandesh, 1804 Agra, Metcalfe 1806, Murshidabad–Dacca, khabar-bhaav ka jaal, Beards ka list, S16 ka "shell" paragraph, 1818 ke baad ka naqsha) "Kitaab mein aur" (T5) mein hai. Poora weave karne ke liye ~700–900 narration shabd aur chahiye — yaani ~5,900 shabd ka episode; ise is episode mein na thonsa jaye.
+
 **R17 spot-the-lecture (12 signals)**
 
 1. Teen ya zyada sentences naam/saal se shuru — clean; P1 aur P10 ke saal do drishyon mein baante gaye.
 2. Teen se zyada U item ki list — P2 ka "Poona ka Peshwa, Scindhia, Holkar" (theek 3), tail T5.
-3. Beat ka event "Nehru batate hain" — 3 jagah "Nehru likhte hain" hai, par har jagah usse pehle koi manzar ya sawal hai (P5 mein Thompson ka manzar, P8 mein bazaar, P11 mein do parche).
+3. Beat ka event "Nehru batate hain" — 4 jagah "Nehru likhte hain" hai (P2 naya, P5, P10, P11), par har jagah usse pehle koi manzar ya sawal hai (P2 mein sangh aur Nizam ka manzar, P5 mein Thompson ka manzar, P10 mein do England ka sawal, P11 mein do parche).
 4. Lagataar sentences mein tareekhein — P2 mein 1761 → 1757 → 1770, beech mein drishya hai; P10 poora tareekhon ka beat hai (declared, Sources mein).
 5. Quote ke saath kitaab ka naam — nahi; kitaabon ke naam sirf T5 mein.
 6. Beat jo sawal ko aage nahi badhata — koi nahi.
 7. Har beat mein "kyun" — hai ("isliye", "nateeja?", "to ab asli sawal", "fayda?").
 8. Beat ka ant fact par nahi, hook par — hai (Hook chain dekhiye).
-9. Signpost words ("Ek aur baat", "Iske alawa") — ek bhi nahi.
+9. Signpost words ("Ek aur baat", "Iske alawa") — ek bhi nahi; delta pass ke "Ek misaal." aur "Aur aage?" is ginti mein nahi aate (wo beat ka silsila jodte hain, naya topic nahi kholte).
 10. 20 shabd se lambe sentence — P4, P8, P9 mein kuch tode gaye.
 11. Sentences ka kram badla ja sakta hai — nahi: har beat ka ek direction hai (karan → nateeja, ya peechhe se aage).
 12. Do se zyada inline aaj-bridge — ek hi (P9).
 
 **Hook chain (har Part ki aakhri line, aur beech ke teen turn)**
 
-CO: is baar do table nahi honge, do England honge → P1 (andar ka turn: "pahaadon ke us paar") → P1: ek sarhad tod di → P2: baaki sab inke aage-peechhe → P3: mili jagah, wo mili shikayatein → P4: humari alag-alag taaqatein thin → P5: shaanti kisi aur tareeqe se bhi aa jaati → P6: us zamane ke kai sabhya rajyon se zyada reham-dil → P7: unke bank, unke bazaar, unki karkhane → P8: us khaali jagah ko kisi cheez ne bharna tha → P9: haalat wahin ki wahin khadi thi → P10: galat Bharat se milta, aur use aur uksata → P11: zindagi ko jeene laayak banati hain → Aaj ke hisaab se → Outro: agla chapter wahi kholta hai.
+CO: is baar do table nahi honge, do England honge → P1 (andar ka turn: "pahaadon ke us paar") → P1: ek sarhad tod di → P2: baaki ladaiyan sirf naqshe ko theek kar rahi thin → P3: mili jagah, wo mili shikayatein → P4: humari alag-alag taaqatein thin → P5: shaanti kisi aur tareeqe se bhi aa jaati → P6: us zamane ke kai sabhya rajyon se zyada reham-dil → P7: unke bank, unke bazaar, unki karkhane → P8: us khaali jagah ko kisi cheez ne bharna tha → P9: haalat wahin ki wahin khadi thi → P10: galat Bharat se milta, aur use aur uksata → P11: zindagi ko jeene laayak banati hain → Aaj ke hisaab se → Outro: agla chapter wahi kholta hai.
 
-**Kamiyan / kya pakka karna hai:** Jai Singh ki maut ki tareekh (Sources ka flag — script mein koi saal nahi bola gaya); teen GAP (S14 ka Hastings quote, S15 ka `$2a`, S17 ka `$26`); aur ch06.txt ka ant USA wale paragraph par hai — ye poori kitaab se milaa lena.
+**Kamiyan / kya pakka karna hai:** Delta pass ke baad koi GAP khula nahi hai — Hastings quote, `$2a`, `$26`, chapter ka ant aur Jai Singh ki tareekh (1743) sab v2 se band ho gaye. Ek hi cheez pending hai: **NEEDS SPLIT: yes** (jo atoms 5,200 ke cap mein na baithe, wo "Kitaab mein aur" mein hain; reason "Delta pass" block mein).

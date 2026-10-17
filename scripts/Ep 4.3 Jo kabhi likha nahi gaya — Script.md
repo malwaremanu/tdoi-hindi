@@ -4,32 +4,33 @@ Oct 17, 2026 · @Manupal Choudhary
 
 ## Episode info
 
-Ye script Chapter 4, "The Discovery of India", ke paanch hisson wale naye set ka teesra episode hai. Is episode mein chapter ke beech ke sub-sections aate hain: puraanon ko padhne ka Nehru ka tareeqa, kho gaya bhautikvaad, mahakavya aur kalpit itihaas, Mahabharat, aur Bhagavad Gita. Kahani ka dhaancha ek paheli hai: Vikram Samvat ke do hazaar saal, aur ye sawal ki Vikram the kaun. Lambai lagbhag 4,650 narration shabd hai, yaani kareeb 29 minute ka audio (160 shabd prati minute ke andaaze se).
+Ye script Chapter 4, "The Discovery of India", ke chhah-episode wale naye set ka teesra episode hai. Ye purane 4.3 ka **re-cut** hai: purane script ka cold open yahin hai, aur uske Part 2, Part 8 aur Part 9 bhi yahin rehte hain (ab B5, B7, B9). Purane 4.2 ke aakhri do hisse (S11) yahan aate hain, aur S09 ka hissa purane 4.1 ke Part 10 se. Purane 4.3 ke Parts 1, 3, 4, 5, 6, 7 — devta, Ramlila, puraan, naqsha, Draupadi, Gita — ab Ep 4.4 ke hain, aur S14-S15 bhi wahin gaye hain.
 
-- **Set ka sawal (Ep 4.1–4.5):** Nehru ne Bharat ko "khoja", par khoj mein mila kya: ek jaati, ek dharm, ya kuch aur?
+Is episode mein chapter ke ye sub-sections aate hain: **S09** The Continuity of Indian Culture · **S11** The Advantages and Disadvantages of an Individualistic Philosophy · **S12** Materialism · **S13** The Epics, History, Tradition, and Myth — sirf cluster c+d (kalpit itihaas, itihaaskar na hona aur uski keemat, Vikram Samvat aur Vikram ki paheli).
+
+- **Set ka sawal (Ep 4.1-4.6):** Nehru ne Bharat ko "khoja", par khoj mein mila kya: ek jaati, ek dharm, ya kuch aur?
 - **Is episode ka sawal:** Jis desh ne apna itihaas likha hi nahi, wo apna ateet jaanta kaise hai?
-  **Jawab (Part 9):** Kahaniyon se. Wo ye nahi batati ki kya hua, par ye batati hain ki log kya maante the aur kya banna chahte the. Taaqat bhi yahi hai, aur khatra bhi: kahani ko tathya samajh lena.
-- **Spine (paheli):** "Vikram kaun the?" Cold open mein sawal khulta hai, Part 9 mein hal hota hai. Beech ke parts suraag hain. Baar-baar lautne wali cheez hai **mez par pada akhbaar**, jiske pehle panne par "do hazaar" chhapa hai.
+  **Jawab (payoff, Part 9):** Kahaniyon se — jo ye nahi batati ki kya hua, par ye batati hain ki log kya maante the aur kya banna chahte the. Taaqat bhi yahi hai, aur khatra bhi: kahani ko tathya samajh lena.
+- **Spine (paheli):** "Vikram kaun the?" Cold open mein sawal khulta hai, Part 9 mein hal hota hai. Beech ke parts suraag hain, aur har suraag ek aisi cheez hai jo likhi gayi aur kho gayi — ya jo kabhi likhi hi nahi gayi. Baar-baar lautne wali cheez hai **mez par pada akhbaar**, jiske pehle panne par "do hazaar" chhapa hai.
+- **Lambai:** 5,171 narration shabd, yaani kareeb 32 minute ka audio (160 shabd prati minute ke andaaze se). Sheet ka target 5,100 tha.
+- **Coverage:** S09, S11 aur S12 poore; S13 ka sirf c+d cluster. Aage bheja gaya (T6, Ep 4.4): S13 ke cluster a+b+e (mahakavya ka banna, Nehru ka bachpan aur Ramlila, devtaon ka utarna), poora S14 (The Mahabharata) aur poora S15 (The Bhagavad Gita) — inme se do kahaniyan is episode ke Outro ka wada hain. S05 ka puraan cluster bhi Ep 4.4 ka hai.
+- **Source rebuild (2026-10-17):** is episode ke tathya `book/chapters_v2/ch04.txt` se hain, jo Internet Archive ki poori text se dobara bani file hai (purani copy se 1.34 guna badi). Is episode ke chaar sub-sections ki poori text wahan maujood hai. Purani copy ke teen kataav is episode ke hisse mein the — S12 mein "palm-leaves or on bhurjapatra" par aur "They denounced the Vedas" par, aur S13 mein "a beau ideal" par. Teeno rebuild mein band ho chuke hain, isliye aaj wo baatein bolne layak hain.
 - Original ka koi sentence use nahi hua. Nehru ki apni baat sirf reported speech mein hai. Jahan wo kisi vidvaan ya granth ko quote karte hain, wahan sirf saar hai, aur zyada se zyada ek chhoti line.
-- Kram apna hai: shuruaat Vikram Samvat se hoti hai, jo book mein "The Epics, History, Tradition, and Myth" ke aakhri hisse mein aata hai. Kailash ke devta, jo book mein usi sub-section ke ant mein hain, Part 1 mein aage laaye gaye hain. Kahani Part 9 mein wapas akhbaar par lautti hai.
-- Har naam, tareekh aur ankda `book/chapters/ch04.txt` se hai. Jo pehchaan-lines book se bahar ki hain, wo Sources mein "Aam jaankari" ke neeche hain.
-- Do "aaj" wale pul inline hain (Part 3 aur Part 5), aur aakhir mein "Aaj ke hisaab se". Har pul "Aaj sochiye" se shuru hota hai, taaki koi aaj ki baat Nehru ki baat na samjhe.
-- Mahaul ke kai rang kahani ke liye kalpana se hain, book ke tathya nahi. Narration khud "sochiye", "kalpana kijiye" ya "shayad" kehti hai (list Sources mein hai).
-- **SFX:** is episode ka koi SFX plan abhi nahi hai, aur ye kisi purane plan ko aage nahi badhata. Zaroori cues `[SFX: …]` ke roop mein inline hain: cold open mein 4, Part 3 mein 1 (optional) aur Part 9 mein 1. Aage banne wale `scripts/Ep 4.3 — SFX plan.md` ki shuruaat yahi cues hain.
+- Kram apna hai: shuruaat Vikram Samvat se hoti hai, jo book mein "The Epics, History, Tradition, and Myth" ke aakhri hisse mein aata hai. Kailash ke devta — jo book mein usi sub-section ke ant mein hain — ab Ep 4.4 ke cold open hain.
+- Do "aaj" wale pul inline hain (Part 3 aur Part 8), aur aakhir mein "Aaj ke hisaab se". Har pul "Aaj sochiye" ya "Aaj ke hisaab se" se shuru hota hai, taaki koi aaj ki baat Nehru ki baat na samjhe.
+- Mahaul ke rang kahani ke liye kalpana se hain, book ke tathya nahi (list Sources mein hai). Jahan kalpana hai, narration khud "sochiye", "kalpana kijiye" ya "shayad" kehti hai.
+- **SFX:** is episode ka apna SFX plan abhi nahi hai. Zaroori cues `[SFX: ...]` ke roop mein inline hain — cold open mein 4, Part 5 mein 1, Part 7 mein 1 aur Part 9 mein 1. Aage banne wale `scripts/Ep 4.3 — SFX plan.md` ki shuruaat yahi cues hain.
 
 * [x] Narration: Asha. Podcast: "The Discovery of India, Hindi mein".
 
 | Book ka sub-section (ch04) | Script mein kahan |
 | --- | --- |
-| S05 The Earliest Records : Scripture and Mythology (sirf puraan wala cluster) | Part 1 |
-| S12 Materialism | Part 2 |
-| S13 The Epics, History, Tradition, and Myth | Cold open + Part 1 (Kailash, devta-prateek) + Part 3 + Part 4 + Part 8 + Part 9 |
-| S14 The Mahābhārata | Part 5 + Part 6 (+ Part 7 mein Gita ka Mahabharat ka hissa hona) |
-| S15 The Bhagavad Gita | Part 7 |
+| S09 The Continuity of Indian Culture | Part 1 + Part 2 |
+| S11 The Advantages and Disadvantages of an Individualistic Philosophy | Part 2 (suraj wala passage) + Part 3 + Part 4 |
+| S12 Materialism | Part 5 + Part 6 |
+| S13 The Epics, History, Tradition, and Myth (cluster c+d) | Cold open + Part 7 + Part 8 + Part 9 |
 
-Shabd-ginti (narration, `wc -w`, headings aur SFX lines ke bina; sheet ka target bracket mein): Cold open + ident + Ab tak 410 (440) · P1 398 (400) · P2 566 (520) · P3 498 (450) · P4 490 (450) · P5 537 (500) · P6 457 (400) · P7 459 (400) · P8 493 (450) · P9 415 (400) · Aaj 152 (160) · Outro 70 (80) · **Kul 4945** (4,650). Har part ±15% ke andar; kul hard range 4,200–5,000 ke andar.
-
-**Coverage:** S05 ka sirf puraan wala cluster (dating aur scripture wale clusters → Ep 4.2-B1, wahan already diye gaye). S12, S13, S14, S15 poore. Chhe GAPs (S05 mein ek, S12 mein do, S13 mein ek, S14 mein ek, S15 mein ek) sirf bache hue saar ke star par diye gaye hain; repo ki poori book (`book/the-discovery-of-india.txt`) mein bhi wahi kataav hain. Kuch chhoda nahi gaya; T5 waale naam aur list ki poonchh sirf "Kitaab mein aur" mein hain. T6 (aage bheja gaya) kuch nahi; Jataka sirf Outro ka hook hai, unke tathya S16 ke hain aur Ep 4.4 mein aayenge.
+Shabd-ginti (narration, `wc -w`, headings aur SFX lines ke bina; sheet ka target bracket mein): Cold open + ident 412 (440) · Ab tak 56 (58) · P1 464 (480) · P2 446 (490) · P3 474 (500) · P4 574 (500) · P5 610 (530) · P6 477 (470) · P7 424 (450) · P8 456 (460) · P9 533 (467) · Aaj 155 (160) · Outro 90 (80) · **Kul 5,171** (5,100). Har part ±15% ke andar (P4 aur P5 apni seema ke bilkul kinare par hain); kul hard range 5,000-5,200 ke andar.
 
 ## Cold open
 
@@ -47,11 +48,13 @@ Bharat ke bade hisse mein yahi samvat maana jaata hai. Iska hisaab suraj se chal
 
 Aur is April, is samvat ke poore do hazaar saal ho gaye hain. Ek naya hazaar saal shuru ho raha hai.
 
-Do hazaar saal. Aur in saalon par ek hi naam. Vikram. Ya poora naam, Vikramaditya.
+Do hazaar saal. Aur in saalon par ek hi naam. Vikram. Ya poora naam, Vikramaditya — logon ka wo purana nayak, jiske naam se ye ginti chalti hai.
 
 Ye naam har ghar mein jaana-pehchana hai. Vikram ke insaaf ki kahaniyan. Uski himmat ki. Uski samajh ki. Anginat kahaniyan is ek naam se chipki hain.
 
 Aur ye kahaniyan yahin nahi ruki. Madhyakaal mein wo naye-naye kapde pehen kar Asia ke kai deshon tak gayi. Aur baad mein Europe tak.
+
+To aaj is kothri mein ek aadmi us jashn ko yaad kar raha hai — par apne tareeke se. Wo ginti ko nahi, jhandon ko nahi, us ek naam ko dhoondhta hai.
 
 [SFX: dhol ek jhatke mein kat jaate hain. Sannata. Door kahin ek akela kauva.]
 
@@ -71,7 +74,7 @@ Aur the kab?
 
 Sawal aasaan lagta hai. Jiska naam do hazaar saal se chal raha hai, uske baare mein itna to pata hoga.
 
-Par Nehru jab jawab dhoondhne baithte hain, to haath kuch nahi aata.
+Par Nehru jab jawab dhoondhne baithte hain, to haath kuch nahi aata. Wo kitaabein palatte hain. Purane grant. Purani soochiyan. Aur wahan is naam ke ird-gird sirf kahaniyan milti hain.
 
 Is sawal ka jawab hum aaj ke aakhir mein sunenge. Tab tak ye akhbaar mez par hi pada rahega.
 
@@ -85,311 +88,339 @@ Aaj ka har kissa ek suraag hai. Aur aakhri suraag hume wapas isi akhbaar tak le 
 
 ## Ab tak
 
-Ab tak: 1944, Ahmadnagar ka qila, aur ek qaidi jo Bharat ko samajhne ke liye peechhe lautta hai. Wo ret mein dabe shehar tak gaye, phir Ved aur Upanishad ke sawalon tak. Aur pichhli baar ek ajeeb baat mili. Kuch log Vedon ko hi nakaar dete the. Unki ek bhi kitaab nahi bachi. To hum jaante kaise hain ki wo the?
+Ab tak: 1944, Ahmadnagar ka qila, aur ek qaidi jo Bharat ko samajhne ke liye peechhe lautta hai. Pichhli baar hum Ved aur Upanishad ke sawalon tak gaye. Aur wahan ek ajeeb baat nikli. Kuch log Vedon ko hi nakaar dete the. Unki ek bhi kitaab nahi bachi. To hum jaante kaise hain ki wo the?
 
-## Part 1: Devta jo utar kar khelte the
+## Part 1: Teen hazaar saal ka dhaaga
 
-Akhbaar mez par pada hai. Par Vikram tak pahunchne se pehle, Nehru ek aur uljhan suljhaate hain.
+Nehru akhbaar se nazar hataate hain. Par sawal peechha nahi chhodta.
 
-Purani kahaniyon ko padhein, to kaise padhein?
+Do hazaar saal? Iski jad kitni gehri hai?
 
-Pichhle episode mein unhone dharm-granthon ke liye ek niyam banaya tha. Unhe insaan ki likhi kitaab ki tarah padho. Ab wahi niyam wo puraanon par lagaate hain.
+Wo dhaage ko aur peechhe kheenchte hain. Aur dhaaga tootta nahi.
 
-Unka tark do qadam ka hai.
+Kyunki ye dhaaga do hazaar saal ka nahi, teen hazaar saal se bhi purana hai.
 
-Pehla qadam. Agar koi in kahaniyon ko sach ghatna maan le, to bahut kuch bematlab lagta hai. Ajeeb. Hansi ke laayak.
+Nehru kehte hain ki in bahut shuruaati dino mein hi us sabhyata ki neev pad chuki thi, jo aage ke zamane mein itni bharpoor khili. Uske buniyaadi aadarsh, uski soch ke bade khambhe, tab hi ban rahe the. Sahitya aur darshan, kala aur natak — sab unhi ke saanche mein dhalte gaye.
 
-Doosra qadam. Jaise hi aap unhe tathya maanna chhod dete hain, wo badal jaati hain. Ek nayi roshni mein dikhti hain. Kalpana ka ek bhara-poora bageecha. Aur har kyaari mein insaan ke liye koi seekh.
+Aur phir ye dhaaga chalta hi raha.
 
-Nehru Yunan ki misaal dete hain. Aaj Yunani devi-devtaon ko koi sach nahi maanta. Isiliye hum bina kisi bojh ke unki tareef kar paate hain. Wo humari saanjhi virasat ban gaye hain.
+Wo daud itni lambi thi, aur usme itni jaan thi, ki wo saikdon saal tak chalti rahi — hamare zamane tak.
 
-Ab sochiye, agar unhe sach maanna zaroori hota. Tab wo kahaniyan ek bojh ban jaati. Aur us bojh ke neeche unki khoobsurti dab jaati.
+Ek vidvaan ne Sanskrit sahitya ke itihaas mein ye baat likhi hai. Yunan ke log chauthi sadi Isa-poorv mein jab north-west mein aaye, tab tak Bharatiya apni ek rashtriya sanskriti bana chuke the. Wo sanskriti bahar ki chhuan se alag thi.
 
-Aur Nehru ke hisaab se Bharat ke puraan Yunan se bhi zyada ameer hain. Zyada vishaal. Bahut sundar. Aur arth se bhare hue.
+Uske baad Irani aaye. Yunani aaye. Shak aaye. Aur bahut baad mein Musalman. Phir bhi is desh ki zindagi aur sahitya ki apni raah lagbhag ruki nahi, badli nahi — angrezon ke aane tak.
 
-Phir wo us zamane mein jhaankte hain, jab ye kahaniyan bani. Zindagi bhari-poori thi, prakriti ke saath ek taal mein. Insaan hairat aur khushi se brahmaand ko dekhta tha. Aasmaan aur dharti paas-paas lagte the.
+Indo-European parivaar ki kisi doosri shakha ka safar aisa nahi raha. Sirf ek aur desh aisa hai — China. Wahan bhasha, sahitya, vishwas aur riwaaz teen hazaar saal se zyada ek lagataar dhaar mein chalte aa rahe hain.
 
-Aur devta Kailash se neeche utar aate the. Himalaya ke apne thikaanon se. Insaanon ke saath khelne. Kabhi-kabhi unhe sazaa dene bhi.
+Par rukiye. Iska matlab ye nahi ki Bharat duniya se kata hua tha.
 
-Bilkul waise hi, jaise Yunani devta Olympus se utarte the. Olympus — Yunan ka wo parvat, jahan unke devta rehte maane jaate the.
+Nehru yahin ek zaroori baat jodte hain, aur ye baat purani copy mein gayab thi. Is lambi yatra mein Bharat ka Iraniyon se, Yunaniyon se, Chiniyon se, Madhya Asia ke logon se lagataar aur zinda rishta raha. Agar itne mel-jol ke baad bhi uski buniyaadi sanskriti bachi rahi, to us sanskriti ke andar kuch tha. Koi andar ki jaan. Zindagi ko samajhne ki koi taaqat.
 
-Yunani devtaon ke ek bade vidvaan ne unke baare mein kuch kaha. Nehru wahi baat Bharat par bhi lagaate hain. Ye devta kalakaron ke sapne the. Prateek the, kisi badi cheez ki taraf ishaara. Inhone kabhi aisa aqeeda nahi diya jo gyaan se takraaye. Na aisa hukm, jo insaan ko apni andar ki roshni ke khilaaf chalaaye.
+Europe ke ek darshanik ne isi cheez ko pakda tha.
 
-Phir dheere-dheere ye devta peechhe hat gaye. Unki jagah kathin, gehre darshan ne le li.
+Schopenhauer — Germany ka wo darshanik, jise duniya niraashavadi soch ka aadmi maanti hai. Us niraashavadi aadmi ne likha ki upanishadon ka adhyayan unki zindagi ka sahara tha. Aur unki maut ka bhi sahara hoga.
 
-Par logon ke mann mein unki tasveerein tairti rahin. Khushi mein saathi. Dukh mein dost.
+Sochiye. Jise zindagi mein kuch nahi dikhta, use in kitaabon mein aaraam milta hai.
 
-Aur Nehru sochte reh jaate hain. Kaun the wo log, jinhone ye chamakte sapne gadhe? Kis khaan se unhone ye sona nikala?
+Aur usi dhaage par ek French lekhak bhi khade hain. Unhone likha ki dharti par ek hi jagah aisi hai. Wahan insaan ke sab sapne, shuruaat se, ghar bana kar rehte aaye hain.
 
-Par kuch log aise bhi the, jo in sapnon par sawal uthaate the. Unki kahani kahan hai?
+Teen hazaar saal. Ek dhaaga. Aur is dhaage mein ek baat chhupi thi, jo Nehru ko sabse zyada pareshan karti hai.
 
-## Part 2: Jo kitaabein kho gayi
+Ye sabhyata apne aap ko sambhaale rahi. Par usne apne andar ek deewar bhi khadi kar li.
 
-Ek pustakalay ki kalpana kijiye. Lambi-lambi almaariyan. Aur har almaari khaali.
+Wo deewar kahan se aayi? Iska pehla suraag ek ajeeb se passage hai — suraj ke baare mein.
 
-Nehru ise humari sabse badi badkismati mein ginte hain. Duniya ka bahut sara purana sahitya kho gaya. Yunan mein bhi, Bharat mein bhi, aur jagah bhi.
+## Part 2: Suraj kabhi doobta nahi
 
-Shayad ye hona hi tha. Ye kitaabein taad ke patton par likhi jaati thi. Ya bhurjapatra par — ek ped ki chhaal, jise bhojpatra bhi kehte hain.
+Nehru kitaab palatte hain. Aur ek chhote se passage par ruk jaate hain.
 
-Sochiye, ek patta kitne saal chalega?
+Upanishadon mein kisi ne suraj ke baare mein likha hai — wo na doobta hai, na ugta hai.
 
-In khoyi kitaabon mein ek poori dhaara hai. Bhautikvaad. Wo soch, jo isi duniya aur padarth ko asli maanti thi.
+Sochiye. Hum shaam ko dekhte hain ki suraj doob gaya. Par wo doobta nahi. Din ka safar poora karke wo bas apni jagah badal deta hai. Yahan raat utarti hai — aur dharti ke us paar, jahan hamari raat abhi pahunchi hi nahi, wahan din hai.
 
-Ye soch shuruaati Upanishadon ke baad aayi. Sadiyon tak chali. Apne zamane mein logon par iska gehra asar tha.
+Subah bhi wahi khel. Jab hum kehte hain ki suraj nikal aaya, tab wo us paar apna kaam khatm kar chuka hota hai. Us taraf raat hoti hai, yahan din.
 
-Par aaj iski ek bhi kitaab nahi bachi. Ek bhi nahi.
+Suraj kabhi doobta nahi. Bas duniya ghoomti rehti hai.
 
-To pichhle episode ka sawal. Hum jaante kaise hain ki ye log the?
+Sochiye us aadmi ko jo ye soch raha tha. Wo apne gaon ke aangan mein khada hai. Aur wo jaanta hai ki us aangan se kuch kadam door, dharti ke doosre taraf, abhi log apna din shuru kar rahe hain. Uski raat wahan ka din hai. Aur wahan ki raat ek din uske aangan mein aayegi.
 
-Jawab ulta hai. Unke virodhiyon se.
+Nehru is passage ko ajeeb aur dilchasp kehte hain. Hazaaron saal pehle koi apne pairon ke neeche ki dharti ke doosre taraf se soch raha tha.
 
-Baad ke vidvaanon ne inke khilaaf lambi behas likhi. Inhe galat saabit karne ki koshish ki. Aur un behson ke beech, yahan-wahan, bhautikvaadiyon ki baatein bach gayi.
+Ab usi zamane ki doosri taraf dekhiye. Nehru ek hi saans mein do baatein likhte hain, aur dono ek doosre se ulte hain.
 
-Sochiye. Kisi insaan ko sirf uske dushmanon ki chitthiyon se jaanna. Bura tareeqa hai. Par isme ek suraag chhupa hai. Agar virodhi itni mehnat se kaat rahe the, to wo unke liye bada khatra tha.
+Pehli baat. Tab hi is sabhyata ke aadarsh aur uski soch ke bade khambhe ban rahe the. Sahitya, darshan, kala, natak — sab unhi ke saanche mein dhalte gaye.
 
-Ek aur gawaah hai. Arthashastra — Kautilya ki kitaab, jinhe Chanakya bhi kehte hain, raj aur arthvyavastha par. Ye Isa se chaar sau saal pehle ke aas-paas likhi gayi. Aur isme bhautikvaad ko Bharat ke bade darshanon mein gina gaya hai.
+Aur doosri baat. Usi ke saath, ek deewar bhi uth rahi thi.
 
-To baaki kitaabein gayi kahan? Nehru ka andaaza hai ki baad ke zamane mein pujaariyon aur kattar dharmik logon ne inmein se bahut kuch nasht kar diya.
+Ek alag-thalag rehne ki aadat. Ek chhu-lo-to-gunaah wala bhaav, jise Nehru "touch-me-not" kehte hain. Wo dheere-dheere badhti gayi. Aur badhti hi gayi. Aakhir mein wo itni mazboot ho gayi ki usne sab kuch jakad liya — jaise ek octopus, jiske sau haath hon. Aaj ki jaati-vyavastha usi ki shakl hai.
 
-Kyunki ye log kisi ko nahi bakhshte the. Har sattaa par sawal. Soch, dharm aur dharmshastra mein har jamaaye hue swarth par hamla. Aur Vedon ki bhi khuli ninda.
+Nehru ek baat saaf-saaf kehte hain. Wo vyavastha kisi ek din ke liye bani thi. Maqsad tha us waqt ke samaaj ko mazbooti dena. Santulan dena.
 
-Nehru ko ye sab aaj ka lagta hai. Do hazaar saal se zyada purana nahi.
+Par wo badal nahi paayi.
 
-To ye vidroh kahan se aaya? Nehru ke paas poori jaankari nahi. Par ek tasveer banti hai. Wo raajnitik takraav aur samaajik uthal-puthal ka daur tha. Purana vishwas bikhar raha tha.
+Wo us samaaj ke liye ek jail ban gayi. Aur insaan ke mann ke liye bhi.
 
-Isi uthal-puthal se naye darshan nikle. Ab soch tark aur behas par khadi thi. Jain darshan. Bauddh darshan. Aur ek teesri dhaara, jise Nehru behtar shabd na milne par "Hindu" kehte hain.
+Suraksha mili. Keemat? Aage badhne ki taaqat.
 
-Dono mahakavya bhi isi daur ke hain. Aur Gita bhi. Kya pehle aaya, kya baad mein, kehna mushkil hai. Kuch Buddha se pehle, kuch baad mein, kuch saath-saath.
+Aur phir bhi, Nehru kehte hain, ye vyavastha sau saal nahi chali. Wo ek bahut lambi daud thi. Us daud mein ek aisi jaan thi, jo poore Bharat mein phail gayi, poorab ke samundron tak pahunch gayi, aur baar-baar aane wale jhatkon aur hamlon ke baad bhi zinda rahi.
 
-Phir Nehru Yunan ki taraf dekhte hain. Wahan bhi ek lambi ladai ne Athens ke loktantra ko tod diya tha. Nehru use Mahabharat ke yuddh ke paas rakhte hain. Dono jagah ladai ke baad nirasha aayi. Aadarsh halke pade. Log naye darshan tatolne lage. Shayad dono jagah chhote ganrajya kamzor pad rahe the, aur sattaa ek jagah simat rahi thi.
+To phir wo itne saal kaise chali, jab aage badhne ki raah band thi? Us jawab mein ek shabd hai. Tapasya.
+
+Aur usi jawab mein ek chhota sa ghera bhi hai.
+
+## Part 3: Tapasya aur chhota ghera
+
+Upanishadon mein ek baat baar-baar aati hai. Pehle shareer ko theek karo. Mann ko saaf karo. Dono ko sadho. Uske baad hi koi bada kaam hota hai.
+
+Gyaan mehnat se milta hai. Tyag se. Apne aap ko kaatne se. Isi ka naam tapasya hai.
+
+Nehru kehte hain ki ye tapasya sirf oonche darshanikon ki cheez nahi thi. Wo neeche, aam logon tak thi. Aaj bhi hai. Aur isi ko samajhna zaroori hai, agar humein Gandhiji ke us andolan ki psychology samajhni hai jisne poore Bharat ko hila diya.
+
+Aaj sochiye. Kai saal baad Gandhi ne apne andolan ka jo dhang banaya — kuch khaana chhod dena, charkha chalana, chup rehna, takleef uthana — wo isi purane vichaar ke saanche mein aata tha. Tyag, yahan, koi kamzori nahi thi. Wo taaqat ka tareeqa tha.
+
+Ab us doosri taraf dekhiye.
+
+Ye bade sawal — suraj, aatma, brahmaand — ye kuch hi logon ke sawal the. Wo ek chhota sa ghera tha. Kuch log, jo in baaton ko samajh sakte the. Aam aadmi ke liye ye baatein door ki cheez thi.
+
+Yahan Nehru ek niyam batate hain, aur ye unki apni soch hai.
+
+Ek creative minority — yaani wo thode log jo naya soch sakte hain — hamesha chhote hote hain. Ye theek hai. Par unhe baaki logon ke saath juda rehna chahiye. Unhe baaki logon ko apne saath aage khinchna chahiye, taaki dono ke beech ka faasla kam ho. Jab tak ye juda rehta hai, ek sthir aur saans leti hui culture banti hai.
+
+Jis sabhyata ke paas aisa koi sochne wala samuh hi nahi hota, wo murjha jaati hai.
+
+Par ek doosra khatra bhi hai. Agar wo dhaaga toot jaaye, to wo thode log khud barren ho jaate hain. Phir samaaj apne aap koi naya zinda force paida kar leti hai.
+
+Nehru ka andaaza? Us waqt un dono ke beech koi bada gulf nahi tha. Samaaj pehle se darjon mein bata hua tha, aur mann ke darje bhi usi ke saath chalte the. Isliye baat ban gayi. Jhagde kam hue.
+
+Par is santulan ki ek keemat thi.
+
+Nayi soch aam logon ke liye theek ki jaati thi — unhi ke purane vishwas mein lapet kar. Aur isi lapet mein us soch ka asli matlab kho jaata tha. Monism — "sab ek hi hain" — aam logon ke liye monotheism ban gaya. Neeche ke vishwas aur pooja? Wo bhi theek thi, kyunki wo logon ke ek khaas star ke liye thi.
+
+Upar wali soch ko haath nahi lagaya gaya. Neeche wala dhaancha waise hi khada raha.
+
+Nateeja? Soch upar tak pahunchi. Neeche chhilka pahuncha.
+
+Aur dheere-dheere faasla badhta gaya. Usi faasle se aage naye andolan uthe — bhautikvaad, agnosticism, atheism, Bauddh aur Jain darshan, aur mahakavya.
+
+Par isse pehle ki hum wahan pahunchein, ek aakhri baat. Nehru poora hisaab rakhte hain, aur usme achhai bhi hai.
+
+## Part 4: Jail se bahar ki deewar
+
+Nehru kehte hain ki isi intense individualism se bura hi nahi hua. Bura bahut hua. Par bhalai bhi.
+
+Us soch ne ek ke baad ek bahut oonche log paida kiye — kisi ek zamane mein nahi, har zamane mein. Usne poore culture ko ek ethical background diya. Wahi log, sirf apne example se, samaaj ko baar-baar joda, jab-jab wo tootne ko hua.
+
+Aur unki sabse badi baat? Sabra. Unhone doosron ke vishwas ko itna seh liya, ki wo jhagde nahi huye jo aur jagah samaaj ko faad dete hain.
+
+Ye ek budhe desh ki samajhdari thi.
+
+Par usi individualism ne ek cheez chhod di.
+
+Us soch ne insaan ke samaaj wale hisse ko kam ahmiyat di. Insaan ka samaaj ke prati farz kya hai?
+
+Us waqt ke samaaj mein har aadmi ki zindagi pehle se bani hui thi. Ek bundle of duties — apne chhote se khaane mein, apne darje mein, saare farz tay the.
+
+Par us aadmi ke andar ye bhaav kabhi nahi daala gaya ki wo poore samaaj ka hissa hai.
+
+Nehru yahan khud insaaf karte hain. Samaaj ke prati farz wali soch khud aadhunik hai. Kisi purane samaaj mein wo nahi milti. Isliye purane Bharat se iski ummeed karna galat hoga.
+
+Par ek baat unhe chubhti hai. Alag rehna aur darje — ye cheezein Bharat mein kahin zyada dikhti hain.
+
+Aur aage ke zamane mein? Ye logon ke mann ke liye ek poora jail ban gaya.
+
+Wo jail neeche ke logon ke liye sabse bura tha. Par Nehru ek baat jodte hain: wo jail upar walon ke liye bhi tha.
+
+Jaat mein kathorta aayi, aur uske saath mann mein bhi. Dono saath-saath badhe. Aur jaise kathorta badhi, is desh ki creative energy mand padi.
+
+Ek doosri ajeeb baat. Ye log har vishwas ko sehne wale the. Har reet ko. Har andhvishwas ko bhi.
+
+Yahi sehansheelta ek zeher bhi thi. Purane dhabbe dhulte hi nahi the. Jo riwaaz insaan ko dabaye hue the, wo badalte nahi the.
+
+Aur iska fayda kisne utaya? Wo log, jo pooja ke thekedaar ban baithe. Unhone aam logon ke andhvishwaason par apni taakat khadi kar li.
+
+Nehru ek baat saaf kar dete hain. Aise thekedaar Europe ke kuch churchon jitne taqatwar yahan kabhi nahi huye. Kyunki hamesha koi unke khilaaf bolne wala hota tha.
+
+Par itni sehansheelta kaafi nahi thi. Soch aur kathorta saath-saath rehne lage. Us se bahas ka ek naya dhang nikla, jisme sirf purane badon ke shabdon ka hawala diya jaata tha — unhe naye sawaalon ki roshni mein padhne ki koshish nahi hoti thi.
+
+Jab aisa hota hai, to kya bachta hai? Nehru kehte hain: sirf chhilka. Wo chhilka, jo pehle ek zinda, bhari-poori cheez tha.
+
+Ek aadhunik Bharatiya chintak ne ek baat likhi hai, jo Nehru ko andar tak chhoti hai. Agar upanishadon ke zamane ka koi Bharatiya aaj aa jaaye, to wo kya dekhega?
+
+Wo dekhega ki uski jaati purani shaklon aur purane chithdon ke peechhe chipki hui hai, aur us zinda cheez ka nau hissa kho chuka hai. Wo hairan hoga. Vigyaan kahan ruka hai. Kala kahan sookhi padi hai. Nayi chingari kahan bujh gayi.
+
+Ab sochiye us aadmi ko, jo is jail ke andar zinda hai. Deewar bahar nahi hai — wo andar hai.
+
+Aur jab mann ke darwaaze band ho jaate hain, to ek bada khazana bahar reh jaata hai.
+
+Us khazane ke baare mein kuch logon ne likha tha. Aur unki ek bhi kitaab aaj nahi bachi.
+
+## Part 5: Jo kitaabein kho gayi
+
+Ek puraani imaarat ki kalpana kijiye. Ek pustakalay, lambi-lambi almaariyan, aur har almaari khaali.
+
+[SFX: sookhe patton ki sarsaraahat, jaise kisi ne ek khaali almari ka darwaza khola ho]
+
+Nehru ise humari sabse badi badkismati kehte hain. Duniya ka bahut sara purana sahitya kho gaya — Yunan mein bhi, Bharat mein bhi.
+
+Ye kitaabein taad-patte par likhi jaati thi. Ya bhurjapatra par — bhurja ki chhaal, jo itne pyaare se chhoot jaati hai. Kisi kitaab ki kuch hi copies hoti thi. Agar wo kho gayi, to wo kitaab khatm. Sirf isaare bachte the — kisi doosri kitaab mein uska zikr ya quote.
+
+Sochiye. Ek patta kitne saal chalta hai?
+
+Aur phir bhi, Nehru batate hain, sahi se dhoondhe bina hi pachaas hazaar se zyada puraani Sanskrit kitaabein mil chuki hain — aur lagataar mil rahi hain. Kuch kitaabein Bharat mein mili hi nahi; unka Chini ya Tibbati tarjuma mila.
+
+Nehru kehte hain ki mandiron, vihaaron aur purane gharon ki almaariyon mein sahi se khoj ho, to kya pata kitna nikal aaye. In kitaabon ko padhna, chhaanna, chhapna — ye kaam abhi baaki hai. Aur ye humein tab karna hai, jab hum apni beriyan tod kar khud apna kaam kar sakein.
+
+Ab us khazane ki ek almari kholte hain. Jis kitaab ki baat kar rahe hain, wo ek nahi — ek poori dhaara hai.
+
+Wo dhaara hai jo upanishadon ke baad aayi: bhautikvaad.
+
+Us soch ne sadiyon tak is desh par asar daala. Uske maanne wale kitne the, ye hum jaante hain.
+
+Par aaj uski ek bhi kitaab nahi bachi. Ek bhi nahi.
+
+To hum jaante kaise hain ki ye log the? Jawab ulta hai. Unke virodhiyon se.
+
+Baad ke vidvaanon ne inke khilaaf lambi behas likhi, unhe galat saabit karne ki koshish ki. Aur un behson ke beech, yahan-wahan, bhautikvaadiyon ki baatein bach gayi.
+
+Sochiye. Kisi insaan ko sirf uske dushmanon ki chitthiyon se jaanna. Bura tareeqa hai. Par isme suraag chhupa hai: agar virodhi itni mehnat se kaat rahe the, to wo unke liye bada khatra tha.
+
+Ek gawaah Arthashastra hai — raaj aur arthvyavastha par chauthi sadi Isa-poorv ki kitaab. Isme bhautikvaad ko Bharat ke bade darshanon mein gina gaya hai.
+
+To baaki kitaabein gayi kahan? Nehru ka andaaza hai ki aage ke zamane mein pujaariyon aur kattar dharmik logon ne usmein se bahut kuch nasht kar diya.
+
+Kyunki ye log kisi ko nahi chhodte the.
+
+Ye log sattaa par hamla karte the — soch, dharm aur dharm-shastra mein jama huye har swarth par. Inhone Vedon ki khuli ninda ki.
+
+Aur unka sabse bada naara kya tha? Vishwas azaad hona chahiye. Koi baat purani hone se sach nahi hoti. Kisi baat ko maanne se pehle khud dekhna, khud jaanchna.
+
+Inhone jaadu aur andhvishwas par bhi vaar kiya. Jo cheez seedhe dekhi nahi ja sakti, uske baare mein kuch pakka nahi kaha ja sakta. Sirf wahi maano, jo tumhare saamne hai.
+
+Aur is duniya tatha matter ke alawa, unhone kaha, kuch doosra nahi hai — na swarg, na narak, na deh se alag koi aatma. Mann aur buddhi, sab inhi buniyadi tatvon se bane hain. Ye prakriti kisi ke bhale-bure ki parwaah nahi karti. Achhe-bure ke niyam bas insaan ke apne banaye huye the.
+
+Nehru likhte hain ki ye sab padh kar lagta hai ki ye aaj ki baat hai, do hazaar saal purani nahi.
+
+To ye soch aayi kahan se? Nehru saaf kehte hain: hum us zamane ke haalaat theek se nahi jaante. Par ek cheez saaf hai. Wo ek uthal-puthal ka daur tha. Purana vishwas toot raha tha. Aur log poochh rahe the — to phir raasta kya hai?
+
+Aisi hi ghadi mein naye raaste nikalte hain.
+
+Aur usi waqt, ek doosre desh mein bhi log bilkul yahi sawal pooch rahe the.
+
+## Part 6: Yunani aaina
+
+Us daur ke baare mein Nehru ek baat kehte hain, jo dhyan dene wali hai. Jis waqt ye sawal uthe, wo raajnitik takraav aur samaajik uthal-puthal ka zamana tha. Vishwas bikhar raha tha.
+
+Aur isi uthal-puthal se naye darshan nikle. Pehle jaise darshan tha, wo alag tha — Upanishad wala, jisme sawal ka jawab andar se aata tha. Ab soch tark par khadi thi. Behas par. Argument par.
+
+Nehru kehte hain ki ye soch kai rangon mein nikli — Jain, Bauddh, aur teesri ek, jise wo behtar shabd na milne par "Hindu" kehte hain. Dono mahakavya bhi isi daur ke hain. Aur Gita bhi.
+
+Chronology banana mushkil hai. Kya pehle aaya, kya baad mein — kuch Buddha se pehle, kuch baad mein, kuch saath-saath. Buddha chhathi sadi Isa-poorv mein aaye.
+
+Aur phir, dhyan dijiye, isi waqt Bharat ke darwaze par ek badi taaqat aayi. Persian samrajya Sindhu tak aa pahuncha. Ek itni badi taaqat ka seedha Bharat ki seema par aa jaana — usse logon ki soch par asar pade bina nahi reh sakta.
+
+Buddha ke do-teen sau saal baad, north-west mein ek aur mehmaan aaya. Sikandar.
+
+Nehru uski chadhai ko bahut chhoti cheez maante hain. Bahut chhoti. Par wo ek cheez thi — aage jo kuch hua, uski pehli kadam.
+
+Ab Nehru ek aaina uthaate hain. Aur usme hume Yunan dikhta hai.
+
+Us waqt ka Bharat chhote-chhote rajyon ka jhund tha. Kuch ganrajya the. Kuch chhote raja. Aur kuch shehar-rajya, jahan vyapaariyon ki taqatwar guilds thi. Ganrajya aur shehar ka apna raaj chalta tha. Kisi bade raja ki dhaak ho, phir bhi andar ka kaam andar hi hota tha.
+
+Nehru kehte hain — ye ek kachchi democracy thi, jaise Yunan mein. Aur jaise Yunan mein, ye bhi sirf upar wale logon ke liye thi.
+
+Yahi to unhe hairan karta hai. Bharat aur Yunan bahut alag hain. Par unke neeche ki zindagi ka dhaancha bahut milta-julta hai.
+
+Ek lambi ladai ne Athens ka loktantra tod diya. Nehru us ladai ko Mahabharat ke yuddh ke paas rakh kar dekhte hain. Dono jagah ladai ke baad nirasha aayi. Aadarsh halke pade. Log nanne-nanne darshan tatolne lage. Dono jagah chhote ganrajya kamzor pad rahe the, aur sattaa ek jagah simat rahi thi.
 
 Par Nehru khud chetaate hain. Itne kam aur ulte-seedhe saboot par aisi tulna khatarnak hai.
 
-Aur tulna yahin toot-ti bhi hai. Yunan in jhatkon se kabhi poori tarah nahi ubhra. Haan, uski sabhyata kuch sadiyon aur chamki, Rome aur Europe tak gayi. Par Bharat ubhra. Mahakavyon aur Buddha ke baad hazaar saal tak darshan, sahitya, natak, ganit aur kala mein bade naam aate rahe. Aur kuch sadiyon baad, Bharatiya log poorab ke samundaron ke door dweepon tak ja pahunche.
+Aur tulna yahin toot bhi jaati hai. Yunan in jhatkon se kabhi poori tarah nahi ubhra. Haan, uski sabhyata kuch sadiyon aur chamki, Rome aur Europe tak gayi. Par Bharat ubhra.
 
-Ek khoyi library ka suraag virodhiyon se mila. Par aam log, jo kuch padhte hi nahi the, apna ateet kahan se jaante the?
+Mahabharat aur Buddha ke baad hazaar saal tak darshan, sahitya, natak, ganit aur kala mein bade naam aate rahe. Aur kuch sadiyon baad, Bharatiya log poorab ke samundaron ke door dweepon tak ja pahunche.
 
-## Part 3: Maa ki kahaniyan, saal ka mela
+Ek soch khatm ho gayi. Doosri zinda rahi.
 
-Kalpana kijiye. Allahabad ka ek bada ghar. Shaam ho rahi hai. Ek chhota ladka, aur uske paas uski maa. Ya ghar ki koi aur badi aurat.
+To phir sawal ye hai. Itni energy. Itne saal. Itne log. To is desh ne apna itihaas likha kyun nahi?
 
-Kahani shuru hoti hai. Ramayan ki. Mahabharat ki.
+## Part 7: Itihaas nahi, kahani
 
-Ye ladka Jawaharlal hai. Nehru likhte hain ki unke bachpan ki sabse purani yaadon mein yahi kahaniyan hain. Waise hi, jaise Europe ya America ka koi bachcha pariyon ki kahaniyan sunta hai. Unme saahas bhi tha, aur jaadu bhi.
+Ab Nehru ek almari ke saamne khade hain. Mahakavya. Puraan. Gita. Sab rakhe hue hain.
 
-Aur phir har saal ek mela. Khule maidan mein Ramayan ka khel. Hum ise Ramlila kehte hain.
+Aur wo ek khaali jagah par ungli rakhte hain.
 
-[SFX (optional): door se bheed ki gunj aur dhol, sirf ek pal, phir awaaz mein ghul jaaye]
+[SFX: ungli ka sookhi lakdi par chhuna, ek khaali shelf]
 
-Bahut badi bheed. Juloos. Sab kuch kachcha-pakka sa. Par kisi ko parwah nahi thi. Kyunki har koi kahani zabaani jaanta tha. Aur ye tyohaar ka waqt tha.
+Wo jagah khaali khaali si hai. Wahan ek kitaab honi chahiye — itihaas ki kitaab. Aur wahan kuch nahi hai.
 
-Ab ek baat dhyan dijiye. Nehru in kahaniyon ko kabhi sach ghatna nahi maante the. Jaadu aur chamatkaar wale hisson ki to wo aalochna bhi karte the. Par unke liye ye kalpana mein utni hi sachchi thi, jitni Alif Laila. Ya Panchatantra — janwaron ki kahaniyon ka wo khazana, jisse pashchim Asia aur Europe ne bahut kuch liya.
+Nehru us almari ke saamne khaamosh khade rehte hain. Mahakavya to hain. Puraan hain. Gita hai. Par itihaas kahan hai?
 
-Ladka bada hota hai. Sochiye uski kitaabon ki shelf: Akbar-Birbal ke kisse, Rajput veeron ki kahaniyan, Sherlock Holmes, Alice in Wonderland, Yunani devta, King Arthur ke yoddha, France ki Joan of Arc, aur Jhansi ki Rani — angrezon se ladne wali wo jawaan naayika.
+Pehle wo is khaali jagah ko uska haq dete hain.
 
-Sab ek ajeeb gadbad mein mil gaye. Par in sab ke peechhe ek parda hamesha tana raha. Bachpan mein suni pauranik kahaniyon ka.
+Wo kehte hain ki kalpit itihaas sirf jhooth nahi hai. Wo prateek ke roop mein sach hai. Wo batata hai ki us zamane ke logon ke dil aur iraade kya the.
 
-Phir Nehru ek hisaab lagaate hain. Mere mann par itni taraf se asar pada, phir bhi ye kahaniyan neev mein bani rahin. To jo log padh-likh nahi sakte, unke mann par inka asar kitna gehra hoga?
+Sach aur kalpana aise bun jaate hain ki unhe alag karna na-mumkin ho jaata hai. Kabhi kahani poori kalpana hoti hai. Kabhi koi sachchi ghatna hoti hai, jise badha-chadha kar kaha gaya ho. Aur parampara use sambhaal leti hai.
 
-Aur wo inhe mitaana nahi chahte. Nehru ke hisaab se ye asar achha hai. Sanskriti ke liye bhi, aur naitikta ke liye bhi.
+Aur khatra yahin hai. Jahan sach aur kahani ek ho gaye, wahan koi ye nahi poochhta — ye hua kab? Aur pata kaise chala?
 
-Kyunki ye mahakavya ek khaas kaam karte the.
-
-Ye kai sau saalon mein bane, aur baad mein bhi inme jodte rahe. Kahani Aryon ke shuruaati dino ki hai, unki jeeton aur aapas ki ladaiyon ki. Par likhe ye baad mein gaye.
-
-Nehru kehte hain ki duniya mein aisi koi kitaab unhe nahi pata, jisne aam logon ke mann par itna lagaataar asar daala ho. Sanskrit mein inhe gine-chune vidvaan padhte the. Baaki tak ye anuvaad se pahunche. Naye roopon se. Aur un hazaar raaston se, jinse parampara kisi desh ki rag-rag mein utarti hai.
-
-Ek hi kahani, har star ke liye. Bade vidvaan ke liye bhi, aur gaon ke anpadh kisaan ke liye bhi. Ek samaaj, jo jaatiyon mein bata tha, use isne ek saanjha ateet diya. Saanjhe veer. Jeene ka ek saanjha dhang. Aur ye jaan-boojh kar kiya gaya, taaki ek nazariya saari vividhta ke oopar tika rahe.
-
-Aaj sochiye. Ramlila aaj bhi har saal hoti hai. Aur aaj bhi aage ki qataar mein baithe bachche agla dialogue abhinetaon se pehle bol dete hain.
-
-To doosra suraag ye hai. Log apna ateet kitaab se nahi, kahani se jaante the. Par wo kahani unhe sikhaati kya thi?
-
-## Part 4: Raakh se bacha prem
-
-Teen chhoti kahaniyan suniye.
-
-Pehli. Ek bageecha. Ashoka ka ek ped, jis par abhi phool nahi aaye. Ek sundar stri aati hai, aur apne pair se ped ko chhooti hai. Aur ped phoolon se bhar jaata hai.
-
-Aisi kalpanaon se Sanskrit ke kavi khelte the. Kyunki Nehru batate hain ki puraan sirf mahakavyon tak simit nahi. Wo Vedon ke zamane tak jaate hain. Aur kavi aur natakkar unhi ke ird-gird apni kahaniyan bunte the.
-
-Doosri kahani. Kaamdev, prem ke devta. Saath mein unki patni Rati, jiske naam ka matlab hi hai aanand mein doob jaana. Aur unka dost Vasant, bahaar ka devta.
-
-Ek din Kaamdev bada jokhim lete hain. Apna phoolon wala teer Shiv par chala dete hain. Shiv ki teesri aankh khulti hai. Usse aag nikalti hai. Aur Kaamdev raakh ho jaate hain.
-
-Par kahani yahan khatam nahi hoti. Kaamdev bach jaate hain. Bina shareer ke. Ananga ban kar — yaani jiska koi ang nahi.
-
-Prem jala, par mara nahi. Bas dikhna band ho gaya.
-
-Teesri kahani ek angrez lekhak ne purani Bharatiya kathaon se dobara kahi. Srishti ke kaarigar Twashtri ko stri banani thi. Par purush banate-banate saara thos maal khatam ho chuka tha.
-
-To Twashtri ne gehra dhyan kiya. Aur phir chaand ki golai li. Bel ki lachak. Ghaas ki kanpan. Hiran ki nazar. Shahad ki mithaas. Aur baagh ki kroorta bhi. Aur bhi bahut kuch. Sab ko milaya, aur stri bana di.
-
-Teen kahaniyan. Ek bhi sach nahi. To ye sikhaati kya hain?
-
-Nehru kehte hain, bahut kuch. Zyadatar puraan veerta ke hain. Sach par tike rehna. Diya hua vachan nibhaana, nateeja chahe jo ho. Maut tak, aur uske paar bhi, wafadaar rehna. Himmat. Achhe kaam. Sab ki bhalai ke liye apna tyaag.
-
-Kabhi kahani poori kalpana hoti hai. Kabhi kisi sachchi ghatna ko badha-chadha kar kaha jaata hai, aur parampara use sambhaal leti hai. Sach aur kalpana aise bun jaate hain, ki unhe alag karna na-mumkin ho jaata hai.
-
-Is mishran ko Nehru ek naam dete hain. Kalpit itihaas.
-
-Ye nahi batata ki theek-theek kya hua. Par ek utni hi zaroori baat batata hai. Log kya maante the ki hua tha. Wo apne purvajon ko kis laayak samajhte the. Aur kaun se aadarsh unhe khinchte the.
-
-Isliye ye kahaniyan unki zindagi ka hissa bani. Roz ki thakaan aur badsoorti se upar uthaati hui. Ek oonche raaste ki taraf ishaara karti hui, chahe wo raasta kitna bhi door ho.
-
-Germany ke mahaan kavi Goethe bhi kuch aisa hi maante the. Rome ki ek veer stri ki purani kahani ko kuch log jhootha bata rahe the. Goethe ne unhe khari-khoti sunaayi. Jo cheez andar se jhooti ho, wo sundar aur prerak ho hi nahi sakti. Aur agar Rome ke log itne mahaan the ki aisi kahani gadh sakein, to hum kam se kam use maanne laayak mahaan to hon.
-
-To teesra suraag. Kahani sapne batati hai. Par kya sapne ek desh ka naqsha bhi bana sakte hain?
-
-## Part 5: Bharatvarsh ka pehla naqsha
-
-Ab ek naqsha kholiye. Kalpana ka naqsha.
-
-Sabse pehle uttar mein ek ghera. Uska naam hai Aryavarta. Aryon ki zameen. Ye ghera neeche Vindhya ke pahaadon tak jaata hai, madhya Bharat tak. Nehru ke hisaab se us waqt Arya shayad un pahaadon ke paar nahi gaye the.
-
-Phir naqshe par ek lakeer dakshin ki taraf badhti hai. Ye Ramayan hai. Nehru ise dakshin ki taraf Aryon ke phailne ki kahani kehte hain.
-
-Aur phir ek badi ladai. Mahabharat ka grihayuddh. Ise ek dhundhle andaaze se Isa se chaudah sau saal pehle ke aas-paas rakha jaata hai. Ladai is baat ki thi ki poore Bharat par, ya shayad uttar Bharat par, kiska raaj chalega.
-
-Aur isi ladai ke saath naqshe par ek naya naam likha jaata hai. Bharatvarsh. Bharat ke naam par, jo is kaum ke pauranik purvaj maane jaate the.
-
-Nehru kehte hain ki yahin se Bharat ko ek poore desh ki tarah dekhne ki soch shuru hoti hai. Mahabharat jaan-boojh kar is ekta par zor deta hai.
-
-Is naqshe ki seemaayein dekhiye. Uttar-pashchim mein aaj ke Afghanistan ka ek bada hissa, jiska tab naam tha Gandhara. Isi naam se aaj ka shehar Kandahar bana. Gandhara is desh ka apna hissa maana jaata tha. Mahabharat ke mukhya raja ki rani ka naam hi tha Gandhari. Gandhara wali.
-
-Aur naqshe ke beech mein ek raajdhani. Aaj ki Dilli ke aas-paas. Par aaj wali Dilli nahi. Wahan ke purane shehar, Hastinapur aur Indraprastha.
-
-Aaj sochiye. Kandahar ka naam hum khabron mein sunte hain. Aur us naam ke andar ek rani chhupi hai, jise har Bharatiya ghar jaanta hai.
-
-Ab ek videshi aankh se dekhiye. Sister Nivedita — Margaret Noble, ek videshi mahila, jinhone Bharat ko apna ghar bana liya. Unhe Mahabharat mein do baatein chaunkaati hain. Itni uljhan ke beech bhi ek ekta. Aur baar-baar ek hi koshish: ek akhand Bharat ki tasveer bithaana.
-
-Par ye naqsha bana kab? Kehna mushkil hai. Mahakavya bahut purane zamane ki baat karte hain, jab Arya abhi bas rahe the. Inhe kisi ek ne nahi likha; kai lekhak, kai peedhiyan, jodte gaye. Nehru ke hisaab se dono ka dhaancha Buddha se pehle ban chuka tha; jodna baad mein bhi chalta raha.
-
-Dono mein fark bhi hai. Ramayan ek kasa hua mahakavya hai, ek dhaage mein bandha. Mahabharat ek vishaal bhandaar hai: parampara, katha, aur us zamane ke raaj aur samaaj ka poora shabdkosh.
-
-Ramayan logon ko bahut pyaari hai. Par duniya ki chuni hui kitaabon mein Mahabharat aati hai.
-
-1944 mein bhi is par kaam chal raha tha. Das saal se zyada se Bharatiya vidvaanon ki ek toli iski alag-alag pothiyan milaa rahi thi, taaki ek pramaanik sanskaran nikle. Kuch hisse chhap chuke the. Baaki par kaam jaari tha.
-
-Aur usi bhayanak, sab kuch nigal jaane wale yuddh ke beech, Russi vidvaanon ne Mahabharat ka Russi anuvaad kar daala.
-
-Ramayan par to Nehru se koi assi saal pehle ek French itihaaskar ne likha tha. Pashchim mein sab kuch tang hai, unhone kaha. Yunan chhota hai, mera dam ghutta hai. Mujhe poorab ki taraf dekhne do. Wahan mera mahakavya hai, Hind Mahasagar jitna vishaal.
-
-Par is bade naqshe par sirf Arya nahi chal rahe the. Naye log bhi aa rahe the. Apne rivaaz lekar.
-
-## Part 6: Paanch bhai, ek patni; badalti thaali
-
-Ek purani shaadi ki kalpana kijiye. Ek naayika. Aur uske paanch pati. Paanch sage bhai.
-
-Mahabharat ki ek mukhya naayika ke saath yahi hai. Hum use Draupadi ke naam se jaante hain.
-
-Nehru yahan ek ulti baat pakadte hain. Aryon mein ek stri ke kai pati hone ka rivaaj tha hi nahi. To ye kahani mahakavya ke beech mein aayi kahan se?
-
-Unka andaaza hai ki wo zamana tha, jab bahar se naye log aa rahe the, apne rivaaz saath laa rahe the. Unme se kai Aryon se bilkul alag the. Nateeja? Ulte-seedhe vichaaron aur reetiyon ka ajeeb mel.
-
-Dheere-dheere sab ghulne lage. Yahan ke purane log bhi, aur naye aane wale bhi. Vaidik dharm bhi badalta gaya.
-
-Wo ek aisa roop le raha tha, jisme sab sama sakein. Yahi roop aage chal kar aaj ka Hindu dharm bana.
-
-Ye mumkin kaise hua? Iski jad ek soch mein thi. Sach par kisi ek ka thheka nahi. Use dekhne ke kai raaste hain. Isliye ek-doosre ke ulte vishwas bhi saath jee sakte the.
-
-Isiliye Mahabharat mein har tarah ki aastha milti hai. Vedon ke anek devta. Upanishadon ka ek hi brahm. Ek ishwar ki bhakti. Aur bhi kai raaste.
-
-Aur ye kitaab sanyaas ki nahi hai. Ismein zindagi ubalti hai. Bharpoor, rang-birangi. Naitikta bahut hai, par ye sirf updesh ki kitaab nahi.
-
-Iski seekh ek line mein kahi gayi hai. Jo tumhe khud bura lage, wo doosron ke saath mat karo.
-
-Aur iska zor samaaj ki bhalai par hai. Ye Nehru ko khaas lagta hai. Kyunki aam taur par maana jaata hai ki Bharatiya mann bas apni poornata dhoondhta hai. Mahabharat kehta hai: jo samaaj ke bhale mein na ho, ya jis par baad mein sharm aaye, wo kabhi mat karo.
-
-Kaamyaabi ka raasta bhi ye ginata hai. Sach, sanyam, tap, daan, ahimsa, aur dharm mein tike rehna. Jaati ya khaandaan nahi.
-
-Daulat ke peechhe bhaagne walon par ek chutki bhi hai. Resham ka keeda apni hi daulat se mar jaata hai.
-
-Aur ek line, jo kisi zinda, aage badhte samaaj ki pehchaan hai. Asantosh hi tarakki ka ankush hai.
-
-Is daur mein jaati sakht nahi thi. Soch rachnatmak thi, kaafi had tak tark wali. Alag rehne ki bhaavna abhi kam thi.
-
-Par phir bahar se dabaav badha. Purani vyavastha ki suraksha ko chunauti mili. Bharosa thoda ghata. Andar ki ekta ke liye sab ko ek saanche mein dhaalne ki maang uthi. Aur naye nishedh bane.
-
-Ek misaal thaali se hai. Mahabharat mein zikr hain ki khaas mehmaan ke aage gaay ya bachhde ka maans parosa jaata tha. Pehle ye maanya tha. Baad mein ise varjit kar diya gaya.
-
-Thaali badli, kyunki samaaj ka darr badla.
-
-Aur isi Mahabharat ke beech, ek yoddha ke haath kaanpne lagte hain.
-
-## Part 7: Sankat ki kavita
-
-Ek maidan. Do senayein aamne-saamne. Beech mein ek rath. Aur rath par ek yoddha, jiska dhanush dheere-dheere neeche jhuk raha hai.
-
-Saamne uske apne log hain. Ladna farz hai. Na ladna bhi farz lagta hai.
-
-Ye Arjun hai. Aur yahin se Gita shuru hoti hai.
-
-Gita Mahabharat ka hi ek hissa hai. Us vishaal natak ka ek drishya. Phir bhi apne aap mein poori hai. Saat sau shlokon ki ek chhoti si kavita.
-
-Europe ke ek vidvaan ne ise shayad duniya ka akela sachcha darshanik geet kaha.
-
-Nehru ke hisaab se ye Buddha se pehle ke zamane mein rachi gayi. Aur tab se aaj tak iska asar kam nahi hua.
-
-Iski ek wajah hai. Ye sankat ki kavita hai. Raajnitik sankat. Samaajik sankat. Aur sabse zyada, insaan ki aatma ka sankat. Jab mann shak mein jalta hai, jab do farz takraate hain, tab log Gita ki taraf mudte hain.
-
-Har darshan ise apni nazar se padhta hai. Anginat teekaayein likhi gayi, aur aaj bhi likhi ja rahi hain.
-
-Nehru ke apne zamane mein bhi. Tilak ne is par likha. Aurobindo ne likha. Gandhi ne likha. Teeno ki apni-apni vyakhya.
-
-Aur yahan ek hairat hai. Gandhi apni ahimsa ki neev isi par rakhte hain. Aur doosre isi se nyay ki ladai mein hinsa ko sahi thehraate hain. Ek hi kitaab. Do ulte raaste.
-
-To Gita kehti kya hai? Nehru ke padhne mein, ye karm ki pukaar hai. Zindagi ke farz poore karo. Haath par haath rakh kar baithna galat hai.
-
-Par har yug ke apne aadarsh hote hain. Gita iske liye ek shabd deti hai: yugadharma. Yaani apne waqt ka dharm.
-
-Aur Nehru ka Bharat? Nirasha se bhara, bahut der se chup baitha hua. Isliye ye pukaar aaj khaas taur par dil ko chhooti hai. Ise aaj ki zubaan mein samaaj-seva bhi padha ja sakta hai. Desh ke liye, insaaniyat ke liye kaam. Par Gita ke hisaab se uske peeche ek aatmik aadarsh hona chahiye.
-
-Yaad hai pichhle episode ki wo baat? Poori taaqat se kaam karo, par phal se bandho mat. Wo yahin se aati hai. Sahi karm ka sahi phal aayega hi, chahe turant na dikhe. Kyunki kaaran aur kaarya ka niyam kabhi nahi tootta.
-
-Aur ye sandesh sabke liye hai. Brahman ke liye bhi, achhoot ke liye bhi. Gita kehti hai: saare raaste mujh tak aate hain.
-
-Isme kuch aisa hai jo kabhi baasi nahi hota. Khoj aur dhyan. Takraav ke beech bhi santulan. Ye apne mahaul se bhaagti nahi, uske saath taal milaati hai. Dhai hazaar saal mein ye desh kitni baar bana, bigda, badla. Har baar Gita mein kuch zinda mila.
-
-Ek kavita, jo dhai hazaar saal se zinda hai. Par ye dhai hazaar saal gine kisne? Yahin Nehru ek badi kami se takraate hain.
-
-## Part 8: Itihaas nahi, kahani
-
-Sochiye, Nehru kahaniyon ki is poori almaari ke saamne khade hain. Mahakavya, puraan, Gita. Aur wo ek khaali jagah par ungli rakhte hain.
-
-Is almaari mein itihaas kahan hai?
-
-Pehle wo kalpit itihaas ko uska haq dete hain. Ye prateek ke roop mein sach hai. Ye batata hai ki us zamane ke logon ke dil aur iraade kya the. Aur ye aage ke itihaas ki neev bhi banta hai, kyunki log isi ke sahare sochte aur karte hain.
+Aur ye jo buna hua itihaas hai, ye sirf kitaabon mein nahi rehta. Log iske sahare sochte hain. Iske sahare aage ka faisla karte hain. Nateeja? Ye aage ke itihaas ki neev bhi ban jaata hai.
 
 Par seedha byora? Kis saal, kis raja ne, kya kiya? Purane Bharat ko isme zyada dilchaspi nahi thi.
 
+Kyun?
+
 Kyunki itihaas ka poora nazariya darshan aur naitikta mein ranga tha. Unhe ye dekhna tha ki koi ghatna insaan ke vyavhaar par kya asar daalti hai. Ateet se aage ke liye ek seekh nikaalni thi.
 
-Yunaniyon ki tarah ye log bhi kalpanasheel the, kalakaar the. Par ek fark tha. Yunani itihaas likhte the. Chini likhte the. Arab likhte the. Bharatiya nahi likhte the.
+Yunaniyon ki tarah ye log bhi kalpanasheel the. Kalakaar the. Par ek fark tha.
 
-Nehru ise badkismati kehte hain. Isi wajah se aaj tareekhein tay karna itna mushkil hai. Ghatnaayein ek-doosre mein ghus jaati hain. Ek bhool-bhulaiya ban jaati hai. Aur dheeraj wale vidvaan dheere-dheere uske suraag dhoondh rahe hain.
+Yunani itihaas likhte the. Chini likhte the. Arab likhte the.
 
-Poore purane Bharat mein itihaas kahi ja sake, aisi bas ek kitaab hai. Rajatarangini. Kashmir ka itihaas, jo Kalhana ne baarahvi sadi mein likha.
+Bharatiya nahi likhte the.
 
-Baaki ke liye suraag jodne padte hain. Mahakavyon ka kalpit itihaas. Shilalekh, sikke, purani imaaratein. Sanskrit sahitya mein bikhre ishaare. Aur bahar se aaye yaatriyon ke byore. Pehle Yunani aur Chini, baad mein Arab.
+Yahi is poore sawal ki jad hai. Nehru ise badkismati kehte hain. Aur iski keemat ab chukani pad rahi hai. Tareekhein tay karna mushkil ho gaya. Ghatnayein ek-doosre mein ghus jaati hain. Ek bhool-bhulaiya ban jaati hai. Aaj humein apne hi purane shehron aur rajaon ki tareekh tay karne ke liye bahar se aaye yaatriyon ki diaryon par nirbhar rehna padta hai.
 
-Aam logon ko is kami ka farak nahi pada. Unhone apna ateet parampara se banaya. Kahaniyon se, jo peedhi dar peedhi haath badalti rahin. Isse unhe ek mazboot saanjhi zameen mili.
+Aur dheere-dheere, sadiyon ki mehnat se, vidvaan us bhool-bhulaiya ke suraag dhoondh rahe hain. Aaj bhi. Hamare zamane mein bhi.
 
-Par iski keemat bhi chukaani padi. Aur Nehru ke hisaab se hum aaj bhi chuka rahe hain.
+To jab hum kehte hain ki ye desh apna itihaas nahi likhta tha, iska matlab ye nahi ki uske paas ateet hi nahi tha. Ateet tha. Par wo byore ki tarah nahi, kahani ki tarah tha.
+
+Sochiye. Ek poora desh. Aur apne ateet ka koi hisaab-kitaab nahi.
+
+Par rukiye. Poori ek sabhyata mein? Ek bhi nahi?
+
+## Part 8: Kalhana aur khaali kursi
+
+Ek to hai.
+
+Nehru batate hain ki poore purane Bharat mein itihaas kahi ja sake, aisi bas ek kitaab hai. Wo barahvi sadi mein likhi gayi. Kashmir ka itihaas. Ek Kashmiri kavi ne likha. Bas itni si.
+
+Baaki sab ke liye suraag jodne padte hain. Mahakavyon ka kalpit itihaas. Shilalekh. Purani imaaratein. Sikke. Sanskrit sahitya mein bikhre isaare. Aur bahar se aaye yaatriyon ke byore — pehle Yunani aur Chini, baad mein Arab.
+
+Aaj sochiye. Aaj hum ek ghatna ki tareekh phone par poochh lete hain. Us waqt koi aisa record hi nahi tha. Sirf suraag the.
+
+Aam logon ko is kami ka farak nahi pada. Unhone apna ateet parampara se banaya — kahaniyon se, jo peedhi dar peedhi haath badalti rahin. Isse unhe ek mazboot saanjhi zameen mili.
+
+Par iski keemat chukani padi. Aur Nehru kehte hain ki hum aaj bhi chuka rahe hain.
 
 Ek dhundhlapan aaya. Zindagi jaisi hai, usse ek doori. Har baat maan lene ki aadat. Tathyon ke maamle mein ek dheela, rui jaisa mann.
 
-Aur ajeeb baat ye hai ki darshan mein yahi mann bilkul dheela nahi tha. Wahan wo baal ki khaal nikaalta tha. Kabhi har cheez par shak karta. Par tathya ke aage wo aankh band kar leta. Shayad isliye, ki use tathya mein utni dilchaspi hi nahi thi.
+Aur ajeeb baat ye hai. Darshan mein yahi mann bilkul dheela nahi tha.
 
-Vigyaan aur naye zamane ne ye badla hai. Ab saboot tola jaata hai. Parampara sirf parampara hone se sach nahi maani jaati.
+Wahan wo baal ki khaal nikaalta tha. Kabhi har cheez par shak karta. Soch ka chhura har jagah chalta.
 
-Par Nehru ko ulti taraf ki galti bhi dikhti hai. Aaj ke kai itihaaskar tathyon ki baareek soochi bana dete hain. Usme zinda itihaas nahi hota.
+Par tathya ke aage wo aankh band kar leta. Shayad isliye, ki use tathya mein utni dilchaspi hi nahi thi.
 
-Aur ek baat unhe zyada chubhti hai. Aaj bhi achanak parampara ki baadh aati hai. Aur samajhdaar logon ki bhi parakhne ki taaqat ruk jaati hai.
+Naye zamane ne ye badla hai. Vigyaan aaya, aur uske saath saboot tola jaane laga. Ab ye nahi maana jaata ki koi baat sach hai sirf isliye ki wo purani hai.
 
-Kyun? Nehru ka andaaza hai: ghulami. Ek ghulam desh ka rashtravaad, jo andar hi andar khaata hai. Jab desh raajnitik aur aarthik roop se azaad hoga, tabhi mann theek se, parakh kar soch paayega.
+Nehru ko ulti taraf ki galti bhi dikhti hai. Aaj ke kai itihaaskar tathyon ki itni baareek soochi bana dete hain ki usme zinda itihaas bachta hi nahi.
 
-Aur iski ek taaza misaal Nehru ki mez par padi hai. Wahi akhbaar.
+Aur wahan ruk kar Nehru ek badi, aaramdayak baat kehte hain. Ye aadat sirf Bharatiya ki nahi hai. Har desh apne ateet ko sajaata hai. Apne faisle ke liye sach ko tedha karta hai. Angrezon ne Bharat ka itihaas aisa likha ki asli itihaas angrez ke aane se hi shuru hota hai.
+
+Aur aaj? Nehru kehte hain ki aaj bhi, aankhon ke saamne ki baatein tak, badal di jaati hain. Jo humne khud dekha, usi ko ghuma kar pesh kiya jaata hai. To phir purane ateet ka kya?
+
+Par phir wo apne logon par ek kadwi baat kehte hain. Hum Bharatiyon mein ek khaas aadat hai. Hum parampara aur suni-sunaayi baat ko bina jaanche itihaas maan lete hain. Aur Nehru kehte hain — ye dheeli soch, aur jaldi nateeje par pahunchne ki ye aadat, humein chhodni hogi.
+
+Unka aakhri vaakya yahan bada shaant hai. Jab desh raajnitik aur aarthik roop se azaad hoga, tab mann theek se, parakh kar soch paayega.
+
+Aur is baat ki sabse taaza misaal? Wahi akhbaar. Wahi do hazaar saal. Wahi naam.
 
 ## Part 9: Vikram kaun the?
 
@@ -399,37 +430,53 @@ Akhbaar phir khulta hai. Do hazaar saal. Vikram.
 
 Ab suraag jodiye.
 
-Samvat ke hisaab se shuruaat hoti hai Isa se sattavan saal pehle. Par us waqt Vikram naam ke kisi raja ka koi nishaan nahi milta.
+Samvat ke hisaab se shuruaat Isa se sattavan saal pehle hoti hai. Par us waqt Vikram naam ke kisi raja ka koi nishaan nahi milta.
 
-Haan, ek Vikramaditya zaroor milte hain. Uttar Bharat mein. Par Isa ke baad chauthi sadi mein. Yaani kai sau saal baad.
+Haan, ek Vikramaditya zaroor milte hain. Uttar Bharat mein. Par us se kai sau saal baad.
 
-Unhone Hoonon se ladai ki, aur unhe desh se bahar dhakel diya. Unhi ke darbar ke "nau ratnon" ki kahaniyan mashhoor hain. Aur Vikram ki zyadatar kathaayein unhi ke ird-gird jama hain.
+Unhone Hoonon — madhya Asia ke hamlavar — ko desh se bahar dhakel diya. Unhi ke darbar ke "nau ratnon" ki kahaniyan mashhoor hain — nau bade lekhak, kalakaar aur sangeetkar. Aur Vikram ki zyadatar kathaayein unhi ke ird-gird jama hain.
 
-To paheli ye hai. Chauthi sadi ka raja, us samvat se kaise juda, jo kai sau saal pehle shuru hua?
+To paheli ye hai. Kaun sa Vikram? Jo us samvat se juda hai, ya wo jo kai sau saal baad aaya?
 
-Nehru ek sambhav jawab dete hain. Madhya Bharat mein ek rajya tha, Malava. Wahan wo samvat pehle se chalta tha. Aur Vikram ke bahut baad, ise unke naam se jod diya gaya. Ek purane calendar ko ek naya naam mil gaya.
+Nehru ek sambhav jawab dete hain. Madhya Bharat mein ek rajya tha — Malava. Wahan wo samvat pehle se chalta tha. Aur Vikram ke bahut baad ise unke naam se jod diya gaya. Ek purane calendar ko naya naam mil gaya.
 
 Par Nehru khud kehte hain: ye bhi dhundhla hai. Pakka kuch nahi.
 
-Ab Nehru ko asli hairat kis baat par hai? Raja par nahi. Aaj ke logon par.
+Ab Nehru ko asli hairat kis baat par hai? Raja par nahi. Logon par.
 
-Kaafi samajhdaar Bharatiya bhi itihaas ko kheench-taan rahe the. Bas kisi tarah Vikram ko do hazaar saal pehle ki shuruaat se jodna tha.
+Aur ab wo baat, jo is kisse ka asli sabak hai.
 
-Aur zor kis baat par tha? Vikram ki videshiyon se ladai par. Aur poore Bharat ko ek rashtriya rajya mein baandhne ki unki ichchha par.
+Vikram ko log ek bade aadmi ki tarah yaad karte hain. Ek raja jo videshiyon ko bhagaata tha, aur poore Bharat ko ek rajya mein baandhna chahta tha.
 
-Jabki Vikram ka raaj asal mein uttar aur madhya Bharat tak hi tha.
+Par unki sabse pyaari kahaniyan kis baare mein hain?
 
-Nehru ise ek takraav ki taaza misaal kehte hain. Ek taraf parakhne wali nazar. Doosri taraf rashtravaadi parampara. Aur 1944 ke ghulam desh mein jeet kiski ho rahi thi, ye saaf dikhta hai.
+Ek raja ki daulat ki nahi. Uske yuddh ki nahi. Us aadmi ki, jo doosron ki bhalaai ke liye khud ko kat deta hai.
 
-Unka faisla do-tok hai. Hum Bharatiyon mein ek khaas aadat hai. Parampara aur suni-sunaayi baat ko bina jaanche itihaas maan lena. Ye dheeli soch, aur jaldi nateeje par pahunchne ki ye aadat, humein chhodni hogi.
+Uska naam isliye chala ki wo achha aadmi tha. Udaar tha. Naaz nahi tha. Kalakaaron ka sahib tha.
 
-Par jashn? Nehru ke hisaab se wo phir bhi theek tha. Waqt ki ginti ka ek bada mod tha. Aur Vikram sach mein logon ka nayak hai. Kahani ko kahani ki tarah manaaiye. Bas use itihaas mat kahiye.
+Nehru kehte hain ki yahi dhyan dene wali baat hai. Wo kitna bada sipahi tha, ye un kahaniyon mein kahin aata hi nahi. Aur yahi Bharatiya mann ki pehchaan hai — logon ne usme veerta se zyada uski neki dhoondhi.
 
-To aaj ka sawal. Jis desh ne apna itihaas likha hi nahi, wo apna ateet jaanta kaise hai?
+Vikramaditya ka naam, jaise Caesar ka naam, ek upaadhi ban gaya. Bahut se aage ke raja usse apne naam se jodte gaye, aur confusion badhi.
 
-Kahaniyon se. Jo ye nahi batati ki kya hua, par ye batati hain ki log kya maante the aur kya banna chahte the.
+So ab — do hazaar saal, aur ek naam jo syaahi se nahi, kahaniyon se bana.
 
-Taaqat bhi yahi hai, aur khatra bhi: kahani ko tathya samajh lena.
+Nehru ka faisla do hisson mein hai.
+
+Pehla hissa. Bharatiya bahut samajhdaar hokar bhi itihaas ke saath khelte rahe. Bas us purane nayak ko us samvat se jodna tha.
+
+Aur jor kis baat par tha? Vikram ki videshiyon se ladai par. Aur poore Bharat ko ek rashtriya rajya mein baandhne ki ichchha par. Jabki uska raaj asal mein sirf uttar aur madhya Bharat tak tha.
+
+Doosra hissa. Ye jashn phir bhi theek tha. Waqt ki ginti mein ye ek bada mod tha. Aur Vikram sach mein logon ka bahut purana, bahut pyaara nayak hai.
+
+Kahani ko kahani ki tarah manaaiye. Purane calendar par khushi manaaiye. Bas use itihaas mat kahiye.
+
+Aur ab, aaj ka sawal.
+
+Jis desh ne apna itihaas likha hi nahi, wo apna ateet jaanta kaise hai?
+
+Kahaniyon se. Jo ye nahi batati ki kya hua, par ye batati hain ki log kya maante the, aur kya banna chahte the.
+
+Taaqat bhi yahi hai. Aur khatra bhi: kahani ko tathya samajh lena.
 
 Nehru akhbaar mod kar rakh dete hain. Bahar, kahin door, dhol shayad ab bhi baj rahe honge.
 
@@ -437,115 +484,121 @@ Nehru akhbaar mod kar rakh dete hain. Bahar, kahin door, dhol shayad ab bhi baj 
 
 Ye hissa Nehru ka nahi, humara hai.
 
-Nehru ke zamane mein parampara mele aur akhbaar se aati thi. Aaj phone se aati hai. Ek forward. Kisi purane raja ki tasveer. Neeche likha: "Asli itihaas, sab ko bhejiye." Hazaar logon tak pahunchne mein ek ghanta nahi lagta.
+Nehru ke zamane mein parampara mele se aati thi, aur akhbaar se. Aaj phone se aati hai. Ek forward. Kisi purane raja ki tasveer. Neeche likha hoga: "Asli itihaas, sab ko bhejiye." Hazaar logon tak pahunchne mein ek ghanta nahi lagta.
 
-Vikram wala sawal aaj roz poochha ja sakta hai. Kaun? Kab? Saboot kya hai? Aur sabse zaroori: is kahani se kisko kya chahiye?
+Vikram wala sawal aaj roz poochha ja sakta hai. Kaun? Kab? Saboot kya hai? Aur sabse zaroori — is kahani se kisko kya chahiye?
 
 Nehru ki baat ke do hisse the, aur dono aaj bhi kaam ke hain. Kahani ko mitaao mat. Usme logon ke sapne hain, unke aadarsh hain. Par kahani ko itihaas bhi mat banao. Koi baat isliye sach nahi ho jaati ki wo purani hai. Ya pyaari hai. Ya humare garv ko achhi lagti hai.
 
-Aapke liye ek sawal: pichhli baar aapne "itihaas" ke naam par jo forward aage bheja, kya aapne usse ye teen sawal poochhe the — kaun, kab, aur saboot kya?
+Aapke liye ek sawal: pichhli baar aapne "itihaas" ke naam par jo cheez aage bheji, kya aapne usse ye teen sawal poochhe the — kaun, kab, aur saboot kya?
 
 ## Outro
 
-Aaj humne raja, devta aur veeron ki kahaniyan suni.
+Aaj humne dekha ki ye desh apna ateet kitaab se nahi, kahani se jaanta tha. Usne apna itihaas likha hi nahi. Par do kahaniyan bach gayi.
 
-Par kahaniyon ka ek khazana aur hai. Wo raja ki nahi. Wo badhai ki baat karta hai. Dhobi ki. Aur us vyapaari ki, jiska jahaaz door-door tak jaata tha. Jataka.
+Do badi kitaabein. Ramayana. Aur Mahabharata.
 
-Agli baar hum ek naujawan ke saath paidal chalenge — us shehar tak, jahan duniya padhne aati thi. Wahan humein raja nahi milenge. Aam log milenge.
+Unme ek poore desh ka naqsha bana hua hai — Gandhara se Vindhya ke pahaadon tak. Unme raja hain, devta hain, aur wahi log hain, jinke naam aaj bhi har gaon mein zubaani chalte hain.
+
+Agli baar hum unhi do kitaabon mein utrenge. Aur dekhenge ki us naqshe mein kya-kya likha hua hai.
 
 Tab tak ke liye, namaskar.
 
 ## Sources
 
-- [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt): Chapter 4, "The Discovery of India", sub-sections 5 (sirf puraan wala hissa), 12, 13, 14 aur 15. Script ke saare tathya repo wali `book/chapters/ch04.txt` se hain.
-- **GAPs (record karne se pehle original se milaa lena):** repo ki `book/the-discovery-of-india.txt` mein bhi yahi kataav hain, isliye in sab ko chhapi hui book se milaana hai.
-  - S05, line 61: `$26` mark. Jis vaakya mein Nehru apni padhai ke baare mein likhte hain, uska shuruaati hissa gayab hai ("…$26Upanishads and the Bhagavad Gita. I was not interested…"). Ye hissa Ep 4.2-B1 ka hai, isliye is episode par asar nahi; Part 1 mein sirf bacha hua puraan wala saar hai.
-  - S12, pehla paragraph "…palm-leaves or on bhurjapatra$26" par kat jaata hai. Ye kitaabein kyun nasht hui, iska Nehru ka kaaran gayab hai. Part 2 mein sirf "taad ke patte aur bhurjapatra" kaha gaya hai, aur "patta kitne saal chalega?" ek sawal ke roop mein, kaaran ke roop mein nahi.
-  - S12, "They denounced the Vedas$27" par kat jaata hai. Bhautikvaadiyon ki baaki baatein gayab hain, jinhe agla paragraph ("We recognize all this…") "aaj ki si" kehta hai. Part 2 mein sirf bache hue saar ka star hai: sattaa aur jamaaye hue swarth par hamla, Vedon ki ninda, "aaj ka lagna".
-  - S13, "Vikram has long been considered a national hero, a beau ideal$26" par kat jaata hai. Part 9 mein Vikram ko sirf "logon ka nayak" kaha gaya hai.
-  - S14, "Even apart from the philosophy of the Gita$26" par kat jaata hai. Krishna-kathaon aur Gita ka Mahabharat mein hona Part 7 mein kaha gaya hai; adhoori line ka baaki matlab gayab hai.
-  - S15 ka doosra paragraph "$26Gita deals essentially…" se shuru hota hai; uske pehle ka hissa gayab hai. Part 7 ka "karm ki pukaar / yugadharma" wala hissa bache hue text par hai.
-  - Footnotes 6 (Panchatantra), 7 (Gilbert Murray) aur 8 (Sister Nivedita) ka text repo mein nahi hai. Script mein inke sirf wo tathya hain jo mukhya text mein hain.
+- [The Discovery of India, full text (Internet Archive)](https://archive.org/stream/TheDiscoveryOfIndia-Eng-JawaharlalNehru/discovery-of-india_djvu.txt). Is script ke tathya `book/chapters_v2/ch04.txt` se hain — **2026-10-17 ko Internet Archive ki poori text se dobara bani file**. Purani `book/chapters/ch04.txt` se ye 1.34 guna badi hai. Is episode ke jo sub-sections hain — S09 The Continuity of Indian Culture, S11 The Advantages and Disadvantages of an Individualistic Philosophy, S12 Materialism, aur S13 The Epics, History, Tradition, and Myth (cluster c+d) — unki poori text rebuilt file mein maujood hai.
+- **Rebuild ki ginti ki galtiyan:** rebuilt file mein `## ` heading apni asli jagah se 10-14 line door baithti hai, aur asli heading body ke andar ek aam paragraph ki tarah bachti hai. Is episode ke sub-sections isi wajah se asli heading paragraph se kaate gaye hain, `## ` line se nahi. Rebuilt text mein OCR ki chhoti galtiyan bhi hain (jaise "Miiller" do "i" ke saath, "plam-leaves", "Aitereya"). Jahan zaroorat thi, shabd saaf kar liye gaye; tathya wahi hain.
+- **GAPs:** is episode ke kisi sub-section mein aaj koi kataav nahi bacha. Purani copy ke teen kataav is episode ke hisse mein the, aur teeno rebuild mein band ho chuke hain:
+  - S12, "…on plam-leaves or on bhurjapatra$26" par kat jaata tha — aage ka kaaran (chhaal jaldi chhoot jaati hai, isliye kitaabein kho gayin) gayab tha. Ab maujood hai (Part 5).
+  - S12, "They denounced the Vedas$27" par kat jaata tha — bhautikvaadiyon ki baaki baatein gayab thi. Ab maujood hain (Part 5).
+  - S13, "Vikram has long been considered a national hero, a beau ideal$26" par kat jaata tha. Ab poora hai (Part 9).
+  - Repo ki poori book `book/the-discovery-of-india.txt` mein bhi wahi kataav the; unhe chhapi hui book se milaa lena, kyunki wahan bhi wahi kate huye hain.
 - **Kitaab mein aur** (T5, bola nahi gaya):
-  - Professor Gilbert Murray: Part 1 ke "Yunani devtaon ke ek bade vidvaan". Unka poora uddharan: moorti devta nahi, devta ki taraf ek prateek; aur devta khud bhi asliyat nahi, uski taraf ek prateek; "half-rejected tradition", "unconscious make-believe".
-  - Peloponnesian war (Part 2 mein "ek lambi ladai jisne Athens ke loktantra ko toda"); Hellenism aur free city-state ki naakaami; Stoic aur Epicurean darshan.
-  - Buddha ka samay: chhathi sadi Isa poorv (Part 2 mein sirf "Buddha se pehle, baad mein, saath-saath").
-  - Part 2: Yunan ke patan ke baad "mysteries and revelations" ki talaash, aur zor is duniya se agli duniya par khiskna.
-  - F. W. Bain aur unki kitaab *The Digit of the Moon* (Part 4 ke "ek angrez lekhak"). Twashtri ki list ki poonchh: tendrils ki lipatna, sarkande ki patlaapan, phool ka khilna, patton ka halkapan, haathi ki soond ki dhalaan, bhanwron ki qataar, dhoop ki khushi, baadal ka rona, hawa ki chanchalta, khargosh ka darr, mor ka ghamand, tote ki komalta, vajra ki kathorta, aag ki garmi, barf ki thandak, jay pakshi ki chahak, koyal ki kook, bagule ka dhong, chakravak ki wafadaari.
-  - Lucretia: Part 4 mein sirf "Rome ki ek veer stri ki kahani".
-  - Michelet aur saal 1864 (Part 5 ke "ek French itihaaskar, Nehru se koi assi saal pehle"); unke uddharan ka baaki hissa: Judea sookha hai aur main haanfta hoon; "book of divine harmony", prem, daya aur karuna ka athaah saagar.
-  - William von Humboldt (Part 7 ke "Europe ke ek vidvaan"); poora uddharan: "the most beautiful, perhaps the only true philosophical song existing in any known tongue".
-  - Mahabharat ki baaki seekhein (list ki poonchh): "Virtue is better than immorality and life"; "True joy entails suffering".
-  - Mahabharat ki baaki aasthayein (list ki poonchh): deisms aur dualisms.
-  - Part 8 ke sroton ki poori list mein "contemporary records" bhi hai.
-- **Aam jaankari** (book se bahar, ek baar check kar lena):
-  - Kautilya = Chanakya: ye book ke isi chapter mein hai (S18, "Kautilya is another name for Chanakya"), par S18 Ep 4.5 ka hissa hai; yahan sirf anchor ke liye.
-  - Bhurjapatra = bhojpatra; ek ped ki chhaal.
-  - "Bhautikvaad" ki ek-line paribhasha (isi duniya aur padarth ko asli maanna).
-  - Olympus ka Yunan ka parvat hona.
-  - Nehru ka bachpan Allahabad mein beetna; open-air Ramayan ke khel ka naam "Ramlila"; Alif Laila = Arabian Nights; Joan of Arc ka France ki hona; Jhansi ki Rani ka angrezon se ladna (book: "the young heroine of the Indian Mutiny").
-  - Rati ke naam ka arth (book: "Rati (or rapture)"); Ananga = "bina ang wala" (book: "the bodiless one").
-  - F. W. Bain ka angrez hona; Goethe ka Germany ka kavi hona.
-  - Draupadi ka naam (book: "the common wife of five brothers").
-  - Sister Nivedita ka Bharat ko apna ghar banana (book sirf naam aur Margaret Noble deti hai).
-  - Gita ka drishya: Kurukshetra ka maidan, rath, Arjun ka dhanush jhukna (book sirf "an episode in the vast drama" aur "conflict of duties" kehti hai).
-  - Part 3 ka "aaj" wala pul (aaj ki Ramlila, aage baithe bachche) aur Part 5 ka pul (khabron mein Kandahar).
-  - "Aaj ke hisaab se" ka poora hissa humari baat hai, book ki nahi.
-- **Kalpana** (mahaul, book ke tathya nahi): cold open ke dhol, diye, jhande, chowk ki bheed (book sirf "celebrations throughout India" kehti hai); qile ki kothri mein akhbaar aur uska "do hazaar" wala panna, Nehru ka panna modna (book ke hisaab se Nehru ye baat May 1944 mein likh rahe hain, "last month, in April 1944"; khabar unhe kaise mili, ye nahi bataya gaya); khaali almaariyon wala pustakalay (Part 2); Allahabad ki shaam ka drishya aur kitaabon ki shelf (Part 3; kahaniyon aur naamon ki list book se hai); Ashoka ped wala bageecha ek drishya ke roop mein (Part 4); khula hua naqsha (Part 5); shaadi ka drishya (Part 6); Nehru ka almaari ke saamne khade hona (Part 8); Part 9 ke laut-te dhol. Part 9 ka "1944 ke ghulam desh mein jeet kiski" wala vaakya Nehru ke do tarkon (Part 8 ka rashtravaad, Part 9 ka takraav) ko jodta hai; jod humara hai.
+  - **Macdonell** (Part 1 ka "ek vidvaan"): unki kitaab 'History of Sanskrit Literature' ka wahi hissa, jise maine saar mein kaha. Poora uddharan Sanskrit sahitya ki originality par hai. Isse main sirf isliye nahi bola ki naam aata, aur uddharan lamba ho jaata.
+  - **Schopenhauer** (Part 1, naam bola gaya, lamba quote nahi): unka poora uddharan — upanishadon ke har vaakya se gehre, mool aur oonche vichar nikalte hain; duniya mein upanishadon jaisa laabhdayak adhyayan koi nahi; aur unka doosra hissa, ki ye aage chalkar logon ka vishwas banega.
+  - **Romain Rolland** (Part 1 ka "French lekhak"): unka uddharan "jahan jeevit insaan ke sab sapne ghar paaye". Naam aata, isliye T5.
+  - **Max Mueller** (S09 ka Cambridge wala bhashan): "duniya mein India se zyada prakriti ki daulat wala desh kahan hai". Ye hissa maine jaan-boojh kar nahi bola; Max Mueller Ep 4.2 mein aa chuke hain, aur yahan dohrana zaroori nahi tha.
+  - **Aurobindo Ghose** (Part 4 ka "ek aadhunik Bharatiya chintak"): naam T5. Unka poora uddharan — "forms and shells and rags of the past", "missing nine-tenths of its nobler meaning", "mental poverty, immobility, static repetition, cessation of science, sterility of art".
+  - **Kalhana aur 'Rajatarangini'** (Part 8): naam aur kitaab ka naam dono T5. Wo barahvi sadi mein likhi Kashmir ki itihaas-kitaab hai.
+  - **Peloponnesian war** (Part 6 ka "ek lambi ladai jisne Athens ka loktantra toda"); **Stoic aur Epicurean** darshan (Part 6 ke "nanne-nanne darshan").
+  - **S13 ke cluster a+b+e** (Ep 4.4): mahakavya ka banna, Nehru ka bachpan aur Ramlila, puraan ki teen kahaniyan, Kailash se utarte devta, aur kalpit itihaas ke aadarsh.
+  - **S14 aur S15** (Ep 4.4): Mahabharat, Bhagavad Gita, critical edition, Russi anuvaad, Michelet, Humboldt, Tilak/Aurobindo/Gandhi ki teekaayein.
+- **Aam jaankari:** Hoon ka ek-line anchor ("madhya Asia ke hamlavar") — ye book se bahar ki jaankari hai. Baaki kahani wala kaam (Aurobindo ka didaar, suraj wale passage ka drishya, "Vikram ke do avatar" ka sawal) book ke andar hi hai, isliye uske liye Aam-jaankari nahi likhi.
+- **Kalpana** (mahaul, book ke tathya nahi): cold open ke dhol, diye, jhande, chowk ki bheed (book sirf "celebrations throughout India" kehti hai); qile ki kothri mein akhbaar, uska "do hazaar" wala panna, aur Nehru ka panna modna (book ke hisaab se Nehru ye baat likh rahe hain "last month, in April 1944"; khabar unhe kaise mili, ye nahi bataya); Nehru ka purane grant palatna (cold open); khaali almaariyon wala pustakalay (Part 5); Part 7 ka khaali shelf aur ungli ka us par rukna; akhbaar ka Part 9 mein wapas khulna; Part 9 ke laut-te dhol; "raat utarti hai / us paar din hai" wala suraj ke aangan ka drishya (book ka sirf passage hai, drishya humara); aur Part 3 ka charkha-chup-rehna wala aaj-bridge.
+- **Aur ek baat:** Part 3 aur Part 8 ke do inline pul, aur poora "Aaj ke hisaab se", humari baat hai, book ki nahi.
 
 ## Writer's check (recording se pehle hata dena)
 
-**Phase A — fact ledger (compact).** Atom ID `04-Sxx-nn`; type N/D/C/Q/A/L; U = anjaan naam/ank. S05 ke 01–20 Ep 4.2 ke clusters hain; yahan sirf puraan wala cluster.
+**Phase A — fact ledger (compact).** Atom ID `04-Sxx-nn`; type N/D/C/Q/A/L; U = anjaan naam/ank. S12 ke 01-06 aur S13 ke 01-14 Ep 4.4 ke clusters hain, yahan nahi.
 
 | Atoms | Type | F/U | Tier | Part |
 | --- | --- | --- | --- | --- |
-| 04-S05-21..26 puraan: sach maano to bematlab, na maano to sundar; Yunani devta; bojh; Bharatiya puraan zyada ameer; "kisne gadhe?" | C | — | T2 | P1 |
-| 04-S13-50..53 Kailash/Olympus se utarte devta; sundarta ke premi; Murray ka saar; devta peechhe, darshan aage, tasveerein mann mein | C/Q | Olympus U | T2 (Murray T5) | P1 |
-| 04-S12-01..02 khoya sahitya; taad-patra, bhurjapatra (GAP) | C/N | bhurjapatra U | T1 | P2 |
-| 04-S12-03..09 bhautikvaad kho gaya; sirf aalochanaon mein; sadiyon ka asar; Arthashastra (4th c BC); virodhiyon ka utsaah; pujaariyon ne nasht kiya; sattaa par hamla, Vedon ki ninda (GAP) | C/N/D | Arthashastra U, 4th c BC U | T2 | P2 |
-| 04-S12-10..14 "aaj ka sa"; uthal-puthal → Jain, Bauddh, "Hindu" darshan; mahakavya aur Gita isi daur ke; chronology mushkil; Buddha (6th c BC → T5) | C/D | — | T2 | P2 |
-| 04-S12-15..23 Yunan se tulna; Athens/Peloponnesian (T5); nirasha; khatarnak tulna; ganrajya kamzor, kendrikaran; Yunan nahi ubhra (Rome, Europe), Bharat ubhra, hazaar saal; poorab ke dweep | C | Athens F | T2 (naam T5) | P2 |
-| 04-S13-01..07 mahakavya sadiyon mein bane; baad mein rache; mass mind par asar; anuvaad/roop; har star; jaati-bate samaaj ko saanjha ateet; jaan-boojh kar ekta | C | — | T2 | P3 |
-| 04-S13-08..15 maa ki kahaniyan; saalana Ramayan khel; sach nahi maana, jaadu ki aalochna; Alif Laila, Panchatantra; montage; puraan ka parda; anpadh logon par asar; mitaana nahi | A/C/L | sab F | T1 | P3 |
-| 04-S13-16..22 puraan Vedon tak; Ashoka ped; Kaam, Rati, Vasant, Ananga; veerta ke aadarsh; sach+kalpana = kalpit itihaas; upar uthaati kahani | A/C | Ashoka-ped U, Rati/Vasant U, Ananga U | T1/T2 | P4 |
-| 04-S13-23 Goethe aur Lucretia | Q | Goethe U | T2 (Lucretia T5) | P4 |
-| 04-S13-54 Bain, Twashtri (6 chhaviyan boli) | A/L | Twashtri U | T1 (Bain + baaki list T5) | P4 |
-| 04-S14-13..18 Bharatvarsh/Bharat; Aryavarta, Vindhya; Ramayan dakshin; yuddh ~14th c BC; Gandhara → Kandahar, Gandhari; Hastinapur, Indraprastha | C/N/D | Aryavarta U, 14th c BC U, Gandhara U, Hastinapur/Indraprastha U | T1/T2 | P5 |
-| 04-S14-19 Nivedita | Q | Nivedita U | T2 | P5 |
-| 04-S14-01..08 tareekh mushkil; kai lekhak; Ramayan ekroop, Mahabharat bhandaar; Buddha se pehle; Michelet (T5); encyclopaedia; critical edition; Russi anuvaad | C/Q | — | T2 | P5 |
-| 04-S14-09..12 naye rivaaz; paanch bhaiyon ki patni; ghul-mil → Hindu dharm; sach par thheka nahi | A/C | — | T1/T2 | P6 |
-| 04-S14-21..30 ubalti zindagi; seekhein; samaaj-kalyan; kaamyaabi; resham ka keeda; asantosh; har aastha; jaati sakht nahi; nishedh; gomaans | C/Q/A | — | T2 | P6 |
-| 04-S14-20 Krishna-kathayein aur Gita (GAP) | C | — | T4 | P7 |
-| 04-S15-01..18 700 shlok; Humboldt (T5); Buddha-poorv; har darshan; sankat; teekaayein; Tilak, Aurobindo, Gandhi; ahimsa/hinsa; karm; yugadharma; nirasha mein appeal; samaaj-seva; phal se upar; kaaran-kaarya; sab ke liye; santulan; 2,500 saal | C/N/D | 700 U, yugadharma U | T1/T2 | P7 |
-| 04-S13-24..36 prateek-sach; naitik itihaas; Yunani jaise kalakaar; itihaaskar nahi; Kalhana, Rajatarangini, 12th c; srot; aam log; keemat; darshan mein tez; vigyaan; sookhe itihaaskar; rashtravaad; azaadi | C/N/D/L | Kalhana U, Rajatarangini U, 12th c U | T2 | P8 |
-| 04-S13-37..41 Vikram Samvat; saur hisaab, chaandra mahine; April 1944, 2,000 saal; jashn jaayaz; kahaniyan Asia, Europe tak | C/D | April 1944 / 2,000 U | T1 | Cold open |
-| 04-S13-42..49 nayak (GAP); 57 BC; 4th c Vikramaditya, Hoon, nau ratn; Malava; itihaas se khilwaad; videshi, ek rashtriya rajya; raaj uttar-madhya tak; dheeli soch chhodo | C/N/D | 57 BC U, 4th c U, Malava U | T1/T2 | P9 |
+| 04-S13-37..41 Vikram Samvat ka saur hisaab, chaandra mahine; April 1944, 2,000 saal; jashn jaayaz; kahaniyan Asia aur Europe tak (**GAP closed: beau ideal**) | C/D/N | Vikram U, Vikram Samvat U | T1 | Cold open |
+| 04-S09-01..03 us sabhyata ki neev jo aage khili; poora lamba safar aur uski jaan (v2) | C | — | T2 | P1 |
+| 04-S09-04..05 aadarsh aur soch ke khambhe ban rahe; sahitya, darshan, kala, natak unhi ke saanche mein | C | — | T2 | P1 + P2 |
+| 04-S09-06..08 Macdonell ka saar: North-west mein Yunani aane se pehle rashtriya sanskriti tayyar; Irani, Yunani, Shak, Musalman ke baad bhi raah nahi badli, angrezon tak; aisa alag safar kisi doosri Indo-European shakha ka nahi; sirf China muqabla kar sakta hai, 3,000+ saal | C/Q | Macdonell F (T5, naam nahi bola) | T2/T5 | P1 |
+| 04-S09-09 Bharat alag-thalag nahi tha: Irani, Yunani, Chini, Madhya Asia se lagataar rishta (v2); itne mel-jol ke baad sanskriti bachi, to uske andar koi andar ki jaan thi (v2) | C | — | T2 | P1 |
+| 04-S09-10 Schopenhauer: upanishadon ka adhyayan zindagi ka sahara, aur maut ka bhi (naam bola gaya — niraashavadi ka hona hi baat hai) | Q | Schopenhauer U | T2 | P1 |
+| 04-S09-11 Romain Rolland: dharti par ek hi jagah jahan insaan ke sab sapne ghar paaye | Q | Rolland F (T5, naam nahi bola) | T2/T5 | P1 |
+| 04-S09-12..13 touch-me-notism octopus ki tarah badhti gayi, sab kuch jakad liya — aaj ki jaati-vyavastha; wo vyavastha ek khaas din ke liye bani thi, samaaj ko mazbooti aur santulan dene; par wo jail ban gayi — samaaj ke liye aur mann ke liye; suraksha mili, keemat aage badhne ki taaqat | C | octopus U | T1/T2 | P2 |
+| 04-S09-14 vyavastha bahut lambi daud rahi; jaan poore Bharat aur poorab ke samundron tak gayi; jhatke aur hamle seh gayi | C | — | T2 | P2 |
+| 04-S11-01 Chhandogya ka passage: suraj na doobta hai na ugta hai; us paar din hota hai (v2) | Q/N | Chhandogya U | T2 | P2 |
+| 04-S11-02 shareer aur mann ki fitness aur discipline; tapasya upar darshanikon mein aur neeche aam logon mein; Gandhi ke mass movements ki psychology samajhne ki kunji | C | tapasya U | T2 | P3 |
+| 04-S11-03 soch ek chhote elect tak simit thi, aam logon ki samajh se bahar | C | — | T2 | P3 |
+| 04-S11-04 creative minority chhota hota hai; agar majority ke saath taal mein rahe to sthir, aage badhti culture; aisa na ho to sabhyata murjha jaati hai; dhaaga toote to minority khud barren ho jaati hai, ya koi naya zinda force aa jaata hai | C | creative minority U | T2 | P3 |
+| 04-S11-05 graded society ka mann ke darjon wala dhaancha; bond tha, jhagde bache; nayi soch purane vishwas mein lapet kar aam logon ko di gayi, matlab kho gaya; monism > monotheism; neeche ke vishwas tolerated aur encouraged; dhaancha na chhua, sirf soch upar tak gayi, neeche chhilka | C | monism U | T2 | P3 |
+| 04-S11-06 us faasle se naye andolan: bhautikvaad, agnosticism, atheism, Bauddh, Jain, mahakavya | C | agnosticism U | T2 | P3 |
+| 04-S11-07 individuality se oonche log har zamane mein; ethical aur ideal background; apne example se samaaj ko baar-baar joda; extreme tolerance se jhagde bache; purane, tajurbekaar desh ki samajhdari | C | — | T2 | P4 |
+| 04-S11-08 samaaj ke prati farz wali soch aadhunik hai, purane samaaj mein nahi milti — isliye purane Bharat se ummeed karna galat; par individualism aur darje Bharat mein zyada dikhte hain | C | — | T2 | P4 |
+| 04-S11-09 mann ka jail: neeche walon ke liye sabse bura, upar walon ke liye bhi; jaati ki kathorta ke saath mann ki kathorta badhi, creative energy mand padi | C | — | T1/T2 | P4 |
+| 04-S11-10 har vishwas aur har andhvishwas ko sehna — sehansheelta ka zeher; purane dhabbe nahi dhulte; pujaariyon ne andhvishwaason par taakat ka mahal khada kiya; Europe ke kuch churchon jitne taqatwar nahi the, kyunki khilaaf bolne wale hamesha the aur mann ko chunne ki aazadi thi | C | — | T2 | P4 |
+| 04-S11-11 free thought aur orthodoxy saath-saath; bahas ka dhang, sirf purane hawale, naye sawaalon ki roshni mein padhne ki koshish nahi; creative aur spiritual forces kamzor, sirf chhilka bacha; Aurobindo ka saar: purane zamane ka Bharatiya aaj aa kar dekhega — forms aur shells, nau hissa gayab, mental poverty, vigyaan ki bandi, kala ki sookhi zameen (T5 naam) | C/Q | Aurobindo F (T5) | T2 | P4 |
+| 04-S12-07..09 bahut sara purana sahitya kho gaya — Yunan, Bharat, aur jagah; taad-patta aur bhurjapatra par likha, jo aasani se chhoot jaati hai, baad mein kaagaz; kuch hi copies; kho jaaye to khatm, sirf isaare bachte — zikr ya quote; sahi khoj bina hi 50,000+ Sanskrit manuscripts mil chuki, nayi mil rahi hain; kuch kitaabein Bharat mein nahi mili, Chini ya Tibbati tarjuma mila; math/vihaar/gharon mein khoj se rich results; chhaanna, chhapna, tarjuma karna — azaadi ke baad ka kaam; itni abundance ki gawaah; bahut si manuscripts abhi padhi hi nahi gayi | C/N/D | bhurjapatra U, 50,000 U | T1/T2 | P5 |
+| 04-S12-10..12 bhautikvaad ki poori kitaab kho gayi; sirf aalochanaon mein bachi; sadiyon tak chali aur logon par asar daala; Arthashastra (chauthi sadi BC) usko bade darshanon mein ginati hai; pujaariyon aur kattar dharmik logon ne nasht kiya | C/N/D | Arthashastra U, 4th c BC U | T2 | P5 |
+| 04-S12-13..16 virodhi behas, unka utsaav; sattaa par hamla, soch/dharm/dharm-shastra ke jama huye swarth par; Vedon, pujaariyon, purane vishwaason ki ninda; vishwas azaad hona chahiye, purani baat purani hone se sach nahi; jaadu aur andhvishwas par vaar; jo dikhta nahi uske baare mein kuch pakka nahi; sirf matter aur ye duniya; doosri duniya, swarg, narak, alag aatma — sab nahi; mann aur buddhi buniyadi tatvon se; prakriti ke bhale-bure ki parwaah nahi; niyam insaan ke banaye conventions (**GAP closed**) | C | conventions U | T2 | P5 |
+| 04-S12-17 "aaj ki baat" (do hazaar saal purani nahi) | C | — | T2 | P5 |
+| 04-S12-18..20 uthal-puthal ka daur, vishwas ka bikharav, naye raaste; tark par khadi systematic philosophy — Jain, Bauddh, "Hindu"; mahakavya aur Gita isi daur ke; chronology mushkil, kuch Buddha se pehle, baad, saath-saath; Buddha chhathi sadi BC | C/D | — | T2 | P5 + P6 |
+| 04-S12-21 Buddhism ke aas-paas Persian samrajya Sindhu tak (v2); itni badi taaqat seema par — soch par asar | C | Persian samrajya F | T2 | P6 |
+| 04-S12-22 Sikandar ki chhoti chadhai, apne aap mein unimportant, par aage ke badlavon ki pehli kadam (v2) | C/N | Sikandar F | T2 | P6 |
+| 04-S12-23..25 us waqt ka Bharat chhote rajyon ka jhund: ganrajya, chhote raja, shehar-rajya taqatwar guilds ke saath; ganrajya/shehar ka apna raaj; bade raja ki dhaak ho phir bhi andar ka kaam andar; kachchi democracy, sirf upar wale logon ki (jaise Yunan mein) | C | guilds U | T2 | P6 |
+| 04-S12-26 Bharat aur Yunan ka neeche ki zindagi ka milta-julta dhaancha | C | — | T2 | P6 |
+| 04-S12-27 Athens ka loktantra todne wali lambi ladai ≈ Mahabharat ka yuddh (ke naam T5); ladai ke baad nirasha, aadarsh halke, nanne-nanne darshan, ganrajya kamzor, sattaa ek jagah simat rahi; Stoic aur Epicurean (T5) | C/Q | Athens F, Peloponnesian T5 | T2 | P6 |
+| 04-S12-28 kam aur ulte-seedhe saboot par tulna khatarnak — Nehru khud chetaate hain | C | — | T2 | P6 |
+| 04-S12-29 tulna toot-ti hai: Yunan in jhatkon se nahi ubhra (kuch sadiyon chamki, Rome aur Europe tak gayi); Bharat ubhra — hazaar saal darshan, sahitya, natak, ganit, kala; kuch sadiyon baad poorab ke samundaron ke dweepon tak | C | — | T2 | P6 |
+| 04-S13-41..44 kalpit itihaas prateek ke roop mein sach, aage ke itihaas ki neev; seedha byora? kis saal, kis raja ne kya kiya — purane Bharat ki dilchaspi nahi; itihaas ka nazariya darshan aur naitikta mein ranga, ghatna ka asar vyavhaar par, ek seekh; kalpanasheel aur kalakaar jo Yunaniyon jaise the, par itihaaskar nahi — Yunani, Chini, Arab likhte the, Bharatiya nahi; badkismati — tareekhein tay karna mushkil, ghatnayein ghus jaati hain, bhool-bhulaiya; dheeraj wale vidvaan suraag dhoondh rahe hain | C | — | T2 | P7 |
+| 04-S13-45..48 poore purane Bharat mein ek hi itihaas-kitaab: barahvi sadi, Kashmir (Kalhana aur Rajatarangini — T5); baaki suraag: kalpit itihaas, shilalekh, imaaratein, sikke, Sanskrit sahitya ke isaare, Yunani/Chini/Arab yaatriyon ke byore; aam logon ko farak nahi pada — ateet parampara se, peedhi-dar-peedhi kahaniyon se, saanjhi zameen mili | C/N/D | Kalhana F (T5), barahvi sadi U | T2 | P8 |
+| 04-S13-49..53 keemat: dhundhlapan, zindagi se doori, har baat maan lene ki aadat, tathya mein rui jaisa mann — jabki darshan mein baal ki khaal nikaalta tha, shak karta tha, par tathya ke aage aankh band; vigyaan aur naye zamane se saboot tola jaane laga, parampara sirf parampara hone se sach nahi; ulti galti bhi — tathyon ki baareek soochi, zinda itihaas nahi; har desh apne ateet ko sajaata hai aur sach tedha karta hai; Angrezon ka Bharat-itihaas angrez ke aane se shuru hota hai; aaj bhi aankhon ke saamne ki baatein badal di jaati hain; par Bharatiya parampara ko bina jaanche itihaas maan lete hain — ye dheeli soch chhodni hogi; raajnitik aur aarthik azaadi ke baad mann theek se soch paayega (v2) | C/Q | — | T2 | P8 |
+| 04-S13-54..57 57 BC ke aas-paas koi raja ka nishaan nahi; chauthi-sadi ka Vikramaditya, Hoonon se ladai, "nau ratn"; Malava rajya ka 57 BC wala samvat, Vikram ke bahut baad unke naam se joda gaya; Nehru khud kehte hain — dhundhla, pakka kuch nahi; samajhdaar log itihaas ke saath khelte rahe, purane nayak ko samvat se jodne ke liye; zor videshi se ladai aur ek rashtriya rajya par, jabki raaj uttar aur madhya Bharat tak; Vikram kahaniyon se bana nayak: bhalaai, tyaag, udaarta, bina naaz, kalakaaron ka sahib; sipahi hona kahaniyon mein nahi aata — yahi Bharatiya mann ki pehchaan; naam upaadhi ban gaya (jaise Caesar), confusion badhi; jashn phir bhi jaayaz (**GAP closed: beau ideal**) | C/N/D/Q | 57 BC U, nau ratn U, Malava U | T1/T2 | P9 |
 
-**Trim pass.** Draft ki narration 5,010 shabd thi; Part 2, 3, 5, 6, 7 aur 8 ki bhaari lines chhoti ki gayin, aur Outro ko sheet ke 80-shabd target tak badhaya gaya. Ab kul 4945 shabd. Koi atom nahi kata.
+**Trim pass.** Draft ka pehla version 5,224 shabd ka tha. P4, P5 aur P9 ki bhaari lines chhoti ki gayin, aur P7 ko sheet ke 450-shabd target tak badhaya gaya (khaali shelf ka drishya, sach aur kalpana ka jod, byore aur kahani ka farq). Ab kul 5,171 shabd. Koi atom nahi kata, aur koi atom itna chhota nahi hua ki apni tier se gir jaaye.
 
-**Phase B–C — U-budget.** CO 1 · P1 1 · P2 3 · P3 0 · P4 6 · P5 6 · P6 0 · P7 2 · P8 3 · P9 3 · Aaj/Outro 0 (Jataka F-hook) · **kul ~25** (sheet ~22; seema ≤75). Har part apni seema (shabd/160 × 3) ke andar: P4 6 ≤ 9, P5 6 ≤ 10. P4 aur P5 mein naam teen-teen ke jhund mein nahi aate; har jod ke beech ek drishya hai. T5 mein 6 naam (Murray, Bain, Michelet, Humboldt, Lucretia, Peloponnesian/Stoic/Epicurean), U ke ~20% ki seema ke aas-paas; sab naam ya list ki poonchh, koi tark nahi.
+**Phase B-C — U-budget (R16).** CO 2 · P1 3 · P2 2 · P3 3 · P4 2 · P5 5 · P6 3 · P7 1 · P8 2 · P9 5 · Aaj/Outro 0 · **kul ~28** (sheet ka planned-U ~33; seema ≤75). Har part apni seema (shabd/160 x 3) ke andar: P5 ka 5 ≤ 10, P9 ka 5 ≤ 8, P6 ka 3 ≤ 8. Koi bhi 160-shabd ki khirki mein 3 se zyada U nahi — B5 aur B9 mein naam do-do ke jhund mein nahi aate, beech mein ek drishya ya ek "sochiye" hai. T5 mein 8 naam/title/figure hain (Macdonell, Schopenhauer ka lamba quote, Rolland, Max Mueller, Aurobindo, Kalhana, Rajatarangini, Peloponnesian/Stoic/Epicurean) — ye U ke ~20% ke aas-paas hai, aur sab naam ya list ki poonchh hain, koi tark nahi. Bole gaye anjaan naam/ank: Vikram(aditya), Vikram Samvat, Schopenhauer, Chhandogya, tapasya, creative minority, monism, agnosticism, Hoon, bhurjapatra, Arthashastra, guilds, 57 BC, nau ratn, Malava, barahvi sadi, octopus, 2,000 saal, 3,000 saal, 50,000.
 
-**Phase D–E — beat sheet (story event → hook out).**
+**Phase D-E — beat sheet (story event → hook out), word counts.**
 
-| Part | Story event | Hook out |
-| --- | --- | --- |
-| CO | Desh jashn manata hai; qile mein Nehru akhbaar mod kar rakhte hain | Vikram the kaun, aur kab? |
-| P1 | Nehru puraan padhne ka niyam banate hain; devta Kailash se utarte hain | Jo in sapnon par sawal uthaate the, unki kahani kahan hai? |
-| P2 | Ek khaali library; virodhiyon ki kitaabon mein khoye log milte hain | Jo padhte hi nahi the, wo ateet kahan se jaante the? |
-| P3 | Allahabad ki shaam, maa ki kahani; har saal Ramlila | Kahani sikhaati kya thi? |
-| P4 | Teen kahaniyan suni jaati hain: Ashoka ped, Kaamdev ki raakh, Twashtri | Kya sapne desh ka naqsha bana sakte hain? |
-| P5 | Ek naqsha khulta hai; ek yuddh Bharatvarsh ka naam likhta hai | Naye log apne rivaaz lekar aa rahe the |
-| P6 | Paanch bhaiyon ki shaadi; mehmaan ki thaali badalti hai | Ek yoddha ke haath kaanpte hain |
-| P7 | Arjun ka dhanush jhukta hai; Tilak, Aurobindo, Gandhi apni-apni Gita likhte hain | Dhai hazaar saal gine kisne? |
-| P8 | Nehru almaari ki khaali jagah par ungli rakhte hain | Taaza misaal: wahi akhbaar |
-| P9 | Akhbaar phir khulta hai; paheli hal hoti hai | (payoff) → Outro: Jataka → Ep 4.4 cold open |
+| Part | Story event | Hook out | Words | U |
+| --- | --- | --- | --- | --- |
+| CO | Desh Vikram Samvat ka jashn mana raha hai; qile mein Nehru akhbaar mod kar rakh dete hain | Vikram the kaun, aur the kab? | 412 | 2 |
+| Abtak | — | (4.2 ka sawal: to hum jaante kaise hain ki wo the?) | 56 | 0 |
+| P1 | Nehru dhaage ko peechhe kheenchte hain; dhaaga tootta nahi | Deewar kahan se aayi? | 464 | 3 |
+| P2 | Wo suraj wala passage padhte hain aur usi zamane ki doosri taraf dekhte hain | Itne saal kaise chali, jab aage badhne ki raah band thi? | 446 | 2 |
+| P3 | Wo tapasya aur chhote ghere ko naapte hain | Nehru poora hisaab rakhte hain; usme achhai bhi hai | 474 | 3 |
+| P4 | Listener us mann ke jail ke andar khada hota hai | Mann ke darwaaze band ho gaye, to khazana bahar reh gaya | 574 | 2 |
+| P5 | Ek pustakalay ki khoj, jisme bhautikvaadiyon ki ek bhi kitaab nahi | Wo soch aayi kahan se? | 610 | 5 |
+| P6 | Do desh ek aaine ke do taraf khade hote hain | To is desh ne apna itihaas likha kyun nahi? | 477 | 3 |
+| P7 | Nehru almari ke khaali hisse par ungli rakhte hain | Poori ek sabhyata mein? Ek bhi nahi? | 424 | 1 |
+| P8 | Ek itihaas-kitaab, aur uske saamne ek khaali kursi | Wahi akhbaar. Wahi do hazaar saal. Wahi naam | 456 | 2 |
+| P9 | Akhbaar phir khulta hai; paheli hal hoti hai; payoff | (carrying question ka jawab) → Outro: do kahaniyan | 533 | 5 |
+| Aaj | Forwarded "itihaas": kaun, kab, saboot kya? | (sawal listener ke liye) | 155 | 0 |
+| Outro | Do kahaniyan bach gayi — Ramayana aur Mahabharata | Agli baar unhi do kitaabon mein | 90 | 0 |
+| | | **Kul** | **5,171** | **~28** |
 
-**R15 flow audit.** "Nehru batate/kehte hain" sirf tark ke beech aata hai; har part ka khulna kisi kriya ya drishya se hai (akhbaar, library, shaam, bageecha, naqsha, shaadi, rath, almaari, akhbaar). Har hook agle part mein jawab paata hai.
+**R14 coverage checklist (§2.6 format) — tick kiya gaya.** Sab atoms apne Part par tick hain; ek bhi blank nahi. T6 (aage bheja gaya) teen: S13 a+b+e → 4.4; S14 → 4.4; S15 → 4.4. S05 ka puraan cluster → 4.4. **Split zaroorat: nahi** — sheet ke 4,930 source shabd 5,171 narration mein baith gaye, aur U 28 par hai (seema 75).
 
-**Tareekhein (R6).** CO: April 1944 (beat isi tareekh ke baare mein hai). P2: ek (Isa se chaar sau saal pehle); Buddha ki sadi T5, "kuch sadiyon baad" relative. P5: ek (Isa se chaudah sau saal pehle); Michelet "assi saal pehle", 1944 frame-saal. P8: ek (baarahvi sadi). P9: 57 BC aur chauthi sadi (beat inhi tareekhon ke baare mein hai), baaki "kai sau saal". Har part mein ≤3 bole gaye ank.
+**Tareekhein (R6).** CO: April 1944 + 2,000 saal (beat isi tareekh ke baare mein hai; sheet ne isi ko date-beat kaha hai). P1: ek (chauthi sadi Isa-poorv), baaki "teen hazaar saal" relative. P5: ek (chauthi sadi Isa-poorv, Arthashastra). P6: ek (Buddha chhathi sadi Isa-poorv); Sikandar "do-teen sau saal baad" relative. P8: ek (barahvi sadi). P9: ek hi absolute date (57 BC); chauthi-sadi ka Vikramaditya jaan-boojh kar relative rakha hai ("us se kai sau saal baad") — sheet kehta hai P9 date-beat nahi hai, isliye yahin bas ek absolute date rakhi. Har part mein ≤3 bole gaye ank.
 
-**R17 spot-the-lecture (draft par).** 1 clean (koi teen vaakya lagaataar naam/ank se shuru nahi). 2 clean (Twashtri 6 chhaviyan F scenery hain, U nahi; Part 3 ki shelf F scenery, do vaakyon mein bati). 3 clean (dekhiye R15). 4 clean. 5 clean (koi kitaab-naam ya title ke saath attribution nahi; Arthashastra khud ek gawaah ki tarah aata hai). 6 clean (har part ek suraag hai). 7 clean ("Nateeja?", "Kyunki…" har part mein). 8 clean (har part sawal ya mod par khatam). 9 clean ("Ek aur gawaah hai" Part 2 mein signpost jaisa hai, par wo suraag-khoj ki kriya hai; rakha gaya). 10 lambe vaakya tode gaye (Part 2, 5, 9). 11 Part 6 ki seekhein ek seedhi kram mein hain (seekh → samaaj → kaamyaabi → daulat → asantosh → nishedh), jo "zinda samaaj → darr" ki disha banata hai. 12 clean (2 inline pul).
+**R17 spot-the-lecture (draft par).** 1 clean (koi teen vaakya lagaataar naam/ank se shuru nahi; P5 aur P9 mein naam do-do ke jhund mein hain, beech mein drishya). 2 clean (koi 3+ U item ki comma-list nahi; "Iraniyon se, Yunaniyon se, Chiniyon se" F names hain). 3 clean (Nehru karte hain: padhte hain, mod kar rakh dete hain, dhaaga kheenchte hain, ungli rakhte hain, naapte hain). 4 clean (dekhiye tareekhein). 5 clean (koi quote attribution kitaab ke naam ke saath nahi; 'Rajatarangini' ka naam bola hi nahi gaya). 6 clean (har part carrying question ko aage badhaata hai). 7 clean ("Nateeja?", "Kyun?", "To phir" har part mein). 8 clean (har part sawal ya mod par khatam). 9 clean ("Ek gawaah Arthashastra hai" aur "Ek doosri ajeeb baat" signpost jaise lagte hain par wo suraag-khoj ki kriya hain). 10 lambe vaakya tode gaye (P1, P5, P8). 11 P5 ka kram ek khoj hai (khaali almari > kitaabein kyun gayi > kitni bachi > bhautikvaad > virodhi > Arthashastra > kaun nasht kiya > kya kehte the), seedhi list nahi. 12 clean (2 inline pul: P3 aur P8).
 
-**Payoff check.** Part 9 ka jawab sheet ke "Answer" se shabdashah milta hai. Cold open ka akhbaar Part 8 ke ant aur Part 9 mein laut-ta hai.
+**Payoff check.** P9 ka jawab sheet ke "Answer" se milta hai. Cold open ka akhbaar P8 ke ant aur P9 mein laut-ta hai, aur P9 ke aakhri vaakya mein dhol bhi laut-te hain.
 
-**Hook chain.** Vikram kaun? → sawal uthaane walon ki kahani kahan? → aam log ateet kahan se jaante the? → kahani sikhaati kya thi? → kya sapne naqsha bana sakte hain? → naye log, naye rivaaz → kaanpte haath → dhai hazaar saal gine kisne? → wahi akhbaar → payoff → Jataka (→ Ep 4.4).
+**Hook chain.** Vikram kaun the? → deewar kahan se aayi? → itne saal kaise chali? → achhai bhi hui? → khazana bahar kaise reh gaya? → wo soch aayi kahan se? → itihaas likha kyun nahi? → ek bhi nahi? → wahi akhbaar, wahi naam → payoff → do kahaniyan bach gayi (→ Ep 4.4).

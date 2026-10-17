@@ -368,5 +368,6 @@
  "dead_air": {
   "before_body_seconds": 1.3,
   "notes": "Cold open ke aakhri line ('Aaj ka har kissa ek suraag hai…') ke baad 1.3 s ki khaamoshi, phir 'Ab tak'. Iske alawa cold open ke andar 5 beats jaan-boojh kar khali hain: dhol katne ka sannata (sirf ek kauva), 'Ek calendar ka. Vikram Samvat ka.', suraj-chaand wala hisaab, kahaniyon ka hissa, aur hook ke do sawal + 'akhbaar mez par hi pada rahega' (sirf score, koi spot cue nahi)."
- }
+ },
+ "_repairs": []
 }

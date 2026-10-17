@@ -32,11 +32,34 @@ import json
 import os
 import re
 import subprocess
+import sys
 import unicodedata
 
 import numpy as np
 
 FF = "/home/itcell/.hermes/tools/ffmpeg-9.0.1-linux-x64/bin/ffmpeg"
+
+def _fix_ld_path():
+    """Re-exec with the venv's CUDA libs on LD_LIBRARY_PATH.
+
+    ctranslate2 dlopens libcublas lazily, so setting LD_LIBRARY_PATH inside the process
+    is too late ("Library libcublas.so.12 is not found or cannot be loaded"). Re-exec is
+    the only reliable way, and it keeps the tool self-sufficient for whoever calls it.
+    """
+    root = os.path.dirname(os.path.dirname(os.path.abspath(sys.executable)))
+    libs = glob.glob(os.path.join(root, "lib", "python3.12", "site-packages", "nvidia", "*", "lib"))
+    if not libs:
+        return
+    want = ":".join(libs)
+    if want in os.environ.get("LD_LIBRARY_PATH", ""):
+        return
+    env = dict(os.environ)
+    env["LD_LIBRARY_PATH"] = want + ":" + env.get("LD_LIBRARY_PATH", "")
+    os.execve(sys.executable, [sys.executable] + sys.argv, env)
+
+
+_fix_ld_path()
+
 SR = 16000
 
 

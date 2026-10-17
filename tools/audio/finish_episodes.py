@@ -43,7 +43,8 @@ def sh(cmd, log, env=None):
 
 def gpu_env():
     e = dict(os.environ)
-    libs = glob.glob(f"{VENV}/../lib/python3.12/site-packages/nvidia/*/lib")
+    root = os.path.dirname(os.path.dirname(VENV))        # .../whisper-venv
+    libs = glob.glob(os.path.join(root, "lib", "python3.12", "site-packages", "nvidia", "*", "lib"))
     if libs:
         e["LD_LIBRARY_PATH"] = ":".join(libs + [e.get("LD_LIBRARY_PATH", "")])
     return e
@@ -63,9 +64,12 @@ def lufs(path):
     r = subprocess.run([FF, "-hide_banner", "-i", path, "-af", "ebur128=peak=true",
                         "-f", "null", "-"], capture_output=True, text=True)
     out = r.stderr
-    i = re.search(r"I:\s+(-?\d+\.\d+) LUFS", out)
-    tp = re.search(r"Peak:\s+(-?\d+\.\d+) dBFS", out)
-    lra = re.search(r"LRA:\s+(-?\d+\.\d+) LU", out)
+    # the progress lines carry an I: value too (the first one reads -70 LUFS at t=0.1 s),
+    # so read the summary block that follows "Integrated loudness"
+    summary = out[out.rfind("Integrated loudness"):] if "Integrated loudness" in out else out
+    i = re.search(r"I:\s+(-?\d+\.\d+) LUFS", summary)
+    tp = re.search(r"Peak:\s+(-?\d+\.\d+) dBFS", summary)
+    lra = re.search(r"LRA:\s+(-?\d+\.\d+) LU", summary)
     return {"lufs": float(i.group(1)) if i else None,
             "tp": float(tp.group(1)) if tp else None,
             "lra": float(lra.group(1)) if lra else None}

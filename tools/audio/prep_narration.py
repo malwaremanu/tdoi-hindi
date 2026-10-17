@@ -17,7 +17,26 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build_episode import extract_narration, split_chunks  # noqa: E402
+from build_episode import split_chunks  # noqa: E402
+
+# Lines that look like production metadata rather than narration: the plan's coverage
+# tables, source paths, and the Script's own tooling notes. A script's Episode info
+# block quotes the heading names in prose ("`## Cold open` se `## Outro` tak"), so the
+# boundary must be matched line-anchored — a naive find() starts a whole block early and
+# feeds the tables into the take.
+META = re.compile(r"\||`|\.txt\b|\.md\b|book/|scripts/|tools/|ep0\d|SFX plan|"
+                  r"^(Sources|Coverage|Placement|Episode info)\b")
+
+
+def extract_narration(script_path: str) -> str:
+    text = open(script_path, encoding="utf-8").read()
+    starts = re.search(r"^## Cold open\s*$", text, re.M)
+    ends = None
+    for m in re.finditer(r"^## Sources\s*$", text, re.M):
+        ends = m
+    if not starts or not ends or ends.start() <= starts.end():
+        raise SystemExit(f"cannot find the Cold open..Sources range in {script_path}")
+    return text[starts.end():ends.start()]
 
 
 def clean(text: str) -> str:
@@ -26,6 +45,8 @@ def clean(text: str) -> str:
         s = line.strip()
         if not s:
             out.append("")
+            continue
+        if META.search(s):                                  # table row / path / note
             continue
         if re.fullmatch(r"[\[\(].*[\]\)]", s):          # pure production cue line
             continue

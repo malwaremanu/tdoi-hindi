@@ -100,8 +100,9 @@ def main():
             latin = re.findall(r"[A-Za-z]+", txt)
             if latin:
                 print(f"batch {i}: attempt {attempt} left {len(latin)} latin tokens {latin[:6]}", flush=True)
-                if attempt == 4:
-                    txt = re.sub(r"[A-Za-z]+", "", txt)
+                if attempt < 4:
+                    continue                      # retry: a Latin token would be read in English
+                txt = re.sub(r"[A-Za-z]+", "", txt)
             open(cpath, "w", encoding="utf-8").write(txt)
             print(f"batch {i}: ok ({len(txt.split())} words)", flush=True)
             done.append(txt)

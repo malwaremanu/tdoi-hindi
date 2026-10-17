@@ -1,0 +1,387 @@
+{
+ "episode": "4.1",
+ "cold_open_words": 472,
+ "beds": [
+  {
+   "id": "air",
+   "sound": "ep02/sfx/raw_fs/air.mp3",
+   "filter": "highpass=90,lowpass=8000",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 151.0,
+   "level_db": -21,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2,
+     0
+    ],
+    [
+     33.5,
+     0
+    ],
+    [
+     72.0,
+     0
+    ],
+    [
+     150.7,
+     0
+    ],
+    [
+     151.0,
+     -60
+    ]
+   ],
+   "notes": "the desert air that runs the whole scene, out before the host intro"
+  },
+  {
+   "id": "wind",
+   "sound": "ep03/sfx/raw_fs/wind.mp3",
+   "filter": "highpass=140,lowpass=6500",
+   "start": 0.0,
+   "end_phrase": [
+    "नमस्कार"
+   ],
+   "end_offset": -0.25,
+   "end_fallback": 151.0,
+   "level_db": -23,
+   "pan": 0.0,
+   "points": [
+    [
+     0,
+     -60
+    ],
+    [
+     2,
+     0
+    ],
+    [
+     33.5,
+     0
+    ],
+    [
+     72.0,
+     0
+    ],
+    [
+     150.7,
+     0
+    ],
+    [
+     151.0,
+     -60
+    ]
+   ],
+   "notes": "dry grit layer over the air bed"
+  }
+ ],
+ "cues": [
+  {
+   "id": "sand1",
+   "sound": "synth:sand_trickle",
+   "synth_seconds": 2.6,
+   "phrase": [
+    "हवा",
+    "चल",
+    "रही",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": -1.2,
+   "level_db": -30,
+   "pan": -0.4,
+   "fade_in": 0.1,
+   "fade_out": 0.35
+  },
+  {
+   "id": "broom",
+   "sound": "ep01/sfx/raw_fs/s4_brush.mp3",
+   "seconds": 0.9,
+   "phrase": [
+    "सुबह",
+    "कोई",
+    "औरत",
+    "आंगन",
+    "बुहारती",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": 0.2,
+   "level_db": -22,
+   "pan": -0.2,
+   "fade_in": 0.02,
+   "fade_out": 0.1
+  },
+  {
+   "id": "crow",
+   "sound": "ep01/sfx/raw_fs/s5_crow.mp3",
+   "seconds": 1.2,
+   "phrase": [
+    "बच्चे",
+    "गली",
+    "में",
+    "खेलते",
+    "हैं"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -32,
+   "pan": 0.6,
+   "fade_in": 0.03,
+   "fade_out": 0.2
+  },
+  {
+   "id": "rise",
+   "sound": "ep02/sfx/raw_fs/bass.mp3",
+   "filter": "lowpass=200",
+   "seconds": 7.0,
+   "phrase": [
+    "जमीन",
+    "ऊपर",
+    "उठने",
+    "लगती",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": -0.4,
+   "level_db": -26,
+   "pan": 0.0,
+   "fade_in": 3.0,
+   "fade_out": 3.0
+  },
+  {
+   "id": "brick1",
+   "sound": "synth:brick_thud",
+   "phrase": [
+    "एक",
+    "नई",
+    "ईंट",
+    "रखता",
+    "है"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -20,
+   "pan": 0.0,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "brick2",
+   "sound": "synth:brick_thud",
+   "phrase": [
+    "फिर",
+    "दूसरी"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -21,
+   "pan": 0.05,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "brick3",
+   "sound": "synth:brick_thud",
+   "phrase": [
+    "फिर",
+    "तीसरी"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -22,
+   "pan": -0.05,
+   "fade_in": 0.005,
+   "fade_out": 0.25
+  },
+  {
+   "id": "dig1",
+   "sound": "ep01/sfx/raw_fs/s1_dig.mp3",
+   "seconds": 1.1,
+   "phrase": [
+    "कुदाल",
+    "और",
+    "ब्रश",
+    "लेकर",
+    "आते",
+    "हैं"
+   ],
+   "occurrence": 1,
+   "offset": -0.3,
+   "level_db": -18,
+   "pan": 0.0,
+   "fade_in": 0.02,
+   "fade_out": 0.25
+  },
+  {
+   "id": "dig2",
+   "sound": "ep01/sfx/raw_fs/s1b_dig.mp3",
+   "seconds": 1.0,
+   "phrase": [
+    "रेत",
+    "हटाते",
+    "हैं"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -19,
+   "pan": 0.05,
+   "fade_in": 0.02,
+   "fade_out": 0.25
+  },
+  {
+   "id": "rubble",
+   "sound": "ep01/sfx/raw_fs/s2_gravel.mp3",
+   "seconds": 1.4,
+   "phrase": [
+    "दीवारें",
+    "निकलती",
+    "हैं"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -20,
+   "pan": -0.1,
+   "fade_in": 0.05,
+   "fade_out": 0.2
+  },
+  {
+   "id": "rain",
+   "sound": "synth:rain",
+   "synth_seconds": 11.0,
+   "phrase": [
+    "और",
+    "बारिश",
+    "और",
+    "सूखी",
+    "रेत",
+    "वाली",
+    "हवा"
+   ],
+   "occurrence": 1,
+   "offset": -0.6,
+   "level_db": -27,
+   "pan": 0.0,
+   "fade_in": 1.0,
+   "fade_out": 2.5
+  },
+  {
+   "id": "steps",
+   "sound": "ep03/sfx/raw_fs/steps.mp3",
+   "seconds": 2.5,
+   "phrase": [
+    "नेहरू",
+    "ने",
+    "खुद",
+    "ये",
+    "शहर",
+    "दो",
+    "बार",
+    "देखा"
+   ],
+   "occurrence": 1,
+   "offset": 0.0,
+   "level_db": -30,
+   "pan": -0.35,
+   "fade_in": 0.01,
+   "fade_out": 0.3
+  },
+  {
+   "id": "name",
+   "sound": "ep03/sfx/raw_fs/sarangi.mp3",
+   "seconds": 3.2,
+   "phrase": [
+    "इस",
+    "शहर",
+    "का",
+    "नाम",
+    "है",
+    "मोहनजोदड़ो"
+   ],
+   "occurrence": 1,
+   "offset": -1.9,
+   "level_db": -23,
+   "pan": 0.0,
+   "fade_in": 0.4,
+   "fade_out": 1.6
+  },
+  {
+   "id": "river",
+   "sound": "synth:river_wash",
+   "synth_seconds": 5.0,
+   "phrase": [
+    "उस",
+    "नदी",
+    "का",
+    "नाम",
+    "याद",
+    "रखिए"
+   ],
+   "occurrence": 1,
+   "offset": -3.9,
+   "level_db": -28,
+   "pan": 0.0,
+   "fade_in": 1.2,
+   "fade_out": 1.4
+  }
+ ],
+ "score": [
+  {
+   "id": "tanpura",
+   "sound": "ep03/sfx/raw_fs/tanpura.mp3",
+   "filter": "highpass=70,lowpass=6000",
+   "start": 160.3,
+   "end": 181.3,
+   "level_db": -24,
+   "pan": 0.0,
+   "points": [
+    [
+     160.3,
+     -60
+    ],
+    [
+     162.3,
+     0
+    ],
+    [
+     179.3,
+     0
+    ],
+    [
+     181.3,
+     -60
+    ]
+   ],
+   "notes": "tanpura under the three questions only, after the host intro"
+  }
+ ],
+ "duck": [
+  {
+   "id": "name_duck",
+   "phrase": [
+    "इस",
+    "शहर",
+    "का",
+    "नाम",
+    "है",
+    "मोहनजोदड़ो"
+   ],
+   "occurrence": 1,
+   "pre": 1.2,
+   "post": 2.4,
+   "gain": 0.3
+  }
+ ],
+ "dead_air": {
+  "before_body_seconds": 1.4,
+  "notes": "H1: beds out before the host intro; the questions play over tanpura, then 1.4 s of true silence to the body"
+ }
+}

@@ -28,7 +28,29 @@ import urllib.error
 import urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build_episode import api_key, mark_key  # noqa: E402
+from build_episode import pick_key  # noqa: E402  (same key pool, TTS-usage ordered)
+
+# LLM audio calls are a different quota from TTS, so they are counted in their own
+# file: spending the TTS budget on QC would cost real episode takes.
+LLM_POOL = os.path.expanduser("~/.hermes/keys/gemini_llm_pool.json")
+
+
+def llm_mark(key: str, status: int):
+    today = time.strftime("%Y-%m-%d")
+    try:
+        data = json.load(open(LLM_POOL))
+    except Exception:  # noqa: BLE001
+        data = {}
+    if data.get("day") != today:
+        data = {"day": today, "keys": {}}
+    rec = data["keys"].setdefault(key[-6:], {"used_today": 0, "exhausted_today": False})
+    rec["used_today"] += 1
+    rec["last_used"] = time.strftime("%Y-%m-%d %H:%M:%S")
+    if status in (429, 403):
+        rec["exhausted_today"] = True
+    tmp = LLM_POOL + ".tmp"
+    json.dump(data, open(tmp, "w"), indent=1)
+    os.replace(tmp, LLM_POOL)
 
 FF = "/home/itcell/.hermes/tools/ffmpeg-9.0.1-linux-x64/bin/ffmpeg"
 HOST = "generativelanguage.googleapis.com"
@@ -60,7 +82,9 @@ def transcribe(mp3: str, model: str, timeout: int = 600) -> str:
     b64 = base64.b64encode(open(mp3, "rb").read()).decode()
     payload = {"contents": [{"parts": [{"text": PROMPT},
                                        {"inline_data": {"mime_type": "audio/mp3", "data": b64}}]}]}
-    key = api_key()
+    key = pick_key()
+    if not key:
+        raise RuntimeError("every key in the pool is spent for today")
     req = urllib.request.Request(
         f"https://{HOST}/v1beta/models/{model}:generateContent",
         data=json.dumps(payload).encode(),
@@ -70,9 +94,9 @@ def transcribe(mp3: str, model: str, timeout: int = 600) -> str:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             data = json.load(resp)
     except urllib.error.HTTPError as e:
-        mark_key(key, e.code)
+        llm_mark(key, e.code)
         raise RuntimeError(f"HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:300]}") from None
-    mark_key(key, 200)
+    llm_mark(key, 200)
     cand = data.get("candidates") or []
     if not cand:
         raise RuntimeError("no candidates: " + json.dumps(data)[:300])

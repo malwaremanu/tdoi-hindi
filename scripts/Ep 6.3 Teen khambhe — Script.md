@@ -4,7 +4,7 @@ Oct 17, 2026 · @Manupal Choudhary
 
 ## Episode info
 
-Ye script Chapter 6, "New Problems", ke **chhah episode wale naye set ka teesra episode** hai — aur ye poori tarah naya script hai. Plan ke hisaab se is episode ke paas chapter ka wo lamba samajik antaraal aata hai jo pehle ek hi episode (purana 6.2) mein thoons diya gaya tha: **parda**, **gaon ki khud-mukhtar sarkar (S08)**, aur **jaati aur jukta parivaar (S09)**. Purane 6.2 ke Parts 4 aur 8–13 isi script ke B1–B9 ban gaye hain; cold open, spine aur payoff naye hain. Chapter ka siyasi dhaaga (Arab → Mahmud → Afghan → Mughal → Maratha → Angrez) 6.1 aur 6.2 mein gaya, aur Akbar se aage ka hissa 6.4 mein jaayega. Lambai **5,146 narration shabd** hai (Cold open heading se Outro ke aakhir tak; heading lines aur `[SFX: ...]` lines ke bina gin kar), yaani kareeb **32 minute** ka audio (160 shabd prati minute ke andaaze se). Beat-wise ginti Writer's check mein hai.
+Ye script Chapter 6, "New Problems", ke **chhah episode wale naye set ka teesra episode** hai — aur ye poori tarah naya script hai. Plan ke hisaab se is episode ke paas chapter ka wo lamba samajik antaraal aata hai jo pehle ek hi episode (purana 6.2) mein thoons diya gaya tha: **parda**, **gaon ki khud-mukhtar sarkar (S08)**, aur **jaati aur jukta parivaar (S09)**. Purane 6.2 ke Parts 4 aur 8–13 isi script ke B1–B9 ban gaye hain; cold open, spine aur payoff naye hain. Chapter ka siyasi dhaaga (Arab → Mahmud → Afghan → Mughal → Maratha → Angrez) 6.1 aur 6.2 mein gaya, aur Akbar se aage ka hissa 6.4 mein jaayega. Lambai **5,190 narration shabd** hai (Cold open heading se Outro ke aakhir tak; heading lines aur `[SFX: ...]` lines ke bina gin kar), yaani kareeb **32 minute** ka audio (160 shabd prati minute ke andaaze se). Beat-wise ginti Writer's check mein hai.
 
 - **Set ka sawal (Ep 6.1–6.6):** Jis desh ke paas duniya ke behtareen kaarigar the, wo nayi duniya ki daud mein peeche kyun reh gaya?
 - **Is episode ka sawal:** Gaon, jaati aur parivaar — teenon ne suraksha di. To taraqqi kyun nahi mili?
@@ -58,6 +58,8 @@ Wo gaon ke darwaze par pahunchta hai. Darwaza band hai.
 
 Wo neeche utarta hai. Kagaz aage badhata hai. Us par ek mantri ki mohar hai.
 
+Mohar acchi lagi hui hai. Kagaz saaf hai. Sab kuch theek hai — sirf ek cheez kam hai.
+
 Andar se ek awaaz aati hai. Poochhti hai: raja ki anumati hai?
 
 Sawaar kehta hai: mantri ki hai.
@@ -65,6 +67,8 @@ Sawaar kehta hai: mantri ki hai.
 Andar se koi jawab nahi aata. Phaatak ki zanjeer hilti hai — aur phir ruk jaati hai. Bas hawa ki awaaz reh jaati hai.
 
 Ye gaon aaj raat ye darwaza nahi kholega.
+
+Sawaar kuch der khada rehta hai. Phir ghode ki lagam modta hai.
 
 [SFX: aangan mein khatiya ki rassi chik-chik karti hai; jhingur dheere pad jaate hain]
 
@@ -174,7 +178,7 @@ Aur naukriyan kis aadhar par deni thi? Suniye: kaam, kirdaar aur kaabiliyat dekh
 
 Aur uske baad ek aur line, jo jaati ke zamane ke hisaab se bahut badi baat thi: na rang se, na purvajon se, wo aatma paida hoti hai jo ek Brahmin ka gaurav hai.
 
-Yani wahi kitaabein, jo is dhanche ko sahi thehrati thi, khud keh rahi thi: asli cheez kaam hai.
+Yani wahi kitaabein, jo jaati ko jaayaz thehrati thi, khud keh rahi thi: asli cheez kaam hai.
 
 Gaon ke andar ki baat ho gayi. Ab bahar dekhiye — us aadmi ki taraf jiske naam par ye sab chalta tha. Raja ka is zameen par haq aakhir kya tha?
 
@@ -226,7 +230,7 @@ Yahan wo raasta nahi liya gaya.
 
 Iske badle ek doosri tarah ka raasta chuna gaya: kai samooh, ek saath — jaise aaj ke desh apni minorities ka sawal suljhaate hain. America har aadmi ko sau feesadi American banata hai. Canada ka apna French samooh hai. Soviet Russia ne alag-alag samuhon ko ek multinational state banaya.
 
-Nehru ye tulna khud karte hain, aur maante hain ki wo ise bahut door tak nahi khinch sakte.
+Nehru maante hain ki wo is tulna ko bahut door tak nahi khinch sakte.
 
 Us dhanche mein har group ko apni zindagi jeene ki azaadi thi — bas ek shart par. Wo kisi doosre group ke kaam mein dakhal na de. Ye lachila dhancha tha. Naye group ban sakte the: naye logon se, ya kisi purane group ke bikhre hue logon se. Bas itna zaroori tha ki wo group apna kaam khud chala sake.
 
@@ -236,7 +240,7 @@ Ek cheez ye bhi thi: har group apne aadmi ko bachata tha. Jo kamai se haath dho 
 
 Iska maksad ye tha: agar har group apna kaam theek kare, to poora samaaj theek chalega.
 
-Aur ye groups aksar kaam ke hisaab se bane the — koi lohar ka, koi badhai ka. Isliye wo trade unions aur craft guilds jaise ho gaye.
+Aur ye groups kaam ke hisaab se bane the — koi lohar ka, koi badhai ka. Isliye wo trade unions jaise ho gaye.
 
 In sab groups ko baandhne ke liye ek saanjha dhaaga banaya gaya — saanjhi sanskriti, saanjhi parampara, saanjhe heroes aur sant, aur teerth ki ek hi zameen, jahan log chaaron dishaon se chal kar jaate the.
 
@@ -288,17 +292,17 @@ Aur ek process chalta rehta tha. Naye peshe bante, to nayi jaatiyan bhi banti. A
 
 Par isse zyada farq nahi padta tha. Har jaati apne ghere mein apna kaam karti rehti. Poora jhagda izzat ka tha.
 
-Kabhi-kabhi neechi class ka koi aadmi apni kaabiliyat se sarkar mein badi jagah par pahunch jaata tha. Par ye bahut hi kam hota tha.
+Kabhi-kabhi neechi class ka koi aadmi apni kaabiliyat se badi jagah par pahunch jaata tha. Par ye bahut kam hota tha.
 
 Aur ek baat yaad rakhiye: us samaaj mein muqabla aur jyada kamai kaam nahi thi. Isi liye in lakeeron ka asar utna nahi tha, jitna aaj dekhne mein lagta hai.
 
-Oopar Brahmin tha — gyaan par garv, logon ki izzat. Par daulat uske paas kam hi hoti thi. Vaishya ameer the. Par poore samaaj mein unki haisiyat bahut oonchi nahi thi.
+Oopar Brahmin tha — gyaan par garv, izzat, par daulat kam. Vaishya ameer the, par unki haisiyat poori samaaj mein oonchi nahi thi.
 
 Ab asli tasveer dekhiye.
 
 Is poore dhanche mein zyadatar log kisan the.
 
-Yahan zamindari nahi thi, aur kisan ki apni milkiyat bhi nahi. Kanoon ke hisaab se zameen kiski thi, ye kehna mushkil tha. Aaj ki tarah "maalik" ka khayal hi nahi tha.
+Yahan zamindari nahi thi, aur kisan ki apni milkiyat bhi nahi. Zameen kiski thi, ye kehna mushkil tha. Aaj ki tarah "maalik" ka khayal hi nahi tha.
 
 Kisan ko ek haq tha: wo us zameen par kheti kar sakta tha. Asli sawal fasal ka batwara tha.
 
@@ -330,11 +334,11 @@ Ye shuruaat kaise hui? Tay karna mushkil hai. Andaaza ye hai ki jo peshe gande m
 
 Ab wo ulta sikka dekhiye. Is samaaj mein safai ka khayal bahut gehra tha.
 
-Ek achcha nateeja: roz nahana. Ye reet Bharat se England tak pahunchi. Aur sabse gareeb kisan bhi apne bartan chamakte rakhta tha. Us par usko garv tha.
+Ek achcha nateeja: roz nahana. Ye reet Bharat se England tak pahunchi. Aur sabse gareeb kisan bhi apne bartan chamakte rakhta tha. Usko apne saaf bartan par garv tha.
 
 Par is safai ki do hadd thi.
 
-Pehli: ye vaigyanik nahi thi. Jo aadmi din mein do baar nahate the, wo wahi paani pi sakta tha, jismein aaj ka science germs batata hai. Nazar se saaf paani, aur saaf paani, ek cheez nahi hoti.
+Pehli: ye vaigyanik nahi thi. Jo aadmi din mein do baar nahate the, wo wahi paani pi sakta tha, jismein aaj ka science germs batata hai. Nazar se saaf paani aur sach mein saaf paani — dono ek cheez nahi hain.
 
 Doosri: ye poore gaon ki nahi thi. Apna ghar saaf, aur kachra padosi ke darwaze ke saamne. Gaon ki galiyan koode ke dher se bhari.
 
@@ -364,11 +368,13 @@ Aur sampatti? Wo bhi saanjhi.
 
 Is parivaar mein har sadasya us saanjhi sampatti ka hisse-daar tha. Viraasat maut se chalti thi, bantwar se nahi. Yani jaise ek sadasya jaata tha, uska hissa apne aap baaki sab mein chal jaata tha.
 
-Ghar ka mukhiya? Dada, ya koi bada. Par wo maalik nahi tha. Wo manager tha. Rome ke us purane ghar ke mukhiya jaisa nahi, jiske paas apne bete-beti par bhi jaan-maar ka haq tha.
+Ye parivaar sirf ek rishta nahi tha. Ye ek aarthik ikai bhi thi — saanjha kaam, saanjhi sampatti, saanjha khaana.
+
+Ghar ka mukhiya? Dada, ya koi bhi bada — baap, ya ghar ka koi doosra buzurg. Par wo maalik nahi tha. Wo manager tha. Rome ke us purane ghar ke mukhiya jaisa nahi, jiske paas apne bete-beti par bhi jaan-maar ka haq tha.
 
 Bantwar hoti bhi thi — kuch shartein poori ho jaayein, aur sab khush ho, to. Par aam baat yahi thi: ghar ek rehta tha.
 
-Aur saanjhi sampatti ka kaam kya tha? Sabki zaroorat poori karna. Kaam karne wale ki bhi. Aur us ki bhi, jo kaam nahi kar sakta — boodha, beemar, kamzor.
+Aur saanjhi sampatti ka kaam kya tha? Sabki zaroorat poori karna. Kaam karne wale ki bhi. Aur us ki bhi, jo kaam nahi kar sakta — boodha, beemar, ya jo paida se maan ya sharir se kamzor tha.
 
 Iska matlab: sabke liye ek guaranteed minimum tha. Koi bhookha nahi soya.
 
@@ -378,7 +384,13 @@ Is dhanche mein zor tha — sabse bada, sabki bhalaai. Aadmi apni taraqqi ka soc
 
 Nehru ek baat alag se likhte hain. Bade parivaar mein bachcha bada hota hai, to uska main-main kam hota hai. Wo seekh jaata hai ki saath kaise rehna hai. Ye badi baat hai.
 
-Aur ye sab America jaisi zindagi ka bilkul ulta tha. Wahan har aadmi apna fayda dekhta hai. Jo tez hai, wo aage. Jo kamzor hai, wo deewar se takra jaata hai.
+Par Nehru is dhanche ko ek aadarsh ki tarah nahi dekhte. Wo saaf likhte hain: ismein sabke liye suraksha thi, par sabko ek hi seedhi par khada kar diya gaya tha. Aage badhne ka koi raasta hi nahi tha.
+
+Isi liye is ghar mein "aage badhna" ek aam shabd nahi tha. Jo shabd tha, wo tha: chalte rehna.
+
+Aur ye sab America jaisi zindagi ka bilkul ulta tha. Wahan har aadmi apna fayda dekhta hai. Acche kaam ka fayda tez aur aage badhne wale ko milta hai. Jo kamzor hai, ya darpok hai, ya second-rate hai — wo deewar se takra jaata hai.
+
+Aur aaj ye jukta parivaar tezi se toot raha hai. Vyaktivaad badh raha hai. Isse aarthik zindagi ke background mein badi tabdeeliyan aa rahi hain — aur baartav ki nayi pareshaaniyan bhi.
 
 To teenon khambhe khade the — gaon, jaati, parivaar. Aur teenon ek hi baat par khade the: samooh.
 
@@ -404,7 +416,7 @@ Aaj bhi jaati ki panchayatein usi tarah faisle karti hain.
 
 Aur ye dhang sirf jaati mein nahi tha. Gaon ke kaam mein tha. Vyapaari ke sanghon mein tha. Dharam ki sabhaon mein tha. Sab jagah bahut barik niyam the — chunav ke, behas ke.
 
-Do hazaar saal se zyada purani Bauddh sabhaon mein to wo niyam the, jin ke nishaan aaj ki sansad mein bhi dikhte hain: ek adhyaksh ka beej, ek officer jo ginti poori karta hai, prastav ka teen baar aana, aur gupt matdan se faisla.
+Do hazaar saal se zyada purani Bauddh sabhaon mein to wo niyam the, jinke nishaan aaj ki sansad mein bhi dikhte hain: ek adhyaksh ka beej, ek officer jo ginti poori karta hai, prastav ka teen baar aana, aur gupt matdan se faisla.
 
 Ek badi baat. Ye sab ek aise dhanche ke andar tha, jiske peechhe ek saaf darshan tha. Insaan ko jodna. Kamane-ganthne se zyada achchhai, sundarta aur sach par zor dena.
 
@@ -432,7 +444,7 @@ Par ek shart par. Log apni jagah par rahein, aur us vyavastha ko chunauti na dei
 
 Isi wajah se is desh ka har bada kaam oopar ki classes se aaya. Neeche walon ke paas mauke bahut kam the.
 
-Aur phir bhi ye dhancha itni sadiyan chala. Kaise? Kyunki oopar wale chhote ghere nahi the. Wo ginti mein bade the, aur taaqat unmein banti hui thi. Isi liye wo itna lamba chal saka.
+Aur phir bhi ye dhancha itni sadiyan chala. Kaise? Kyunki oopar wale chhote ghere nahi the. Wo ginti mein bade the, aur taaqat kai haathon mein bikhri hui thi. Isi liye wo itna lamba chal saka.
 
 Uska aakhri aib yahi tha. Usne insaanon ki ek badi tadaad ko neeche daba diya, aur unhe nikalne ka koi raasta nahi diya — na padhai se, na kaam se, na paise se.
 
@@ -470,21 +482,23 @@ Pehli: us dhanche ke teen khambhe aaj bhoot ki tarah nahi dikhte. Wo naye naam l
 
 Nehru ka sawal aaj bhi utna hi taaza hai. Ek aadmi apni naukri isliye nahi chhodta ki risk hai. Ek parivaar apne bete ko wo kaam nahi karne deta, jo "log kya kahenge" ke dayre se bahar hai. Suraksha mili. Taraqqi ruk gayi.
 
-Doosri: wahi purani rassi. Kai reshay, ek awaaz. Nehru ke zamane mein wo reshay gaon ki sabha mein jude the. Aaj wo reshay screen par jude hain. Taaqat wahi hai — bahut badi taaqat. Sawaal sirf itna hai: ye rassi kis taraf kheech rahi hai? Aapko bachane ke liye, ya aapko wahin khada rakhena ke liye?
+Doosri: wahi purani rassi. Kai reshay, ek awaaz. Nehru ke zamane mein wo reshay gaon ki sabha mein jude the. Aaj wo reshay screen par jude hain. Taaqat wahi hai — bahut badi taaqat. Sawaal sirf itna hai: ye rassi kis taraf kheech rahi hai? Aapko bachane ke liye, ya aapko wahin khada rakhne ke liye?
 
 Aapke liye ek sawal. Aapki zindagi mein wo kaun si cheez hai jise aap suraksha kehte hain — par jo aapko rok rahi hai? Aap use rassi kehte hain, ya zanjeer?
 
 ## Outro
 
-Neeche ki zindagi apni jagah khadi rahi. Teen khambhe sadiyon tak use thaamte rahe — suraksha dete hue, badlaav ka darwaza band karte hue. Neeche ki zindagi apni jagah khadi rahi.
+Neeche ki zindagi apni jagah khadi rahi. Teen khambhe sadiyon tak use thaamte rahe — suraksha dete hue, badlaav ka darwaza band karte hue.
 
-Par upar ek aadmi aaya, jo sach mein badalna chahta tha — jise duniya ki har cheez ke bare mein jaanna tha. Uske darbar mein ek din kaale chogon wale do Portuguese ek moti, chhapi hui kitaab rakhenge.
+Par upar ek aadmi aaya, jo sach mein badalna chahta tha — jise har cheez ke bare mein jaanna tha.
+
+Uske darbar mein ek din kaale chogon wale do Portuguese ek moti, chhapi hui kitaab rakhenge.
 
 Badshah use kholenge. Phir band kar denge.
 
 Aur us kitaab ke bare mein ek sawal koi nahi poochhega: ye chhapi kaise?
 
-Agli baar: Akbar ka darbar, ek band kitaab, aur ek ghadi — jise kisi ne nahi khola.
+Agli baar: Akbar ka darbar, aur ek ghadi jise kisi ne nahi khola.
 
 Tab tak ke liye, namaskar.
 
@@ -495,11 +509,11 @@ Tab tak ke liye, namaskar.
   - **S08:** wo poora block wapas aaya jo gayab tha — Bharat mein dharm-raj ka na hona, raja ke anyay par bagavat ka haq, Mencius ka vakya, Europe ke feudalism aur Roman dominium ka ulta (raja ko sirf lagaan wasool karne ka haq delegate hota tha), kisan ka serf na hona, zameen khuli hone se kisan ko ujhaadne ka fayda na hona, aur "na zamindari, na kisani milkiyat — dono Angrez laaye" wali line. Ye Part 3 mein bola gaya hai.
   - **S09:** purane text ke `$2a`/`$2b`/`$2c` truncation markers naye text mein hain hi nahi — teenon kate hue para wapas mil gaye: ceremonial-purity ka bada para (Part 6), jukte parivaar ka poora para (Part 7), aur aristocratic-ideal/noblesse-oblige wala block (Part 9). Naye text mein is file ke kisi bhi sub-section mein `$` mark nahi bacha.
   - **S06-C (parda):** asli jadh wapas mili — Byzantine darbar aur khwaja-sara, Russia tak jaana, Afghans mein sakht parda ka na hona (shahzadiyan ghode par sawaar aur shikaar par), Mughal zamane mein izzat ka nishaan banna, aur phailav ka naqsha (Dilli, United Provinces, Rajputana, Bihar, Bengal — par Punjab, Frontier aur dakshin-paschim nahi). Ye Part 1 mein hai.
-- **GAPs (is episode mein ek khula nahi).** Ispisode ke teen sub-sections (S06-C, S08, S09) mein text ka koi GAP nahi bacha. Chapter ka apna **S01 "New Problems"** ek asli GAP hai: GitHub-jo file mein uske heading ke neeche sirf ek akhar "T" hai — chapter ka shuruaati para source mein hai hi nahi. Wo GAP is episode ko nahi chhoota (wo set ke Ab tak wale slot ka kaam hai), par usse audio cut karne se pehle chhapi hui edition se mila kar check kar lena chahiye.
+- **GAPs (is episode mein ek khula nahi).** Is episode ke teen sub-sections (S06-C, S08, S09) mein text ka koi GAP nahi bacha. Chapter ka apna **S01 "New Problems"** ek asli GAP hai: us repo wali file mein uske heading ke neeche sirf ek akhar "T" hai — chapter ka shuruaati para source mein hai hi nahi. Wo GAP is episode ko nahi chhoota (wo set ke Ab tak wale slot ka kaam hai), par usse audio cut karne se pehle chhapi hui edition se mila kar check kar lena chahiye.
 - **Seam (GAP nahi):** S06 ka pehla para ("Islam ne Bharat par hamla nahi kiya…") **Ep 6.1-B10** mein gaya hai (T6, delivered). S07 "Importance of the Group" **Ep 6.2-B9/B10** mein gaya hai. S06-B/D/E (mili-juli sanskriti, Kabir/Guru Nanak, Khusrau) **Ep 6.2-B7/B8** mein hain. In teenon ka istemaal yahan sirf T4 recap ke roop mein hua hai.
 - **Kitaab mein aur** (T5, bola nahi gaya):
-  - **Zetland ka poora uddharan.** Marquis of Zetland (Garratt ki 'The Legacy of India', 1937 se) purani Bauddh sabhaon ke procedure par likhte hain — Speaker ka beej, chief whip ka prototype, prastav ka teen baar aana, aur gupt matdan. Part 8 mein sirf saar ke teen-launch nishaan bole gaye; lekhak ka naam aur poora quote T5 mein.
-  - **Fa-Hsien ki dating.** Part 6 use "Nehru ke zamane se lagbhag pandrah sau saal pehle" kehta hai — ye humari shaadi hai; book ka asli sandarbh T5 mein (5vi sadi Isvi).
+  - **Zetland ka poora uddharan.** Marquis of Zetland (Garratt ki 'The Legacy of India', 1937 se) purani Bauddh sabhaon ke procedure par likhte hain — Speaker ka beej, chief whip ka prototype, prastav ka teen baar aana, aur gupt matdan. Part 8 mein sirf saar ke teen nishaan bole gaye; lekhak ka naam aur poora quote T5 mein.
+  - **Fa-Hsien ki dating.** Part 6 use "Nehru ke zamane se lagbhag pandrah sau saal pehle" kehta hai — ye humari apni line hai; book ka asli sandarbh T5 mein (5vi sadi Isvi).
   - **"Depressed classes" ki paribhasha ka poora bantwara.** Naam naya hai, koi saaf lakeer nahi, north mein bahut thode, south mein bahut zyada, aur baad mein be-zameen mazdooron ka judna. Part 6 mein sirf pehla hissa bole gaya; bantwara T5.
   - **Gaon ke functionaries ki poori fehrist.** Part 5 mein nau naam bole gaye (pujaari-shikshak, vyapaari, lohar, badhai, chamar, kumhar, raaj, nai, bhangi); original list isse lambi hai, aur uski poonchh T5 mein.
   - **Smritis ka poora detail.** Part 8 mein sirf itna: dharm-granth dharm-kaam-farz ki fehrist dete hain, adhikaaron ki nahi. Smritis ke naam aur unki fehriston ka bantwara T5.
@@ -531,13 +545,13 @@ Tab tak ke liye, namaskar.
 | 06-S06-C-05 | Congress andolan ne hazaaron auraton ko bahar nikala; Gandhi ka virodh aur "ghinauna riwaj"; azaadi aur mauke ki barabari | C, Q U | B1 T1/T2 |
 | 06-S08-01 | Nitisara (dasvin sadi), Shukracharya; markazi sarkar, council, mahkame, shehar-gaon | N U, D U | B2 T1 |
 | 06-S08-02 | Panchayat: ammal + nyay, adhikariyon ki izzat; zameen baantna; fasal se tax aur sarkar ka hissa; oopar badi panchayat | C, F | B2 T1 |
-| 06-S08-03 | Pathar ke lekh: saalana chunav, auratein, hatana, hisaab na dene par barkhaastagi, kareebi rishtedar naukri par nahi | C, L | B2 T2 |
+| 06-S08-03 | Pathar ke lekh: saalana chunav, auratein, hatana, hisaab na dene par nikal dena, kareebi rishtedar naukri par nahi | C, L | B2 T2 |
 | 06-S08-04 | Apni azaadi par nakhra; raja ki likhit anumati ke bina sainik gaon mein nahi | C, U | B2 T1 |
 | 06-S08-05 | Shikayat par raja praja ki taraf; "pad ka nasha"; bahumati ki raay; rassi-sher ka jan-mat; kaam-kirdaar-kaabiliyat, jaati/khandaan/rang/purvaj nahi | C, Q U | B2 T2 |
 | 06-S08-06 | Bade shehar: kaarigar, vyapaari, kaarigari-vyapaar-paisa ke sangh, apne andar ka kaam khud; reet ka kanoon; mil-jul kar chalne wala gaon | C, L F | B3 T2 |
 | 06-S08-07 | Bharat mein dharm-raj nahi; bagavat ka haq; Mencius ka vakya; feudalism mein raja zameen-log dono ka maalik, yahan sirf lagaan delegate; kisan serf nahi; na zamindari na milkiyat — dono Angrez laaye | C, Q U | B3 T1/T2 |
 | 06-S08-08 | Hamle-ladaiyan, nayi ruling classes, gaon ki taaqat ka ghatna; Afghan-Mughal ka reet bachane ka dhyan; Ghyas-ud-Din Tughlak ki hidayat; gaon Angrezon ke raaj mein toota | C, N U | B3 T2 |
-| 06-S09-01 | Har shade ka aqeeda; zabardasti dabana nahi; samuhikta bina inkaar ke; duniya ka aam raasta — khatm karna ya gulaam banana pan | C, F | B4 T2 |
+| 06-S09-01 | Har shade ka aqeeda; zabardasti dabana nahi; samuhikta bina inkaar ke; duniya ka aam raasta — khatm karna ya gulaam banana | C, F | B4 T2 |
 | 06-S09-02 | Kai samooh ka ek rajya (America/Canada/Soviet Russia ki tulna); group ki chhoot aur ek shart; naya group; andar barabari; guild-jaisi ekta aur bima; saanjhi parampara ka bond (rajniti mein kamzor, samaj mein majboot); jaati = kaam aur seva ka system; vyakti sirf sadasya; sanyasi ka rasta | C, N U | B4 T1/T2 |
 | 06-S09-03 | Dharm ki soch vyakti ko oopar rakhti thi; mukti sab jaati ke liye, aqeeda-mukt; sudhaarak dharm ke; Buddhism ka toot aur uski kami; jaati chalti rahi | C, F | B5 T2 |
 | 06-S09-04 | Chaar jaatiyan aur unke kaam; Brahmin hi band ghera; Kshatriya ki ginti badhti; nayi jaatiyan; janeu aur izzat; kaabiliyat se unnati (bahut kam); muqabla-nahi samaaj; gareeb Brahmin, ameer par kam haisiyat wala vaishya | C, L U | B5 T2 |
@@ -546,7 +560,7 @@ Tab tak ke liye, namaskar.
 | 06-S09-07 | Safai ka achcha nateeja (roz nahana, England tak, chamakte bartan) aur hadd (vaigyanik nahi, corporate nahi, sirf dharmik nishaan se); chhua-chhoot, khaana-saath-na-khaana, neechi jaatiyan zyada sakht; shaadi par rok; nasal bhram; untouchables bhi apni panchayat ke saath dhanche ke andar; gaon ki zindagi se bahar | C, F | B6 T1/T2 |
 | 06-S09-08 | Jukta parivaar: saanjhi sampatti ke hisse-daar, survivorship, mukhiya manager (Roman paterfamilias nahi), sharton par bantwar, kaam karne-na-karne walon ki zaroorat, guaranteed minimum/bima, levelling down, samooh ka fayda, bachche ka egotism kam, America ka ulta, system toot raha hai | C, F | B7 T1 |
 | 06-S09-09 | Teen khambhe samooh par; maksad suraksha-sthirta-chalta rehna; taraqqi ko nuksaan; saanjhi zindagi, barabari, democratic methods; jaati panchayatein aaj bhi; Nehru ka gaon wala aur chhote group ka ladna; democratic dhang sab jagah, niyam-chunav-behas; Bauddh sabhaon ke nishaan | C, A, Q U | B8 T2 |
-| 06-S09-10 | Darshan: insaan ko jodna, achchhai-sundarta-sach, izzat-taaqat-daulat ka jama na hona, farz na adhikaar, koi adhikaar-fe Misht nahi; aur bedi: bandh system, thodi jagah, sakht hota gaya, pratibha lene ki taaqat gayi, vested interests, shiksha ruki, andhvishwas bache aur naye jude, soch band | C, F | B8 T2 |
+| 06-S09-10 | Darshan: insaan ko jodna, achchhai-sundarta-sach, izzat-taaqat-daulat ka jama na hona, farz na adhikaar, adhikaaron ki koi fehrist nahi; aur bedi: bandh system, thodi jagah, sakht hota gaya, pratibha lene ki taaqat gayi, vested interests, shiksha ruki, andhvishwas bache aur naye jude, soch band | C, F | B8 T2 |
 | 06-S09-11 | Oopar walon ka farz (noblesse oblige) — samajh par shart; har bada kaam oopar ki classes se; oopar wale ghere chhote nahi the isliye dhancha lamba chala; aakhri aib — dabi hui tadaad ko nikalne ka raasta nahi; asar oopar tak (petrification); rutbe aur mauke ki barabari nahi, rajnitik aur aarthik loktantra nahi; do soch, ek hi bachegi | C, U | B9 T1/T2 |
 | 06-S09-12 | Spine payoff: rassi aur sher baithak mein laut kar aati hai; wahi taaqat darwaza bahar se band karti hai aur andar naya vichaar bhi rokti hai; carrying question ka jawab | C/Q, T1 | B9 T1 |
 
@@ -563,21 +577,23 @@ Hook-out chain: kis taaqat se? (CO) → parda sabse bada kaaran kaise? (B1) → 
 
 | Beat | Event (kisi ki kriya) | Hook out | Words | U |
 | --- | --- | --- | --- | --- |
-| CO (+ident) | ek sawaar darwaze par rukta hai; gaon baithak karke phaatak bandh rakhta hai | "Kis taaqat se?" | 355 | 0 |
-| Ab tak | (recap) | — | 68 | 0 |
-| B1 | jaali wali khidki ke peeche ek chehra; Nehru chhalang lagate hain aur ek reet ka faisla sunate hain | "parda itna bada kaaran kaise?" | 505 | 3 |
-| B2 | panchayat baithti hai: zameen baantti hai, tax wasool karti hai, sainik ko darwaze par rokti hai | "raja ka haq kya tha?" | 540 | 3 |
-| B3 | ek kisan apni zameen par khada rehta hai — na maalik, na gulaam; raja sirf lagaan leta hai | "itne alag log saath kaise?" | 520 | 4 |
-| B4 | ek aadmi saare darwaze chhod kar sanyasi ban jaata hai; doosri taraf ek naya group apna darwaza maangta hai | "kaun kaun tha?" | 520 | 2 |
-| B5 | fasal threshing floor par bantti hai: kisan, sarkar, aur nau haath | "list se bahar walon ka kya?" | 545 | 4 |
-| B6 | ek gali mein do darwaze, ek deewar — aur saath na khaana | "teesra khambha?" | 500 | 3 |
-| B7 | teen peedhiyan ek rasoi mein; mukhiya manager hai, maalik nahi | "hisaab kya hai?" | 455 | 0 |
-| B8 | gaon wala committee mein baithta hai aur jhukta nahi; phir dhancha sakht hone lagta hai | "daam kaun chukata hai?" | 425 | 1 |
-| B9 (payoff) | rassi baithak mein laut kar aati hai; wahi taaqat darwaza bahar se band karti hai aur andar bhi | set ka jawab (Outro) | 450 | 2 |
-| Aaj + Outro | (humara hissa + cliffhanger) | Akbar ka darbar, band kitaab | 195 + 90 | 2 |
-| | | **Kul** | **5,146** | **~24** |
+| CO (+ident) | ek sawaar darwaze par rukta hai; gaon baithak karke phaatak bandh rakhta hai | "Kis taaqat se?" | 348 | 0 |
+| Ab tak | (recap) | — | 67 | 0 |
+| B1 | jaali wali khidki ke peeche ek chehra; Nehru chhalang lagate hain aur ek reet ka faisla sunate hain | "parda itna bada kaaran kaise?" | 495 | 3 |
+| B2 | panchayat baithti hai: zameen baantti hai, tax wasool karti hai, sainik ko darwaze par rokti hai | "raja ka haq kya tha?" | 486 | 3 |
+| B3 | ek kisan apni zameen par khada rehta hai — na maalik, na gulaam; raja sirf lagaan leta hai | "itne alag log saath kaise?" | 491 | 4 |
+| B4 | ek aadmi saare darwaze chhod kar sanyasi ban jaata hai; doosri taraf ek naya group apna darwaza maangta hai | "kaun kaun tha?" | 586 | 2 |
+| B5 | fasal threshing floor par bantti hai: kisan, sarkar, aur nau haath | "list se bahar walon ka kya?" | 578 | 4 |
+| B6 | ek gali mein do darwaze, ek deewar — aur saath na khaana | "teesra khambha?" | 551 | 3 |
+| B7 | teen peedhiyan ek rasoi mein; mukhiya manager hai, maalik nahi | "hisaab kya hai?" | 446 | 0 |
+| B8 | gaon wala committee mein baithta hai aur jhukta nahi; phir dhancha sakht hone lagta hai | "daam kaun chukata hai?" | 424 | 1 |
+| B9 (payoff) | rassi baithak mein laut kar aati hai; wahi taaqat darwaza bahar se band karti hai aur andar bhi | set ka jawab (Outro) | 407 | 2 |
+| Aaj + Outro | (humara hissa + cliffhanger) | Akbar ka darbar, band kitaab | 212 + 99 | 2 |
+| | | **Kul** | **5,190** | **~24** |
 
-**Words per Part (gin kar, `wc -w` jaisa; SFX lines aur headings ke bina):** Cold open + ident 355 (sheet 380) · Ab tak 68 (55) · B1 505 (500) · B2 540 (540) · B3 520 (520) · B4 520 (520) · B5 545 (540) · B6 500 (500) · B7 455 (460) · B8 425 (420) · B9 450 (445) · Aaj 195 (190) · Outro 90 (80) · **Kul 5,146** (cap 5,000–5,200; 54 shabd bacha). Est. minutes = ~32.
+**Words per Part (gin kar, `wc -w` jaisa; SFX lines aur headings ke bina):** Cold open + ident 348 (sheet 380) · Ab tak 67 (55) · B1 495 (500) · B2 486 (540) · B3 491 (520) · B4 586 (520) · B5 578 (540) · B6 551 (500) · B7 446 (460) · B8 424 (420) · B9 407 (445) · Aaj 212 (190) · Outro 99 (80) · **Kul 5,190** (cap 5,000–5,200; 10 shabd bacha). Est. minutes = ~32.
+
+**Beat-target note (±15%).** Sab beat hard cap 250–650 ke andar hain (sabse chhota Ab tak 67 — fixed slot; sabse bada B4 586). Sheet ke target se ek beat bahar hai: **Outro 99 vs 80 = +24%** — usme sheet ka poora cliffhanger (rassi wali do lines + kaale chogon wali kitaab + "ye chhapi kaise?" + next-episode tease) baithta hai, aur cliffhanger ko kaat kar 80 par laana seam ko tod deta; isliye use jaise hai waisa rakha gaya aur yahan darj hai. Baaki sab ±15% ke andar: B4 +12.7% (sheet ka 520 se), B5 +7.0%, B6 +10.2%, Aaj +11.6%, B2 −10.0%, B3 −5.6%, B9 −8.5%, B7 −3.0%, CO slot −8.4% (CO+ident 348 vs 380 — kyunki sheet ka 340 narration ka hai, 380 slot ka; humara cold open 308 shabd + ident 40). Sheet ke target ka jod hi 5,150 hai, isliye kuch beat target par nahi ho sakte the; koi kissa, tark ya uddharan chhoda nahi gaya — sirf T5/`Kitaab mein aur` ke atoms (naam, dating, list ki poonchh, barik tafseel) hain.
 
 **R14 coverage checklist (sub-section → fact cluster → Ep–Beat → Tier), zero blanks.**
 
@@ -613,4 +629,4 @@ Hook-out chain: kis taaqat se? (CO) → parda sabse bada kaaran kaise? (B1) → 
 
 **Devanagari check:** file pooree Roman Hindi mein hai; ek bhi Devanagari akshar nahi.
 
-**Needs split:** **NAHI.** Draft 5,000–5,200 shabd ke andar hai (5,146) aur U ~24 par (sheet ka ≤35, R16 ki chhat 75). Is episode ke teenon hisse ek hi sawal ke teen jawab hain — parda (suraksha ka darwaza andar), gaon (suraksha ka darwaza bahar), jaati-parivaar (suraksha ka dhancha) — aur inko todne se payoff ek hi episode mein khatam nahi hota. T5 mein sirf naam, dating, list ki poonchh aur barik tafseel gayi hai; koi daava, kissa ya uddharan T5 mein nahi bheja gaya.
+**Needs split:** **NAHI.** Draft 5,000–5,200 shabd ke andar hai (5,190) aur U ~24 par (sheet ka ≤35, R16 ki chhat 75). Is episode ke teenon hisse ek hi sawal ke teen jawab hain — parda (suraksha ka darwaza andar), gaon (suraksha ka darwaza bahar), jaati-parivaar (suraksha ka dhancha) — aur inko todne se payoff ek hi episode mein khatam nahi hota. T5 mein sirf naam, dating, list ki poonchh aur barik tafseel gayi hai; koi daava, kissa ya uddharan T5 mein nahi bheja gaya.

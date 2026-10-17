@@ -32,7 +32,7 @@ Ye script Chapter 6, "New Problems", ke chhah hisson wale naye set (Ep 6.1–6.6
 | S05 The Indo-Afghans… Sea Power | — (Ep 6.2 ko deferred) |
 | S06a Synthesis and Growth of Mixed Culture (sirf pehla paragraph) | B10 |
 
-**Shabd-ginti (narration, headings aur `[SFX: …]` lines ke bina, `wc -w` ki tarah gina gaya):** Cold open + ident 348 · Ab tak 80 · B1 393 · B2 448 · B3 542 · B4 435 · B5 367 · B6 446 · B7 494 · B8 402 · B9 499 · B10 394 · Aaj ke hisaab se 191 · Outro 107 · **Kul 5,146** (cap 5,200; sheet ka target 5,000). Kareeb 32 minute ka audio.
+**Shabd-ginti (narration, headings aur `[SFX: …]` lines ke bina, `wc -w` ki tarah gina gaya):** Cold open + ident 348 · Ab tak 80 · B1 392 · B2 449 · B3 542 · B4 435 · B5 343 · B6 474 · B7 494 · B8 385 · B9 499 · B10 375 · Aaj ke hisaab se 191 · Outro 107 · **Kul 5,114** (cap 5,200; sheet ka target 5,000). Kareeb 32 minute ka audio.
 
 ## Cold open
 
@@ -96,7 +96,7 @@ Ab tak: 1944, Ahmadnagar ka qila. Ek qaidi, Jawaharlal Nehru, wahan is desh ki k
 
 Arab ka registan. Ret, oont, aur upar khaali aasmaan.
 
-Ek kaafila ruk gaya hai. Shaam dhal rahi hai. Ek buzurg aadmi oont ke paas khada hai, aur ek nazm suna raha hai — us zamane ki, jab is desh mein abhi koi paigambar nahi aaya tha. Wo nazm uske baap ne sunai thi. Aur uske dada ne.
+Ek kaafila ruk gaya hai. Shaam dhal rahi hai. Ek buzurg aadmi oont ke paas khada hai, aur ek nazm suna raha hai — us zamane ki, jab Arab mein abhi koi paigambar nahi aaya tha. Wo nazm uske baap ne sunai thi. Aur uske dada ne.
 
 Aage chalkar log kahenge ki Islam se pehle ka Arab ek andhere ka daur tha.
 
@@ -108,7 +108,7 @@ Uska lamba ateet tha, aur wo Semitic logon se juda tha. Semitic — ek hi khanda
 
 Jis nazm se humne shuru kiya, wo isi saajhe ateet ki thi.
 
-Aur is saajhe ateet mein bhaasha hi shaamil nahi thi. Karobar, shaadiyan aur kahaniyan — sab ek hi dar se aati thi.
+Aur is saajhe ateet mein bhaasha hi shaamil nahi thi. Karobar, shaadiyan aur kahaniyan — sab ek hi raaste se aate the.
 
 Aur ek jagah ye sab ubhar chuka tha. Yemen. Arabon ki purani sanskriti wahin phali — kaafile, bandargah, aur khushbu ka vyapaar. Wahan ke raja purane the. Wahan ke mandir purane the. Wahan ki bhaasha bhi.
 
@@ -138,7 +138,7 @@ Ye log apne aap ko ek nayi baat ka jhanda uthane wale maanne lage. Aur aisi baat
 
 Aur ye josh khaali jazba nahi raha. Wo chalne wale kaafile ban gaya. Jahan unka ghoda pahuncha, wahan unki masjid pahunchi, unki bhaasha pahunchi, aur unka hisaab pahuncha.
 
-Ek baat yaad rakhiye. Abhi tak ye log duniya ke panno par koi bada naam nahi the. Unka desh ret ka desh tha. Aur phir wo ek hi peedhi mein pashchim mein Spain tak, aur purab mein Madhya Asia tak pahunch gaye.
+Ek baat yaad rakhiye. Abhi tak ye log itihaas ke panno par koi bada naam nahi bane the. Unka desh ret ka desh tha. Aur phir wo ek hi peedhi mein pashchim mein Spain tak, aur purab mein Madhya Asia tak pahunch gaye.
 
 Ye sirf josh se nahi hua.
 
@@ -286,7 +286,7 @@ Nehru kehte hain ki hum apne ghamand mein lipte reh gaye, aur jahan tak ho sake 
 
 Bahar ki khabar hum tak pahunchti thi. Kaafile aate the, yaatri aate the, doot aate the. Par hum unhe apne darwaze tak hi rok dete the.
 
-Aur ye mauka ek hi baar aaya. Us waqt Baghdad mein aisi soch ubhar rahi thi, jo duniya ko samajhne ke liye dalil aur tajurbe par bharosa karti thi — aur dharm ko bhi sawalon ke saamne rakh deti thi. Is desh ke purane logon ke sawal bhi isi tarah ke the. Dono taraf ek hi cheez khoji ja rahi thi. Par dono taraf ke log ek doosre ki taraf nahi badhe.
+Aur ye mauka ek hi baar aaya. Us waqt Baghdad mein aisi soch ubhar rahi thi, jo duniya ko samajhne ke liye dalil aur tajurbe par bharosa karti thi — aur dharm ko bhi sawalon ke saamne rakh deti thi.
 
 Ye kyun dukh ki baat thi? Kyunki theek us waqt is desh ka mann thak raha tha. Uski buniyadi soch ki taaqat ghat rahi thi. Baghdad ka wo khula, tark wala mahaul, agar yahan pahunchta, to shayad use jaga deta.
 
@@ -300,7 +300,9 @@ Dhyan dijiye. Ye roshni hamesha nahi jali. Aur jo ise bujhane wale the, wo Bhara
 
 ## Part 6: Aqal ki aakhri chamak
 
-Is daftar mein ek aadat thi, jo aaj hairan karne wali lagti hai. Yahan sab kuch bolne ki chhoot thi.
+Yunani darshan yahan khaali padha nahi gaya. Wo aage badhaya bhi gaya. Alexandria se ek soch aayi thi, jo Plato ko naye sire se padh rahi thi.
+
+Aur is daftar mein ek aadat thi, jo aaj hairan karne wali lagti hai. Yahan sab kuch bolne ki chhoot thi.
 
 Ek aadmi khada hota hai, aur kehta hai: khuda ko koi sifaat dena hi galat hai. Use rehmat wala ya insaaf wala kehna — ye usi tarah pagalpan hai jaise ye kehna ki uski daadhi hai.
 
@@ -348,13 +350,13 @@ Nehru kehte hain ki Mongol hamlon ne yuddh ki kala mein kuch naya kiya. Ek angre
 
 Europe ne yuddh ke naye sabak unse seekhe. Aur baarood Europe tak unhi ke raaste se pahuncha — China se.
 
-Teen sau saal se zyada Baghdad duniya ke kone-kone se aayi daulat aur pothiyan sambhal raha tha.
+Paanch sau saal se zyada Baghdad duniya ke kone-kone se aayi daulat aur pothiyan sambhal raha tha.
 
 Uske bete-pote aage badhte hain. 1258 mein Hulagu Baghdad leta hai, aur wo ilm aur kala ka kendra khatam ho jaata hai — paanch sau saal ka jama hua khazana.
 
 Phir wahi hota hai jo har toote ghar mein hota hai. Log bhaagte hain. Vidvaan apni pothiyan lekar Cairo chale jaate hain, kuch Spain. Wahan ek baar phir kala aur ilm ka daur aata hai.
 
-Par Spain khud unke haath se nikal rahi thi. Cordoba 1236 mein chala gaya. Granada do-teen sau saal aur tika, phir 1492 mein wo bhi gaya. Arab raaj Spain mein khatam.
+Par Spain khud unke haath se nikal rahi thi. Cordoba 1236 mein chala gaya. Granada dhai sau saal aur tika, phir 1492 mein wo bhi gaya. Arab raaj Spain mein khatam.
 
 Aur usi zamaane mein ek aur darwaza khula. 1453 mein Ottoman Turkon ne Constantinople liya — aur usi dhamake se Europe mein wo taaqatein aazad hui jinse Renaissance paida hua.
 
@@ -395,8 +397,6 @@ Dakshin mein tab Chola samrajya tha — ek bada samundari samrajya, jiske jahaaz
 Par ye samundari taaqat uttar Bharat ko zameen se aane wale hamle se nahi bacha saki.
 
 Mahmud ne Punjab aur Sindh apne raaj mein mila liye. Aur har hamle ke baad Ghazni laut jaata tha.
-
-Punjab uska ilaaka ban gaya, par uska dil wahan nahi tha. Wo Ghazni mein hi rehta tha.
 
 Kashmir wo jeet nahi paaya. Wo pahaadi desh usse ruk gaya. Pahaadon ne wahi kaam kiya, jo aage chalkar registan ne kiya.
 
@@ -456,7 +456,7 @@ Islam ne Bharat par hamla nahi kiya. Wo to sadiyon pehle aa chuka tha.
 
 Hamle the. Ek Turki hamla — Mahmud ka. Ek Afghan hamla. Aur ek Turco-Mongol, ya Mughal, hamla. In aakhri do ka asar sabse zyada tha.
 
-Dhyaan dijiye: pehla hamla ek Turk ka tha. Doosra ek Afghan ka. Aur teesra ek aise khandaan ka, jiski jarh Samarkand mein thi, par jo yahan aakar yahin ka ho gaya.
+Dhyaan dijiye: pehla hamla ek Turk ka tha. Doosra ek Afghan ka.
 
 Aur ye jo aaye, wo kaun the?
 
@@ -516,8 +516,8 @@ Tab tak ke liye, namaskar.
   - Semitic khandaan ki poori fehrist: Phoenicians, Cretans, Chaldeans, Hebrews (narration mein sirf Fenikiya, Ibrani aur "do-teen aur"). Israelit ka apne ko alag kar lena — narration mein ek line, uski tafseel nahi.
   - Arabi mein aaye Farsi shabdon ki misaalein (book misaal nahi deti). Byzantine asar ki poori list (sirf "Byzantium se kuch rang mile").
   - Crusades ka poora date-apparatus (1095 ka saal bhi nahi diya gaya — "gyahrahvin sadi ke aakhir") aur Trevelyan ka poora uddharan; Liddell Hart ka naam; Mongol campaigns ka poora uddharan; Peter the Hermit ka naam.
-  - Mongol shehron ki poori fehrist mein **Balkh** (narration mein Bokhara, Samarkand, Herat) aur Samarkand-Herat ke punarjaagran ki tafseel.
-  - Alexandria ke saare naamo ki poori fehrist (Plotinus aur baaki) — narration mein sirf Plato, Aristotle, Ptolemy, Euclid. Neo-Platonism ka naam bhi nahi liya gaya.
+  - Mongol shehron ki poori fehrist mein **Balkh** (narration mein Bokhara, Samarkand, Herat) aur Samarkand-Herat ke punarjaagran ki tafseel. Chengiz ka janm-saal (1155) bhi nahi diya gaya — narration sirf "Mongolia mein ek aadmi paida hota hai" kehti hai; 1219, 1227 aur 1258 bole gaye hain.
+  - Alexandria ke saare naamo ki poori fehrist (Plotinus aur baaki) — narration mein sirf Plato, Aristotle, Ptolemy, Euclid. Neo-Platonism ka naam bhi nahi liya gaya; uski baat B6 ke pehle vaakya mein bina naam ke aati hai ("ek soch, jo Plato ko naye sire se padh rahi thi").
   - Al Khwarismi ka poora naam aur kaam; Omar Khayyam ka poora varnan; Ibn Sina ka poora saar (unka Europe ka naam "Avicenna" bhi nahi); Abu Nasr Farabi ka poora varnan.
   - **Ibn Rushd ki doosri raay** — laailaaj logon ko khatam kar dena. Ye narration mein jaan-boojh kar nahi rakhi gayi (plan §3.3: T5); sirf unki auraton wali line aur unki saza ka zikr hai.
   - Toledo ke Said ka poora uddharan aur uska foot-note. Alberuni ka poora uddharan; Mathura ke baare mein Mahmud ka poora vaakya; Firdausi ki phoot ki wajah-wali tafseel.
@@ -542,10 +542,11 @@ Tab tak ke liye, namaskar.
   - B3 ka "ghudsawaar nadi par ruk jaata hai" wala drishya — book kehti hai ki 712 mein Arab Sindh pahunche aur wahin ruke; ek ghode par baithe aadmi ka nazaara humara hai.
   - B3 ki mandir-ghanti aur azaan ka joda (book sirf kehti hai ki maszidein bani aur koi virodh nahi hua).
   - B4 ka "diye ki roshni, mez par pothiyan, anuvaad karte log" wala drishya; "math-khaane khol diye gaye" wala dhang (book kehti hai ki manuscripts ke liye purane monasteries khoje gaye).
-  - B5 ki "munshi ki pothi" aur uske do khaane — hisaab ka roop humara hai (book kehti hai ki pehal Arabon ki thi aur Indians ne kam seekha).
+  - B5 ki "munshi ki pothi" aur uske do khaane, aur "ye mauka ek hi baar aaya" wali line — hisaab ka roop aur wo raay humari hai (book kehti hai ki pehal Arabon ki thi aur Indians ne kam seekha).
+  - B10 ka "kitaab ke panno par wo ek lafz par rukte hain" wala drishya (book sirf apni raay likhti hai, wo lafz padhte hue nahi dikhati).
   - B6 ka "aadmi khada hokar masjid ke bahar ye baat kehta hai" wala drishya (book kehti hai ki Baghdad mein aisi behes ki poori chhoot thi).
-  - B7 ka "dhool ke pahaad ki tarah" wala roop; "takte ghar mein sab bhaagte hain" wali line.
-  - B8 ki ghudsaari (cue) aur "uske bete-pote aage badhte hain" wala jodne wala vaakya.
+  - B7 ka "dhool ke pahaad ki tarah" wala roop, Aur "phir wahi hota hai jo har toote ghar mein hota hai" wali line (log bhaagne lagte hain).
+  - B7 ka "uske bete-pote aage badhte hain" wala jodne wala vaakya, aur B8 ki ghudsaari ka cue.
   - B9 ka "bina talwar ke ek shehar ne hara diya" wala roop (book sirf Mahmud ke shabd deti hai).
   - Outro ka 160 saal ka sannata aur "gaddi ki taraf badha" — book kehti hai ki Mahmud ke baad 160 saal tak koi hamla nahi hua, phir ek Afghan aaya; uske safar ka kram humara hai.
 - **Pichhla seam:** Ep 5.9 ("Shunya, aur phir dopahar") ka Outro Hindsa ke Baghdad par khatam hota hai; "Ab tak" usi baat ko uthata hai. Jo mile nahi, use yahan milaa dena chahiye.
@@ -607,7 +608,7 @@ Tab tak ke liye, namaskar.
 
 **U-budget.** Sheet ka planned U ~48; draft ka measured count **~50 U atoms** (cold open 3, B1 4, B2 5, B3 5, B4 8, B5 1, B6 5, B7 8, B8 4, B9 4, B10 3, Aaj/Outro 0) — cap 55 ke andar. Kisi bhi 160-shabd ke hisse mein 3 se zyada naya U nahi: sabse ghana hissa B4 ka doosra aadha (Al Khwarismi, Omar Khayyam, Ibn Sina, Farabi) aur B7 ka Mongol hissa (Chengiz, Hulagu, Bokhara, Samarkand, Herat, Granada, Constantinople) hai; dono jagah naam ek-ek karke anchor ke saath aate hain, aur B4 mein Plato-Aristotle-Ptolemy-Euclid ko F maana gaya hai. **Balkh** aur Alexandria ke baaki naam T5 mein bheje gaye, taaki B7 aur B4 apni chhat ke andar rahein.
 
-**Beat list (narration shabd; headings aur `[SFX]` lines chhod kar, script se gina gaya).** Cold open + ident 348 · Ab tak 80 · B1 393 · B2 448 · B3 542 · B4 435 · B5 367 · B6 446 · B7 494 · B8 402 · B9 499 · B10 394 · Aaj ke hisaab se 191 · Outro 107 · **Kul 5,146** (cap 5,200; sheet ka target 5,000). Sabse lamba beat B3 (542) hai — sheet ka 440 se upar, kyunki 712 se lekar bahudharm Bharat tak ka poora cluster ek hi baans mein aata hai; sabse chhota B5 (367) — hisaab wala beat chhota hi achha lagta hai. Baaki sab 390–499 ke andar. **NEEDS SPLIT: no.** Beat titles plan §2.1 ke B1–B10 se liye gaye hain; B3 ka naam ("Sindh, aur uske aage band raasta") wahi rakha gaya hai, chahe beat ka pehla aadha 712 ke ghudsawaar se shuru hota hai.
+**Beat list (narration shabd; headings aur `[SFX]` lines chhod kar, script se gina gaya).** Cold open + ident 348 · Ab tak 80 · B1 392 · B2 449 · B3 542 · B4 435 · B5 343 · B6 474 · B7 494 · B8 385 · B9 499 · B10 375 · Aaj ke hisaab se 191 · Outro 107 · **Kul 5,114** (cap 5,200; sheet ka target 5,000). Sabse lamba beat B3 (542) hai — sheet ka 440 se upar, kyunki 712 se lekar bahudharm Bharat tak ka poora cluster ek hi baans mein aata hai; sabse chhota B5 (343) — hisaab wala beat chhota hi achha lagta hai (agla beat B6 uska jawab deta hai). Baaki sab 375–499 ke andar. Do tareeke se ginti: dash-stripped 5,114 aur poore tokens (dash jod kar) 5,179 — dono cap ke andar. **NEEDS SPLIT: no.** Do chhoti cheezein sheet se hatt kar likhi gayi hain, dono jaan-boojh kar: (i) sheet ka payoff "sau saal ki kadwahat" kehta hai, narration "sau saath saal" — kyunki plan khud Mahmud ki maut (1030) se Ghuri (1192) tak ek sau saath saal ginta hai; (ii) jahan sheet kehti hai "Dilli ki gaddi khaali mili", wahan narration "Dilli ki gaddi ki taraf badha" kehti hai, kyunki source ka apna kram pehle ek haar aur phir agle saal ki jeet hai (dekhiye Sources ka aage-ka-seam note). Beat titles plan §2.1 ke B1–B10 se liye gaye hain; B3 ka naam ("Sindh, aur uske aage band raasta") wahi rakha gaya hai, chahe beat ka pehla aadha 712 ke ghudsawaar se shuru hota hai.
 
 **R14 coverage checklist (§2.6 format).**
 
@@ -649,6 +650,6 @@ Tab tak ke liye, namaskar.
 | S06a | | teen asli hamle (Turki, Afghan, Turco-Mongol/Mughal); aakhri do ahem; Indo-Afghan; Indo-Mughal | B10 | T2 | [x] |
 | S06-B/D/E, S06-C | Synthesis (baaki) | Idrisi, admixture, purdah, Kabir, Guru Nanak, Khusrau | — | — | **→ 6.2 aur 6.3-B1 (T6)** |
 
-Zero blank clusters is episode mein: S01 ek **GAP** hai (source mein uski body nahi hai), aur teen clusters **T6** hain — S02-A3 → 6.2-B4, S04-G → 6.2-B2, S05 (aur usme chhipa `S05-E1`) → 6.2 aur 6.5-B8, S06 ka baaki hissa → 6.2/6.3. T5 mein sirf naam, list tail, poore ankde aur kitaabon ke naam gaye (20 atoms se kam); koi C-type claim, koi A-type kissah, aur koi Q-with-jawab T5 mein nahi gaya.
+Zero blank clusters is episode mein: S01 ek **GAP** hai (source mein uski body nahi hai), aur **chaar** clusters **T6** hain — S02-A3 → 6.2-B4, S04-G → 6.2-B2, S05 (aur usme chhipa `S05-E1`) → 6.2 aur 6.5-B8, S06 ka baaki hissa → 6.2/6.3. T5 mein sirf naam, list tail, poore ankde aur kitaabon ke naam gaye (20 atoms se kam); koi C-type claim, koi A-type kissah, aur koi Q-with-jawab T5 mein nahi gaya.
 
 **"Spot the lecture" (R17) self-check.** (1) Lagataar sentences jo naam/ankde se shuru hon — B4 aur B7 mein the; dono jagah beech mein bhasha badli (B4 mein "Aur Manak?" phir "Isi mahaul mein…", B7 mein "Phir wahi hota hai jo har toote ghar mein hota hai"). (2) 3 se zyada U items wali list — B7 ke Mongol shehar teen par roke gaye (Balkh T5), aur B4 ke chaar naam alag-alag vaakya mein, har ek apne kaam ke saath. (3) "Nehru kehte hain" ka istemaal har beat mein ek hi baar, aur hamesha unke saath kriya hai (ruk jaate hain, dohraate hain, ginwate hain, saaf likhte hain, ek naap rakhte hain). (4) Dates lagataar nahi: ek beat mein ek absolute saal (B8 ka 712 aur "saal hazaar ke aas-paas"), B7 mein teen saal par unke apne kaam hain (1219, 1227, 1258, 1492, 1453) — isliye unhe ek hi list mein nahi rakha gaya, har saal ek ghatna se bandha hai. (5) Quote ke saath kitaab ka naam — sirf "Shahnamah" (wo naam hi point hai), baaki jagah "ek angrez itihaaskar", "ek angrez yuddh-vidvaan", "Toledo ke ek lekhak". (6) Har beat carrying question ko aage badhata hai: kahan se aaye (B1-B2) → kaise aaye (B3) → kya liya-diya (B4-B6) → kaun aaya baad mein (B7-B8) → kis tareeke se (B9) → naam ki galti aur payoff (B10). (7) "Kyun/nateeja/isliye" har beat mein maujood hai (B1 "sawal ye hai", B2 "nateeja?", B3 "kyun?", B5 "ye kyun dukh ki baat thi?", B8 "par Nehru ek naap bhi rakhte hain", B9 "to is hamle ka nateeja kya hua?"). (8) Beat ka ant tathya par nahi, sawal ya turn par — B1, B3, B4, B5, B6, B7 sab ek hook par khatam hote hain; B9 ka ant ek maut par hai kyunki agla beat usi maut se shuru hota hai (B10 "Mahmud mar gaya" Outro mein laut kar aata hai).
